@@ -12,7 +12,7 @@ Mantenido por [**Workopia**](https://workopia.io/browsejobs/es?utm_source=github
 
 - 🎓 **[Programas para recién graduados y trainee](#programas-para-recien-graduados-y-trainee)** (80) — Prácticas 80 · Recién graduados 0 · Junior 0
 - 💻 **[Tech](#tech)** (64) — Prácticas 1 · Recién graduados 0 · Junior 63
-- 📊 **[Data, AI & ML](#data-ai-ml)** (46) — Prácticas 10 · Recién graduados 0 · Junior 36
+- 📊 **[Datos, IA y ML](#datos-ia-y-ml)** (46) — Prácticas 10 · Recién graduados 0 · Junior 36
 - 💷 **[Finanzas y contabilidad](#finanzas-y-contabilidad)** (54) — Prácticas 4 · Recién graduados 9 · Junior 41
 - 🏥 **[Sanidad](#sanidad)** (7) — Junior 7
 - 🔧 **[Oficios y aprendizajes](#oficios-y-aprendizajes)** (39) — Junior 39
@@ -46,7 +46,7 @@ Mantenido por [**Workopia**](https://workopia.io/browsejobs/es?utm_source=github
 
 > **¿Buscas algo más?**
 > 🔒 Puestos cerrados/antiguos → [Anuncios inactivos](./README-Inactive.md)
-> 🌍 Otros países → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [Singapore](https://github.com/workopia/Singapore-Graduate-Internship-Jobs) · [France](https://github.com/workopia/France-Graduate-Apprenticeship-Jobs) · [Germany](https://github.com/workopia/Germany-Graduate-Jobs) · [Canada](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) · [Netherlands](https://github.com/workopia/Netherlands-Graduate-Jobs)
+> 🌍 Otros países → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [Singapore](https://github.com/workopia/Singapore-Graduate-Internship-Jobs) · [France](https://github.com/workopia/France-Graduate-Apprenticeship-Jobs) · [Germany](https://github.com/workopia/Germany-Graduate-Jobs) · [Canada](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) · [Netherlands](https://github.com/workopia/Netherlands-Graduate-Jobs) · [Hong Kong](https://github.com/workopia/Hong-Kong-Graduate-Internship-Jobs)
 > 🔎 La lista completa activa → [todos los empleos en España en Workopia](https://workopia.io/browsejobs/es?utm_source=github&utm_medium=repo&utm_campaign=spain-graduate-internship-jobs)
 
 ## Preguntas frecuentes
@@ -248,7 +248,7 @@ Configura una alerta de empleo en Workopia por puesto + ciudad y te enviaremos u
 <sub>[⬆️ Volver arriba](#empleo-para-recien-graduados-practicas-y-becas-espana-2026)</sub>
 
 
-## 📊 Data, AI & ML
+## 📊 Datos, IA y ML
 
 > 💡 ¿No encuentras un puesto para recién graduados aquí? Consulta **Junior / Sin experiencia** abajo — también cuentan puestos similares (un Ingeniero de Software puede optar a Backend / Full Stack / Ingeniero de IA).
 
@@ -314,7 +314,7 @@ Configura una alerta de empleo en Workopia por puesto + ciudad y te enviaremos u
 </tbody>
 </table>
 
-🔎 **[Explora y filtra todos los empleos de Data, AI & ML activos en España en Workopia →](https://workopia.io/browsejobs/positions/es/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=spain-graduate-internship-jobs)**
+🔎 **[Explora y filtra todos los empleos de Datos, IA y ML activos en España en Workopia →](https://workopia.io/browsejobs/positions/es/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=spain-graduate-internship-jobs)**
 
 <sub>[⬆️ Volver arriba](#empleo-para-recien-graduados-practicas-y-becas-espana-2026)</sub>
 
