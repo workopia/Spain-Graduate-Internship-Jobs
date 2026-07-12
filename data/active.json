@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-11",
- "count": 407,
+ "asOf": "2026-07-12",
+ "count": 438,
  "jobs": {
   "23672": {
    "id": "23672",
@@ -38,6 +38,150 @@
    "role": "Sales Advisor Part Time",
    "location": "Madrid"
   },
+  "bf91b02608445870e54c936bb93c3557": {
+   "id": "bf91b02608445870e54c936bb93c3557",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Administración Economato Madrid",
+   "location": "Madrid"
+  },
+  "aee9bb3c71742375d1542514e8fe6319": {
+   "id": "aee9bb3c71742375d1542514e8fe6319",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Comercial Win Way - Madrid",
+   "location": "Madrid"
+  },
+  "f43de0efd38fbe595c8daece24a70d40": {
+   "id": "f43de0efd38fbe595c8daece24a70d40",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Recepción Eurostars Hotels (barcelona)",
+   "location": "Barcelona"
+  },
+  "00b75c3513c105f485caab3dce9056aa": {
+   "id": "00b75c3513c105f485caab3dce9056aa",
+   "company": "Solunion",
+   "role": "Prácticas Servicio Helpdesk Ti - Solunion Seguros",
+   "location": "Madrid"
+  },
+  "753ca9d4f2a924493b3c83ed48527d0c": {
+   "id": "753ca9d4f2a924493b3c83ed48527d0c",
+   "company": "HERBERT SMITH FREEHILLS",
+   "role": "Becario/a De Documentación Y Gestión Del Conocimiento (krl Intern)",
+   "location": "Madrid"
+  },
+  "961a681a6cc73932e94b3e84fd7fb4e9": {
+   "id": "961a681a6cc73932e94b3e84fd7fb4e9",
+   "company": "Mediasal",
+   "role": "Communications Trainee",
+   "location": "Madrid"
+  },
+  "bd873d31a4cc5ac7a63746006bde56b5": {
+   "id": "bd873d31a4cc5ac7a63746006bde56b5",
+   "company": "aeroshiftedge.pics",
+   "role": "#discover I 2026-2027 / Internship In Procurement",
+   "location": "Spain"
+  },
+  "74e774f64e5b2dd935c48f6e411de2c3": {
+   "id": "74e774f64e5b2dd935c48f6e411de2c3",
+   "company": "TD SYNNEX Accessboard",
+   "role": "Backoffice Intern (hpe)",
+   "location": "Barcelona"
+  },
+  "ac327a96e65c2b1bcc985953c42c25b3": {
+   "id": "ac327a96e65c2b1bcc985953c42c25b3",
+   "company": "SAP SE",
+   "role": "Sap Ixp Intern - Emea Partner Ecosystem Growth",
+   "location": "Barcelona"
+  },
+  "83b25904813ff803637f7284716f5122": {
+   "id": "83b25904813ff803637f7284716f5122",
+   "company": "SAP SE",
+   "role": "Ixp Intern- Internal Communications Pre-sales Team",
+   "location": "Barcelona"
+  },
+  "cdc33c36341f024c950c1131d8b78037": {
+   "id": "cdc33c36341f024c950c1131d8b78037",
+   "company": "Coty",
+   "role": "Commercial Internship Program Iberia",
+   "location": "Barcelona"
+  },
+  "55967fdac3d64221a8fcbb5321c537fd": {
+   "id": "55967fdac3d64221a8fcbb5321c537fd",
+   "company": "Coty",
+   "role": "Demand Intern",
+   "location": "Barcelona"
+  },
+  "3bd7820d06c471ab0302ee4c0b72bf2a": {
+   "id": "3bd7820d06c471ab0302ee4c0b72bf2a",
+   "company": "SIX",
+   "role": "Equity Commercial Department Internship",
+   "location": "Madrid"
+  },
+  "7725bc173ef68f3e69b86b5f382749f9": {
+   "id": "7725bc173ef68f3e69b86b5f382749f9",
+   "company": "SIX",
+   "role": "Guided Tours & Bme Events Internship (morning Schedule)",
+   "location": "Madrid"
+  },
+  "f0907ace04409cbce31fd844d92f23ef": {
+   "id": "f0907ace04409cbce31fd844d92f23ef",
+   "company": "Otisjob",
+   "role": "Becario(h/m) Administrativo Noster Mataró",
+   "location": "Barcelona"
+  },
+  "9fff814ced8bcb41f8bf459cbd8bf1db": {
+   "id": "9fff814ced8bcb41f8bf459cbd8bf1db",
+   "company": "Melia",
+   "role": "Prácticas F&b Luxury Brands",
+   "location": "Islas Baleares"
+  },
+  "24119dc8094a64eec44931596f30bfef": {
+   "id": "24119dc8094a64eec44931596f30bfef",
+   "company": "Melia",
+   "role": "Prácticas F&b",
+   "location": "Islas Baleares"
+  },
+  "d8d327df3dbd439f6efdc2dca7857529": {
+   "id": "d8d327df3dbd439f6efdc2dca7857529",
+   "company": "Melia",
+   "role": "Trainee Departamento Guest Experience - Melia Barajas",
+   "location": "Madrid"
+  },
+  "fe79d3c8d563cc2591f2c49767734130": {
+   "id": "fe79d3c8d563cc2591f2c49767734130",
+   "company": "Melia",
+   "role": "Prácticas Revenue",
+   "location": "Islas Baleares"
+  },
+  "f66db1a1eb8d3faa1cc8c7da4b187b61": {
+   "id": "f66db1a1eb8d3faa1cc8c7da4b187b61",
+   "company": "Melia",
+   "role": "Prácticas Guest Experience - Meliá Palma Marina",
+   "location": "Islas Baleares"
+  },
+  "b684764f8cacec9739ec0344a8645f54": {
+   "id": "b684764f8cacec9739ec0344a8645f54",
+   "company": "Telefonica",
+   "role": "Telefónica_foro_empleo_upm_2025",
+   "location": "Spain"
+  },
+  "8c302ad8088f12263ee0dd3bde81d913": {
+   "id": "8c302ad8088f12263ee0dd3bde81d913",
+   "company": "Telefonica",
+   "role": "Practicas Curriculares/extracurriculares",
+   "location": "Spain"
+  },
+  "1b7940f9aeabf8d4005ca037b0f22247": {
+   "id": "1b7940f9aeabf8d4005ca037b0f22247",
+   "company": "Telefonica",
+   "role": "Beca Rrhh Generalista",
+   "location": "Madrid"
+  },
+  "7fb0843cdf437d75fe9fcb5160f90e71": {
+   "id": "7fb0843cdf437d75fe9fcb5160f90e71",
+   "company": "Telefonica",
+   "role": "Beca Talentum - Circular&value Added Lab",
+   "location": "Madrid"
+  },
   "24372ffab4e3b4deac231d00a55dccbf": {
    "id": "24372ffab4e3b4deac231d00a55dccbf",
    "company": "PTC",
@@ -50,10 +194,28 @@
    "role": "#discover Ii 2026-2027/ Procurement Internship",
    "location": "Spain"
   },
+  "2cbf6042c9c1f30d79e63ecde9286f94": {
+   "id": "2cbf6042c9c1f30d79e63ecde9286f94",
+   "company": "aeroshiftedge.pics",
+   "role": "#discover Ii 2026-2027/ Procurement Internship",
+   "location": "Spain"
+  },
+  "e5b933bdf12eaed92388dbeee635bbe8": {
+   "id": "e5b933bdf12eaed92388dbeee635bbe8",
+   "company": "Satair (an Airbus Services Company)",
+   "role": "#discover Ii 2026-2027 Internship Fdt Stress Team",
+   "location": "Spain"
+  },
   "214040523288b71e16329856f5b96e77": {
    "id": "214040523288b71e16329856f5b96e77",
    "company": "Marsh",
    "role": "Beca Grandes Siniestros",
+   "location": "Madrid"
+  },
+  "354f8dcb49539605b407211f1c3c7afb": {
+   "id": "354f8dcb49539605b407211f1c3c7afb",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Prácticas En Departamento De Compras Mecanizado",
    "location": "Madrid"
   },
   "e6f62dfcad7b67a439f182016ed1bbf6": {
@@ -185,6 +347,12 @@
   "70cd552d8013aa2cf4ed8212b7eea7af": {
    "id": "70cd552d8013aa2cf4ed8212b7eea7af",
    "company": "Marriott International",
+   "role": "Finance Trainee - Renaissance Barcelona",
+   "location": "Barcelona"
+  },
+  "919b0b4a60430548a80280af4aa0908c": {
+   "id": "919b0b4a60430548a80280af4aa0908c",
+   "company": "W Brisbane",
    "role": "Finance Trainee - Renaissance Barcelona",
    "location": "Barcelona"
   },
@@ -350,179 +518,77 @@
    "role": "#discover Ii 2026-2027 / Junior Buyer Building Construction & Facility Management Internship",
    "location": "Spain"
   },
-  "128f086ab6c03da6f4110fdbfc120305": {
-   "id": "128f086ab6c03da6f4110fdbfc120305",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover I 2026-2027 / Internship In Procurement",
-   "location": "Spain"
-  },
-  "66ddb4e92d82b331d8bccb619c478fbd": {
-   "id": "66ddb4e92d82b331d8bccb619c478fbd",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "Evergreen Hackaton Uclm",
-   "location": "Spain"
-  },
-  "3a46c5415490c40a6b6814ed6579c82d": {
-   "id": "3a46c5415490c40a6b6814ed6579c82d",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027/ Mro & Retrofit A400m Certification And Safety Management",
-   "location": "Madrid"
-  },
-  "327907f7f96c13bbefb5c479e40284b0": {
-   "id": "327907f7f96c13bbefb5c479e40284b0",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 / Ethics & Compliance Internship",
-   "location": "Madrid"
-  },
-  "0f711be04bfb2348c86b987d3084f0ac": {
-   "id": "0f711be04bfb2348c86b987d3084f0ac",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026 2027 - Fine Tuning Of Fuel Functional Tests In Sta75 (fal C295) Internship",
-   "location": "Spain"
-  },
-  "94cab1ca7fc7b157ac03825d255df473": {
-   "id": "94cab1ca7fc7b157ac03825d255df473",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 / In-service Engineering Business Management Internship",
-   "location": "Spain"
-  },
-  "8c55e6afb4b142f4b54aec6222de59af": {
-   "id": "8c55e6afb4b142f4b54aec6222de59af",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "Discover Ii 2026-2027 / Flight & Integration Test Center – Analysis Internship",
-   "location": "Spain"
-  },
-  "a1dbedcbac51c5de8f78a5fed3107638": {
-   "id": "a1dbedcbac51c5de8f78a5fed3107638",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 - Air Power Portfolio Digitalization & Analytics Internship",
-   "location": "Spain"
-  },
-  "213db4df0dfdcc80b3587c32310f47b0": {
-   "id": "213db4df0dfdcc80b3587c32310f47b0",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 Supply Chain Composite Materials Internship",
-   "location": "Spain"
-  },
-  "9f3d1157a7f08af5cf5a9f8d7feef05e": {
-   "id": "9f3d1157a7f08af5cf5a9f8d7feef05e",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 Internship \"machine Learning For Stress Analyses\"",
-   "location": "Spain"
-  },
-  "1ce3de9fc5a9a84bcd9202c30e2f5f89": {
-   "id": "1ce3de9fc5a9a84bcd9202c30e2f5f89",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026/2027 - Financial Systems Internship",
-   "location": "Spain"
-  },
-  "2e2101f8414930d8c0485831921b586e": {
-   "id": "2e2101f8414930d8c0485831921b586e",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 Internship Customs",
-   "location": "Spain"
-  },
-  "d4db53cc3463b1003a98e6f7d973a969": {
-   "id": "d4db53cc3463b1003a98e6f7d973a969",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "Discover Ii 2026-2027 / Integration Of Tactical Datalinks In Airborne Platforms",
-   "location": "Spain"
-  },
-  "6f0a2ecb0f4ba3746f476016200a1f4b": {
-   "id": "6f0a2ecb0f4ba3746f476016200a1f4b",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 / Operational Environment Internship",
-   "location": "Spain"
-  },
-  "a95f8180fa46cb392151e2ebcf4c468f": {
-   "id": "a95f8180fa46cb392151e2ebcf4c468f",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026- 2027 Mission Readiness Internship",
-   "location": "Madrid"
-  },
-  "2c1544e991a44126518ea5e80933bd8f": {
-   "id": "2c1544e991a44126518ea5e80933bd8f",
-   "company": "Airbus Helicopters España, SA",
-   "role": "#beca Ahe - Digital Innovation & Transformation",
-   "location": "Albacete"
-  },
-  "466f18d0b377ea00780e12c31eee9486": {
-   "id": "466f18d0b377ea00780e12c31eee9486",
-   "company": "Airbus Defence and Space SAU",
-   "role": "#discover Ii 2026-2027 Space Management Intern",
-   "location": "Madrid"
-  },
-  "81d6a0beb4ee3774d2d7fe0bfc6f5db2": {
-   "id": "81d6a0beb4ee3774d2d7fe0bfc6f5db2",
-   "company": "Airbus Defence and Space SAU",
-   "role": "Discover Ii 2026-2027 / Communications Airbus Spain Internship",
-   "location": "Madrid"
-  },
-  "473715287ce2baecde1fd902cc863cce": {
-   "id": "473715287ce2baecde1fd902cc863cce",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 Planning & Scheduling Illescas Internship",
-   "location": "Madrid"
-  },
-  "c7879f0388ee7efb28ab56cec233d1e6": {
-   "id": "c7879f0388ee7efb28ab56cec233d1e6",
-   "company": "Airbus Helicopters España, SA",
-   "role": "#beca Ahe - It Digital Workplace Operations",
-   "location": "Albacete"
-  },
-  "bc12a7c437a572e1c74df08d0f787f3d": {
-   "id": "bc12a7c437a572e1c74df08d0f787f3d",
-   "company": "Airbus Helicopters España, SA",
-   "role": "#beca Ahe - Plant Coordination Support",
-   "location": "Albacete"
-  },
-  "c32b68049ab082064b400c50c1e10247": {
-   "id": "c32b68049ab082064b400c50c1e10247",
-   "company": "Airbus Helicopters España, SA",
-   "role": "#beca Ahe - Environment, Health And Safety (ehs)",
-   "location": "Albacete"
-  },
-  "755365bad0d9e0213a856579e483641f": {
-   "id": "755365bad0d9e0213a856579e483641f",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "Practicas Recursos Humanos Tres Cantos (madrid)",
-   "location": "Salamanca"
-  },
-  "e37246e4ed48aa30476fbe27ebe74f1c": {
-   "id": "e37246e4ed48aa30476fbe27ebe74f1c",
-   "company": "Airbus Helicopters España, SA",
-   "role": "#beca - Ahe Trainee For Security Department",
-   "location": "Albacete"
-  },
-  "ed5689f1fc6d1a5c0ac442c7b52debfd": {
-   "id": "ed5689f1fc6d1a5c0ac442c7b52debfd",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "Beca - Soporte A La Planificación Y Automatización De Datos (vba)",
-   "location": "Salamanca"
-  },
-  "f9726ddccdfcecb9bb263289263a56a8": {
-   "id": "f9726ddccdfcecb9bb263289263a56a8",
-   "company": "MARSH MCLENNAN",
-   "role": "Beca Consultoria Seguros",
-   "location": "Barcelona"
-  },
-  "1742d80077c1b284f0c7d87931f03dca": {
-   "id": "1742d80077c1b284f0c7d87931f03dca",
-   "company": "MARSH MCLENNAN",
-   "role": "Beca Client Corporate",
-   "location": "Barcelona"
-  },
-  "1d5460314dbc3657a69a6015c5197b82": {
-   "id": "1d5460314dbc3657a69a6015c5197b82",
-   "company": "MARSH MCLENNAN",
-   "role": "Beca Siniestros Junio/julio",
-   "location": "Barcelona"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
    "location": "Madrid"
+  },
+  "4cd9bd756b1bf5468fc1053ab21b2f28": {
+   "id": "4cd9bd756b1bf5468fc1053ab21b2f28",
+   "company": "E80 Group",
+   "role": "Lgv Cs Programmer - Barcelona",
+   "location": "Barcelona"
+  },
+  "500c9ea5754c393c00b2d702aa9e6f69": {
+   "id": "500c9ea5754c393c00b2d702aa9e6f69",
+   "company": "Indra group",
+   "role": "Ingeniero/a Software Junior C/c++ - Sector Defensa",
+   "location": "Madrid"
+  },
+  "b18846ab379e1625ad0af00af23530e8": {
+   "id": "b18846ab379e1625ad0af00af23530e8",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
+   "location": "Madrid"
+  },
+  "4a80778b59f58f87717eb4003f611963": {
+   "id": "4a80778b59f58f87717eb4003f611963",
+   "company": "Indra group",
+   "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
+   "location": "Madrid"
+  },
+  "2ab2a2283109b991a7006685d1eec70c": {
+   "id": "2ab2a2283109b991a7006685d1eec70c",
+   "company": "Minsait",
+   "role": "Ingeniero/a Software Junior C/c++ - Sector Defensa",
+   "location": "Madrid"
+  },
+  "3a2b3a268a46fea45fd37eae7a31cb7c": {
+   "id": "3a2b3a268a46fea45fd37eae7a31cb7c",
+   "company": "Indra",
+   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
+   "location": "Madrid"
+  },
+  "7340e8c90a9c19da8d39d4336faf3c0c": {
+   "id": "7340e8c90a9c19da8d39d4336faf3c0c",
+   "company": "Minsait",
+   "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
+   "location": "Madrid"
+  },
+  "24a8727e5740d18cf8d754736b1cd1a5": {
+   "id": "24a8727e5740d18cf8d754736b1cd1a5",
+   "company": "Telefonica",
+   "role": "Geprom_software Engineer",
+   "location": "Es"
+  },
+  "8f04672576195bb15e77cf092239f126": {
+   "id": "8f04672576195bb15e77cf092239f126",
+   "company": "Telefonica",
+   "role": "Beca Desarrollo Software Ai Gigafactory",
+   "location": "Madrid"
+  },
+  "b2e05fe3c7d41e551c47c5f3a5927d78": {
+   "id": "b2e05fe3c7d41e551c47c5f3a5927d78",
+   "company": "Telefonica",
+   "role": "Responsable De Seguridad De La Información - Talent Pool",
+   "location": "Madrid"
+  },
+  "ddc686593bf7491e92fd6c30458a71cd": {
+   "id": "ddc686593bf7491e92fd6c30458a71cd",
+   "company": "Jobgether",
+   "role": "Software Engineer P2p",
+   "location": "Spain"
   },
   "3060fd0c5c376f4c27347170ffea482f": {
    "id": "3060fd0c5c376f4c27347170ffea482f",
@@ -541,6 +607,18 @@
    "company": "Concentrix",
    "role": "Remote Support Engineer - (italian Speaking) - Hybrid - High Tech - Hd01",
    "location": "Barcelona"
+  },
+  "5020dd7dee452c01a34dd665a3784b55": {
+   "id": "5020dd7dee452c01a34dd665a3784b55",
+   "company": "Jobgether",
+   "role": "Software Engineer",
+   "location": "Spain"
+  },
+  "95732f1c8b20759a5749d57beb8a2463": {
+   "id": "95732f1c8b20759a5749d57beb8a2463",
+   "company": "Jobgether",
+   "role": "Software Engineer – Intersystems Caché & Trakcare His",
+   "location": "Spain"
   },
   "d9d4cb236c2e46657ad6882d2289402a": {
    "id": "d9d4cb236c2e46657ad6882d2289402a",
@@ -956,6 +1034,30 @@
    "role": "#discover Ii 2026/2027 Map Systems Internship",
    "location": "Spain"
   },
+  "59ab37b61012b0e55ba120fe0d9ce085": {
+   "id": "59ab37b61012b0e55ba120fe0d9ce085",
+   "company": "Indra group",
+   "role": "Data Scientist/data Engineer Junior",
+   "location": "Es"
+  },
+  "afc8ea3b24ae9e0a9fbbe8f0d2180114": {
+   "id": "afc8ea3b24ae9e0a9fbbe8f0d2180114",
+   "company": "Indra group",
+   "role": "Data Analyst (sql & Sas) - Orientado A Negocio",
+   "location": "Barcelona"
+  },
+  "8e36b29835e6807aee84527044f85155": {
+   "id": "8e36b29835e6807aee84527044f85155",
+   "company": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
+   "role": "Data Scientist - Optimization Focus (beca)",
+   "location": "Madrid"
+  },
+  "fd85a851c4ff61ac2c4397c846a81975": {
+   "id": "fd85a851c4ff61ac2c4397c846a81975",
+   "company": "Minsait",
+   "role": "Data Analyst (sql & Sas) - Orientado A Negocio",
+   "location": "Barcelona"
+  },
   "06f5985d04d185cd7fd5c109de2e413f": {
    "id": "06f5985d04d185cd7fd5c109de2e413f",
    "company": "Jti Macdonald Corp",
@@ -1142,12 +1244,6 @@
    "role": "Ai Quality &amp; Context Engineer (gobernanza De Código)",
    "location": "Barcelona"
   },
-  "e366b0aa9641e9c095682f61556cd25b": {
-   "id": "e366b0aa9641e9c095682f61556cd25b",
-   "company": "Indra Group",
-   "role": "Data Scientist/data Engineer Junior",
-   "location": "Spain"
-  },
   "fee26f54c9eace50f62aa1bc88fa6879": {
    "id": "fee26f54c9eace50f62aa1bc88fa6879",
    "company": "MAPFRE",
@@ -1238,6 +1334,24 @@
    "role": "Graduate Program - Pricing & Business Improvement Analyst",
    "location": "Barcelona"
   },
+  "f7c6bfa9b3508c8b15af087b18d67f28": {
+   "id": "f7c6bfa9b3508c8b15af087b18d67f28",
+   "company": "Swiss Re",
+   "role": "Business Analyst - Applications Identity And Access Management (hybrid Set Up)",
+   "location": "Madrid"
+  },
+  "8f47403f6b0999ced23bfa1dc8c80310": {
+   "id": "8f47403f6b0999ced23bfa1dc8c80310",
+   "company": "Sanofi UK",
+   "role": "Workday Business Analyst (absence, Time & Attendance)",
+   "location": "Barcelona"
+  },
+  "8aa1894bc7525684d11b45d10656a7fa": {
+   "id": "8aa1894bc7525684d11b45d10656a7fa",
+   "company": "Otisjob",
+   "role": "Cost & Financial Analyst (h&m)",
+   "location": "Madrid"
+  },
   "a4f96a8a928c54772f6c20421f7e4074": {
    "id": "a4f96a8a928c54772f6c20421f7e4074",
    "company": "ACCIONA Energia",
@@ -1302,12 +1416,6 @@
    "id": "f7be86187789c995ee3acf9d3f229bff",
    "company": "EY",
    "role": "Consultor/a Experienced Contabilidad Y Fiscalidad - Madrid",
-   "location": "Madrid"
-  },
-  "e71f540410dd76ed3ec460933a63ceaf": {
-   "id": "e71f540410dd76ed3ec460933a63ceaf",
-   "company": "Swiss Re",
-   "role": "Business Analyst - Applications Identity And Access Management (hybrid Set Up)",
    "location": "Madrid"
   },
   "0c3912521331d6b24bb296ac4238b19c": {
@@ -1472,18 +1580,6 @@
    "role": "Técnico/a Especialista En Contabilidad",
    "location": "Madrid"
   },
-  "79a1c5d217b708cf17f01c8e9c79bf70": {
-   "id": "79a1c5d217b708cf17f01c8e9c79bf70",
-   "company": "Keyfactor",
-   "role": "Accountant",
-   "location": "Barcelona"
-  },
-  "ddb1c7310636581b43aa5e09d27e8dfe": {
-   "id": "ddb1c7310636581b43aa5e09d27e8dfe",
-   "company": "Keyfactorinc",
-   "role": "Accountant",
-   "location": "Barcelona"
-  },
   "e9827e9267805b8669922159e05f48e8": {
    "id": "e9827e9267805b8669922159e05f48e8",
    "company": "Ivivamedical",
@@ -1525,6 +1621,78 @@
    "company": "IQVIA",
    "role": "Cra 1",
    "location": "Spain"
+  },
+  "a1cca2875aeb1ee001c05d41aef7e49f": {
+   "id": "a1cca2875aeb1ee001c05d41aef7e49f",
+   "company": "Eurostars Hotel Company",
+   "role": "Técnico/a De Mantenimiento - Zaragoza",
+   "location": "Zaragoza"
+  },
+  "99332f7d6b53a0d1da2c17a6e1e9c557": {
+   "id": "99332f7d6b53a0d1da2c17a6e1e9c557",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
+   "location": "Barcelona"
+  },
+  "2239dbb3ed9df0b75111f91dc3a4c30b": {
+   "id": "2239dbb3ed9df0b75111f91dc3a4c30b",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Tecnico/a Mantenimiento Ferroviario Barajas",
+   "location": "Madrid"
+  },
+  "0b336709f566d368515391878016f5d7": {
+   "id": "0b336709f566d368515391878016f5d7",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Tecnico/a De Mantenimiento Ferroviario Barajas - Temporal",
+   "location": "Madrid"
+  },
+  "2baf436b667f5f2e640e75f8191727fb": {
+   "id": "2baf436b667f5f2e640e75f8191727fb",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario De Mantenimiento Pinto",
+   "location": "Madrid"
+  },
+  "e245320cc0fe9cbd98ad9887de8fd305": {
+   "id": "e245320cc0fe9cbd98ad9887de8fd305",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Técnico/a De Mantenimiento (electricista)",
+   "location": "Barcelona"
+  },
+  "25f0513cc998cb0699fe286ef18d7fc5": {
+   "id": "25f0513cc998cb0699fe286ef18d7fc5",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario/a De Mantenimiento Ferroviario Fuencarral",
+   "location": "Madrid"
+  },
+  "b86003b44389c6b75793a13d00cde938": {
+   "id": "b86003b44389c6b75793a13d00cde938",
+   "company": "Melia",
+   "role": "Técnico/a De Mantenimiento - Meliá Barcelona Sky",
+   "location": "Barcelona"
+  },
+  "558a60e2fc34c7aa1845bd51f3fce032": {
+   "id": "558a60e2fc34c7aa1845bd51f3fce032",
+   "company": "Melia",
+   "role": "Tecnico/a De Mantenimiento - Innside By Meliá Barcelona Apolo",
+   "location": "Barcelona"
+  },
+  "740bc773122894f7494ccfaace659c88": {
+   "id": "740bc773122894f7494ccfaace659c88",
+   "company": "Melia",
+   "role": "Tecnico/a De Mantenimiento - Me Barcelona",
+   "location": "Barcelona"
+  },
+  "9914c52e1a6b40176ebd91b6b6112c3c": {
+   "id": "9914c52e1a6b40176ebd91b6b6112c3c",
+   "company": "Melia",
+   "role": "Tecnico/a De Mantenimiento - Meliá Sitges",
+   "location": "Barcelona"
+  },
+  "f71fe7ebcdfe4cc62d78cdb3af7546e3": {
+   "id": "f71fe7ebcdfe4cc62d78cdb3af7546e3",
+   "company": "ConfiARTE",
+   "role": "Oficial De Mantenimiento Instrumentista – Planta Industrial",
+   "location": "Salamanca"
   },
   "1624cd658f678bd8520eda204a141c2f": {
    "id": "1624cd658f678bd8520eda204a141c2f",
@@ -1760,6 +1928,30 @@
    "role": "O&m Technician (all Genders) - Zaragoza",
    "location": "Zaragoza"
   },
+  "0db345f41a067aac5cc7c22313d13e52": {
+   "id": "0db345f41a067aac5cc7c22313d13e52",
+   "company": "OTB S.p.A",
+   "role": "Client Advisor - Madrid Fuencarral",
+   "location": "Madrid"
+  },
+  "7a7cb7468a7205ff5962cbc148013bda": {
+   "id": "7a7cb7468a7205ff5962cbc148013bda",
+   "company": "OTB S.p.A",
+   "role": "Client Advisor Madrid Boutique",
+   "location": "Madrid"
+  },
+  "e696c9b2cec316f5c2bc7c727f01b9a9": {
+   "id": "e696c9b2cec316f5c2bc7c727f01b9a9",
+   "company": "VFC Corporation",
+   "role": "Vendedor/a 30h - Pl. Cat (barcelona) - Vans",
+   "location": "Barcelona"
+  },
+  "56e84c28ec1775c79389b403ef36b6dd": {
+   "id": "56e84c28ec1775c79389b403ef36b6dd",
+   "company": "Sustainabilityleads",
+   "role": "Vendedor/a 16h Eastpak - Barcelona",
+   "location": "Barcelona"
+  },
   "164baa447335db112e90ae2645a2a582": {
    "id": "164baa447335db112e90ae2645a2a582",
    "company": "Levis Media",
@@ -1793,6 +1985,12 @@
   "bfb2c3daaecc24fc231a249bc796a9d4": {
    "id": "bfb2c3daaecc24fc231a249bc796a9d4",
    "company": "VF Corporation (Vans)",
+   "role": "Vendedor/a 40h Av. Diagonal - Eastpak",
+   "location": "Barcelona"
+  },
+  "77e2d047158faa14db34bc4278e4e182": {
+   "id": "77e2d047158faa14db34bc4278e4e182",
+   "company": "Sustainabilityleads",
    "role": "Vendedor/a 40h Av. Diagonal - Eastpak",
    "location": "Barcelona"
   },
@@ -2180,12 +2378,6 @@
    "role": "Warehouse Operator (5.5 Days/office Hours)",
    "location": "Barcelona"
   },
-  "56e84c28ec1775c79389b403ef36b6dd": {
-   "id": "56e84c28ec1775c79389b403ef36b6dd",
-   "company": "Sustainabilityleads",
-   "role": "Vendedor/a 16h Eastpak - Barcelona",
-   "location": "Barcelona"
-  },
   "8d92393b6e5a379069d6fe72ed273459": {
    "id": "8d92393b6e5a379069d6fe72ed273459",
    "company": "BOARDRIDERS",
@@ -2198,29 +2390,29 @@
    "role": "Field Sales Associate",
    "location": "Salamanca"
   },
-  "930700d6f85077385bab3ead4437cfaf": {
-   "id": "930700d6f85077385bab3ead4437cfaf",
-   "company": "VFC Corporation",
-   "role": "Vendedores/as Tnf - Barcelona",
+  "624e37dc387e50e9c284346b66a2a4f6": {
+   "id": "624e37dc387e50e9c284346b66a2a4f6",
+   "company": "VHIO",
+   "role": "2026-050-01 Administrativo/a De Ensayos Clínicos",
    "location": "Barcelona"
   },
-  "826768f270c7b5f0eed01b73d7218e5b": {
-   "id": "826768f270c7b5f0eed01b73d7218e5b",
-   "company": "VFC Corporation",
-   "role": "Vendedores/as Vans - Barcelona",
-   "location": "Barcelona"
+  "3fcaecddec1749c80b40d8d6fa34fb79": {
+   "id": "3fcaecddec1749c80b40d8d6fa34fb79",
+   "company": "Smith & Nephew",
+   "role": "Aet Business Development Specialist (sports Medicine)",
+   "location": "Madrid"
   },
-  "4e42b5027761c254b5a7e3a21bcd38f5": {
-   "id": "4e42b5027761c254b5a7e3a21bcd38f5",
-   "company": "VFC Corporation",
-   "role": "Vendedor/a 16h Eastpak - Barcelona",
-   "location": "Barcelona"
+  "706c69112cf2d1fe22e01e76dba59335": {
+   "id": "706c69112cf2d1fe22e01e76dba59335",
+   "company": "MD Anderson Cancer Center Madrid - Hospiten",
+   "role": "Administrativo/a De Facturación (temporal)-fundación Md Anderson Cancer Center España - Hospiten",
+   "location": "Madrid"
   },
-  "72d19d683e188304c3cad3776c0993cd": {
-   "id": "72d19d683e188304c3cad3776c0993cd",
-   "company": "OBRAMAT",
-   "role": "Vendedor/a Fontanería 24h (fd)_almacén Sabadell",
-   "location": "Barcelona"
+  "f8f3ebd43ee67b0c8b2099d938190f1e": {
+   "id": "f8f3ebd43ee67b0c8b2099d938190f1e",
+   "company": "Telefonica",
+   "role": "Apoyo Gestión Administrativa - Talent Pool",
+   "location": "Madrid"
   },
   "ade4e9c82624bbe7e05457b6af669f4b": {
    "id": "ade4e9c82624bbe7e05457b6af669f4b",
@@ -2263,12 +2455,6 @@
    "company": "Viatris Inc",
    "role": "Corporate Affairs – Becario De Soporte Administrativo",
    "location": "Spain"
-  },
-  "aaf6d8f91355e5fa9fec516968f538b4": {
-   "id": "aaf6d8f91355e5fa9fec516968f538b4",
-   "company": "Smith+Nephew",
-   "role": "Aet Business Development Specialist (sports Medicine)",
-   "location": "Madrid"
   },
   "feec196ffbcaa1cf3406e3631c08f84e": {
    "id": "feec196ffbcaa1cf3406e3631c08f84e",

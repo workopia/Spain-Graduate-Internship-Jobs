@@ -1,0 +1,42 @@
+# Closed roles
+
+<!-- CLOSED_START -->
+<table><tr><th>Company</th><th>Role</th><th>Location</th><th>Closed</th></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover I 2026-2027 / Internship In Procurement</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Evergreen Hackaton Uclm</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027/ Mro & Retrofit A400m Certification And Safety Management</td><td>Madrid</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 / Ethics & Compliance Internship</td><td>Madrid</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026 2027 - Fine Tuning Of Fuel Functional Tests In Sta75 (fal C295) Internship</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 / In-service Engineering Business Management Internship</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Discover Ii 2026-2027 / Flight & Integration Test Center – Analysis Internship</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 - Air Power Portfolio Digitalization & Analytics Internship</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 Supply Chain Composite Materials Internship</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 Internship "machine Learning For Stress Analyses"</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026/2027 - Financial Systems Internship</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 Internship Customs</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Discover Ii 2026-2027 / Integration Of Tactical Datalinks In Airborne Platforms</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 / Operational Environment Internship</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026- 2027 Mission Readiness Internship</td><td>Madrid</td><td>2026-07-12</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>#beca Ahe - Digital Innovation & Transformation</td><td>Albacete</td><td>2026-07-12</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#discover Ii 2026-2027 Space Management Intern</td><td>Madrid</td><td>2026-07-12</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Discover Ii 2026-2027 / Communications Airbus Spain Internship</td><td>Madrid</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 Planning & Scheduling Illescas Internship</td><td>Madrid</td><td>2026-07-12</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>#beca Ahe - It Digital Workplace Operations</td><td>Albacete</td><td>2026-07-12</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>#beca Ahe - Plant Coordination Support</td><td>Albacete</td><td>2026-07-12</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>#beca Ahe - Environment, Health And Safety (ehs)</td><td>Albacete</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Practicas Recursos Humanos Tres Cantos (madrid)</td><td>Salamanca</td><td>2026-07-12</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>#beca - Ahe Trainee For Security Department</td><td>Albacete</td><td>2026-07-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Beca - Soporte A La Planificación Y Automatización De Datos (vba)</td><td>Salamanca</td><td>2026-07-12</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Beca Consultoria Seguros</td><td>Barcelona</td><td>2026-07-12</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Beca Client Corporate</td><td>Barcelona</td><td>2026-07-12</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Beca Siniestros Junio/julio</td><td>Barcelona</td><td>2026-07-12</td></tr>
+<tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Spain</td><td>2026-07-12</td></tr>
+<tr><td>Swiss Re</td><td>Business Analyst - Applications Identity And Access Management (hybrid Set Up)</td><td>Madrid</td><td>2026-07-12</td></tr>
+<tr><td>Keyfactor</td><td>Accountant</td><td>Barcelona</td><td>2026-07-12</td></tr>
+<tr><td>Keyfactorinc</td><td>Accountant</td><td>Barcelona</td><td>2026-07-12</td></tr>
+<tr><td>VFC Corporation</td><td>Vendedores/as Tnf - Barcelona</td><td>Barcelona</td><td>2026-07-12</td></tr>
+<tr><td>VFC Corporation</td><td>Vendedores/as Vans - Barcelona</td><td>Barcelona</td><td>2026-07-12</td></tr>
+<tr><td>VFC Corporation</td><td>Vendedor/a 16h Eastpak - Barcelona</td><td>Barcelona</td><td>2026-07-12</td></tr>
+<tr><td>OBRAMAT</td><td>Vendedor/a Fontanería 24h (fd)_almacén Sabadell</td><td>Barcelona</td><td>2026-07-12</td></tr>
+<tr><td>Smith+Nephew</td><td>Aet Business Development Specialist (sports Medicine)</td><td>Madrid</td><td>2026-07-12</td></tr>
+</table>
