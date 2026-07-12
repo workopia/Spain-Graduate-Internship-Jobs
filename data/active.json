@@ -1,6 +1,6 @@
 {
  "asOf": "2026-07-12",
- "count": 438,
+ "count": 448,
  "jobs": {
   "23672": {
    "id": "23672",
@@ -1274,6 +1274,24 @@
    "role": "Business Analyst Intern",
    "location": "Barcelona"
   },
+  "e0a7ec8d5477ade6ca9b4bcd6ca466cf": {
+   "id": "e0a7ec8d5477ade6ca9b4bcd6ca466cf",
+   "company": "Medtronic Diabetes",
+   "role": "Intern: Consulting Integrated Health Solutions",
+   "location": "Madrid"
+  },
+  "097abb68f379abc67d3e57f35c00c5a1": {
+   "id": "097abb68f379abc67d3e57f35c00c5a1",
+   "company": "Medtronic UK",
+   "role": "Intern: Consulting Integrated Health Solutions",
+   "location": "Madrid"
+  },
+  "31adfddc0c6677c50c7465effbb954e5": {
+   "id": "31adfddc0c6677c50c7465effbb954e5",
+   "company": "Medtronic",
+   "role": "Intern: Consulting Integrated Health Solutions",
+   "location": "Madrid"
+  },
   "6d7471d1ac1525393b05e4890e11917f": {
    "id": "6d7471d1ac1525393b05e4890e11917f",
    "company": "Nordex SE",
@@ -1334,6 +1352,12 @@
    "role": "Graduate Program - Pricing & Business Improvement Analyst",
    "location": "Barcelona"
   },
+  "2b84e4983f1d5673b93d0203f69f661d": {
+   "id": "2b84e4983f1d5673b93d0203f69f661d",
+   "company": "Indra group",
+   "role": "Consultor/a Técnico Y/o Funcional Microsoft Dynamics 365 Bc/fo - España - 100% Remoto",
+   "location": "EspañA"
+  },
   "f7c6bfa9b3508c8b15af087b18d67f28": {
    "id": "f7c6bfa9b3508c8b15af087b18d67f28",
    "company": "Swiss Re",
@@ -1351,6 +1375,18 @@
    "company": "Otisjob",
    "role": "Cost & Financial Analyst (h&m)",
    "location": "Madrid"
+  },
+  "0a9d3f8b22a113bd144c0b2fa2f6030a": {
+   "id": "0a9d3f8b22a113bd144c0b2fa2f6030a",
+   "company": "DXC Technology Australia & New Zealand",
+   "role": "Consultor/a De Negocio (industria, Procesos, Cross)",
+   "location": "Barcelona"
+  },
+  "63adeec5d522b2a4ef815e862a5f0350": {
+   "id": "63adeec5d522b2a4ef815e862a5f0350",
+   "company": "DXC Technology",
+   "role": "Consultor/a De Negocio (industria, Procesos, Cross)",
+   "location": "Barcelona"
   },
   "a4f96a8a928c54772f6c20421f7e4074": {
    "id": "a4f96a8a928c54772f6c20421f7e4074",
@@ -1490,6 +1526,12 @@
    "role": "Accountant (temp Agency)",
    "location": "Madrid"
   },
+  "48e59ffab1ef4806bbae162c41d666ec": {
+   "id": "48e59ffab1ef4806bbae162c41d666ec",
+   "company": "Accenture",
+   "role": "Consultor Bexel",
+   "location": "Madrid"
+  },
   "add20a16012b5f10168f73bc9a523dbc": {
    "id": "add20a16012b5f10168f73bc9a523dbc",
    "company": "IQVIA",
@@ -1501,6 +1543,24 @@
    "company": "DEKRA SE",
    "role": "Business Analyst - Ai & Automation (m/f/d)",
    "location": "Campanillas"
+  },
+  "436668328f04ba0258e9b5a5b5de7eb6": {
+   "id": "436668328f04ba0258e9b5a5b5de7eb6",
+   "company": "minsait",
+   "role": "Consultor/a Técnico Y/o Funcional Microsoft Dynamics 365 Bc/fo - España - 100% Remoto",
+   "location": "Spain"
+  },
+  "49ad9cf993bb7d24a4ba6bd470c5c352": {
+   "id": "49ad9cf993bb7d24a4ba6bd470c5c352",
+   "company": "minsait",
+   "role": "Consultor/a Sap Finanzas - España 100% Remoto",
+   "location": "Spain"
+  },
+  "344f5c07be2c0c9110a48acc6068b5a9": {
+   "id": "344f5c07be2c0c9110a48acc6068b5a9",
+   "company": "Indra Group",
+   "role": "Consultor/a Successfactors - España 100% Remoto",
+   "location": "Spain"
   },
   "9e3c398a2d9d41a50c87008610028f26": {
    "id": "9e3c398a2d9d41a50c87008610028f26",
