@@ -39,4 +39,12 @@
 <tr><td>VFC Corporation</td><td>Vendedor/a 16h Eastpak - Barcelona</td><td>Barcelona</td><td>2026-07-12</td></tr>
 <tr><td>OBRAMAT</td><td>Vendedor/a Fontanería 24h (fd)_almacén Sabadell</td><td>Barcelona</td><td>2026-07-12</td></tr>
 <tr><td>Smith+Nephew</td><td>Aet Business Development Specialist (sports Medicine)</td><td>Madrid</td><td>2026-07-12</td></tr>
+<tr><td>HP</td><td>Circularity Insights And Compliance Intern</td><td>Barcelona</td><td>2026-07-13</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover I 2026-2027 Space System Procurement Intern.</td><td>Spain</td><td>2026-07-13</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 / Services Upgrades Programmes Internship</td><td>Spain</td><td>2026-07-13</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 - Mrtt & Lta Flight Operations Support Internship</td><td>Spain</td><td>2026-07-13</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 / Poa Management & Sms Internship</td><td>Spain</td><td>2026-07-13</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 / Ai Models Internship</td><td>Spain</td><td>2026-07-13</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 / Junior Buyer Building Construction & Facility Management Internship</td><td>Spain</td><td>2026-07-13</td></tr>
+<tr><td>Arrow Electronics</td><td>Field Sales Associate</td><td>Salamanca</td><td>2026-07-13</td></tr>
 </table>

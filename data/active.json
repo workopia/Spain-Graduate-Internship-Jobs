@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-12",
- "count": 448,
+ "asOf": "2026-07-13",
+ "count": 455,
  "jobs": {
   "23672": {
    "id": "23672",
@@ -38,6 +38,18 @@
    "role": "Sales Advisor Part Time",
    "location": "Madrid"
   },
+  "46384d99cdfd58f984339bea2cc01f61": {
+   "id": "46384d99cdfd58f984339bea2cc01f61",
+   "company": "Hp",
+   "role": "Circularity Insights And Compliance Intern",
+   "location": "Barcelona"
+  },
+  "8d897ee482501954ef85601a36f8b285": {
+   "id": "8d897ee482501954ef85601a36f8b285",
+   "company": "MAPFRE",
+   "role": "Beca En Inteligencia Artificial",
+   "location": "Madrid"
+  },
   "bf91b02608445870e54c936bb93c3557": {
    "id": "bf91b02608445870e54c936bb93c3557",
    "company": "Grupo Hotusa",
@@ -62,6 +74,18 @@
    "role": "Prácticas Servicio Helpdesk Ti - Solunion Seguros",
    "location": "Madrid"
   },
+  "ab3a23dc81948075771bfc1c70db0ff3": {
+   "id": "ab3a23dc81948075771bfc1c70db0ff3",
+   "company": "TÜV SÜD",
+   "role": "Becario/a Universitario/a - Estrategia De Negocio Internacional (f,m,d)",
+   "location": "Madrid"
+  },
+  "1f84c89af81dc40a985badb9a2152b07": {
+   "id": "1f84c89af81dc40a985badb9a2152b07",
+   "company": "jobs.abbott",
+   "role": "Comercial Excellence & Admin Intern – Adm - Madrid",
+   "location": "Madrid"
+  },
   "753ca9d4f2a924493b3c83ed48527d0c": {
    "id": "753ca9d4f2a924493b3c83ed48527d0c",
    "company": "HERBERT SMITH FREEHILLS",
@@ -74,6 +98,12 @@
    "role": "Communications Trainee",
    "location": "Madrid"
   },
+  "a84bcb2f18cabab5034dcc236fd99389": {
+   "id": "a84bcb2f18cabab5034dcc236fd99389",
+   "company": "Carat",
+   "role": "Communications Trainee",
+   "location": "Madrid"
+  },
   "bd873d31a4cc5ac7a63746006bde56b5": {
    "id": "bd873d31a4cc5ac7a63746006bde56b5",
    "company": "aeroshiftedge.pics",
@@ -83,6 +113,12 @@
   "74e774f64e5b2dd935c48f6e411de2c3": {
    "id": "74e774f64e5b2dd935c48f6e411de2c3",
    "company": "TD SYNNEX Accessboard",
+   "role": "Backoffice Intern (hpe)",
+   "location": "Barcelona"
+  },
+  "56b6f0eed0d08dc4430d686184eacaf1": {
+   "id": "56b6f0eed0d08dc4430d686184eacaf1",
+   "company": "Houseoftechcommunity",
    "role": "Backoffice Intern (hpe)",
    "location": "Barcelona"
   },
@@ -127,6 +163,12 @@
    "company": "Otisjob",
    "role": "Becario(h/m) Administrativo Noster Mataró",
    "location": "Barcelona"
+  },
+  "cce1077acd9af4e7bcd6588f710a4af7": {
+   "id": "cce1077acd9af4e7bcd6588f710a4af7",
+   "company": "unilever.es",
+   "role": "Internship 26' - Sustainable Business & Communications",
+   "location": "Spain"
   },
   "9fff814ced8bcb41f8bf459cbd8bf1db": {
    "id": "9fff814ced8bcb41f8bf459cbd8bf1db",
@@ -410,12 +452,6 @@
    "role": "Beca En El Departamento De Calidad, Medio Ambiente Y Sostenibilidad",
    "location": "Madrid"
   },
-  "UNI2923": {
-   "id": "UNI2923",
-   "company": "HP",
-   "role": "Circularity Insights And Compliance Intern",
-   "location": "Barcelona"
-  },
   "60f45c194834af4941b8650e7aef5d3b": {
    "id": "60f45c194834af4941b8650e7aef5d3b",
    "company": "Dentsu B2B APAC",
@@ -482,47 +518,17 @@
    "role": "#discover Ii 2026 2027 / Mro A400m Scope Management Analysis Internship",
    "location": "Spain"
   },
-  "8058438576c918d9cede5a43e475701d": {
-   "id": "8058438576c918d9cede5a43e475701d",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover I 2026-2027 Space System Procurement Intern.",
-   "location": "Spain"
-  },
-  "161d6d3aca8e4595f3d745f65ec03977": {
-   "id": "161d6d3aca8e4595f3d745f65ec03977",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 / Services Upgrades Programmes Internship",
-   "location": "Spain"
-  },
-  "8b1d0d07aa743af93f4ccef896a73d73": {
-   "id": "8b1d0d07aa743af93f4ccef896a73d73",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 - Mrtt & Lta Flight Operations Support Internship",
-   "location": "Spain"
-  },
-  "f71d9b6cbd9dd4e532104733e20bc68f": {
-   "id": "f71d9b6cbd9dd4e532104733e20bc68f",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 / Poa Management & Sms Internship",
-   "location": "Spain"
-  },
-  "86650fe241169a2d816ae983f564b2a6": {
-   "id": "86650fe241169a2d816ae983f564b2a6",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 / Ai Models Internship",
-   "location": "Spain"
-  },
-  "2b1cb0cb93009ff95f5b23f96adfbbd9": {
-   "id": "2b1cb0cb93009ff95f5b23f96adfbbd9",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 / Junior Buyer Building Construction & Facility Management Internship",
-   "location": "Spain"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
    "location": "Madrid"
+  },
+  "2e57a0f001a161f27c41e4e58a00cb69": {
+   "id": "2e57a0f001a161f27c41e4e58a00cb69",
+   "company": "Puratos",
+   "role": "Sap Sd Support Analyst",
+   "location": "Barcelona"
   },
   "4cd9bd756b1bf5468fc1053ab21b2f28": {
    "id": "4cd9bd756b1bf5468fc1053ab21b2f28",
@@ -547,6 +553,12 @@
    "company": "Indra group",
    "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
    "location": "Madrid"
+  },
+  "bdda5fefdc96e980d83a8d8f49b37714": {
+   "id": "bdda5fefdc96e980d83a8d8f49b37714",
+   "company": "New Relic Inc",
+   "role": "Software Engineer 2 (frontend)",
+   "location": "Barcelona"
   },
   "2ab2a2283109b991a7006685d1eec70c": {
    "id": "2ab2a2283109b991a7006685d1eec70c",
@@ -1034,6 +1046,18 @@
    "role": "#discover Ii 2026/2027 Map Systems Internship",
    "location": "Spain"
   },
+  "cfe6f0ff88c8b3aa954845e86db1d52a": {
+   "id": "cfe6f0ff88c8b3aa954845e86db1d52a",
+   "company": "MAPFRE",
+   "role": "Data Analyst De Negocio",
+   "location": "Madrid"
+  },
+  "5237b59f06ba9595f08c592f77387fe1": {
+   "id": "5237b59f06ba9595f08c592f77387fe1",
+   "company": "Mango",
+   "role": "Data Science Global Distribution Analyst",
+   "location": "Barcelona"
+  },
   "59ab37b61012b0e55ba120fe0d9ce085": {
    "id": "59ab37b61012b0e55ba120fe0d9ce085",
    "company": "Indra group",
@@ -1050,6 +1074,12 @@
    "id": "8e36b29835e6807aee84527044f85155",
    "company": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
    "role": "Data Scientist - Optimization Focus (beca)",
+   "location": "Madrid"
+  },
+  "7714ac2dc6358f32e5db5e7019680677": {
+   "id": "7714ac2dc6358f32e5db5e7019680677",
+   "company": "itinfinance.nl",
+   "role": "Data Analyst",
    "location": "Madrid"
   },
   "fd85a851c4ff61ac2c4397c846a81975": {
@@ -1352,6 +1382,12 @@
    "role": "Graduate Program - Pricing & Business Improvement Analyst",
    "location": "Barcelona"
   },
+  "dda0f22f5ad73dd14dad4389c63ab9fb": {
+   "id": "dda0f22f5ad73dd14dad4389c63ab9fb",
+   "company": "Disney Streaming",
+   "role": "Disney+ Trading And Planning Analyst",
+   "location": "Madrid"
+  },
   "2b84e4983f1d5673b93d0203f69f661d": {
    "id": "2b84e4983f1d5673b93d0203f69f661d",
    "company": "Indra group",
@@ -1367,6 +1403,12 @@
   "8f47403f6b0999ced23bfa1dc8c80310": {
    "id": "8f47403f6b0999ced23bfa1dc8c80310",
    "company": "Sanofi UK",
+   "role": "Workday Business Analyst (absence, Time & Attendance)",
+   "location": "Barcelona"
+  },
+  "29bcdea659b756d7919bbac61a2813f4": {
+   "id": "29bcdea659b756d7919bbac61a2813f4",
+   "company": "Sanofi Genzyme",
    "role": "Workday Business Analyst (absence, Time & Attendance)",
    "location": "Barcelona"
   },
@@ -1483,12 +1525,6 @@
    "company": "Jobgether",
    "role": "Business Analyst (creatio)",
    "location": "Spain"
-  },
-  "dda0f22f5ad73dd14dad4389c63ab9fb": {
-   "id": "dda0f22f5ad73dd14dad4389c63ab9fb",
-   "company": "Disney Streaming",
-   "role": "Disney+ Trading And Planning Analyst",
-   "location": "Madrid"
   },
   "a6ff2d699ed3bccefd8fd2ad40be5be1": {
    "id": "a6ff2d699ed3bccefd8fd2ad40be5be1",
@@ -1722,6 +1758,12 @@
    "id": "25f0513cc998cb0699fe286ef18d7fc5",
    "company": "ALSTOM TRANSPORT SA",
    "role": "Operario/a De Mantenimiento Ferroviario Fuencarral",
+   "location": "Madrid"
+  },
+  "61b6a5f9dcd67129c27381ad898c18b3": {
+   "id": "61b6a5f9dcd67129c27381ad898c18b3",
+   "company": "Schindler Group",
+   "role": "Técnico/a De Mantenimiento De Ascensores - Madrid",
    "location": "Madrid"
   },
   "b86003b44389c6b75793a13d00cde938": {
@@ -1998,6 +2040,12 @@
    "id": "7a7cb7468a7205ff5962cbc148013bda",
    "company": "OTB S.p.A",
    "role": "Client Advisor Madrid Boutique",
+   "location": "Madrid"
+  },
+  "40a36b22bb769303a82269b701b41fe2": {
+   "id": "40a36b22bb769303a82269b701b41fe2",
+   "company": "Levis Media",
+   "role": "Sales Stilyst 20h Alcorcon Viernes, Sabado Y Domingo",
    "location": "Madrid"
   },
   "e696c9b2cec316f5c2bc7c727f01b9a9": {
@@ -2443,12 +2491,6 @@
    "company": "BOARDRIDERS",
    "role": "Embajador/a (vendedor/a) - 20h - Barceloneta - Boardriders",
    "location": "Barcelona"
-  },
-  "bc58dea3e7056474d520929254c0791d": {
-   "id": "bc58dea3e7056474d520929254c0791d",
-   "company": "Arrow Electronics",
-   "role": "Field Sales Associate",
-   "location": "Salamanca"
   },
   "624e37dc387e50e9c284346b66a2a4f6": {
    "id": "624e37dc387e50e9c284346b66a2a4f6",
