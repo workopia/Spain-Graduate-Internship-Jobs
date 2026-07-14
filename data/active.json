@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-13",
- "count": 455,
+ "asOf": "2026-07-14",
+ "count": 464,
  "jobs": {
   "23672": {
    "id": "23672",
@@ -37,6 +37,60 @@
    "company": "Boggi Milano",
    "role": "Sales Advisor Part Time",
    "location": "Madrid"
+  },
+  "242d7e0b50bd88665e0456cb77d3fd24": {
+   "id": "242d7e0b50bd88665e0456cb77d3fd24",
+   "company": "repsol",
+   "role": "Prácticas Talent Energy",
+   "location": "Spain"
+  },
+  "f5fd321ba157d273490ad4318e04d1e3": {
+   "id": "f5fd321ba157d273490ad4318e04d1e3",
+   "company": "Nordex SE",
+   "role": "Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "9139006ac15680e6bbf5a83ab60d3169": {
+   "id": "9139006ac15680e6bbf5a83ab60d3169",
+   "company": "Nordex SE",
+   "role": "Project Manager Support Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "d3cc9898960edf4a14353ea502730488": {
+   "id": "d3cc9898960edf4a14353ea502730488",
+   "company": "Nordex SE",
+   "role": "Pmd Process & Automation Intern (m/f/d)",
+   "location": "Mutilva"
+  },
+  "948f561de51a2ddb93e876d8bc2fef38": {
+   "id": "948f561de51a2ddb93e876d8bc2fef38",
+   "company": "Zurich Insurance UK",
+   "role": "Beca Canal Corredores",
+   "location": "Barcelona"
+  },
+  "b7ca85ab5c7306c2974086a2b8a38deb": {
+   "id": "b7ca85ab5c7306c2974086a2b8a38deb",
+   "company": "Zurich Insurance UK",
+   "role": "Beca Usp Construcción",
+   "location": "Madrid"
+  },
+  "ee6578f0fe800dd482149c6c2bfe56bb": {
+   "id": "ee6578f0fe800dd482149c6c2bfe56bb",
+   "company": "Zurich Insurance UK",
+   "role": "Beca Transformación & Automatización",
+   "location": "Barcelona"
+  },
+  "4dda2a7c75171b79dba70cd37a8a795a": {
+   "id": "4dda2a7c75171b79dba70cd37a8a795a",
+   "company": "Zurich Insurance UK",
+   "role": "Trainee Seguros Y Pensiones",
+   "location": "Barcelona"
+  },
+  "b0002e82c774acc0d8832e5af13a28dc": {
+   "id": "b0002e82c774acc0d8832e5af13a28dc",
+   "company": "Palladium Hotel Group",
+   "role": "Prácticas - Hoteles Ibiza - Cocina Y Sala",
+   "location": "Baleares"
   },
   "46384d99cdfd58f984339bea2cc01f61": {
    "id": "46384d99cdfd58f984339bea2cc01f61",
@@ -101,6 +155,12 @@
   "a84bcb2f18cabab5034dcc236fd99389": {
    "id": "a84bcb2f18cabab5034dcc236fd99389",
    "company": "Carat",
+   "role": "Communications Trainee",
+   "location": "Madrid"
+  },
+  "531e2fb270fa2724dd683ad3e136cdbe": {
+   "id": "531e2fb270fa2724dd683ad3e136cdbe",
+   "company": "220",
    "role": "Communications Trainee",
    "location": "Madrid"
   },
@@ -260,6 +320,12 @@
    "role": "Prácticas En Departamento De Compras Mecanizado",
    "location": "Madrid"
   },
+  "8c21c47a854728ffaa6b46782966e2f9": {
+   "id": "8c21c47a854728ffaa6b46782966e2f9",
+   "company": "Bosch Group",
+   "role": "Prácticas En Departamento De Compras Mecanizado",
+   "location": "Madrid"
+  },
   "e6f62dfcad7b67a439f182016ed1bbf6": {
    "id": "e6f62dfcad7b67a439f182016ed1bbf6",
    "company": "ATR (Airbus/Leonardo)",
@@ -299,6 +365,12 @@
   "4a5c9031c3b7dc20354745022d68512d": {
    "id": "4a5c9031c3b7dc20354745022d68512d",
    "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Prácticas En Mejora Continua Y Operaciones (moe)",
+   "location": "Madrid"
+  },
+  "983012f38d9a33be53851909a89fc68b": {
+   "id": "983012f38d9a33be53851909a89fc68b",
+   "company": "Bosch Group",
    "role": "Prácticas En Mejora Continua Y Operaciones (moe)",
    "location": "Madrid"
   },
@@ -446,83 +518,17 @@
    "role": "⚒️ Product Builder Intern ( Prácticas En Desarrollo De Producto) Septiembre 2026",
    "location": "Barcelona"
   },
-  "e487aaf14dfe4e69e30892a12dfa11bd": {
-   "id": "e487aaf14dfe4e69e30892a12dfa11bd",
-   "company": "164",
-   "role": "Beca En El Departamento De Calidad, Medio Ambiente Y Sostenibilidad",
-   "location": "Madrid"
-  },
-  "60f45c194834af4941b8650e7aef5d3b": {
-   "id": "60f45c194834af4941b8650e7aef5d3b",
-   "company": "Dentsu B2B APAC",
-   "role": "Insights Trainee Boost Camp",
-   "location": "Madrid"
-  },
-  "a5367bb16a192494fbda0aa66d66ba89": {
-   "id": "a5367bb16a192494fbda0aa66d66ba89",
-   "company": "asud-ascenseur.fr",
-   "role": "Beca Talent Acquisition - Otis",
-   "location": "Golfo De SalóNica 73"
-  },
-  "148bc22aaad8ea4a9ce3be4efd9112b1": {
-   "id": "148bc22aaad8ea4a9ce3be4efd9112b1",
-   "company": "asud-ascenseur.fr",
-   "role": "Becario(h/m) Administrativo Noster Mataró",
-   "location": "Barcelona"
-  },
-  "06c7981025f37ee535719125697e2422": {
-   "id": "06c7981025f37ee535719125697e2422",
-   "company": "jobs.abbott",
-   "role": "Logistics & Order Entry Internship Ifo - Madrid",
-   "location": "Madrid"
-  },
-  "5069634e2b8e4cc619ee6afbd3cfcfd0": {
-   "id": "5069634e2b8e4cc619ee6afbd3cfcfd0",
-   "company": "Airbus Helicopters España, SA",
-   "role": "#beca Ahe - Finance & Administration",
-   "location": "Albacete"
-  },
-  "9eee895a0798ed2383dbe97d16834ba3": {
-   "id": "9eee895a0798ed2383dbe97d16834ba3",
-   "company": "Airbus Helicopters España, SA",
-   "role": "#beca Ahe - Procurement & Reporting",
-   "location": "Albacete"
-  },
-  "652c68856ef800ddacf76f4a05507d07": {
-   "id": "652c68856ef800ddacf76f4a05507d07",
-   "company": "Airbus Helicopters España, SA",
-   "role": "#beca-ahe Offer Evaluation Y S&s Controlling",
-   "location": "Albacete"
-  },
-  "3ea6383afa1d12ce3b0f6b8322a8b482": {
-   "id": "3ea6383afa1d12ce3b0f6b8322a8b482",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#xplorer 2027 Internship Programme",
-   "location": "Spain"
-  },
-  "1068dfcf9a594d9fc6f3cabdad9b0445": {
-   "id": "1068dfcf9a594d9fc6f3cabdad9b0445",
-   "company": "Airbus Operations SL",
-   "role": "#discover Ii 2026-2027 Data & Cloud Trainee",
-   "location": "Spain"
-  },
-  "8cf76fd8ed3654c58d942118fdf642ff": {
-   "id": "8cf76fd8ed3654c58d942118fdf642ff",
-   "company": "Airbus Operations SL",
-   "role": "#discover Ii 2026-2027 / Ai & Cybersecurity – Insider Protection Internship",
-   "location": "Spain"
-  },
-  "b52e28a703595f49451b74a419822cec": {
-   "id": "b52e28a703595f49451b74a419822cec",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026 2027 / Mro A400m Scope Management Analysis Internship",
-   "location": "Spain"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
    "location": "Madrid"
+  },
+  "31fc9169fcb1086cb5278cd7c13231db": {
+   "id": "31fc9169fcb1086cb5278cd7c13231db",
+   "company": "EndressHauser AG",
+   "role": "Técnico/a De Soporte Instrumentación Industrial",
+   "location": "Barcelona"
   },
   "2e57a0f001a161f27c41e4e58a00cb69": {
    "id": "2e57a0f001a161f27c41e4e58a00cb69",
@@ -986,6 +992,12 @@
    "role": "Frontend Engineer",
    "location": "Madrid"
   },
+  "c303331174cf1ba885f9b298672fd6fd": {
+   "id": "c303331174cf1ba885f9b298672fd6fd",
+   "company": "Zurich Insurance UK",
+   "role": "Data Platform & Analytics Internship",
+   "location": "Barcelona"
+  },
   "4cd9f55e08b5fa112579c52ffc68e19a": {
    "id": "4cd9f55e08b5fa112579c52ffc68e19a",
    "company": "Celonis",
@@ -1046,6 +1058,24 @@
    "role": "#discover Ii 2026/2027 Map Systems Internship",
    "location": "Spain"
   },
+  "06f75d35e2a0ad3d5039a6701ea49148": {
+   "id": "06f75d35e2a0ad3d5039a6701ea49148",
+   "company": "Ivivamedical",
+   "role": "Data Scientist",
+   "location": "Madrid"
+  },
+  "d9a22bb89162ca2512946570bf28b12c": {
+   "id": "d9a22bb89162ca2512946570bf28b12c",
+   "company": "Zurich Insurance UK",
+   "role": "Data Analyst / Data Engineer (commercial Insurance)",
+   "location": "Barcelona"
+  },
+  "7183671a0d038077b72e16c1e8b2eeeb": {
+   "id": "7183671a0d038077b72e16c1e8b2eeeb",
+   "company": "Zurich Insurance UK",
+   "role": "Beca Claims - Análisis De Datos",
+   "location": "Barcelona"
+  },
   "cfe6f0ff88c8b3aa954845e86db1d52a": {
    "id": "cfe6f0ff88c8b3aa954845e86db1d52a",
    "company": "MAPFRE",
@@ -1079,6 +1109,12 @@
   "7714ac2dc6358f32e5db5e7019680677": {
    "id": "7714ac2dc6358f32e5db5e7019680677",
    "company": "itinfinance.nl",
+   "role": "Data Analyst",
+   "location": "Madrid"
+  },
+  "cb384171dc650a9e2a39e4e134e0195b": {
+   "id": "cb384171dc650a9e2a39e4e134e0195b",
+   "company": "224",
    "role": "Data Analyst",
    "location": "Madrid"
   },
@@ -1285,6 +1321,18 @@
    "company": "Avolta",
    "role": "Global Data Scientist Specialist",
    "location": "Madrid"
+  },
+  "72221daadf09f2b0caade420e5140f17": {
+   "id": "72221daadf09f2b0caade420e5140f17",
+   "company": "Zurich Insurance UK",
+   "role": "Servicenow Business Analyst Intern",
+   "location": "Barcelona"
+  },
+  "6a0d3ffe49a15d48bfc1e14303b94f1c": {
+   "id": "6a0d3ffe49a15d48bfc1e14303b94f1c",
+   "company": "Zurich Insurance UK",
+   "role": "Business Analyst Intern",
+   "location": "Barcelona"
   },
   "UNI2668": {
    "id": "UNI2668",
@@ -2054,6 +2102,12 @@
    "role": "Vendedor/a 30h - Pl. Cat (barcelona) - Vans",
    "location": "Barcelona"
   },
+  "f1a52f84a594897451f599c14fa0eca5": {
+   "id": "f1a52f84a594897451f599c14fa0eca5",
+   "company": "Sustainabilityleads",
+   "role": "Vendedor/a 30h - Pl. Cat (barcelona) - Vans",
+   "location": "Barcelona"
+  },
   "56e84c28ec1775c79389b403ef36b6dd": {
    "id": "56e84c28ec1775c79389b403ef36b6dd",
    "company": "Sustainabilityleads",
@@ -2486,12 +2540,6 @@
    "role": "Warehouse Operator (5.5 Days/office Hours)",
    "location": "Barcelona"
   },
-  "8d92393b6e5a379069d6fe72ed273459": {
-   "id": "8d92393b6e5a379069d6fe72ed273459",
-   "company": "BOARDRIDERS",
-   "role": "Embajador/a (vendedor/a) - 20h - Barceloneta - Boardriders",
-   "location": "Barcelona"
-  },
   "624e37dc387e50e9c284346b66a2a4f6": {
    "id": "624e37dc387e50e9c284346b66a2a4f6",
    "company": "VHIO",
@@ -2503,6 +2551,12 @@
    "company": "Smith & Nephew",
    "role": "Aet Business Development Specialist (sports Medicine)",
    "location": "Madrid"
+  },
+  "8a1c7ca32058cd2b1f7160a9a346013f": {
+   "id": "8a1c7ca32058cd2b1f7160a9a346013f",
+   "company": "Veepee Ad",
+   "role": "Event & Internal Communications Specialist - Fixed Term (w/m/x )",
+   "location": "Barcelona"
   },
   "706c69112cf2d1fe22e01e76dba59335": {
    "id": "706c69112cf2d1fe22e01e76dba59335",

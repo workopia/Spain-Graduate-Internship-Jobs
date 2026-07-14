@@ -47,4 +47,17 @@
 <tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 / Ai Models Internship</td><td>Spain</td><td>2026-07-13</td></tr>
 <tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 / Junior Buyer Building Construction & Facility Management Internship</td><td>Spain</td><td>2026-07-13</td></tr>
 <tr><td>Arrow Electronics</td><td>Field Sales Associate</td><td>Salamanca</td><td>2026-07-13</td></tr>
+<tr><td>164</td><td>Beca En El Departamento De Calidad, Medio Ambiente Y Sostenibilidad</td><td>Madrid</td><td>2026-07-14</td></tr>
+<tr><td>Dentsu B2B APAC</td><td>Insights Trainee Boost Camp</td><td>Madrid</td><td>2026-07-14</td></tr>
+<tr><td>asud-ascenseur.fr</td><td>Beca Talent Acquisition - Otis</td><td>Golfo De SalóNica 73</td><td>2026-07-14</td></tr>
+<tr><td>asud-ascenseur.fr</td><td>Becario(h/m) Administrativo Noster Mataró</td><td>Barcelona</td><td>2026-07-14</td></tr>
+<tr><td>jobs.abbott</td><td>Logistics & Order Entry Internship Ifo - Madrid</td><td>Madrid</td><td>2026-07-14</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>#beca Ahe - Finance & Administration</td><td>Albacete</td><td>2026-07-14</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>#beca Ahe - Procurement & Reporting</td><td>Albacete</td><td>2026-07-14</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>#beca-ahe Offer Evaluation Y S&s Controlling</td><td>Albacete</td><td>2026-07-14</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#xplorer 2027 Internship Programme</td><td>Spain</td><td>2026-07-14</td></tr>
+<tr><td>Airbus Operations SL</td><td>#discover Ii 2026-2027 Data & Cloud Trainee</td><td>Spain</td><td>2026-07-14</td></tr>
+<tr><td>Airbus Operations SL</td><td>#discover Ii 2026-2027 / Ai & Cybersecurity – Insider Protection Internship</td><td>Spain</td><td>2026-07-14</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026 2027 / Mro A400m Scope Management Analysis Internship</td><td>Spain</td><td>2026-07-14</td></tr>
+<tr><td>BOARDRIDERS</td><td>Embajador/a (vendedor/a) - 20h - Barceloneta - Boardriders</td><td>Barcelona</td><td>2026-07-14</td></tr>
 </table>
