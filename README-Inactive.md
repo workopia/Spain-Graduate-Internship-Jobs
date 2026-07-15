@@ -60,4 +60,14 @@
 <tr><td>Airbus Operations SL</td><td>#discover Ii 2026-2027 / Ai & Cybersecurity – Insider Protection Internship</td><td>Spain</td><td>2026-07-14</td></tr>
 <tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026 2027 / Mro A400m Scope Management Analysis Internship</td><td>Spain</td><td>2026-07-14</td></tr>
 <tr><td>BOARDRIDERS</td><td>Embajador/a (vendedor/a) - 20h - Barceloneta - Boardriders</td><td>Barcelona</td><td>2026-07-14</td></tr>
+<tr><td>Estée Lauder</td><td>Beauty Advisor/artist Beauty Advisor</td><td>Barcelona</td><td>2026-07-15</td></tr>
+<tr><td>W Brisbane</td><td>Finance Trainee - Renaissance Barcelona</td><td>Barcelona</td><td>2026-07-15</td></tr>
+<tr><td>jll.co.in</td><td>Intern, Retail Leasing</td><td>Madrid</td><td>2026-07-15</td></tr>
+<tr><td>Mercer</td><td>Beca Seguros Salud Y Vida</td><td>Madrid</td><td>2026-07-15</td></tr>
+<tr><td>Mercer</td><td>Beca Seguros</td><td>Madrid</td><td>2026-07-15</td></tr>
+<tr><td>jobs.abbott</td><td>Formación Comercial Internship - Core Lab (madrid)</td><td>Madrid</td><td>2026-07-15</td></tr>
+<tr><td>Hydeparkbank</td><td>Circularity Insights And Compliance Intern</td><td>Barcelona</td><td>2026-07-15</td></tr>
+<tr><td>Thales Group</td><td>Beca/internship Young Talent Program 2026-2027</td><td>Madrid Tres Cantos</td><td>2026-07-15</td></tr>
+<tr><td>Hilton Worldwide</td><td>It Intern / Trainee</td><td>Madrid</td><td>2026-07-15</td></tr>
+<tr><td>Payfit</td><td>⚒️ Product Builder Intern ( Prácticas En Desarrollo De Producto) Septiembre 2026</td><td>Barcelona</td><td>2026-07-15</td></tr>
 </table>

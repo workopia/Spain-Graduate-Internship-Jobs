@@ -1,13 +1,7 @@
 {
- "asOf": "2026-07-14",
- "count": 464,
+ "asOf": "2026-07-15",
+ "count": 470,
  "jobs": {
-  "23672": {
-   "id": "23672",
-   "company": "Estée Lauder",
-   "role": "Beauty Advisor/artist Beauty Advisor",
-   "location": "Barcelona"
-  },
   "27657": {
    "id": "27657",
    "company": "Softtek",
@@ -36,6 +30,18 @@
    "id": "2653570",
    "company": "Boggi Milano",
    "role": "Sales Advisor Part Time",
+   "location": "Madrid"
+  },
+  "6ef88fbdd470b87d142335fb138df195": {
+   "id": "6ef88fbdd470b87d142335fb138df195",
+   "company": "ACCIONA Energia",
+   "role": "Fp Prácticas Knowledge Applied To Business",
+   "location": "Madrid"
+  },
+  "84b2e342364c6ac9fba0467fae2a0944": {
+   "id": "84b2e342364c6ac9fba0467fae2a0944",
+   "company": "ACCIONA Energia",
+   "role": "Fp Prácticas Digital & Ai",
    "location": "Madrid"
   },
   "242d7e0b50bd88665e0456cb77d3fd24": {
@@ -92,9 +98,39 @@
    "role": "Prácticas - Hoteles Ibiza - Cocina Y Sala",
    "location": "Baleares"
   },
+  "1918d6b1518a9b00a9f7e1cc39780810": {
+   "id": "1918d6b1518a9b00a9f7e1cc39780810",
+   "company": "Bureau Veritas",
+   "role": "Becario/a Departamento De Pesca Sostenible",
+   "location": "Madrid"
+  },
+  "3c486e0f3d6490a0d5f4b4b42e21938f": {
+   "id": "3c486e0f3d6490a0d5f4b4b42e21938f",
+   "company": "Bureau Veritas",
+   "role": "Beca Arquitectura Naval",
+   "location": "Madrid"
+  },
+  "75e73c0a57713bc8bb9adfcc014c2b59": {
+   "id": "75e73c0a57713bc8bb9adfcc014c2b59",
+   "company": "avoltaworld",
+   "role": "Intern Planning And Purchasing",
+   "location": "Es"
+  },
+  "0b65324dbdfeac5d93bbbf99963c372b": {
+   "id": "0b65324dbdfeac5d93bbbf99963c372b",
+   "company": "avoltaworld",
+   "role": "Intern Supply Chain",
+   "location": "Es"
+  },
   "46384d99cdfd58f984339bea2cc01f61": {
    "id": "46384d99cdfd58f984339bea2cc01f61",
    "company": "Hp",
+   "role": "Circularity Insights And Compliance Intern",
+   "location": "Barcelona"
+  },
+  "c37beb0d9a0a93187287c0ca0ade4e1f": {
+   "id": "c37beb0d9a0a93187287c0ca0ade4e1f",
+   "company": "HP Inc",
    "role": "Circularity Insights And Compliance Intern",
    "location": "Barcelona"
   },
@@ -167,6 +203,12 @@
   "bd873d31a4cc5ac7a63746006bde56b5": {
    "id": "bd873d31a4cc5ac7a63746006bde56b5",
    "company": "aeroshiftedge.pics",
+   "role": "#discover I 2026-2027 / Internship In Procurement",
+   "location": "Spain"
+  },
+  "dbeff71697cfeeac52e77e6d0d85d218": {
+   "id": "dbeff71697cfeeac52e77e6d0d85d218",
+   "company": "Airbus SE",
    "role": "#discover I 2026-2027 / Internship In Procurement",
    "location": "Spain"
   },
@@ -306,6 +348,12 @@
    "id": "e5b933bdf12eaed92388dbeee635bbe8",
    "company": "Satair (an Airbus Services Company)",
    "role": "#discover Ii 2026-2027 Internship Fdt Stress Team",
+   "location": "Spain"
+  },
+  "f7af658659cc71695d76323b837a6364": {
+   "id": "f7af658659cc71695d76323b837a6364",
+   "company": "ATR (Airbus/Leonardo)",
+   "role": "#discover Ii 2026-2027/ Procurement Internship",
    "location": "Spain"
   },
   "214040523288b71e16329856f5b96e77": {
@@ -464,64 +512,16 @@
    "role": "Finance Trainee - Renaissance Barcelona",
    "location": "Barcelona"
   },
-  "919b0b4a60430548a80280af4aa0908c": {
-   "id": "919b0b4a60430548a80280af4aa0908c",
-   "company": "W Brisbane",
-   "role": "Finance Trainee - Renaissance Barcelona",
-   "location": "Barcelona"
-  },
-  "abd1e0b97d799e99427fa10371fa4b70": {
-   "id": "abd1e0b97d799e99427fa10371fa4b70",
-   "company": "jll.co.in",
-   "role": "Intern, Retail Leasing",
-   "location": "Madrid"
-  },
-  "594f316c12acb71ffcebe70a8e36d61d": {
-   "id": "594f316c12acb71ffcebe70a8e36d61d",
-   "company": "Mercer",
-   "role": "Beca Seguros Salud Y Vida",
-   "location": "Madrid"
-  },
-  "526da83113eb6e138f1a8289b928b51a": {
-   "id": "526da83113eb6e138f1a8289b928b51a",
-   "company": "Mercer",
-   "role": "Beca Seguros",
-   "location": "Madrid"
-  },
-  "846349d999af9ca1f09a4612ed7e3ade": {
-   "id": "846349d999af9ca1f09a4612ed7e3ade",
-   "company": "jobs.abbott",
-   "role": "Formación Comercial Internship - Core Lab (madrid)",
-   "location": "Madrid"
-  },
-  "aa5110eec002db1a1f400b2df4e30c4f": {
-   "id": "aa5110eec002db1a1f400b2df4e30c4f",
-   "company": "Hydeparkbank",
-   "role": "Circularity Insights And Compliance Intern",
-   "location": "Barcelona"
-  },
-  "91b29d4be6a19ef2c563140d957b4bc8": {
-   "id": "91b29d4be6a19ef2c563140d957b4bc8",
-   "company": "Thales Group",
-   "role": "Beca/internship Young Talent Program 2026-2027",
-   "location": "Madrid Tres Cantos"
-  },
-  "c50211327aedd3a5df91e4b92308098f": {
-   "id": "c50211327aedd3a5df91e4b92308098f",
-   "company": "Hilton Worldwide",
-   "role": "It Intern / Trainee",
-   "location": "Madrid"
-  },
-  "92a32c736c1c3064d2ef0e7834cdd880": {
-   "id": "92a32c736c1c3064d2ef0e7834cdd880",
-   "company": "Payfit",
-   "role": "⚒️ Product Builder Intern ( Prácticas En Desarrollo De Producto) Septiembre 2026",
-   "location": "Barcelona"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
+   "location": "Madrid"
+  },
+  "10dccdee3caa921d542597ed4bb4ff74": {
+   "id": "10dccdee3caa921d542597ed4bb4ff74",
+   "company": "aeroshiftedge.pics",
+   "role": "Simulation Software Engineer – Eurofighter Flight Simulator",
    "location": "Madrid"
   },
   "31fc9169fcb1086cb5278cd7c13231db": {
@@ -1076,6 +1076,12 @@
    "role": "Beca Claims - Análisis De Datos",
    "location": "Barcelona"
   },
+  "d49167b62c14190f05715ca43bf419c9": {
+   "id": "d49167b62c14190f05715ca43bf419c9",
+   "company": "avoltaworld",
+   "role": "Global Data Scientist Specialist",
+   "location": "Madrid"
+  },
   "cfe6f0ff88c8b3aa954845e86db1d52a": {
    "id": "cfe6f0ff88c8b3aa954845e86db1d52a",
    "company": "MAPFRE",
@@ -1430,6 +1436,12 @@
    "role": "Graduate Program - Pricing & Business Improvement Analyst",
    "location": "Barcelona"
   },
+  "aaf4343553ff7ccf85107c9a282a61fb": {
+   "id": "aaf4343553ff7ccf85107c9a282a61fb",
+   "company": "Ahorramas, S.A",
+   "role": "Analista Funcional (temporal)",
+   "location": "Madrid"
+  },
   "dda0f22f5ad73dd14dad4389c63ab9fb": {
    "id": "dda0f22f5ad73dd14dad4389c63ab9fb",
    "company": "Disney Streaming",
@@ -1766,6 +1778,12 @@
    "role": "Cra 1",
    "location": "Spain"
   },
+  "e0c3b55d4562ad5a576982a236ee2bb8": {
+   "id": "e0c3b55d4562ad5a576982a236ee2bb8",
+   "company": "Ahorramas, S.A",
+   "role": "Técnico/a Mantenimiento De Instalaciones Automatizadas",
+   "location": "Madrid"
+  },
   "a1cca2875aeb1ee001c05d41aef7e49f": {
    "id": "a1cca2875aeb1ee001c05d41aef7e49f",
    "company": "Eurostars Hotel Company",
@@ -2077,6 +2095,12 @@
    "company": "BayWa r.e.",
    "role": "O&m Technician (all Genders) - Zaragoza",
    "location": "Zaragoza"
+  },
+  "2d4aec7b58dfd4f4ddecafbf03fe01b6": {
+   "id": "2d4aec7b58dfd4f4ddecafbf03fe01b6",
+   "company": "Merkal Calzados S.L",
+   "role": "Vendedor/a 20 Horas Semanales",
+   "location": "Madrid"
   },
   "0db345f41a067aac5cc7c22313d13e52": {
    "id": "0db345f41a067aac5cc7c22313d13e52",
@@ -2539,6 +2563,18 @@
    "company": "UPS",
    "role": "Warehouse Operator (5.5 Days/office Hours)",
    "location": "Barcelona"
+  },
+  "822f6ef498eae4ee765d49fbdf587551": {
+   "id": "822f6ef498eae4ee765d49fbdf587551",
+   "company": "OCA Global Corporate Services S.A",
+   "role": "Administrativo/a Toledo",
+   "location": "Madrid"
+  },
+  "56ff00fefed842c97baf3ee318cbcee2": {
+   "id": "56ff00fefed842c97baf3ee318cbcee2",
+   "company": "Bureau Veritas",
+   "role": "Auxiliar Administrativo/a - Trámites",
+   "location": "Asturias"
   },
   "624e37dc387e50e9c284346b66a2a4f6": {
    "id": "624e37dc387e50e9c284346b66a2a4f6",
