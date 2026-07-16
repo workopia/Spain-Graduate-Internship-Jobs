@@ -70,4 +70,18 @@
 <tr><td>Thales Group</td><td>Beca/internship Young Talent Program 2026-2027</td><td>Madrid Tres Cantos</td><td>2026-07-15</td></tr>
 <tr><td>Hilton Worldwide</td><td>It Intern / Trainee</td><td>Madrid</td><td>2026-07-15</td></tr>
 <tr><td>Payfit</td><td>⚒️ Product Builder Intern ( Prácticas En Desarrollo De Producto) Septiembre 2026</td><td>Barcelona</td><td>2026-07-15</td></tr>
+<tr><td>Celonis</td><td>Intern Marketing Production</td><td>Madrid</td><td>2026-07-16</td></tr>
+<tr><td>Celonis</td><td>Digital Marketing Intern (german-speaking)</td><td>Madrid</td><td>2026-07-16</td></tr>
+<tr><td>OCA Global Corporate Services S.A</td><td>Becario/a Recruitment (inicio Septiembre)</td><td>Barcelona</td><td>2026-07-16</td></tr>
+<tr><td>539</td><td>Beca En Valué & Market Access Sirve</td><td>Madrid</td><td>2026-07-16</td></tr>
+<tr><td>leHACK</td><td>Beca En Valué & Market Access Sirve</td><td>Madrid</td><td>2026-07-16</td></tr>
+<tr><td>Imsapharma Com Ar</td><td>Beca En Valué & Market Access Sirve</td><td>Madrid</td><td>2026-07-16</td></tr>
+<tr><td>MSD (Merck)</td><td>Beca En Valué & Market Access Sirve</td><td>Madrid</td><td>2026-07-16</td></tr>
+<tr><td>Marriott International</td><td>Finance Trainee - Renaissance Barcelona</td><td>Barcelona</td><td>2026-07-16</td></tr>
+<tr><td>VistaCreate</td><td>Software Engineer- Spain Remote</td><td>Barcelona</td><td>2026-07-16</td></tr>
+<tr><td>23</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-07-16</td></tr>
+<tr><td>ING Group</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-07-16</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Beca Claims - Análisis De Datos</td><td>Barcelona</td><td>2026-07-16</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-07-16</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Madrid</td><td>2026-07-16</td></tr>
 </table>
