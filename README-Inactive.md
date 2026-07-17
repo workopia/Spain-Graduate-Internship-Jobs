@@ -84,4 +84,28 @@
 <tr><td>Zurich Insurance Company Ltd</td><td>Beca Claims - Análisis De Datos</td><td>Barcelona</td><td>2026-07-16</td></tr>
 <tr><td>Zurich Insurance Company Ltd</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-07-16</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Madrid</td><td>2026-07-16</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Prácticas En Mejora Continua Y Operaciones (moe)</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>Bosch Group</td><td>Prácticas En Mejora Continua Y Operaciones (moe)</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>Kenvue</td><td>Trade Customization Intern</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Prácticas En Calidad Y Seguridad De Máquinas</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Commercial Strategy Analyst</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>Deoleo Group</td><td>Customer Service Internship</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>MEDTRONIC</td><td>Intern Administrative And Business Support</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>Marsh</td><td>Beca Consultoria Beneficios Empleados</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Beca Consultoria Beneficios Empleados</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a Software Junior C/c++ - Sector Defensa</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>Minsait</td><td>Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>ING</td><td>Cyber Threat Hunter</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>ING</td><td>Junior/mid Security Analyst - 24/7</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-07-17</td></tr>
+<tr><td>minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-07-17</td></tr>
+<tr><td>TIMBERLAND</td><td>Vendedor/a 20h - Timberland</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>VFC Corporation</td><td>Vendedor/a 20h - Timberland</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>VF Corporation</td><td>Vendedor/a 20h - Timberland</td><td>Madrid</td><td>2026-07-17</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Fo San Sebastian De Los Reyes</td><td>Salamanca</td><td>2026-07-17</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h</td><td>Salamanca</td><td>2026-07-17</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate (temporal)- Fo San Sebastian De Los Reyes The Style Outlets</td><td>Salamanca</td><td>2026-07-17</td></tr>
+<tr><td>adidas AG</td><td>Stockroom Associate - (part Time / Fijo Discontinuo) / Bc Barcelona</td><td>Barcelona</td><td>2026-07-17</td></tr>
+<tr><td>UPS</td><td>Warehouse Operator (5.5 Days/office Hours)</td><td>Barcelona</td><td>2026-07-17</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Gran Canaria</td><td>2026-07-17</td></tr>
 </table>
