@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-17",
- "count": 477,
+ "asOf": "2026-07-18",
+ "count": 482,
  "jobs": {
   "27657": {
    "id": "27657",
@@ -32,6 +32,66 @@
    "role": "Sales Advisor Part Time",
    "location": "Madrid"
   },
+  "a07d669d2beace21257d6786d83dda59": {
+   "id": "a07d669d2beace21257d6786d83dda59",
+   "company": "Verisure S.A.",
+   "role": "Transformation Office Intern",
+   "location": "Madrid"
+  },
+  "4d7755215cb414966c27cd2e73d7cac8": {
+   "id": "4d7755215cb414966c27cd2e73d7cac8",
+   "company": "Verisure S.A.",
+   "role": "Beca Comunicación Corporativa - Verisure España",
+   "location": "Spain"
+  },
+  "4f96875f8a73c987ea2a20f777a57059": {
+   "id": "4f96875f8a73c987ea2a20f777a57059",
+   "company": "Verisure S.A.",
+   "role": "Intern – Hris",
+   "location": "Madrid"
+  },
+  "e41a8eb03d14e8ce2f0d54af18fcb656": {
+   "id": "e41a8eb03d14e8ce2f0d54af18fcb656",
+   "company": "Metdeniz",
+   "role": "Taste The Future - Hse Intern - Orbigo, Spain",
+   "location": "ÓRbigo"
+  },
+  "29eacd01cfcc5c04bcf31f98854f536f": {
+   "id": "29eacd01cfcc5c04bcf31f98854f536f",
+   "company": "Mondelez",
+   "role": "Taste The Future - Hse Intern - Orbigo, Spain",
+   "location": "ÓRbigo"
+  },
+  "594f316c12acb71ffcebe70a8e36d61d": {
+   "id": "594f316c12acb71ffcebe70a8e36d61d",
+   "company": "Mercer",
+   "role": "Beca Seguros Salud Y Vida",
+   "location": "Madrid"
+  },
+  "f8c6181ef55cbca2d6a52aac6809d955": {
+   "id": "f8c6181ef55cbca2d6a52aac6809d955",
+   "company": "Mercer",
+   "role": "Employee Benefits Consulting Internship",
+   "location": "Madrid"
+  },
+  "099d1ee20c50579dd21ec4e0a7d28f0c": {
+   "id": "099d1ee20c50579dd21ec4e0a7d28f0c",
+   "company": "Mercer",
+   "role": "Beca Operaciones Retribución Flexible",
+   "location": "Madrid"
+  },
+  "526da83113eb6e138f1a8289b928b51a": {
+   "id": "526da83113eb6e138f1a8289b928b51a",
+   "company": "Mercer",
+   "role": "Beca Seguros",
+   "location": "Madrid"
+  },
+  "671d82932cca1c3e06bd843f8281ffd2": {
+   "id": "671d82932cca1c3e06bd843f8281ffd2",
+   "company": "AIRBUS DS GEO SA",
+   "role": "#discover Ii 2026-2027 Pmo Internship",
+   "location": "Spain"
+  },
   "b8f762ec3b359f949ad455e64ca6f13b": {
    "id": "b8f762ec3b359f949ad455e64ca6f13b",
    "company": "Zurich Insurance Company Ltd",
@@ -59,6 +119,12 @@
   "f2c9116c16ae9b5d07be917e6a160b30": {
    "id": "f2c9116c16ae9b5d07be917e6a160b30",
    "company": "MARSH MCLENNAN",
+   "role": "Beca Operaciones Retribución Flexible",
+   "location": "Madrid"
+  },
+  "c3413f948ffd1d8c19efdf66117c4105": {
+   "id": "c3413f948ffd1d8c19efdf66117c4105",
+   "company": "Marsh & McLennan Companies Inc",
    "role": "Beca Operaciones Retribución Flexible",
    "location": "Madrid"
   },
@@ -92,6 +158,18 @@
    "role": "Internship Communications (m/f/x)",
    "location": "Madrid"
   },
+  "1b57a9313d6bb5e6a4f14502850e6c24": {
+   "id": "1b57a9313d6bb5e6a4f14502850e6c24",
+   "company": "Pgwebtools",
+   "role": "Internship Communications (m/f/x)",
+   "location": "Madrid"
+  },
+  "d7bc5b2d171afacc6e91a2b2b0fca1a3": {
+   "id": "d7bc5b2d171afacc6e91a2b2b0fca1a3",
+   "company": "HORSE",
+   "role": "Internship In Business Continuity Plan &amp; Enterprise Risk Management",
+   "location": "Madrid"
+  },
   "6ef88fbdd470b87d142335fb138df195": {
    "id": "6ef88fbdd470b87d142335fb138df195",
    "company": "ACCIONA Energia",
@@ -113,6 +191,18 @@
   "727314668fdf78a098c854f09c57738a": {
    "id": "727314668fdf78a098c854f09c57738a",
    "company": "164",
+   "role": "Fp Prácticas Digital & Ai",
+   "location": "Madrid"
+  },
+  "5e4b03fb1543cd440e9f1923b7dd4b02": {
+   "id": "5e4b03fb1543cd440e9f1923b7dd4b02",
+   "company": "ACCIONA",
+   "role": "Fp Prácticas Knowledge Applied To Business",
+   "location": "Madrid"
+  },
+  "c327b63c67e6fb9e17bd52149db96088": {
+   "id": "c327b63c67e6fb9e17bd52149db96088",
+   "company": "ACCIONA",
    "role": "Fp Prácticas Digital & Ai",
    "location": "Madrid"
   },
@@ -422,101 +512,23 @@
    "role": "Beca Rrhh Generalista",
    "location": "Madrid"
   },
-  "7fb0843cdf437d75fe9fcb5160f90e71": {
-   "id": "7fb0843cdf437d75fe9fcb5160f90e71",
-   "company": "Telefonica",
-   "role": "Beca Talentum - Circular&value Added Lab",
-   "location": "Madrid"
-  },
-  "24372ffab4e3b4deac231d00a55dccbf": {
-   "id": "24372ffab4e3b4deac231d00a55dccbf",
-   "company": "PTC",
-   "role": "Onshape Business Development Intern",
-   "location": "Barcelona"
-  },
-  "5ba25857ec357ae0d419abf3d8af723a": {
-   "id": "5ba25857ec357ae0d419abf3d8af723a",
-   "company": "AIRBUS DS GEO SA",
-   "role": "#discover Ii 2026-2027/ Procurement Internship",
-   "location": "Spain"
-  },
-  "2cbf6042c9c1f30d79e63ecde9286f94": {
-   "id": "2cbf6042c9c1f30d79e63ecde9286f94",
-   "company": "aeroshiftedge.pics",
-   "role": "#discover Ii 2026-2027/ Procurement Internship",
-   "location": "Spain"
-  },
-  "e5b933bdf12eaed92388dbeee635bbe8": {
-   "id": "e5b933bdf12eaed92388dbeee635bbe8",
-   "company": "Satair (an Airbus Services Company)",
-   "role": "#discover Ii 2026-2027 Internship Fdt Stress Team",
-   "location": "Spain"
-  },
-  "f7af658659cc71695d76323b837a6364": {
-   "id": "f7af658659cc71695d76323b837a6364",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027/ Procurement Internship",
-   "location": "Spain"
-  },
-  "214040523288b71e16329856f5b96e77": {
-   "id": "214040523288b71e16329856f5b96e77",
-   "company": "Marsh",
-   "role": "Beca Grandes Siniestros",
-   "location": "Madrid"
-  },
-  "354f8dcb49539605b407211f1c3c7afb": {
-   "id": "354f8dcb49539605b407211f1c3c7afb",
-   "company": "Bosch Rexroth Pty. Ltd.",
-   "role": "Prácticas En Departamento De Compras Mecanizado",
-   "location": "Madrid"
-  },
-  "8c21c47a854728ffaa6b46782966e2f9": {
-   "id": "8c21c47a854728ffaa6b46782966e2f9",
-   "company": "Bosch Group",
-   "role": "Prácticas En Departamento De Compras Mecanizado",
-   "location": "Madrid"
-  },
-  "e6f62dfcad7b67a439f182016ed1bbf6": {
-   "id": "e6f62dfcad7b67a439f182016ed1bbf6",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#discover Ii 2026-2027 Supply Chain Quality Internship",
-   "location": "Spain"
-  },
-  "9f50d81688201397f2c3c05bbd91b159": {
-   "id": "9f50d81688201397f2c3c05bbd91b159",
-   "company": "Marriott International",
-   "role": "Reservations Internship - The Barcelona Edition",
-   "location": "Barcelona"
-  },
-  "92ce7d3ac0ac23a231f46b153799a268": {
-   "id": "92ce7d3ac0ac23a231f46b153799a268",
-   "company": "Marsh & McLennan Companies Inc",
-   "role": "Beca Consultoria De Inversiones",
-   "location": "Madrid"
-  },
-  "501d473f72714d33721dbd3d0aa78bc2": {
-   "id": "501d473f72714d33721dbd3d0aa78bc2",
-   "company": "Marsh",
-   "role": "Beca Consultoria De Inversiones",
-   "location": "Madrid"
-  },
-  "d2b9c982bef570492f4a238c9d13a612": {
-   "id": "d2b9c982bef570492f4a238c9d13a612",
-   "company": "Nilfisk",
-   "role": "Becario/prácticas Para Labores De Gestión En Departamento De Servicio",
-   "location": "Madrid"
-  },
-  "950b9478e462b0a420391aae9442c1de": {
-   "id": "950b9478e462b0a420391aae9442c1de",
-   "company": "IHG (InterContinental Hotels Group)",
-   "role": "Food & Beverage Internship - Kimpton Vividora Barcelona",
-   "location": "Barcelona"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
    "location": "Madrid"
+  },
+  "243dc84408bba427356faad2400c4c11": {
+   "id": "243dc84408bba427356faad2400c4c11",
+   "company": "Concentrix",
+   "role": "Remote Support Engineer - Barcelona (english-speaking) - Onsite/hybrid After Probation - Hd01",
+   "location": "Barcelona"
+  },
+  "68f55e4bb64430e6bd77f60c1a1519bb": {
+   "id": "68f55e4bb64430e6bd77f60c1a1519bb",
+   "company": "New Relic Inc",
+   "role": "Software Engineer Ii - Backend",
+   "location": "Barcelona"
   },
   "fddb0f1adee0aa3988f89d1c8ef102d8": {
    "id": "fddb0f1adee0aa3988f89d1c8ef102d8",
@@ -548,6 +560,12 @@
    "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
    "location": "Madrid"
   },
+  "e70fdbbe404f00cd0d2081147fc76a47": {
+   "id": "e70fdbbe404f00cd0d2081147fc76a47",
+   "company": "Nouryon",
+   "role": "Technical Service Representative",
+   "location": "Barcelona"
+  },
   "06525e8bf0fc1f0e8241cadae5012e38": {
    "id": "06525e8bf0fc1f0e8241cadae5012e38",
    "company": "N26 GmbH",
@@ -563,6 +581,12 @@
   "209b3cc5fbfb21e22fdaaca21c6ac21e": {
    "id": "209b3cc5fbfb21e22fdaaca21c6ac21e",
    "company": "Airbus Defence and Space SAU",
+   "role": "Simulation Software Engineer – Eurofighter Flight Simulator",
+   "location": "Madrid"
+  },
+  "7857150d27078e8e796de7bddc260f76": {
+   "id": "7857150d27078e8e796de7bddc260f76",
+   "company": "Satair (an Airbus Services Company)",
    "role": "Simulation Software Engineer – Eurofighter Flight Simulator",
    "location": "Madrid"
   },
@@ -968,30 +992,6 @@
    "role": "Junior/mid Security Analyst - 24/7",
    "location": "Madrid"
   },
-  "75c8f382c5f20cbe2006f32bf659520c": {
-   "id": "75c8f382c5f20cbe2006f32bf659520c",
-   "company": "ING Group",
-   "role": "Junior/mid Security Analyst - 24/7",
-   "location": "Madrid"
-  },
-  "6aa0be6bd9195d51d5d630f21134789f": {
-   "id": "6aa0be6bd9195d51d5d630f21134789f",
-   "company": "Solunion",
-   "role": "Técnico/a Corporativo/a De Seguridad",
-   "location": "Madrid"
-  },
-  "0e21678ec19416d63d17ea61e4daa6ec": {
-   "id": "0e21678ec19416d63d17ea61e4daa6ec",
-   "company": "Thales Defense and Security Inc",
-   "role": "Threat Intelligence Analyst",
-   "location": "Madrid"
-  },
-  "9ab953a5792accd9d889dfad4171c86e": {
-   "id": "9ab953a5792accd9d889dfad4171c86e",
-   "company": "Vistaprint",
-   "role": "Software Engineer- Spain Remote",
-   "location": "Barcelona"
-  },
   "7809e105f607bd3c9cb344545f31a723": {
    "id": "7809e105f607bd3c9cb344545f31a723",
    "company": "Boston Consulting Group",
@@ -1081,6 +1081,18 @@
    "company": "minsait",
    "role": "Data Analyst (sql & Sas) - Orientado A Negocio",
    "location": "Barcelona"
+  },
+  "7a35918bc1a2145216de8519c6f54613": {
+   "id": "7a35918bc1a2145216de8519c6f54613",
+   "company": "ING",
+   "role": "Data Analyst",
+   "location": "Madrid"
+  },
+  "6beb3de07e32b8575b12d367f68a1b1a": {
+   "id": "6beb3de07e32b8575b12d367f68a1b1a",
+   "company": "Ingalcivil Com Au",
+   "role": "Data Analyst",
+   "location": "Madrid"
   },
   "6b7f153154db97a6238f1f8dbd853c4f": {
    "id": "6b7f153154db97a6238f1f8dbd853c4f",
@@ -1250,12 +1262,6 @@
    "role": "Beca Análisis De Datos (departamento Prevención De Riesgos Laborales)",
    "location": "Madrid"
   },
-  "d790938c769267d31f0395d6a7552ba1": {
-   "id": "d790938c769267d31f0395d6a7552ba1",
-   "company": "ING",
-   "role": "Data Analyst",
-   "location": "Madrid"
-  },
   "e3065934babc252a006f78e917060f56": {
    "id": "e3065934babc252a006f78e917060f56",
    "company": "Valmont Industries, Inc",
@@ -1406,6 +1412,12 @@
    "role": "Strategic Planning Analyst Intern (m/f/d)",
    "location": "Tajonar"
   },
+  "b419402a2278de95669e730b36d92b21": {
+   "id": "b419402a2278de95669e730b36d92b21",
+   "company": "Airbus Defence and Space SAU",
+   "role": "#discover Ii 2026-2027 / Ethics & Compliance Internship",
+   "location": "Madrid"
+  },
   "9f426e93458286d9b3e1081c3004238f": {
    "id": "9f426e93458286d9b3e1081c3004238f",
    "company": "Ecolab Pty Ltd",
@@ -1459,6 +1471,12 @@
    "company": "Air Products",
    "role": "Graduate Program - Pricing & Business Improvement Analyst",
    "location": "Barcelona"
+  },
+  "96189ed026053642d7a9e7811a99db5d": {
+   "id": "96189ed026053642d7a9e7811a99db5d",
+   "company": "Verisure S.A.",
+   "role": "Beca Curricular - Business Analyst",
+   "location": "Spain"
   },
   "df0403012ccff2bcc49034f2ee8c4b75": {
    "id": "df0403012ccff2bcc49034f2ee8c4b75",
@@ -1813,6 +1831,18 @@
    "company": "minsait",
    "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
    "location": "Salamanca"
+  },
+  "f21873e74f7caa1d53ec9b5f1abeeff4": {
+   "id": "f21873e74f7caa1d53ec9b5f1abeeff4",
+   "company": "KION Group",
+   "role": "Maintenance Technician",
+   "location": "Madrid"
+  },
+  "a2848c91be5b86bfa1bbb4b9ca4975ab": {
+   "id": "a2848c91be5b86bfa1bbb4b9ca4975ab",
+   "company": "fenwick-linde.fr",
+   "role": "Maintenance Technician",
+   "location": "Madrid"
   },
   "3eb2b8bafbfaa3fefea14d7ae2291963": {
    "id": "3eb2b8bafbfaa3fefea14d7ae2291963",

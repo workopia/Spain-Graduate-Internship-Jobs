@@ -108,4 +108,24 @@
 <tr><td>adidas AG</td><td>Stockroom Associate - (part Time / Fijo Discontinuo) / Bc Barcelona</td><td>Barcelona</td><td>2026-07-17</td></tr>
 <tr><td>UPS</td><td>Warehouse Operator (5.5 Days/office Hours)</td><td>Barcelona</td><td>2026-07-17</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Gran Canaria</td><td>2026-07-17</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Circular&value Added Lab</td><td>Madrid</td><td>2026-07-18</td></tr>
+<tr><td>PTC</td><td>Onshape Business Development Intern</td><td>Barcelona</td><td>2026-07-18</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>#discover Ii 2026-2027/ Procurement Internship</td><td>Spain</td><td>2026-07-18</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>#discover Ii 2026-2027/ Procurement Internship</td><td>Spain</td><td>2026-07-18</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>#discover Ii 2026-2027 Internship Fdt Stress Team</td><td>Spain</td><td>2026-07-18</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027/ Procurement Internship</td><td>Spain</td><td>2026-07-18</td></tr>
+<tr><td>Marsh</td><td>Beca Grandes Siniestros</td><td>Madrid</td><td>2026-07-18</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Prácticas En Departamento De Compras Mecanizado</td><td>Madrid</td><td>2026-07-18</td></tr>
+<tr><td>Bosch Group</td><td>Prácticas En Departamento De Compras Mecanizado</td><td>Madrid</td><td>2026-07-18</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#discover Ii 2026-2027 Supply Chain Quality Internship</td><td>Spain</td><td>2026-07-18</td></tr>
+<tr><td>Marriott International</td><td>Reservations Internship - The Barcelona Edition</td><td>Barcelona</td><td>2026-07-18</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Beca Consultoria De Inversiones</td><td>Madrid</td><td>2026-07-18</td></tr>
+<tr><td>Marsh</td><td>Beca Consultoria De Inversiones</td><td>Madrid</td><td>2026-07-18</td></tr>
+<tr><td>Nilfisk</td><td>Becario/prácticas Para Labores De Gestión En Departamento De Servicio</td><td>Madrid</td><td>2026-07-18</td></tr>
+<tr><td>IHG (InterContinental Hotels Group)</td><td>Food & Beverage Internship - Kimpton Vividora Barcelona</td><td>Barcelona</td><td>2026-07-18</td></tr>
+<tr><td>ING Group</td><td>Junior/mid Security Analyst - 24/7</td><td>Madrid</td><td>2026-07-18</td></tr>
+<tr><td>Solunion</td><td>Técnico/a Corporativo/a De Seguridad</td><td>Madrid</td><td>2026-07-18</td></tr>
+<tr><td>Thales Defense and Security Inc</td><td>Threat Intelligence Analyst</td><td>Madrid</td><td>2026-07-18</td></tr>
+<tr><td>Vistaprint</td><td>Software Engineer- Spain Remote</td><td>Barcelona</td><td>2026-07-18</td></tr>
+<tr><td>ING</td><td>Data Analyst</td><td>Madrid</td><td>2026-07-18</td></tr>
 </table>
