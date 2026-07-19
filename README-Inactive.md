@@ -128,4 +128,34 @@
 <tr><td>Thales Defense and Security Inc</td><td>Threat Intelligence Analyst</td><td>Madrid</td><td>2026-07-18</td></tr>
 <tr><td>Vistaprint</td><td>Software Engineer- Spain Remote</td><td>Barcelona</td><td>2026-07-18</td></tr>
 <tr><td>ING</td><td>Data Analyst</td><td>Madrid</td><td>2026-07-18</td></tr>
+<tr><td>avoltaworld</td><td>Intern Planning And Purchasing</td><td>Es</td><td>2026-07-19</td></tr>
+<tr><td>Solunion</td><td>Prácticas Servicio Helpdesk Ti - Solunion Seguros</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>TÜV SÜD</td><td>Becario/a Universitario/a - Estrategia De Negocio Internacional (f,m,d)</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>jobs.abbott</td><td>Comercial Excellence & Admin Intern – Adm - Madrid</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>HERBERT SMITH FREEHILLS</td><td>Becario/a De Documentación Y Gestión Del Conocimiento (krl Intern)</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>Mediasal</td><td>Communications Trainee</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>Carat</td><td>Communications Trainee</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>220</td><td>Communications Trainee</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>#discover I 2026-2027 / Internship In Procurement</td><td>Spain</td><td>2026-07-19</td></tr>
+<tr><td>Airbus SE</td><td>#discover I 2026-2027 / Internship In Procurement</td><td>Spain</td><td>2026-07-19</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Backoffice Intern (hpe)</td><td>Barcelona</td><td>2026-07-19</td></tr>
+<tr><td>Houseoftechcommunity</td><td>Backoffice Intern (hpe)</td><td>Barcelona</td><td>2026-07-19</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Emea Partner Ecosystem Growth</td><td>Barcelona</td><td>2026-07-19</td></tr>
+<tr><td>SIX</td><td>Equity Commercial Department Internship</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>SIX</td><td>Guided Tours & Bme Events Internship (morning Schedule)</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>Otisjob</td><td>Becario(h/m) Administrativo Noster Mataró</td><td>Barcelona</td><td>2026-07-19</td></tr>
+<tr><td>unilever.es</td><td>Internship 26' - Sustainable Business & Communications</td><td>Spain</td><td>2026-07-19</td></tr>
+<tr><td>Telefonica</td><td>Beca Rrhh Generalista</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>Indra Group</td><td>Ingeniero/a Software Junior C/c++ - Sector Defensa</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Simulation Software Engineer – Eurofighter Flight Simulator</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>Indra group</td><td>Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>ING Hubs Spain</td><td>Junior/mid Security Analyst - 24/7</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-07-19</td></tr>
+<tr><td>confiarte.eu</td><td>Técnico/a Especialista En Contabilidad</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>Ahorramas, S.A</td><td>Técnico/a Mantenimiento De Instalaciones Automatizadas</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-07-19</td></tr>
+<tr><td>Skechers</td><td>Vendedor/a - Madrid - Skechers Outlet Las Rozas</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c Glories - Barcelona / Part Time 12h / Permanente</td><td>Barcelona</td><td>2026-07-19</td></tr>
+<tr><td>COS</td><td>Sales Advisor / C.c Glories - Barcelona / Part Time 12h / Permanente</td><td>Barcelona</td><td>2026-07-19</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Madrid</td><td>2026-07-19</td></tr>
 </table>
