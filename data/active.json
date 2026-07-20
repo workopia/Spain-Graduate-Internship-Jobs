@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-19",
- "count": 487,
+ "asOf": "2026-07-20",
+ "count": 490,
  "jobs": {
   "27657": {
    "id": "27657",
@@ -20,17 +20,47 @@
    "role": "Innovation Ai Engineer",
    "location": "Madrid"
   },
-  "2632523": {
-   "id": "2632523",
-   "company": "Boggi Milano",
-   "role": "Sales Advisor",
-   "location": "Barcelona"
-  },
   "2653570": {
    "id": "2653570",
    "company": "Boggi Milano",
    "role": "Sales Advisor Part Time",
    "location": "Madrid"
+  },
+  "06c494c24f2ec7b0c4f455c229ef5e81": {
+   "id": "06c494c24f2ec7b0c4f455c229ef5e81",
+   "company": "Melia",
+   "role": "Prácticas F&b",
+   "location": "Islas Baleares"
+  },
+  "2ccb61d22ea505207f62d9a478479822": {
+   "id": "2ccb61d22ea505207f62d9a478479822",
+   "company": "Nestle Ltd",
+   "role": "Spain Youth / Internship Kitchen - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "f9c77bcf1c8784a783009a1f3453db63": {
+   "id": "f9c77bcf1c8784a783009a1f3453db63",
+   "company": "Nestle Ltd",
+   "role": "Spain Youth / Internship Finance - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "685a40352413ce829586fc808de99402": {
+   "id": "685a40352413ce829586fc808de99402",
+   "company": "Nestle Ltd",
+   "role": "Spain Youth / Internship Operations - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "6c2d5e46cac187320e54395c5862a25a": {
+   "id": "6c2d5e46cac187320e54395c5862a25a",
+   "company": "Nestle Ltd",
+   "role": "Spain Youth / Internship Hr - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "b9126edb536e8c23ab2c0f9dfb7f39c0": {
+   "id": "b9126edb536e8c23ab2c0f9dfb7f39c0",
+   "company": "Nestle Ltd",
+   "role": "Spain Youth / Internship It - September 2026",
+   "location": "Esplugues Llobregat"
   },
   "4053e32601f466ae2a564077389364ce": {
    "id": "4053e32601f466ae2a564077389364ce",
@@ -68,6 +98,30 @@
    "role": "Prácticas En Servicio De Atención Técnica - Nespresso Professional",
    "location": "Spain"
   },
+  "bd4b83a86f0372878116a00a39ae3997": {
+   "id": "bd4b83a86f0372878116a00a39ae3997",
+   "company": "unilever.es",
+   "role": "Research & Development Internship 26' - Packaging (hive)",
+   "location": "Spain"
+  },
+  "afb512ff0d853900858b28f502351ef0": {
+   "id": "afb512ff0d853900858b28f502351ef0",
+   "company": "PTC",
+   "role": "Business Development Intern - Italian Speaker",
+   "location": "Barcelona"
+  },
+  "6fb38eb07534a46ea208264f9f62e9a2": {
+   "id": "6fb38eb07534a46ea208264f9f62e9a2",
+   "company": "PTC",
+   "role": "Business Development Intern - German Speaker",
+   "location": "Barcelona"
+  },
+  "568e1bb8b0804519265b9f9c0ddfa15f": {
+   "id": "568e1bb8b0804519265b9f9c0ddfa15f",
+   "company": "Solunion",
+   "role": "Prácticas Servicio Helpdesk Ti - Solunion Seguros",
+   "location": "Madrid"
+  },
   "cdc33c36341f024c950c1131d8b78037": {
    "id": "cdc33c36341f024c950c1131d8b78037",
    "company": "Coty",
@@ -92,11 +146,11 @@
    "role": "Hema Ds Internship",
    "location": "Madrid"
   },
-  "24119dc8094a64eec44931596f30bfef": {
-   "id": "24119dc8094a64eec44931596f30bfef",
-   "company": "Melia",
-   "role": "Prácticas F&b",
-   "location": "Islas Baleares"
+  "1d3238ce4866dd9ef8592d57f4660963": {
+   "id": "1d3238ce4866dd9ef8592d57f4660963",
+   "company": "Junior Achievement",
+   "role": "Hema Ds Internship",
+   "location": "Madrid"
   },
   "fe79d3c8d563cc2591f2c49767734130": {
    "id": "fe79d3c8d563cc2591f2c49767734130",
@@ -221,6 +275,12 @@
   "f3feaf4410d6ba638621a541e00eb093": {
    "id": "f3feaf4410d6ba638621a541e00eb093",
    "company": "Menselsa",
+   "role": "Taste The Future - Hse Intern - Orbigo, Spain",
+   "location": "ÓRbigo"
+  },
+  "e9aad82b6d1c884141f095897fc894af": {
+   "id": "e9aad82b6d1c884141f095897fc894af",
+   "company": "Mondelēz International",
    "role": "Taste The Future - Hse Intern - Orbigo, Spain",
    "location": "ÓRbigo"
   },
@@ -444,72 +504,6 @@
    "id": "4dda2a7c75171b79dba70cd37a8a795a",
    "company": "Zurich Insurance UK",
    "role": "Trainee Seguros Y Pensiones",
-   "location": "Barcelona"
-  },
-  "b0002e82c774acc0d8832e5af13a28dc": {
-   "id": "b0002e82c774acc0d8832e5af13a28dc",
-   "company": "Palladium Hotel Group",
-   "role": "Prácticas - Hoteles Ibiza - Cocina Y Sala",
-   "location": "Baleares"
-  },
-  "b28a17870ba319f4883c280d5d803943": {
-   "id": "b28a17870ba319f4883c280d5d803943",
-   "company": "W Brisbane",
-   "role": "Welcome Trainee - W Barcelona",
-   "location": "Barcelona"
-  },
-  "1918d6b1518a9b00a9f7e1cc39780810": {
-   "id": "1918d6b1518a9b00a9f7e1cc39780810",
-   "company": "Bureau Veritas",
-   "role": "Becario/a Departamento De Pesca Sostenible",
-   "location": "Madrid"
-  },
-  "3c486e0f3d6490a0d5f4b4b42e21938f": {
-   "id": "3c486e0f3d6490a0d5f4b4b42e21938f",
-   "company": "Bureau Veritas",
-   "role": "Beca Arquitectura Naval",
-   "location": "Madrid"
-  },
-  "0b65324dbdfeac5d93bbbf99963c372b": {
-   "id": "0b65324dbdfeac5d93bbbf99963c372b",
-   "company": "avoltaworld",
-   "role": "Intern Supply Chain",
-   "location": "Es"
-  },
-  "46384d99cdfd58f984339bea2cc01f61": {
-   "id": "46384d99cdfd58f984339bea2cc01f61",
-   "company": "Hp",
-   "role": "Circularity Insights And Compliance Intern",
-   "location": "Barcelona"
-  },
-  "c37beb0d9a0a93187287c0ca0ade4e1f": {
-   "id": "c37beb0d9a0a93187287c0ca0ade4e1f",
-   "company": "HP Inc",
-   "role": "Circularity Insights And Compliance Intern",
-   "location": "Barcelona"
-  },
-  "8d897ee482501954ef85601a36f8b285": {
-   "id": "8d897ee482501954ef85601a36f8b285",
-   "company": "MAPFRE",
-   "role": "Beca En Inteligencia Artificial",
-   "location": "Madrid"
-  },
-  "bf91b02608445870e54c936bb93c3557": {
-   "id": "bf91b02608445870e54c936bb93c3557",
-   "company": "Grupo Hotusa",
-   "role": "Prácticas Administración Economato Madrid",
-   "location": "Madrid"
-  },
-  "aee9bb3c71742375d1542514e8fe6319": {
-   "id": "aee9bb3c71742375d1542514e8fe6319",
-   "company": "Grupo Hotusa",
-   "role": "Prácticas Comercial Win Way - Madrid",
-   "location": "Madrid"
-  },
-  "f43de0efd38fbe595c8daece24a70d40": {
-   "id": "f43de0efd38fbe595c8daece24a70d40",
-   "company": "Grupo Hotusa",
-   "role": "Prácticas Recepción Eurostars Hotels (barcelona)",
    "location": "Barcelona"
   },
   "05d41416d7ab8aff1705f8b1a29c9405": {
@@ -1094,6 +1088,12 @@
    "role": "Data Analyst - Business Banking",
    "location": "Madrid"
   },
+  "a78ac581209f2cdee7e3cf1db00b68eb": {
+   "id": "a78ac581209f2cdee7e3cf1db00b68eb",
+   "company": "224",
+   "role": "Data Analyst Business Banking",
+   "location": "Madrid"
+  },
   "7ce34ae59f95cf3b2e92c6c651b46af3": {
    "id": "7ce34ae59f95cf3b2e92c6c651b46af3",
    "company": "Levis Media",
@@ -1496,6 +1496,12 @@
    "role": "Beca Curricular - Business Analyst",
    "location": "Spain"
   },
+  "12a13337f43a58b51f385e7da61a7ccb": {
+   "id": "12a13337f43a58b51f385e7da61a7ccb",
+   "company": "Springernature",
+   "role": "Finance Analyst Iberia & We",
+   "location": "Madrid"
+  },
   "df0403012ccff2bcc49034f2ee8c4b75": {
    "id": "df0403012ccff2bcc49034f2ee8c4b75",
    "company": "Zurich Insurance Company Ltd",
@@ -1789,12 +1795,6 @@
    "company": "Marsh McLennan",
    "role": "Reinsurance Accountant / Contable Técnico De Reaseguro",
    "location": "Madrid"
-  },
-  "99985953d4f0a0804d27638ef222e31c": {
-   "id": "99985953d4f0a0804d27638ef222e31c",
-   "company": "PIMEC Jobs",
-   "role": "Contable Fiscal",
-   "location": "Barcelona"
   },
   "e9827e9267805b8669922159e05f48e8": {
    "id": "e9827e9267805b8669922159e05f48e8",
@@ -2180,9 +2180,39 @@
    "role": "O&m Technician (all Genders) - Zaragoza",
    "location": "Zaragoza"
   },
+  "3a619dfdbb1a36e6fb591433e6eb4aea": {
+   "id": "3a619dfdbb1a36e6fb591433e6eb4aea",
+   "company": "Levis Media",
+   "role": "Sales Stylist 25h Lfo La Roca",
+   "location": "Barcelona"
+  },
+  "e9deb6a466c73788344057fa2b9eb451": {
+   "id": "e9deb6a466c73788344057fa2b9eb451",
+   "company": "Levis Media",
+   "role": "Sales Stylist 30h Lfo La Roca",
+   "location": "Barcelona"
+  },
+  "0d6f1aa24f0fb7d23ab95485acdb3bed": {
+   "id": "0d6f1aa24f0fb7d23ab95485acdb3bed",
+   "company": "Levis Media",
+   "role": "Vendedor/a 20h Ls Eci Sanchinarro",
+   "location": "Madrid"
+  },
+  "30f1197bd9c6eddde8cd52190dda9326": {
+   "id": "30f1197bd9c6eddde8cd52190dda9326",
+   "company": "adidas AG",
+   "role": "Sales Associate (part Time) - Fo Las Rozas.",
+   "location": "Madrid"
+  },
   "68e9b3d1201ef05b74e4079b77bf33d8": {
    "id": "68e9b3d1201ef05b74e4079b77bf33d8",
    "company": "Vwofdtla",
+   "role": "Vendedor/a 20h Sabadell - Eastpak",
+   "location": "Barcelona"
+  },
+  "fc4285bbdedea4bb2b6a61f4042e79bf": {
+   "id": "fc4285bbdedea4bb2b6a61f4042e79bf",
+   "company": "VFC Corporation",
    "role": "Vendedor/a 20h Sabadell - Eastpak",
    "location": "Barcelona"
   },
@@ -2400,12 +2430,6 @@
    "id": "82d8df6dee059292ba257842c5a6f327",
    "company": "obramat.es",
    "role": "Vendedor/a Experto/a En Pintura_almacen Hospitalet",
-   "location": "Barcelona"
-  },
-  "3a619dfdbb1a36e6fb591433e6eb4aea": {
-   "id": "3a619dfdbb1a36e6fb591433e6eb4aea",
-   "company": "Levis Media",
-   "role": "Sales Stylist 25h Lfo La Roca (interinidad)",
    "location": "Barcelona"
   },
   "166326d4cdacf3f334882347a6069e08": {
@@ -2630,35 +2654,23 @@
    "role": "Vendedor/a Materiales (fd)_almacén Salamanca",
    "location": "Salamanca"
   },
-  "178471e57d83c6daa14172b8b855d903": {
-   "id": "178471e57d83c6daa14172b8b855d903",
-   "company": "PIMEC Jobs",
-   "role": "Auxiliar Comercial (barcelona) - Integral Plus",
-   "location": "Barcelona"
+  "d8dabd959fc7f4f989c13ae24d71b67c": {
+   "id": "d8dabd959fc7f4f989c13ae24d71b67c",
+   "company": "Primark",
+   "role": "Retail Assistant - Dependiente/a",
+   "location": "Cantabria"
   },
-  "e5af6bd70535d52702779cb6d7059141": {
-   "id": "e5af6bd70535d52702779cb6d7059141",
-   "company": "Temporing",
-   "role": "Dependiente/a De Administración De Lotería Sabadell Incorporación A Empresa",
-   "location": "Barcelona"
-  },
-  "89d2848ec17bd0f322bacd5d527a8bca": {
-   "id": "89d2848ec17bd0f322bacd5d527a8bca",
-   "company": "Temporing",
-   "role": "Carretillero/a Preparador/a De Pedidos",
-   "location": "Barcelona"
+  "0c2fea86a14aad27b8d9a7e94fd3f795": {
+   "id": "0c2fea86a14aad27b8d9a7e94fd3f795",
+   "company": "Bertrandt Group",
+   "role": "Técnico/a Junior De Administración",
+   "location": "Madrid"
   },
   "334c8873038da7b79b3cab8813cda133": {
    "id": "334c8873038da7b79b3cab8813cda133",
    "company": "Melia",
    "role": "F&b Luxury B & Sa Out Specialist",
    "location": "Islas Baleares"
-  },
-  "c23fbec4192e532efa4cb24c11fefb11": {
-   "id": "c23fbec4192e532efa4cb24c11fefb11",
-   "company": "Primark",
-   "role": "Retail Assistant - Dependiente/a",
-   "location": "Barcelona"
   },
   "c33c02e117777d7cecc65d40495d79c3": {
    "id": "c33c02e117777d7cecc65d40495d79c3",
@@ -2737,6 +2749,12 @@
    "company": "PIMEC Jobs",
    "role": "Aux Administrativo/a Comercial Con Francés",
    "location": "Maresme"
+  },
+  "99c433778b75ff76427849ea36932d3f": {
+   "id": "99c433778b75ff76427849ea36932d3f",
+   "company": "Printful",
+   "role": "Part-time Administrative Assistant (20h/week)",
+   "location": "Sant Climent De Llobregat"
   },
   "0d5f107dd1de62975b519173accddf68": {
    "id": "0d5f107dd1de62975b519173accddf68",

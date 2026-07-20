@@ -158,4 +158,22 @@
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c Glories - Barcelona / Part Time 12h / Permanente</td><td>Barcelona</td><td>2026-07-19</td></tr>
 <tr><td>COS</td><td>Sales Advisor / C.c Glories - Barcelona / Part Time 12h / Permanente</td><td>Barcelona</td><td>2026-07-19</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Madrid</td><td>2026-07-19</td></tr>
+<tr><td>Boggi Milano</td><td>Sales Advisor</td><td>Barcelona</td><td>2026-07-20</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b</td><td>Islas Baleares</td><td>2026-07-20</td></tr>
+<tr><td>Palladium Hotel Group</td><td>Prácticas - Hoteles Ibiza - Cocina Y Sala</td><td>Baleares</td><td>2026-07-20</td></tr>
+<tr><td>W Brisbane</td><td>Welcome Trainee - W Barcelona</td><td>Barcelona</td><td>2026-07-20</td></tr>
+<tr><td>Bureau Veritas</td><td>Becario/a Departamento De Pesca Sostenible</td><td>Madrid</td><td>2026-07-20</td></tr>
+<tr><td>Bureau Veritas</td><td>Beca Arquitectura Naval</td><td>Madrid</td><td>2026-07-20</td></tr>
+<tr><td>avoltaworld</td><td>Intern Supply Chain</td><td>Es</td><td>2026-07-20</td></tr>
+<tr><td>Hp</td><td>Circularity Insights And Compliance Intern</td><td>Barcelona</td><td>2026-07-20</td></tr>
+<tr><td>HP Inc</td><td>Circularity Insights And Compliance Intern</td><td>Barcelona</td><td>2026-07-20</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Inteligencia Artificial</td><td>Madrid</td><td>2026-07-20</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Administración Economato Madrid</td><td>Madrid</td><td>2026-07-20</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Comercial Win Way - Madrid</td><td>Madrid</td><td>2026-07-20</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Recepción Eurostars Hotels (barcelona)</td><td>Barcelona</td><td>2026-07-20</td></tr>
+<tr><td>PIMEC Jobs</td><td>Contable Fiscal</td><td>Barcelona</td><td>2026-07-20</td></tr>
+<tr><td>PIMEC Jobs</td><td>Auxiliar Comercial (barcelona) - Integral Plus</td><td>Barcelona</td><td>2026-07-20</td></tr>
+<tr><td>Temporing</td><td>Dependiente/a De Administración De Lotería Sabadell Incorporación A Empresa</td><td>Barcelona</td><td>2026-07-20</td></tr>
+<tr><td>Temporing</td><td>Carretillero/a Preparador/a De Pedidos</td><td>Barcelona</td><td>2026-07-20</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Barcelona</td><td>2026-07-20</td></tr>
 </table>
