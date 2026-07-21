@@ -176,4 +176,23 @@
 <tr><td>Temporing</td><td>Dependiente/a De Administración De Lotería Sabadell Incorporación A Empresa</td><td>Barcelona</td><td>2026-07-20</td></tr>
 <tr><td>Temporing</td><td>Carretillero/a Preparador/a De Pedidos</td><td>Barcelona</td><td>2026-07-20</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Barcelona</td><td>2026-07-20</td></tr>
+<tr><td>ACCIONA</td><td>Fp Prácticas Digital & Ai</td><td>Madrid</td><td>2026-07-21</td></tr>
+<tr><td>Bertrandt Group</td><td>Requirements & Safety Documentation - Intern</td><td>28906</td><td>2026-07-21</td></tr>
+<tr><td>Marriott International</td><td>It Trainee - W Barcelona</td><td>Barcelona</td><td>2026-07-21</td></tr>
+<tr><td>The Ritz-Carlton</td><td>It Trainee - W Barcelona</td><td>Barcelona</td><td>2026-07-21</td></tr>
+<tr><td>ATREVIA</td><td>Beca Periodismo- Atrevia Madrid</td><td>Madrid</td><td>2026-07-21</td></tr>
+<tr><td>repsol</td><td>Prácticas Talent Energy</td><td>Spain</td><td>2026-07-21</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)</td><td>Tajonar</td><td>2026-07-21</td></tr>
+<tr><td>Nordex SE</td><td>Project Manager Support Intern (m/f/d)</td><td>Tajonar</td><td>2026-07-21</td></tr>
+<tr><td>Nordex SE</td><td>Pmd Process & Automation Intern (m/f/d)</td><td>Mutilva</td><td>2026-07-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Canal Corredores</td><td>Barcelona</td><td>2026-07-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Usp Construcción</td><td>Madrid</td><td>2026-07-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Transformación & Automatización</td><td>Barcelona</td><td>2026-07-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Trainee Seguros Y Pensiones</td><td>Barcelona</td><td>2026-07-21</td></tr>
+<tr><td>Indra Group</td><td>Cyber Threat Intelligence Analyst. Madrid</td><td>Madrid</td><td>2026-07-21</td></tr>
+<tr><td>Indra group</td><td>Ingeniero Front Vue.js</td><td>Barcelona</td><td>2026-07-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Analyst / Data Engineer (commercial Insurance)</td><td>Barcelona</td><td>2026-07-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Claims - Análisis De Datos</td><td>Barcelona</td><td>2026-07-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-07-21</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Cantabria</td><td>2026-07-21</td></tr>
 </table>
