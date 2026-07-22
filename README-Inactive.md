@@ -195,4 +195,11 @@
 <tr><td>Zurich Insurance UK</td><td>Beca Claims - Análisis De Datos</td><td>Barcelona</td><td>2026-07-21</td></tr>
 <tr><td>Zurich Insurance UK</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-07-21</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Cantabria</td><td>2026-07-21</td></tr>
+<tr><td>ACCIONA Energia</td><td>Fp Prácticas Knowledge Applied To Business</td><td>Madrid</td><td>2026-07-22</td></tr>
+<tr><td>ACCIONA Energia</td><td>Fp Prácticas Digital & Ai</td><td>Madrid</td><td>2026-07-22</td></tr>
+<tr><td>164</td><td>Fp Prácticas Knowledge Applied To Business</td><td>Madrid</td><td>2026-07-22</td></tr>
+<tr><td>164</td><td>Fp Prácticas Digital & Ai</td><td>Madrid</td><td>2026-07-22</td></tr>
+<tr><td>ACCIONA</td><td>Fp Prácticas Knowledge Applied To Business</td><td>Madrid</td><td>2026-07-22</td></tr>
+<tr><td>Indra group</td><td>Líder De Equipo De Desarrollo Sw De Backoffice Portales</td><td>Madrid</td><td>2026-07-22</td></tr>
+<tr><td>OBRAMAT</td><td>Vendedor/a Materiales (fd)_almacén Salamanca</td><td>Salamanca</td><td>2026-07-22</td></tr>
 </table>

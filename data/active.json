@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-21",
- "count": 497,
+ "asOf": "2026-07-22",
+ "count": 500,
  "jobs": {
   "27657": {
    "id": "27657",
@@ -26,6 +26,24 @@
    "role": "Sales Advisor Part Time",
    "location": "Madrid"
   },
+  "7af8bc69f1692bb27c2932f666b14eef": {
+   "id": "7af8bc69f1692bb27c2932f666b14eef",
+   "company": "St. Regis Hotels & Resorts",
+   "role": "Welcome Trainee - W Barcelona",
+   "location": "Barcelona"
+  },
+  "b3390a0da2c0ac52cbd6373d066796cc": {
+   "id": "b3390a0da2c0ac52cbd6373d066796cc",
+   "company": "Marriott International",
+   "role": "Front Office Trainee",
+   "location": "Barcelona"
+  },
+  "e8f0e6431e0fb5bc52d89c664d568122": {
+   "id": "e8f0e6431e0fb5bc52d89c664d568122",
+   "company": "Marriott International",
+   "role": "Welcome Trainee - W Barcelona",
+   "location": "Barcelona"
+  },
   "c15baea58dafb00c183594e7f01537a3": {
    "id": "c15baea58dafb00c183594e7f01537a3",
    "company": "ACCIONA",
@@ -43,6 +61,12 @@
    "company": "Avanade",
    "role": "Avanade Campus Fp Clara Del Rey: Prácticas En Crm Con Tecnologías Microsoft",
    "location": "Clara Del Rey"
+  },
+  "9c47de06f87a576c5cdc965b08da517c": {
+   "id": "9c47de06f87a576c5cdc965b08da517c",
+   "company": "TEAM LEWIS",
+   "role": "Content Intern B2b Tech",
+   "location": "Madrid"
   },
   "f44c35d503da471d7aaee4b249d5c36f": {
    "id": "f44c35d503da471d7aaee4b249d5c36f",
@@ -446,6 +470,12 @@
    "role": "Finance Trainee - W Barcelona",
    "location": "Barcelona"
   },
+  "2182bc5ffb2573788468485b2b020504": {
+   "id": "2182bc5ffb2573788468485b2b020504",
+   "company": "Marriott International",
+   "role": "Finance Trainee - W Barcelona",
+   "location": "Barcelona"
+  },
   "9bcbc44271b9c4b01f57f1d8dce41764": {
    "id": "9bcbc44271b9c4b01f57f1d8dce41764",
    "company": "unilever.es",
@@ -476,41 +506,17 @@
    "role": "Internship In Business Continuity Plan &amp; Enterprise Risk Management",
    "location": "Madrid"
   },
-  "6ef88fbdd470b87d142335fb138df195": {
-   "id": "6ef88fbdd470b87d142335fb138df195",
-   "company": "ACCIONA Energia",
-   "role": "Fp Prácticas Knowledge Applied To Business",
-   "location": "Madrid"
-  },
-  "84b2e342364c6ac9fba0467fae2a0944": {
-   "id": "84b2e342364c6ac9fba0467fae2a0944",
-   "company": "ACCIONA Energia",
-   "role": "Fp Prácticas Digital & Ai",
-   "location": "Madrid"
-  },
-  "cbf03cde501043da7cd95805f210899c": {
-   "id": "cbf03cde501043da7cd95805f210899c",
-   "company": "164",
-   "role": "Fp Prácticas Knowledge Applied To Business",
-   "location": "Madrid"
-  },
-  "727314668fdf78a098c854f09c57738a": {
-   "id": "727314668fdf78a098c854f09c57738a",
-   "company": "164",
-   "role": "Fp Prácticas Digital & Ai",
-   "location": "Madrid"
-  },
-  "5e4b03fb1543cd440e9f1923b7dd4b02": {
-   "id": "5e4b03fb1543cd440e9f1923b7dd4b02",
-   "company": "ACCIONA",
-   "role": "Fp Prácticas Knowledge Applied To Business",
-   "location": "Madrid"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
    "location": "Madrid"
+  },
+  "6969db6100ad99db2b252c42b4f71d8e": {
+   "id": "6969db6100ad99db2b252c42b4f71d8e",
+   "company": "D-EDGE",
+   "role": "Technical Support Specialist (m/f/nb) Fixed-term Contract",
+   "location": "Barcelona"
   },
   "5020dd7dee452c01a34dd665a3784b55": {
    "id": "5020dd7dee452c01a34dd665a3784b55",
@@ -980,10 +986,10 @@
    "role": "Ingeniero/a Backend Java - Barcelona (hibrido))",
    "location": "Barcelona"
   },
-  "0a7d3c63559c5b9c606193eee0f03da5": {
-   "id": "0a7d3c63559c5b9c606193eee0f03da5",
-   "company": "Indra group",
-   "role": "Líder De Equipo De Desarrollo Sw De Backoffice Portales",
+  "181c9894ed40ef1cecc3a0e4b8021c12": {
+   "id": "181c9894ed40ef1cecc3a0e4b8021c12",
+   "company": "Civitatis",
+   "role": "Data Analyst Intern",
    "location": "Madrid"
   },
   "7809e105f607bd3c9cb344545f31a723": {
@@ -1057,6 +1063,12 @@
    "company": "Airbus Defence and Space SAU",
    "role": "#discover Ii 2026/2027 Map Systems Internship",
    "location": "Spain"
+  },
+  "106cb6a4dc204f8329a78072eeede140": {
+   "id": "106cb6a4dc204f8329a78072eeede140",
+   "company": "Civitatis",
+   "role": "Data Analyst I",
+   "location": "Madrid"
   },
   "b798c8562932492a3eab68c92cb7f7af": {
    "id": "b798c8562932492a3eab68c92cb7f7af",
@@ -1501,6 +1513,12 @@
    "company": "Air Products",
    "role": "Graduate Program - Pricing & Business Improvement Analyst",
    "location": "Barcelona"
+  },
+  "d8ae5c4ae757a81dc982d29e253c1bed": {
+   "id": "d8ae5c4ae757a81dc982d29e253c1bed",
+   "company": "Ivivamedical",
+   "role": "Business Analyst",
+   "location": "Spain"
   },
   "f47a385a951d82ecba5e5e53894945ec": {
    "id": "f47a385a951d82ecba5e5e53894945ec",
@@ -2216,6 +2234,18 @@
    "role": "O&m Technician (all Genders) - Zaragoza",
    "location": "Zaragoza"
   },
+  "2ad43141152cf6ecc37c30c98d6b6851": {
+   "id": "2ad43141152cf6ecc37c30c98d6b6851",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor (24h - Contrato Temporal)",
+   "location": "Madrid"
+  },
+  "eafaee4b05b7b055f88d8ce3887e722b": {
+   "id": "eafaee4b05b7b055f88d8ce3887e722b",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor / C.c Splau - Cornellà / Part Time 12h / Permanente",
+   "location": "Barcelona"
+  },
   "3a619dfdbb1a36e6fb591433e6eb4aea": {
    "id": "3a619dfdbb1a36e6fb591433e6eb4aea",
    "company": "Levis Media",
@@ -2630,12 +2660,6 @@
    "role": "Vendedor/a 24h Grandes Almacenes Madrid",
    "location": "Madrid"
   },
-  "2ad43141152cf6ecc37c30c98d6b6851": {
-   "id": "2ad43141152cf6ecc37c30c98d6b6851",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor (12 Horas)",
-   "location": "Madrid"
-  },
   "ad11da01155e97d5e87eb297d98b8fc9": {
    "id": "ad11da01155e97d5e87eb297d98b8fc9",
    "company": "COS",
@@ -2683,12 +2707,6 @@
    "company": "Kering",
    "role": "Balenciaga Sales & Client Advisor",
    "location": "Barcelona"
-  },
-  "00cb71f5c3a608541f478e3a1a04a4dc": {
-   "id": "00cb71f5c3a608541f478e3a1a04a4dc",
-   "company": "OBRAMAT",
-   "role": "Vendedor/a Materiales (fd)_almacén Salamanca",
-   "location": "Salamanca"
   },
   "9f4d120c104efc900db7634594b1433d": {
    "id": "9f4d120c104efc900db7634594b1433d",
