@@ -202,4 +202,23 @@
 <tr><td>ACCIONA</td><td>Fp Prácticas Knowledge Applied To Business</td><td>Madrid</td><td>2026-07-22</td></tr>
 <tr><td>Indra group</td><td>Líder De Equipo De Desarrollo Sw De Backoffice Portales</td><td>Madrid</td><td>2026-07-22</td></tr>
 <tr><td>OBRAMAT</td><td>Vendedor/a Materiales (fd)_almacén Salamanca</td><td>Salamanca</td><td>2026-07-22</td></tr>
+<tr><td>DKSH Corporate Shared Services Center Sdn Bhd</td><td>Intern, Tax (europe) - 6 To 12 Months</td><td>Barcelona</td><td>2026-07-23</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Finance Trainee - W Barcelona</td><td>Barcelona</td><td>2026-07-23</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Finance Trainee - W Barcelona</td><td>Barcelona</td><td>2026-07-23</td></tr>
+<tr><td>W Brisbane</td><td>Finance Trainee - W Barcelona</td><td>Barcelona</td><td>2026-07-23</td></tr>
+<tr><td>Marriott International</td><td>Finance Trainee - W Barcelona</td><td>Barcelona</td><td>2026-07-23</td></tr>
+<tr><td>unilever.es</td><td>Internship 26' - Internal Communications And Stakeholder Engagement (hive)</td><td>Spain</td><td>2026-07-23</td></tr>
+<tr><td>PG Solutions</td><td>Internship Communications (m/f/x)</td><td>Madrid</td><td>2026-07-23</td></tr>
+<tr><td>Getlegalmexico</td><td>Internship Communications (m/f/x)</td><td>Madrid</td><td>2026-07-23</td></tr>
+<tr><td>Pgwebtools</td><td>Internship Communications (m/f/x)</td><td>Madrid</td><td>2026-07-23</td></tr>
+<tr><td>HORSE</td><td>Internship In Business Continuity Plan &amp; Enterprise Risk Management</td><td>Madrid</td><td>2026-07-23</td></tr>
+<tr><td>Indra</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-07-23</td></tr>
+<tr><td>ING</td><td>Novice Backend Software Engineer (temporary)</td><td>Madrid</td><td>2026-07-23</td></tr>
+<tr><td>Santander Auto Software</td><td>Back-end Software Engineer</td><td>Madrid</td><td>2026-07-23</td></tr>
+<tr><td>minsait</td><td>Ingeniero/a Backend Java - Barcelona (hibrido))</td><td>Barcelona</td><td>2026-07-23</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-07-23</td></tr>
+<tr><td>minsait</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-07-23</td></tr>
+<tr><td>minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-07-23</td></tr>
+<tr><td>sportsconnection.dk</td><td>Vendedor/a - Jornada Parcial 20h - Viladecans</td><td>Barcelona</td><td>2026-07-23</td></tr>
+<tr><td>Kering</td><td>Balenciaga Sales & Client Advisor</td><td>Barcelona</td><td>2026-07-23</td></tr>
 </table>
