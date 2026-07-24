@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-23",
- "count": 505,
+ "asOf": "2026-07-24",
+ "count": 526,
  "jobs": {
   "27657": {
    "id": "27657",
@@ -26,6 +26,36 @@
    "role": "Sales Advisor Part Time",
    "location": "Madrid"
   },
+  "6a8afa7f7012f0abcdbcef65d07ee4e6": {
+   "id": "6a8afa7f7012f0abcdbcef65d07ee4e6",
+   "company": "Laboral Kutxa",
+   "role": "¿quieres Hacer Prácticas En Laboral Kutxa? Envíanos Tu Currículum...",
+   "location": "Spain"
+  },
+  "fd3b7a1d3707fec228b7818bfe021912": {
+   "id": "fd3b7a1d3707fec228b7818bfe021912",
+   "company": "Coty Inc.",
+   "role": "Demand Intern",
+   "location": "Barcelona"
+  },
+  "472609b3cbd92db7f74224b277a21cbd": {
+   "id": "472609b3cbd92db7f74224b277a21cbd",
+   "company": "Coty Inc.",
+   "role": "Commercial Internship Program Iberia",
+   "location": "Barcelona"
+  },
+  "b2a28cabaf4d9763f0ab6ccd327b08c7": {
+   "id": "b2a28cabaf4d9763f0ab6ccd327b08c7",
+   "company": "Abbott Diabetes Care",
+   "role": "Formación Comercial Internship - Core Lab (madrid)",
+   "location": "Madrid"
+  },
+  "58f614f2750b3f782e17d9f3f41da03b": {
+   "id": "58f614f2750b3f782e17d9f3f41da03b",
+   "company": "Melia",
+   "role": "Prácticas Revenue",
+   "location": "Islas Baleares"
+  },
   "9efed560976f1a646b76700d172e6b3f": {
    "id": "9efed560976f1a646b76700d172e6b3f",
    "company": "licensed to TBVSC LLC",
@@ -37,6 +67,12 @@
    "company": "aeroshiftedge.pics",
    "role": "Discover Ii / 2026-2027 / Structural Dynamics, Aeroelastic, And Impact-type Challenges Internship",
    "location": "Spain"
+  },
+  "ad54f0adaaf88b52742b1eaa8a435c74": {
+   "id": "ad54f0adaaf88b52742b1eaa8a435c74",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Departamento Explotación - Barcelona",
+   "location": "Barcelona"
   },
   "7af8bc69f1692bb27c2932f666b14eef": {
    "id": "7af8bc69f1692bb27c2932f666b14eef",
@@ -68,6 +104,12 @@
    "role": "Taste The Future - People Lead Intern - Madrid, Spain",
    "location": "Madrid"
   },
+  "1b3966a41d590d7e28b6df23b38e8799": {
+   "id": "1b3966a41d590d7e28b6df23b38e8799",
+   "company": "Mondelēz International",
+   "role": "Taste The Future - People Lead Intern - Madrid, Spain",
+   "location": "Madrid"
+  },
   "212dfd13dce3d4347350795c6940aff6": {
    "id": "212dfd13dce3d4347350795c6940aff6",
    "company": "Nestle SA",
@@ -92,6 +134,12 @@
    "role": "Becario/prácticas",
    "location": "Madrid"
   },
+  "2eb01d830cc2e035d99705b242b1cfa0": {
+   "id": "2eb01d830cc2e035d99705b242b1cfa0",
+   "company": "Springnature",
+   "role": "Becario/prácticas",
+   "location": "Madrid"
+  },
   "c15baea58dafb00c183594e7f01537a3": {
    "id": "c15baea58dafb00c183594e7f01537a3",
    "company": "ACCIONA",
@@ -104,6 +152,12 @@
    "role": "Beca Fp Practicas Sea (torrejón)",
    "location": "TorrejóN"
   },
+  "353cc482b2d96ac29f6f8ffee6f79a10": {
+   "id": "353cc482b2d96ac29f6f8ffee6f79a10",
+   "company": "ACCIONA Energía",
+   "role": "Beca Fp Practicas Sea (torrejón)",
+   "location": "TorrejóN"
+  },
   "1b2a8eb0affd2e46548b8d65a877d9a3": {
    "id": "1b2a8eb0affd2e46548b8d65a877d9a3",
    "company": "Procter & Gamble (P&G)",
@@ -113,6 +167,12 @@
   "5d04a005299ece5b114a8b199ccbcd09": {
    "id": "5d04a005299ece5b114a8b199ccbcd09",
    "company": "Pledgr",
+   "role": "Human Resources Internship (m/f/x)",
+   "location": "Madrid"
+  },
+  "223d161a83f743debcf3ed7342819e98": {
+   "id": "223d161a83f743debcf3ed7342819e98",
+   "company": "Pgcareers",
    "role": "Human Resources Internship (m/f/x)",
    "location": "Madrid"
   },
@@ -308,12 +368,6 @@
    "role": "Hema Ds Internship",
    "location": "Madrid"
   },
-  "fe79d3c8d563cc2591f2c49767734130": {
-   "id": "fe79d3c8d563cc2591f2c49767734130",
-   "company": "Melia",
-   "role": "Prácticas Revenue",
-   "location": "Islas Baleares"
-  },
   "d8d327df3dbd439f6efdc2dca7857529": {
    "id": "d8d327df3dbd439f6efdc2dca7857529",
    "company": "Melia",
@@ -452,65 +506,29 @@
    "role": "Employee Benefits Consulting Internship",
    "location": "Madrid"
   },
-  "099d1ee20c50579dd21ec4e0a7d28f0c": {
-   "id": "099d1ee20c50579dd21ec4e0a7d28f0c",
-   "company": "Mercer",
-   "role": "Beca Operaciones Retribución Flexible",
-   "location": "Madrid"
-  },
-  "526da83113eb6e138f1a8289b928b51a": {
-   "id": "526da83113eb6e138f1a8289b928b51a",
-   "company": "Mercer",
-   "role": "Beca Seguros",
-   "location": "Madrid"
-  },
-  "671d82932cca1c3e06bd843f8281ffd2": {
-   "id": "671d82932cca1c3e06bd843f8281ffd2",
-   "company": "AIRBUS DS GEO SA",
-   "role": "#discover Ii 2026-2027 Pmo Internship",
-   "location": "Spain"
-  },
-  "b8f762ec3b359f949ad455e64ca6f13b": {
-   "id": "b8f762ec3b359f949ad455e64ca6f13b",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Beca Transformación & Automatización",
-   "location": "Barcelona"
-  },
-  "391a7a362f03fdb62515cc613e7233ad": {
-   "id": "391a7a362f03fdb62515cc613e7233ad",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Beca Canal Corredores",
-   "location": "Barcelona"
-  },
-  "54b7a8e0543e9c19ac06894162fef394": {
-   "id": "54b7a8e0543e9c19ac06894162fef394",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Beca Usp Construcción",
-   "location": "Madrid"
-  },
-  "61c91385786eac08d46ac1bef915c337": {
-   "id": "61c91385786eac08d46ac1bef915c337",
-   "company": "IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY",
-   "role": "Nuclear Services Internship",
-   "location": "Madrid"
-  },
-  "f2c9116c16ae9b5d07be917e6a160b30": {
-   "id": "f2c9116c16ae9b5d07be917e6a160b30",
-   "company": "MARSH MCLENNAN",
-   "role": "Beca Operaciones Retribución Flexible",
-   "location": "Madrid"
-  },
-  "c3413f948ffd1d8c19efdf66117c4105": {
-   "id": "c3413f948ffd1d8c19efdf66117c4105",
-   "company": "Marsh & McLennan Companies Inc",
-   "role": "Beca Operaciones Retribución Flexible",
-   "location": "Madrid"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
    "location": "Madrid"
+  },
+  "b6d933712e3ceddf00aeeb3bb8aaf7d9": {
+   "id": "b6d933712e3ceddf00aeeb3bb8aaf7d9",
+   "company": "AkzoNobel N.V.",
+   "role": "Technical Service Representative",
+   "location": "Barcelona"
+  },
+  "ed95d6dd72ee1272f63115d9abacf88b": {
+   "id": "ed95d6dd72ee1272f63115d9abacf88b",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Software - Gestión Y Monitorización De Redes Qkd",
+   "location": "Madrid"
+  },
+  "da832cd5dacbbaf60724c82deab51cb1": {
+   "id": "da832cd5dacbbaf60724c82deab51cb1",
+   "company": "E80 Group",
+   "role": "Lgv Cs Programmer - Barcelona",
+   "location": "Barcelona"
   },
   "57b49845c48ada3bc821d9f976ecec6c": {
    "id": "57b49845c48ada3bc821d9f976ecec6c",
@@ -678,12 +696,6 @@
    "id": "2e57a0f001a161f27c41e4e58a00cb69",
    "company": "Puratos",
    "role": "Sap Sd Support Analyst",
-   "location": "Barcelona"
-  },
-  "4cd9bd756b1bf5468fc1053ab21b2f28": {
-   "id": "4cd9bd756b1bf5468fc1053ab21b2f28",
-   "company": "E80 Group",
-   "role": "Lgv Cs Programmer - Barcelona",
    "location": "Barcelona"
   },
   "bdda5fefdc96e980d83a8d8f49b37714": {
@@ -974,18 +986,6 @@
    "role": "Back Developer",
    "location": "Barcelona"
   },
-  "119aef9f88e8ffce6295fcf228b071e8": {
-   "id": "119aef9f88e8ffce6295fcf228b071e8",
-   "company": "Indra Group",
-   "role": "Desarrollador/a Sw C# Barcelona",
-   "location": "Barcelona"
-  },
-  "57455caa72f5a20e99344287ad1c3c87": {
-   "id": "57455caa72f5a20e99344287ad1c3c87",
-   "company": "Minsait",
-   "role": "Ingeniero/a De Desarrollo De Software Embebido, Comunicaciones, Sdn Y Redes Manet (barcelona/madrid",
-   "location": "Barcelona"
-  },
   "181c9894ed40ef1cecc3a0e4b8021c12": {
    "id": "181c9894ed40ef1cecc3a0e4b8021c12",
    "company": "Civitatis",
@@ -1058,11 +1058,47 @@
    "role": "Data Platform & Analytics Internship",
    "location": "Barcelona"
   },
+  "1d99f72ac37f6e645b64a0cef22c1855": {
+   "id": "1d99f72ac37f6e645b64a0cef22c1855",
+   "company": "pgccT",
+   "role": "Ai Engineer Internship (m/f/x)",
+   "location": "Madrid"
+  },
   "e726a790a3a5d1ffaf8e2e245cdc5c00": {
    "id": "e726a790a3a5d1ffaf8e2e245cdc5c00",
    "company": "Airbus Defence and Space SAU",
    "role": "#discover Ii 2026/2027 Map Systems Internship",
    "location": "Spain"
+  },
+  "4b84c0143d4adac5e25f9ac71b2dae3a": {
+   "id": "4b84c0143d4adac5e25f9ac71b2dae3a",
+   "company": "HP Inc",
+   "role": "Graduate Ai Engineer",
+   "location": "Barcelona"
+  },
+  "06f5985d04d185cd7fd5c109de2e413f": {
+   "id": "06f5985d04d185cd7fd5c109de2e413f",
+   "company": "Jti Macdonald Corp",
+   "role": "Ai Native Software Engineer",
+   "location": "Madrid"
+  },
+  "899357bde21b454b27aeb5974ce60b85": {
+   "id": "899357bde21b454b27aeb5974ce60b85",
+   "company": "Daon",
+   "role": "Data Scientist (computer Vision)",
+   "location": "Dublin +2"
+  },
+  "f46a37583e29fc72702b02fed1d12288": {
+   "id": "f46a37583e29fc72702b02fed1d12288",
+   "company": "ScottishPower",
+   "role": "Técnico/a De Análisis De Datos - Ia",
+   "location": "Madrid"
+  },
+  "f339da4bb9605a17f231f49c5d02f35c": {
+   "id": "f339da4bb9605a17f231f49c5d02f35c",
+   "company": "N26 GmbH",
+   "role": "Ai Engineer",
+   "location": "Barcelona"
   },
   "106cb6a4dc204f8329a78072eeede140": {
    "id": "106cb6a4dc204f8329a78072eeede140",
@@ -1122,12 +1158,6 @@
    "id": "8e36b29835e6807aee84527044f85155",
    "company": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
    "role": "Data Scientist - Optimization Focus (beca)",
-   "location": "Madrid"
-  },
-  "06f5985d04d185cd7fd5c109de2e413f": {
-   "id": "06f5985d04d185cd7fd5c109de2e413f",
-   "company": "Jti Macdonald Corp",
-   "role": "Ai Native Software Engineer",
    "location": "Madrid"
   },
   "8effb77808e9a0b029b79467f7d57319": {
@@ -1412,6 +1442,12 @@
    "role": "Global Data Scientist Specialist",
    "location": "Madrid"
   },
+  "8fec2a947a05804b7ef11ab0b8cfd353": {
+   "id": "8fec2a947a05804b7ef11ab0b8cfd353",
+   "company": "Jobgether",
+   "role": "Data Science Pyspark And Ia Generativa",
+   "location": "Spain"
+  },
   "560e1fb2f0dcc5370b97f7948aa9f2f9": {
    "id": "560e1fb2f0dcc5370b97f7948aa9f2f9",
    "company": "Zurich Insurance UK",
@@ -1525,6 +1561,18 @@
    "company": "Air Products",
    "role": "Graduate Program - Pricing & Business Improvement Analyst",
    "location": "Barcelona"
+  },
+  "77f196a8bc937e732e2cded2f4d4091f": {
+   "id": "77f196a8bc937e732e2cded2f4d4091f",
+   "company": "Papernest",
+   "role": "Business Analyst &amp; Pricing Strategy - Stage - Barcelone",
+   "location": "Barcelona"
+  },
+  "142131ecff304b23ae0027adf75e9ade": {
+   "id": "142131ecff304b23ae0027adf75e9ade",
+   "company": "Volvo Car Corporation AB",
+   "role": "Purchase-to-pay (ptp) Accountant With French",
+   "location": "Madrid"
   },
   "d8ae5c4ae757a81dc982d29e253c1bed": {
    "id": "d8ae5c4ae757a81dc982d29e253c1bed",
@@ -1802,6 +1850,18 @@
    "role": "Técnico/a De Cumplimiento Normativo (temporal - Media Jornada)",
    "location": "Madrid"
   },
+  "f27f286d8660bdf3112974b30647180a": {
+   "id": "f27f286d8660bdf3112974b30647180a",
+   "company": "Minsait",
+   "role": "Consultor/a Sector Sanidad",
+   "location": "Spain"
+  },
+  "d85d172059a8b68cb6aded4469ad4802": {
+   "id": "d85d172059a8b68cb6aded4469ad4802",
+   "company": "Indra group",
+   "role": "Consultor/a Sap Finanzas - España 100% Remoto",
+   "location": "Spain"
+  },
   "5568f4dcbe36eff33cb45797eb63521a": {
    "id": "5568f4dcbe36eff33cb45797eb63521a",
    "company": "Johnson & Johnson",
@@ -1838,6 +1898,30 @@
    "role": "Reinsurance Accountant / Contable Técnico De Reaseguro",
    "location": "Madrid"
   },
+  "36264195275dcb6869ae27e3a26d1ce4": {
+   "id": "36264195275dcb6869ae27e3a26d1ce4",
+   "company": "Marsh",
+   "role": "Junior Legal & Compliance Analyst",
+   "location": "Madrid"
+  },
+  "f49fc063f4e7f7b435ccb6ac285c4a93": {
+   "id": "f49fc063f4e7f7b435ccb6ac285c4a93",
+   "company": "Amazon",
+   "role": "Security Assurance Specialist , AWS Compliance and Security Assurance EMEA",
+   "location": "Madrid"
+  },
+  "91ced416fe9857fbd246b8dec2cda62f": {
+   "id": "91ced416fe9857fbd246b8dec2cda62f",
+   "company": "Jobgether",
+   "role": "Salesforce Cpq Business Analyst",
+   "location": "Spain"
+  },
+  "cc8c8243b59866d3d9376c047148c93b": {
+   "id": "cc8c8243b59866d3d9376c047148c93b",
+   "company": "Valeo Service",
+   "role": "Vie Management Controller",
+   "location": "Madrid"
+  },
   "66b82d5cba82bdce0200199a45484263": {
    "id": "66b82d5cba82bdce0200199a45484263",
    "company": "Marsh & McLennan Companies Inc",
@@ -1849,6 +1933,12 @@
    "company": "Marsh McLennan",
    "role": "Reinsurance Accountant / Contable Técnico De Reaseguro",
    "location": "Madrid"
+  },
+  "a1c8e717534acc0cc01a3c3ab62a4482": {
+   "id": "a1c8e717534acc0cc01a3c3ab62a4482",
+   "company": "Jobgether",
+   "role": "Markets Analyst (markets & Demand Planning)",
+   "location": "Spain"
   },
   "e9827e9267805b8669922159e05f48e8": {
    "id": "e9827e9267805b8669922159e05f48e8",
@@ -1891,6 +1981,12 @@
    "company": "IQVIA",
    "role": "Cra 1",
    "location": "Spain"
+  },
+  "f01d13cdbee56227aa488ebe0ad4d3d4": {
+   "id": "f01d13cdbee56227aa488ebe0ad4d3d4",
+   "company": "Hotel Chadstone Melbourne MGallery",
+   "role": "Técnico/a De Mantenimiento",
+   "location": "Barcelona"
   },
   "81839c2a1ebfa9f3d56066de32147a06": {
    "id": "81839c2a1ebfa9f3d56066de32147a06",
@@ -2210,6 +2306,18 @@
    "role": "Técnico De Ascensores (h/m) - Programa Formativo Grupo Otis",
    "location": "Barcelona"
   },
+  "370720284fd51d1d70517b51493acdb0": {
+   "id": "370720284fd51d1d70517b51493acdb0",
+   "company": "Orona S.Coop",
+   "role": "Reparador/a De Ascensores (madrid)",
+   "location": "Madrid"
+  },
+  "050f479ca92543b5120f97c74f3a4772": {
+   "id": "050f479ca92543b5120f97c74f3a4772",
+   "company": "SIXT",
+   "role": "Técnico/a De Mantenimiento De Instalaciones Electromecánicas (m/f/d)",
+   "location": "Madrid"
+  },
   "2a91277babeb25cb970ede270d45c6b1": {
    "id": "2a91277babeb25cb970ede270d45c6b1",
    "company": "HARTMANN",
@@ -2240,6 +2348,12 @@
    "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
    "location": "Salamanca"
   },
+  "ba5203f7e96729481a4ac904184da7bf": {
+   "id": "ba5203f7e96729481a4ac904184da7bf",
+   "company": "Otis Worldwide Corporation",
+   "role": "Técnico (h/m) Mantenimiento Portis Madrid",
+   "location": "Madrid"
+  },
   "35e8932c7cf664455759d90e9abfec6a": {
    "id": "35e8932c7cf664455759d90e9abfec6a",
    "company": "Roche",
@@ -2258,11 +2372,23 @@
    "role": "O&m Technician (all Genders) - Zaragoza",
    "location": "Zaragoza"
   },
+  "50e275c4453d3341987c970221bf9ca4": {
+   "id": "50e275c4453d3341987c970221bf9ca4",
+   "company": "Siemens Healthineers",
+   "role": "Field Service Rep Sw - (madrid / Northen Spain)",
+   "location": "Madrid"
+  },
   "41feada91eec883a6ae8ef7ef08efefc": {
    "id": "41feada91eec883a6ae8ef7ef08efefc",
    "company": "BayWa r.e.",
    "role": "O&m Technician (all Genders) - Zaragoza",
    "location": "Zaragoza"
+  },
+  "95399284d2b8b75a17736d01742cb196": {
+   "id": "95399284d2b8b75a17736d01742cb196",
+   "company": "Temporing",
+   "role": "Dependiente/a 30 Horas Semanales",
+   "location": "Barcelona"
   },
   "00a4ac07f0b47db6802e83f492253c5a": {
    "id": "00a4ac07f0b47db6802e83f492253c5a",
@@ -2275,6 +2401,30 @@
    "company": "H & M Hennes & Mauritz AB",
    "role": "Sales Advisor / C.c Plaza Norte 2 - St.sebastian Reyes/ Part Time 24h / Interinidad",
    "location": "Madrid"
+  },
+  "7a7cb7468a7205ff5962cbc148013bda": {
+   "id": "7a7cb7468a7205ff5962cbc148013bda",
+   "company": "OTB S.p.A",
+   "role": "Client Advisor Madrid Boutique",
+   "location": "Madrid"
+  },
+  "6672c8a68e42fdc65d803990a99ed714": {
+   "id": "6672c8a68e42fdc65d803990a99ed714",
+   "company": "OTB S.p.A",
+   "role": "Client Advisor - Outlet Las Rozas",
+   "location": "Madrid"
+  },
+  "0db345f41a067aac5cc7c22313d13e52": {
+   "id": "0db345f41a067aac5cc7c22313d13e52",
+   "company": "OTB S.p.A",
+   "role": "Client Advisor - Madrid Fuencarral",
+   "location": "Madrid"
+  },
+  "afd11b496a82ce8c457f8c17d936d318": {
+   "id": "afd11b496a82ce8c457f8c17d936d318",
+   "company": "La Casa de las Carcasas",
+   "role": "Sales Assistant - Annec Blau",
+   "location": "Barcelona"
   },
   "e573017cb6b0872aaba767563c7f4b05": {
    "id": "e573017cb6b0872aaba767563c7f4b05",
@@ -2400,18 +2550,6 @@
    "id": "2d4aec7b58dfd4f4ddecafbf03fe01b6",
    "company": "Merkal Calzados S.L",
    "role": "Vendedor/a 20 Horas Semanales",
-   "location": "Madrid"
-  },
-  "0db345f41a067aac5cc7c22313d13e52": {
-   "id": "0db345f41a067aac5cc7c22313d13e52",
-   "company": "OTB S.p.A",
-   "role": "Client Advisor - Madrid Fuencarral",
-   "location": "Madrid"
-  },
-  "7a7cb7468a7205ff5962cbc148013bda": {
-   "id": "7a7cb7468a7205ff5962cbc148013bda",
-   "company": "OTB S.p.A",
-   "role": "Client Advisor Madrid Boutique",
    "location": "Madrid"
   },
   "40a36b22bb769303a82269b701b41fe2": {
@@ -2720,23 +2858,23 @@
    "role": "Vendedor/a Interinidad",
    "location": "Madrid"
   },
-  "88b9088832f07bb773cdaabca2dd77ca": {
-   "id": "88b9088832f07bb773cdaabca2dd77ca",
-   "company": "adidas AG",
-   "role": "Sales Associate- Adidas Fo Getafe (temporal)",
-   "location": "Madrid"
+  "13987752276bb7179ec8770c38505dae": {
+   "id": "13987752276bb7179ec8770c38505dae",
+   "company": "Temporing",
+   "role": "Aux. Administrativo/a - Gavà",
+   "location": "Barcelona"
   },
-  "b1144ba5fc0203e2058816936371ed45": {
-   "id": "b1144ba5fc0203e2058816936371ed45",
-   "company": "obramat.es",
-   "role": "Vendedor/a Acon (it)_almacén Salamanca",
-   "location": "Salamanca"
+  "0b28efdf15ab488095f428e8e38478f9": {
+   "id": "0b28efdf15ab488095f428e8e38478f9",
+   "company": "Temporing",
+   "role": "Administrativo/a Logística - Gavà",
+   "location": "Barcelona"
   },
-  "5f90f1f09c91ed8450bb82ac56c8610f": {
-   "id": "5f90f1f09c91ed8450bb82ac56c8610f",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor / C.c Tres Aguas - Madrid / Part Time 12h / Permanente",
-   "location": "Madrid"
+  "d0ba5db4cf1b28ef1ac693dd64c0b65e": {
+   "id": "d0ba5db4cf1b28ef1ac693dd64c0b65e",
+   "company": "Temporing",
+   "role": "Auxiliar Administrativo/a",
+   "location": "Dehesa De Campoamor"
   },
   "9f4d120c104efc900db7634594b1433d": {
    "id": "9f4d120c104efc900db7634594b1433d",
@@ -3014,23 +3152,11 @@
    "role": "Admin Assistant",
    "location": "Spain"
   },
-  "13987752276bb7179ec8770c38505dae": {
-   "id": "13987752276bb7179ec8770c38505dae",
-   "company": "Temporing",
-   "role": "Aux. Administrativo/a - Gavà",
-   "location": "Barcelona"
-  },
   "29aa3d4912450e8904ce0f06ec1973bf": {
    "id": "29aa3d4912450e8904ce0f06ec1973bf",
    "company": "271",
    "role": "Hr Administrator",
    "location": "Spain"
-  },
-  "651a34f482516d7577cb36179a108cd7": {
-   "id": "651a34f482516d7577cb36179a108cd7",
-   "company": "Flying Bark Productions",
-   "role": "Production Coordinator - Animation",
-   "location": "San Blas"
   }
  }
 }

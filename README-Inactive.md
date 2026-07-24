@@ -221,4 +221,21 @@
 <tr><td>minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-07-23</td></tr>
 <tr><td>sportsconnection.dk</td><td>Vendedor/a - Jornada Parcial 20h - Viladecans</td><td>Barcelona</td><td>2026-07-23</td></tr>
 <tr><td>Kering</td><td>Balenciaga Sales & Client Advisor</td><td>Barcelona</td><td>2026-07-23</td></tr>
+<tr><td>Melia</td><td>Prácticas Revenue</td><td>Islas Baleares</td><td>2026-07-24</td></tr>
+<tr><td>Mercer</td><td>Beca Operaciones Retribución Flexible</td><td>Madrid</td><td>2026-07-24</td></tr>
+<tr><td>Mercer</td><td>Beca Seguros</td><td>Madrid</td><td>2026-07-24</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>#discover Ii 2026-2027 Pmo Internship</td><td>Spain</td><td>2026-07-24</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Beca Transformación & Automatización</td><td>Barcelona</td><td>2026-07-24</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Beca Canal Corredores</td><td>Barcelona</td><td>2026-07-24</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Beca Usp Construcción</td><td>Madrid</td><td>2026-07-24</td></tr>
+<tr><td>IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY</td><td>Nuclear Services Internship</td><td>Madrid</td><td>2026-07-24</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Beca Operaciones Retribución Flexible</td><td>Madrid</td><td>2026-07-24</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Beca Operaciones Retribución Flexible</td><td>Madrid</td><td>2026-07-24</td></tr>
+<tr><td>E80 Group</td><td>Lgv Cs Programmer - Barcelona</td><td>Barcelona</td><td>2026-07-24</td></tr>
+<tr><td>Indra Group</td><td>Desarrollador/a Sw C# Barcelona</td><td>Barcelona</td><td>2026-07-24</td></tr>
+<tr><td>Minsait</td><td>Ingeniero/a De Desarrollo De Software Embebido, Comunicaciones, Sdn Y Redes Manet (barcelona/madrid</td><td>Barcelona</td><td>2026-07-24</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate- Adidas Fo Getafe (temporal)</td><td>Madrid</td><td>2026-07-24</td></tr>
+<tr><td>obramat.es</td><td>Vendedor/a Acon (it)_almacén Salamanca</td><td>Salamanca</td><td>2026-07-24</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c Tres Aguas - Madrid / Part Time 12h / Permanente</td><td>Madrid</td><td>2026-07-24</td></tr>
+<tr><td>Flying Bark Productions</td><td>Production Coordinator - Animation</td><td>San Blas</td><td>2026-07-24</td></tr>
 </table>
