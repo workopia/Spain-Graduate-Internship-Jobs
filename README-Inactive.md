@@ -238,4 +238,30 @@
 <tr><td>obramat.es</td><td>Vendedor/a Acon (it)_almacén Salamanca</td><td>Salamanca</td><td>2026-07-24</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c Tres Aguas - Madrid / Part Time 12h / Permanente</td><td>Madrid</td><td>2026-07-24</td></tr>
 <tr><td>Flying Bark Productions</td><td>Production Coordinator - Animation</td><td>San Blas</td><td>2026-07-24</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Kitchen - September 2026</td><td>Esplugues Llobregat</td><td>2026-07-25</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Operations - September 2026</td><td>Esplugues Llobregat</td><td>2026-07-25</td></tr>
+<tr><td>Telefonica</td><td>Practicas Curriculares/extracurriculares</td><td>Spain</td><td>2026-07-25</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Circular&value Added Lab</td><td>Madrid</td><td>2026-07-25</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Estrategia Y Negocio & Ai Native Soc</td><td>Madrid</td><td>2026-07-25</td></tr>
+<tr><td>Telefonica</td><td>Telefónica_foro_empleo_upm_2025</td><td>Spain</td><td>2026-07-25</td></tr>
+<tr><td>Gameloft</td><td>Video Artist Intern - Asphalt Legends</td><td>Barcelona</td><td>2026-07-25</td></tr>
+<tr><td>Coty Inc</td><td>Intern Hr Global Functions</td><td>Amsterdam +1</td><td>2026-07-25</td></tr>
+<tr><td>Mediaset EspaAa ComunicaciAn</td><td>Beca Redacción Informativos</td><td>Madrid</td><td>2026-07-25</td></tr>
+<tr><td>Verisure S.A.</td><td>Transformation Office Intern</td><td>Madrid</td><td>2026-07-25</td></tr>
+<tr><td>Verisure S.A.</td><td>Beca Comunicación Corporativa - Verisure España</td><td>Spain</td><td>2026-07-25</td></tr>
+<tr><td>unilever.es</td><td>Internship 26' - Procurement Strategy And Operations</td><td>Spain</td><td>2026-07-25</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>F&b Trainee</td><td>Barcelona</td><td>2026-07-25</td></tr>
+<tr><td>Verisure S.A.</td><td>Intern – Hris</td><td>Madrid</td><td>2026-07-25</td></tr>
+<tr><td>Metdeniz</td><td>Taste The Future - Hse Intern - Orbigo, Spain</td><td>ÓRbigo</td><td>2026-07-25</td></tr>
+<tr><td>Mondelez</td><td>Taste The Future - Hse Intern - Orbigo, Spain</td><td>ÓRbigo</td><td>2026-07-25</td></tr>
+<tr><td>Menselsa</td><td>Taste The Future - Hse Intern - Orbigo, Spain</td><td>ÓRbigo</td><td>2026-07-25</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - Hse Intern - Orbigo, Spain</td><td>ÓRbigo</td><td>2026-07-25</td></tr>
+<tr><td>Mercer</td><td>Beca Seguros Salud Y Vida</td><td>Madrid</td><td>2026-07-25</td></tr>
+<tr><td>Mercer</td><td>Employee Benefits Consulting Internship</td><td>Madrid</td><td>2026-07-25</td></tr>
+<tr><td>Jobgether</td><td>C++/rust Graphics And Windowing System Software Engineer - Mir</td><td>Spain</td><td>2026-07-25</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Security Analyst (temp Agency)</td><td>Madrid</td><td>2026-07-25</td></tr>
+<tr><td>Vonage</td><td>Software Engineer- Java / C++ (mid Level)</td><td>Barcelona</td><td>2026-07-25</td></tr>
+<tr><td>Betway Group</td><td>Service Desk Analyst</td><td>Barcelona</td><td>2026-07-25</td></tr>
+<tr><td>Raona</td><td>Back Developer</td><td>Barcelona</td><td>2026-07-25</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Cantabria</td><td>2026-07-25</td></tr>
 </table>
