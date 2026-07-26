@@ -264,4 +264,43 @@
 <tr><td>Betway Group</td><td>Service Desk Analyst</td><td>Barcelona</td><td>2026-07-25</td></tr>
 <tr><td>Raona</td><td>Back Developer</td><td>Barcelona</td><td>2026-07-25</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Cantabria</td><td>2026-07-25</td></tr>
+<tr><td>Melia</td><td>Prácticas Revenue</td><td>Islas Baleares</td><td>2026-07-26</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Revenue - Eurostars Hotel Company</td><td>Barcelona</td><td>2026-07-26</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Administración Economato Madrid</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b</td><td>Islas Baleares</td><td>2026-07-26</td></tr>
+<tr><td>avoltaworld</td><td>Intern Planning And Purchasing</td><td>Spain</td><td>2026-07-26</td></tr>
+<tr><td>DABA, SA</td><td>Prácticas En Servicio De Atención Técnica - Nespresso Professional</td><td>Spain</td><td>2026-07-26</td></tr>
+<tr><td>unilever.es</td><td>Research & Development Internship 26' - Packaging (hive)</td><td>Spain</td><td>2026-07-26</td></tr>
+<tr><td>Universidad Carlos III de Madrid</td><td>Practicante Mro Airbus Helicópteros</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>PTC</td><td>Business Development Intern - Italian Speaker</td><td>Barcelona</td><td>2026-07-26</td></tr>
+<tr><td>PTC</td><td>Business Development Intern - German Speaker</td><td>Barcelona</td><td>2026-07-26</td></tr>
+<tr><td>Solunion</td><td>Prácticas Servicio Helpdesk Ti - Solunion Seguros</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>Coty</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-07-26</td></tr>
+<tr><td>Coty</td><td>Demand Intern</td><td>Barcelona</td><td>2026-07-26</td></tr>
+<tr><td>SAP SE</td><td>Ixp Intern- Internal Communications Pre-sales Team</td><td>Barcelona</td><td>2026-07-26</td></tr>
+<tr><td>Jninternationalllc</td><td>Hema Ds Internship</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>Junior Achievement</td><td>Hema Ds Internship</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>Johnson & Johnson UK</td><td>Hema Ds Internship</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>Melia</td><td>Trainee Departamento Guest Experience - Melia Barajas</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>Melia</td><td>Prácticas Guest Experience - Meliá Palma Marina</td><td>Islas Baleares</td><td>2026-07-26</td></tr>
+<tr><td>Telefonica</td><td>Becas Telefónica Santa Cruz De Tenerife</td><td>Santa Cruz Tenerife</td><td>2026-07-26</td></tr>
+<tr><td>Telefonica</td><td>Tech_25 Becas Telefónica Tech</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>E80 Group</td><td>Lgv Cs Programmer - Barcelona</td><td>Barcelona</td><td>2026-07-26</td></tr>
+<tr><td>SICPA SA</td><td>Software Engineer</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>Concentrix</td><td>Remote Support Engineer (german -speaking) - Hybrid - High Tech Industry Hd01</td><td>Barcelona</td><td>2026-07-26</td></tr>
+<tr><td>Aircall</td><td>Software Engineer - Outbound Campaigns</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>NN Group</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>Jobgether</td><td>Software Craftsperson/python/ai</td><td>Spain</td><td>2026-07-26</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Data Infrastructure & Acquisition</td><td>Spain</td><td>2026-07-26</td></tr>
+<tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Spain</td><td>2026-07-26</td></tr>
+<tr><td>Volvo Car Corporation AB</td><td>Purchase-to-pay (ptp) Accountant With French</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>Jobgether</td><td>Markets Analyst (markets & Demand Planning)</td><td>Spain</td><td>2026-07-26</td></tr>
+<tr><td>VF Corporation (Vans)</td><td>Vendedor/a 24h Grandes Almacenes Madrid</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor (30 Horas)- Contrato Temporaneo</td><td>Barcelona</td><td>2026-07-26</td></tr>
+<tr><td>obramat.es</td><td>Vendedor/a Experto/a En Ferretería Y Herramientas - Almacén Badalona</td><td>Barcelona</td><td>2026-07-26</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vendedor/a 24h Grandes Almacenes Madrid</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>COS</td><td>Sales Advisor (12 Horas)</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>beonit</td><td>Estudiante Universitario Con Habilidades Comerciales (12h/s) - Toledo</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a Interinidad</td><td>Madrid</td><td>2026-07-26</td></tr>
+<tr><td>Temporing</td><td>Auxiliar Administrativo/a</td><td>Dehesa De Campoamor</td><td>2026-07-26</td></tr>
 </table>
