@@ -1,11 +1,17 @@
 {
- "asOf": "2026-07-26",
- "count": 540,
+ "asOf": "2026-07-27",
+ "count": 538,
  "jobs": {
   "27657": {
    "id": "27657",
    "company": "Softtek",
    "role": "Desarrollador Flutter",
+   "location": "Madrid"
+  },
+  "42686": {
+   "id": "42686",
+   "company": "Arcadis",
+   "role": "Tender & Business Development Specialist (f/m/d)",
    "location": "Madrid"
   },
   "281931": {
@@ -25,6 +31,36 @@
    "company": "Boggi Milano",
    "role": "Sales Advisor Part Time",
    "location": "Madrid"
+  },
+  "fa707839a824f4a92134d69594d0b76a": {
+   "id": "fa707839a824f4a92134d69594d0b76a",
+   "company": "avoltaworld",
+   "role": "Intern Supply Chain",
+   "location": "Spain"
+  },
+  "8624f02b1a241f861d57438d4b9f6eac": {
+   "id": "8624f02b1a241f861d57438d4b9f6eac",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Recepción Eurostars Hotels (barcelona)",
+   "location": "Barcelona"
+  },
+  "781fe2611a124ef4e3f0a90966dd0787": {
+   "id": "781fe2611a124ef4e3f0a90966dd0787",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Innovation & Digital Projects Intern - Barcelona",
+   "location": "Barcelona"
+  },
+  "fb549e03174e4ed98352b655ca8b24e1": {
+   "id": "fb549e03174e4ed98352b655ca8b24e1",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Cocina Y Sala En Eurostars Hotel Company",
+   "location": "Madrid"
+  },
+  "81a4f698fd5eec283ea6f0712b7c7d2f": {
+   "id": "81a4f698fd5eec283ea6f0712b7c7d2f",
+   "company": "Satair (an Airbus Services Company)",
+   "role": "#beca Ahe - Environment, Health And Safety (ehs)",
+   "location": "Albacete"
   },
   "fe79d3c8d563cc2591f2c49767734130": {
    "id": "fe79d3c8d563cc2591f2c49767734130",
@@ -120,12 +156,6 @@
    "id": "bf91b02608445870e54c936bb93c3557",
    "company": "Grupo Hotusa",
    "role": "Prácticas Administración Economato Madrid",
-   "location": "Madrid"
-  },
-  "3bd43388ddbc9b6ec4425781ac27d873": {
-   "id": "3bd43388ddbc9b6ec4425781ac27d873",
-   "company": "Grupo Hotusa",
-   "role": "Prácticas Cocina Y Sala En Eurostars Hotel Company",
    "location": "Madrid"
   },
   "7c14972f9b827240ffdcfe1d1ae9fa1c": {
@@ -482,34 +512,16 @@
    "role": "Spain Youth / Internship It - September 2026",
    "location": "Esplugues Llobregat"
   },
-  "4053e32601f466ae2a564077389364ce": {
-   "id": "4053e32601f466ae2a564077389364ce",
-   "company": "Avanade",
-   "role": "Avanade Campus: Prácticas En Delivery Con Tecnología Microsoft - Octubre 2026 Barcelona",
-   "location": "Barcelona"
-  },
-  "c084a95d9a3069c7abbc633f11f38374": {
-   "id": "c084a95d9a3069c7abbc633f11f38374",
-   "company": "Bureau Veritas",
-   "role": "¿quieres Hacer Tus Prácticas En Bureau Veritas? ¡únete A Bvacademy!",
-   "location": "Madrid"
-  },
-  "b1c3f3501ef142ee00e2eacec286e3fd": {
-   "id": "b1c3f3501ef142ee00e2eacec286e3fd",
-   "company": "Bureau Veritas",
-   "role": "Becario/a Agroalimentario",
-   "location": "Madrid"
-  },
-  "5bd8c1b29b89f5412b44359ec164b85a": {
-   "id": "5bd8c1b29b89f5412b44359ec164b85a",
-   "company": "Nestle SA",
-   "role": "Spain Youth / Internship Kitchen - September 2026",
-   "location": "Esplugues Llobregat"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
+   "location": "Madrid"
+  },
+  "0001038": {
+   "id": "0001038",
+   "company": "Softtek",
+   "role": "Software Engineer Frontend Respnsive Pr",
    "location": "Madrid"
   },
   "e3cdc70c121ddece1305956c274b227c": {
@@ -980,15 +992,15 @@
    "role": "Frontend Engineer",
    "location": "Madrid"
   },
-  "aaf9455c2eff2b95a5f92526f4fe79f2": {
-   "id": "aaf9455c2eff2b95a5f92526f4fe79f2",
-   "company": "Pluxee",
-   "role": "Software Engineer",
-   "location": "Madrid"
-  },
   "8828fd6763f2c409571118ea546b871d": {
    "id": "8828fd6763f2c409571118ea546b871d",
    "company": "TD SYNNEX",
+   "role": "Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)",
+   "location": "Barcelona"
+  },
+  "e06e36bc62052af6eabe9c119aad565a": {
+   "id": "e06e36bc62052af6eabe9c119aad565a",
+   "company": "TD SYNNEX Accessboard",
    "role": "Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)",
    "location": "Barcelona"
   },
@@ -1076,11 +1088,17 @@
    "role": "#discover Ii 2026/2027 Map Systems Internship",
    "location": "Spain"
   },
-  "4b84c0143d4adac5e25f9ac71b2dae3a": {
-   "id": "4b84c0143d4adac5e25f9ac71b2dae3a",
-   "company": "HP Inc",
-   "role": "Graduate Ai Engineer",
-   "location": "Barcelona"
+  "f0d5f135bdbd1c20993836cfdea83d94": {
+   "id": "f0d5f135bdbd1c20993836cfdea83d94",
+   "company": "Indra group",
+   "role": "Ai Engineer",
+   "location": "Madrid"
+  },
+  "8e36b29835e6807aee84527044f85155": {
+   "id": "8e36b29835e6807aee84527044f85155",
+   "company": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
+   "role": "Data Scientist - Optimization Focus (beca)",
+   "location": "Madrid"
   },
   "0d1b5cbc84d44227d024b8f5566a3208": {
    "id": "0d1b5cbc84d44227d024b8f5566a3208",
@@ -1171,12 +1189,6 @@
    "company": "Zurich Insurance UK",
    "role": "Data Scientist",
    "location": "Localidad"
-  },
-  "8e36b29835e6807aee84527044f85155": {
-   "id": "8e36b29835e6807aee84527044f85155",
-   "company": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
-   "role": "Data Scientist - Optimization Focus (beca)",
-   "location": "Madrid"
   },
   "8effb77808e9a0b029b79467f7d57319": {
    "id": "8effb77808e9a0b029b79467f7d57319",
@@ -1447,12 +1459,6 @@
    "company": "Avolta",
    "role": "Global Data Scientist Specialist",
    "location": "Madrid"
-  },
-  "8fec2a947a05804b7ef11ab0b8cfd353": {
-   "id": "8fec2a947a05804b7ef11ab0b8cfd353",
-   "company": "Jobgether",
-   "role": "Data Science Pyspark And Ia Generativa",
-   "location": "Spain"
   },
   "81199bd87bb6872c74c6929b19ddf3ba": {
    "id": "81199bd87bb6872c74c6929b19ddf3ba",
@@ -1934,18 +1940,6 @@
    "role": "Vie Management Controller",
    "location": "Madrid"
   },
-  "66b82d5cba82bdce0200199a45484263": {
-   "id": "66b82d5cba82bdce0200199a45484263",
-   "company": "Marsh & McLennan Companies Inc",
-   "role": "Reinsurance Accountant / Contable Técnico De Reaseguro",
-   "location": "Madrid"
-  },
-  "cb902ee53cdfb45fbf100f3070e71402": {
-   "id": "cb902ee53cdfb45fbf100f3070e71402",
-   "company": "Marsh McLennan",
-   "role": "Reinsurance Accountant / Contable Técnico De Reaseguro",
-   "location": "Madrid"
-  },
   "e9827e9267805b8669922159e05f48e8": {
    "id": "e9827e9267805b8669922159e05f48e8",
    "company": "Ivivamedical",
@@ -1987,6 +1981,18 @@
    "company": "IQVIA",
    "role": "Cra 1",
    "location": "Spain"
+  },
+  "d2b3bb72caae198b7265bec5031ba2c4": {
+   "id": "d2b3bb72caae198b7265bec5031ba2c4",
+   "company": "Coty",
+   "role": "Electromecánico/a Línea De Envasado",
+   "location": "Barcelona"
+  },
+  "61a3316915e7da2462fc4558cc03d79f": {
+   "id": "61a3316915e7da2462fc4558cc03d79f",
+   "company": "Grupo Hotusa",
+   "role": "Técnico/a De Mantenimiento - Zaragoza",
+   "location": "Zaragoza"
   },
   "29f938afb1b5501cd25fc99e125127f8": {
    "id": "29f938afb1b5501cd25fc99e125127f8",
@@ -2059,12 +2065,6 @@
    "company": "Danfoss AS",
    "role": "Service Engineer",
    "location": "Barcelona"
-  },
-  "a1cca2875aeb1ee001c05d41aef7e49f": {
-   "id": "a1cca2875aeb1ee001c05d41aef7e49f",
-   "company": "Grupo Hotusa",
-   "role": "Técnico/a De Mantenimiento - Zaragoza",
-   "location": "Zaragoza"
   },
   "f01d13cdbee56227aa488ebe0ad4d3d4": {
    "id": "f01d13cdbee56227aa488ebe0ad4d3d4",
@@ -2432,18 +2432,6 @@
    "role": "O&m Technician (all Genders) - Zaragoza",
    "location": "Zaragoza"
   },
-  "50e275c4453d3341987c970221bf9ca4": {
-   "id": "50e275c4453d3341987c970221bf9ca4",
-   "company": "Siemens Healthineers",
-   "role": "Field Service Rep Sw - (madrid / Northen Spain)",
-   "location": "Madrid"
-  },
-  "41feada91eec883a6ae8ef7ef08efefc": {
-   "id": "41feada91eec883a6ae8ef7ef08efefc",
-   "company": "BayWa r.e.",
-   "role": "O&m Technician (all Genders) - Zaragoza",
-   "location": "Zaragoza"
-  },
   "fed874b5c59e5d9af5248ae8bbc30368": {
    "id": "fed874b5c59e5d9af5248ae8bbc30368",
    "company": "Mango",
@@ -2471,6 +2459,12 @@
   "c99436892913039daf254fe7cd8f0312": {
    "id": "c99436892913039daf254fe7cd8f0312",
    "company": "skechers.dk",
+   "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
+   "location": "Barcelona"
+  },
+  "9436a242b7d78635f1363cbeaa9c0689": {
+   "id": "9436a242b7d78635f1363cbeaa9c0689",
+   "company": "Skechers U.S.A., Inc",
    "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
    "location": "Barcelona"
   },
@@ -2774,12 +2768,6 @@
    "role": "Vended@r 16h Skechers Getafe",
    "location": "Madrid"
   },
-  "3c6a9e7388408f2665b0530f0d6c4f14": {
-   "id": "3c6a9e7388408f2665b0530f0d6c4f14",
-   "company": "SKECHERS USA Inc",
-   "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
-   "location": "Barcelona"
-  },
   "82d8df6dee059292ba257842c5a6f327": {
    "id": "82d8df6dee059292ba257842c5a6f327",
    "company": "obramat.es",
@@ -2918,6 +2906,18 @@
    "role": "Sales Associate - Seasonal - Barcelona",
    "location": "Barcelona"
   },
+  "794e482bd3677b903437531c56f98285": {
+   "id": "794e482bd3677b903437531c56f98285",
+   "company": "Grupo Hotusa",
+   "role": "Técnico/a Administrativo De Mantenimiento",
+   "location": "Barcelona"
+  },
+  "aa5f1489f93a94a8575c27cd76a934b7": {
+   "id": "aa5f1489f93a94a8575c27cd76a934b7",
+   "company": "Primark",
+   "role": "Retail Assistant - Dependiente/a",
+   "location": "Albacete"
+  },
   "334c8873038da7b79b3cab8813cda133": {
    "id": "334c8873038da7b79b3cab8813cda133",
    "company": "Melia",
@@ -2953,12 +2953,6 @@
    "company": "Temporing",
    "role": "Aux. Administrativo/a - Gavà",
    "location": "Barcelona"
-  },
-  "ade4e9c82624bbe7e05457b6af669f4b": {
-   "id": "ade4e9c82624bbe7e05457b6af669f4b",
-   "company": "Primark",
-   "role": "Retail Assistant - Dependiente/a",
-   "location": "Madrid"
   },
   "0b28efdf15ab488095f428e8e38478f9": {
    "id": "0b28efdf15ab488095f428e8e38478f9",
@@ -3234,12 +3228,6 @@
    "id": "8024dec186c24ccbf4467e5cec08980c",
    "company": "IQVIA Inc",
    "role": "Admin Assistant",
-   "location": "Spain"
-  },
-  "29aa3d4912450e8904ce0f06ec1973bf": {
-   "id": "29aa3d4912450e8904ce0f06ec1973bf",
-   "company": "271",
-   "role": "Hr Administrator",
    "location": "Spain"
   }
  }

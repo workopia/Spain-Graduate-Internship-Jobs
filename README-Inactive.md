@@ -303,4 +303,20 @@
 <tr><td>beonit</td><td>Estudiante Universitario Con Habilidades Comerciales (12h/s) - Toledo</td><td>Madrid</td><td>2026-07-26</td></tr>
 <tr><td>JYSK</td><td>Vendedor/a Interinidad</td><td>Madrid</td><td>2026-07-26</td></tr>
 <tr><td>Temporing</td><td>Auxiliar Administrativo/a</td><td>Dehesa De Campoamor</td><td>2026-07-26</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Cocina Y Sala En Eurostars Hotel Company</td><td>Madrid</td><td>2026-07-27</td></tr>
+<tr><td>Avanade</td><td>Avanade Campus: Prácticas En Delivery Con Tecnología Microsoft - Octubre 2026 Barcelona</td><td>Barcelona</td><td>2026-07-27</td></tr>
+<tr><td>Bureau Veritas</td><td>¿quieres Hacer Tus Prácticas En Bureau Veritas? ¡únete A Bvacademy!</td><td>Madrid</td><td>2026-07-27</td></tr>
+<tr><td>Bureau Veritas</td><td>Becario/a Agroalimentario</td><td>Madrid</td><td>2026-07-27</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Kitchen - September 2026</td><td>Esplugues Llobregat</td><td>2026-07-27</td></tr>
+<tr><td>Pluxee</td><td>Software Engineer</td><td>Madrid</td><td>2026-07-27</td></tr>
+<tr><td>HP Inc</td><td>Graduate Ai Engineer</td><td>Barcelona</td><td>2026-07-27</td></tr>
+<tr><td>Jobgether</td><td>Data Science Pyspark And Ia Generativa</td><td>Spain</td><td>2026-07-27</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Reinsurance Accountant / Contable Técnico De Reaseguro</td><td>Madrid</td><td>2026-07-27</td></tr>
+<tr><td>Marsh McLennan</td><td>Reinsurance Accountant / Contable Técnico De Reaseguro</td><td>Madrid</td><td>2026-07-27</td></tr>
+<tr><td>Grupo Hotusa</td><td>Técnico/a De Mantenimiento - Zaragoza</td><td>Zaragoza</td><td>2026-07-27</td></tr>
+<tr><td>Siemens Healthineers</td><td>Field Service Rep Sw - (madrid / Northen Spain)</td><td>Madrid</td><td>2026-07-27</td></tr>
+<tr><td>BayWa r.e.</td><td>O&m Technician (all Genders) - Zaragoza</td><td>Zaragoza</td><td>2026-07-27</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-07-27</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Madrid</td><td>2026-07-27</td></tr>
+<tr><td>271</td><td>Hr Administrator</td><td>Spain</td><td>2026-07-27</td></tr>
 </table>
