@@ -319,4 +319,18 @@
 <tr><td>SKECHERS USA Inc</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-07-27</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Madrid</td><td>2026-07-27</td></tr>
 <tr><td>271</td><td>Hr Administrator</td><td>Spain</td><td>2026-07-27</td></tr>
+<tr><td>Inspired Education Group</td><td>Internship Opportunities - El Colegio Británico / The British School</td><td>Madrid</td><td>2026-07-28</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Finance - September 2026</td><td>Esplugues Llobregat</td><td>2026-07-28</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Hr - September 2026</td><td>Esplugues Llobregat</td><td>2026-07-28</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship It - September 2026</td><td>Esplugues Llobregat</td><td>2026-07-28</td></tr>
+<tr><td>Marsh / Guy Carpenter</td><td>Reinsurance Accountant / Contable Técnico De Reaseguro</td><td>Madrid</td><td>2026-07-28</td></tr>
+<tr><td>Marsh</td><td>Junior Legal & Compliance Analyst</td><td>Madrid</td><td>2026-07-28</td></tr>
+<tr><td>Amazon</td><td>Security Assurance Specialist , AWS Compliance and Security Assurance EMEA</td><td>Madrid</td><td>2026-07-28</td></tr>
+<tr><td>Jobgether</td><td>Salesforce Cpq Business Analyst</td><td>Spain</td><td>2026-07-28</td></tr>
+<tr><td>Valeo Service</td><td>Vie Management Controller</td><td>Madrid</td><td>2026-07-28</td></tr>
+<tr><td>Equinix Inc.</td><td>Tecnido De Mantenimiento De Instalaciones Criticas</td><td>Salamanca</td><td>2026-07-28</td></tr>
+<tr><td>baywa-re.co.uk</td><td>O&m Technician (all Genders) - Zaragoza</td><td>Zaragoza</td><td>2026-07-28</td></tr>
+<tr><td>skechers.cl</td><td>Vendedor/a A Jornada Parcial – The Style Outlet Getafe</td><td>Madrid</td><td>2026-07-28</td></tr>
+<tr><td>brunellocucinelli.career</td><td>Sales Associate - Seasonal - Barcelona</td><td>Barcelona</td><td>2026-07-28</td></tr>
+<tr><td>IQVIA Inc</td><td>Admin Assistant</td><td>Spain</td><td>2026-07-28</td></tr>
 </table>

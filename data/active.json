@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-27",
- "count": 538,
+ "asOf": "2026-07-28",
+ "count": 532,
  "jobs": {
   "27657": {
    "id": "27657",
@@ -30,6 +30,30 @@
    "id": "2653570",
    "company": "Boggi Milano",
    "role": "Sales Advisor Part Time",
+   "location": "Madrid"
+  },
+  "26d74d2b6971cd09fb50efb37d06c4f2": {
+   "id": "26d74d2b6971cd09fb50efb37d06c4f2",
+   "company": "Sonymusicpub",
+   "role": "Facilities Intern Iberia",
+   "location": "Barcelona"
+  },
+  "32bc3697b0e2aff8d07afe5de20e8a46": {
+   "id": "32bc3697b0e2aff8d07afe5de20e8a46",
+   "company": "VIE-INDIA",
+   "role": "#discover Ii 2026-2027 / Test Support System Integrator Internship",
+   "location": "Getafe Area"
+  },
+  "1918d6b1518a9b00a9f7e1cc39780810": {
+   "id": "1918d6b1518a9b00a9f7e1cc39780810",
+   "company": "Bureau Veritas",
+   "role": "Becario/a Departamento De Pesca Sostenible",
+   "location": "Madrid"
+  },
+  "7a68e17fb4a24821fa50f50620a4809c": {
+   "id": "7a68e17fb4a24821fa50f50620a4809c",
+   "company": "Inspired Education Group",
+   "role": "Internship Opportunities - El Colegio Británico / The British School",
    "location": "Madrid"
   },
   "fa707839a824f4a92134d69594d0b76a": {
@@ -90,12 +114,6 @@
    "id": "4f96875f8a73c987ea2a20f777a57059",
    "company": "Verisure S.A.",
    "role": "Intern – Hris",
-   "location": "Madrid"
-  },
-  "208c59d6a6f1ee8215f08ab1589db565": {
-   "id": "208c59d6a6f1ee8215f08ab1589db565",
-   "company": "Inspired Education Group",
-   "role": "Internship Opportunities - El Colegio Británico / The British School",
    "location": "Madrid"
   },
   "4018fc07b838b959258332f113fe6996": {
@@ -493,24 +511,6 @@
    "company": "Telefonica",
    "role": "Beca Talentum Para El Área De Gobierno De La Seguridad",
    "location": "Madrid"
-  },
-  "f9c77bcf1c8784a783009a1f3453db63": {
-   "id": "f9c77bcf1c8784a783009a1f3453db63",
-   "company": "Nestle Ltd",
-   "role": "Spain Youth / Internship Finance - September 2026",
-   "location": "Esplugues Llobregat"
-  },
-  "6c2d5e46cac187320e54395c5862a25a": {
-   "id": "6c2d5e46cac187320e54395c5862a25a",
-   "company": "Nestle Ltd",
-   "role": "Spain Youth / Internship Hr - September 2026",
-   "location": "Esplugues Llobregat"
-  },
-  "b9126edb536e8c23ab2c0f9dfb7f39c0": {
-   "id": "b9126edb536e8c23ab2c0f9dfb7f39c0",
-   "company": "Nestle Ltd",
-   "role": "Spain Youth / Internship It - September 2026",
-   "location": "Esplugues Llobregat"
   },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
@@ -1574,6 +1574,12 @@
    "role": "Graduate Program - Pricing & Business Improvement Analyst",
    "location": "Barcelona"
   },
+  "d8c8535b7cb3900f50bf78154715dc19": {
+   "id": "d8c8535b7cb3900f50bf78154715dc19",
+   "company": "Dbcargofrance",
+   "role": "Hr Business Advisory Analyst/business Advisor",
+   "location": "Madrid"
+  },
   "df0403012ccff2bcc49034f2ee8c4b75": {
    "id": "df0403012ccff2bcc49034f2ee8c4b75",
    "company": "Zurich Insurance Company Ltd",
@@ -1910,36 +1916,6 @@
    "role": "Commercial Compliance Specialist Spain - Surgery",
    "location": "Madrid"
   },
-  "b68b0ceddf140d568b674de1592816fa": {
-   "id": "b68b0ceddf140d568b674de1592816fa",
-   "company": "Marsh / Guy Carpenter",
-   "role": "Reinsurance Accountant / Contable Técnico De Reaseguro",
-   "location": "Madrid"
-  },
-  "36264195275dcb6869ae27e3a26d1ce4": {
-   "id": "36264195275dcb6869ae27e3a26d1ce4",
-   "company": "Marsh",
-   "role": "Junior Legal & Compliance Analyst",
-   "location": "Madrid"
-  },
-  "f49fc063f4e7f7b435ccb6ac285c4a93": {
-   "id": "f49fc063f4e7f7b435ccb6ac285c4a93",
-   "company": "Amazon",
-   "role": "Security Assurance Specialist , AWS Compliance and Security Assurance EMEA",
-   "location": "Madrid"
-  },
-  "91ced416fe9857fbd246b8dec2cda62f": {
-   "id": "91ced416fe9857fbd246b8dec2cda62f",
-   "company": "Jobgether",
-   "role": "Salesforce Cpq Business Analyst",
-   "location": "Spain"
-  },
-  "cc8c8243b59866d3d9376c047148c93b": {
-   "id": "cc8c8243b59866d3d9376c047148c93b",
-   "company": "Valeo Service",
-   "role": "Vie Management Controller",
-   "location": "Madrid"
-  },
   "e9827e9267805b8669922159e05f48e8": {
    "id": "e9827e9267805b8669922159e05f48e8",
    "company": "Ivivamedical",
@@ -1981,6 +1957,12 @@
    "company": "IQVIA",
    "role": "Cra 1",
    "location": "Spain"
+  },
+  "2a91277babeb25cb970ede270d45c6b1": {
+   "id": "2a91277babeb25cb970ede270d45c6b1",
+   "company": "HARTMANN",
+   "role": "Técnico Eléctrico De Turno (fines De Semana)",
+   "location": "Barcelona"
   },
   "d2b3bb72caae198b7265bec5031ba2c4": {
    "id": "d2b3bb72caae198b7265bec5031ba2c4",
@@ -2378,12 +2360,6 @@
    "role": "Técnico/a De Mantenimiento De Instalaciones Electromecánicas (m/f/d)",
    "location": "Madrid"
   },
-  "2a91277babeb25cb970ede270d45c6b1": {
-   "id": "2a91277babeb25cb970ede270d45c6b1",
-   "company": "HARTMANN",
-   "role": "Técnico Eléctrico De Turno (fines De Semana)",
-   "location": "Barcelona"
-  },
   "91a17e4af6cce2b7ee451377e00ea62a": {
    "id": "91a17e4af6cce2b7ee451377e00ea62a",
    "company": "Palladium Hotel Group",
@@ -2419,18 +2395,6 @@
    "company": "Roche",
    "role": "Field Application Specialist - Madrid",
    "location": "Madrid"
-  },
-  "3e4594676a930a60bead1666ac4a6d64": {
-   "id": "3e4594676a930a60bead1666ac4a6d64",
-   "company": "Equinix Inc.",
-   "role": "Tecnido De Mantenimiento De Instalaciones Criticas",
-   "location": "Salamanca"
-  },
-  "2e9aa29842137ae4dc798302a69390a1": {
-   "id": "2e9aa29842137ae4dc798302a69390a1",
-   "company": "baywa-re.co.uk",
-   "role": "O&m Technician (all Genders) - Zaragoza",
-   "location": "Zaragoza"
   },
   "fed874b5c59e5d9af5248ae8bbc30368": {
    "id": "fed874b5c59e5d9af5248ae8bbc30368",
@@ -2468,9 +2432,21 @@
    "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
    "location": "Barcelona"
   },
+  "0e2254be703ba5d42ffe47cfb1725286": {
+   "id": "0e2254be703ba5d42ffe47cfb1725286",
+   "company": "Skechers",
+   "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
+   "location": "Barcelona"
+  },
   "79c3599c56b8229130ab46866abec4ad": {
    "id": "79c3599c56b8229130ab46866abec4ad",
    "company": "VFC Corporation",
+   "role": "Vendedor/a 40h - Timberland - Madrid (preciados)",
+   "location": "Madrid"
+  },
+  "8543811f30eb14aaaf2a3479f17d3f2f": {
+   "id": "8543811f30eb14aaaf2a3479f17d3f2f",
+   "company": "VF Corporation",
    "role": "Vendedor/a 40h - Timberland - Madrid (preciados)",
    "location": "Madrid"
   },
@@ -2894,17 +2870,11 @@
    "role": "Sales Stylist 10h La Roca",
    "location": "Barcelona"
   },
-  "bcd9d51e7df54f840774025deca7da17": {
-   "id": "bcd9d51e7df54f840774025deca7da17",
-   "company": "skechers.cl",
-   "role": "Vendedor/a A Jornada Parcial – The Style Outlet Getafe",
+  "254828c244709140f8357a3cc5c178bd": {
+   "id": "254828c244709140f8357a3cc5c178bd",
+   "company": "Johnson Controls Inc",
+   "role": "Billing & Order Entry Admin",
    "location": "Madrid"
-  },
-  "44cf643ced08f260614abf60f13a7ce2": {
-   "id": "44cf643ced08f260614abf60f13a7ce2",
-   "company": "brunellocucinelli.career",
-   "role": "Sales Associate - Seasonal - Barcelona",
-   "location": "Barcelona"
   },
   "794e482bd3677b903437531c56f98285": {
    "id": "794e482bd3677b903437531c56f98285",
@@ -3222,12 +3192,6 @@
    "id": "41d03b97c93386decf86d829dc114d9d",
    "company": "Jobgether",
    "role": "Accountant / Administrative Assistant",
-   "location": "Spain"
-  },
-  "8024dec186c24ccbf4467e5cec08980c": {
-   "id": "8024dec186c24ccbf4467e5cec08980c",
-   "company": "IQVIA Inc",
-   "role": "Admin Assistant",
    "location": "Spain"
   }
  }
