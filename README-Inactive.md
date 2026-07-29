@@ -333,4 +333,24 @@
 <tr><td>skechers.cl</td><td>Vendedor/a A Jornada Parcial – The Style Outlet Getafe</td><td>Madrid</td><td>2026-07-28</td></tr>
 <tr><td>brunellocucinelli.career</td><td>Sales Associate - Seasonal - Barcelona</td><td>Barcelona</td><td>2026-07-28</td></tr>
 <tr><td>IQVIA Inc</td><td>Admin Assistant</td><td>Spain</td><td>2026-07-28</td></tr>
+<tr><td>Indra Group</td><td>Aerotelecom</td><td>Barcelona</td><td>2026-07-29</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Wayra Innovation Services</td><td>Madrid</td><td>2026-07-29</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum Para El Área De Gobierno De La Seguridad</td><td>Madrid</td><td>2026-07-29</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-07-29</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a Software Junior C/c++ - Sector Defensa</td><td>Madrid</td><td>2026-07-29</td></tr>
+<tr><td>Safeguard Global</td><td>Software Engineer</td><td>Spain</td><td>2026-07-29</td></tr>
+<tr><td>ING</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-07-29</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-07-29</td></tr>
+<tr><td>Indra group</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-07-29</td></tr>
+<tr><td>avoltaworld</td><td>Global Data Scientist Specialist</td><td>Madrid</td><td>2026-07-29</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#discover Ii 2026-2027 / Ethics & Compliance Internship</td><td>Madrid</td><td>2026-07-29</td></tr>
+<tr><td>HP, Inc.</td><td>Graduate Business Analyst</td><td>Spain</td><td>2026-07-29</td></tr>
+<tr><td>Air Products</td><td>Graduate Program - Pricing & Business Improvement Analyst</td><td>Barcelona</td><td>2026-07-29</td></tr>
+<tr><td>Ivivamedical</td><td>Clinical Research Associate, Sponsor Dedicated</td><td>Spain</td><td>2026-07-29</td></tr>
+<tr><td>IQVIA</td><td>Clinical Research Associate 2, Iqvia</td><td>Spain</td><td>2026-07-29</td></tr>
+<tr><td>IQVIA</td><td>Cra 1</td><td>Spain</td><td>2026-07-29</td></tr>
+<tr><td>Dover India</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-07-29</td></tr>
+<tr><td>Indra Group</td><td>Junior Electronic Maintenance Technician</td><td>Madrid</td><td>2026-07-29</td></tr>
+<tr><td>Roche</td><td>Field Application Specialist - Madrid</td><td>Madrid</td><td>2026-07-29</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 10h La Roca</td><td>Barcelona</td><td>2026-07-29</td></tr>
 </table>
