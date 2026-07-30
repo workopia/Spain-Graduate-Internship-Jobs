@@ -353,4 +353,17 @@
 <tr><td>Indra Group</td><td>Junior Electronic Maintenance Technician</td><td>Madrid</td><td>2026-07-29</td></tr>
 <tr><td>Roche</td><td>Field Application Specialist - Madrid</td><td>Madrid</td><td>2026-07-29</td></tr>
 <tr><td>Levis Media</td><td>Sales Stylist 10h La Roca</td><td>Barcelona</td><td>2026-07-29</td></tr>
+<tr><td>TEAM LEWIS</td><td>Content Intern B2b Tech</td><td>Madrid</td><td>2026-07-30</td></tr>
+<tr><td>Bosch Group</td><td>Estudiante En Prácticas- Departamento De Gestión De Producto Iberia (home Comfort)</td><td>Madrid</td><td>2026-07-30</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Comercial Win Way - Madrid</td><td>Madrid</td><td>2026-07-30</td></tr>
+<tr><td>SIX</td><td>Equity Commercial Department Internship</td><td>Madrid</td><td>2026-07-30</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a Software Junior C/c++ - Sector Defensa</td><td>Madrid</td><td>2026-07-30</td></tr>
+<tr><td>Indra</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-07-30</td></tr>
+<tr><td>KION</td><td>Backend Developer Digital Twin</td><td>Barcelona</td><td>2026-07-30</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#discover Ii 2026/2027 Map Systems Internship</td><td>Spain</td><td>2026-07-30</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>Spain</td><td>2026-07-30</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Data Scientist - Optimization Focus (beca)</td><td>Madrid</td><td>2026-07-30</td></tr>
+<tr><td>minsait</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-07-30</td></tr>
+<tr><td>minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-07-30</td></tr>
+<tr><td>Levis Media</td><td>Vacante 30h Sales Stilyst Ls Eci Castellana</td><td>Madrid</td><td>2026-07-30</td></tr>
 </table>

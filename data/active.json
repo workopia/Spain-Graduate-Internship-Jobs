@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-29",
- "count": 529,
+ "asOf": "2026-07-30",
+ "count": 533,
  "jobs": {
   "27657": {
    "id": "27657",
@@ -32,6 +32,12 @@
    "role": "Sales Advisor Part Time",
    "location": "Madrid"
   },
+  "fc27ae346fdefacad5e7c22f2817e1f5": {
+   "id": "fc27ae346fdefacad5e7c22f2817e1f5",
+   "company": "Westinghouse Electric Company LLC",
+   "role": "Maintenance Intern",
+   "location": "Salamanca"
+  },
   "9efc1ff1a1eb9597a01f14e07fbb5ecc": {
    "id": "9efc1ff1a1eb9597a01f14e07fbb5ecc",
    "company": "Amey (Ferrovial)",
@@ -56,11 +62,23 @@
    "role": "Facilities Intern Iberia",
    "location": "Barcelona"
   },
+  "1bd5f189d3c9cef1683e7b0517b2ddbe": {
+   "id": "1bd5f189d3c9cef1683e7b0517b2ddbe",
+   "company": "Juditechsono",
+   "role": "Facilities Intern Iberia",
+   "location": "Barcelona"
+  },
   "32bc3697b0e2aff8d07afe5de20e8a46": {
    "id": "32bc3697b0e2aff8d07afe5de20e8a46",
    "company": "VIE-INDIA",
    "role": "#discover Ii 2026-2027 / Test Support System Integrator Internship",
    "location": "Getafe Area"
+  },
+  "3595594a5a09af709b9be5884a3b20a7": {
+   "id": "3595594a5a09af709b9be5884a3b20a7",
+   "company": "aeroshiftedge.pics",
+   "role": "#discover Ii 2026-2027 / Test Support System Integrator Internship",
+   "location": "Madrid"
   },
   "1918d6b1518a9b00a9f7e1cc39780810": {
    "id": "1918d6b1518a9b00a9f7e1cc39780810",
@@ -404,6 +422,12 @@
    "role": "Front Office Trainee",
    "location": "Barcelona"
   },
+  "4dbcbadcea6eeb955cae23ac0ec5ee06": {
+   "id": "4dbcbadcea6eeb955cae23ac0ec5ee06",
+   "company": "The Ritz-Carlton",
+   "role": "Welcome Trainee - W Barcelona",
+   "location": "Barcelona"
+  },
   "79a2673e8e9fc4054594070349cbe1cc": {
    "id": "79a2673e8e9fc4054594070349cbe1cc",
    "company": "Mondelez",
@@ -488,34 +512,28 @@
    "role": "Avanade Campus Fp Clara Del Rey: Prácticas En Crm Con Tecnologías Microsoft",
    "location": "Clara Del Rey"
   },
-  "9c47de06f87a576c5cdc965b08da517c": {
-   "id": "9c47de06f87a576c5cdc965b08da517c",
-   "company": "TEAM LEWIS",
-   "role": "Content Intern B2b Tech",
-   "location": "Madrid"
-  },
-  "f44c35d503da471d7aaee4b249d5c36f": {
-   "id": "f44c35d503da471d7aaee4b249d5c36f",
-   "company": "Bosch Group",
-   "role": "Estudiante En Prácticas- Departamento De Gestión De Producto Iberia (home Comfort)",
-   "location": "Madrid"
-  },
-  "df49275e98e968cb69ac35b2a023a46e": {
-   "id": "df49275e98e968cb69ac35b2a023a46e",
-   "company": "Grupo Hotusa",
-   "role": "Prácticas Comercial Win Way - Madrid",
-   "location": "Madrid"
-  },
-  "3bd7820d06c471ab0302ee4c0b72bf2a": {
-   "id": "3bd7820d06c471ab0302ee4c0b72bf2a",
-   "company": "SIX",
-   "role": "Equity Commercial Department Internship",
-   "location": "Madrid"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
+   "location": "Madrid"
+  },
+  "3a2b3a268a46fea45fd37eae7a31cb7c": {
+   "id": "3a2b3a268a46fea45fd37eae7a31cb7c",
+   "company": "Indra",
+   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
+   "location": "Madrid"
+  },
+  "7340e8c90a9c19da8d39d4336faf3c0c": {
+   "id": "7340e8c90a9c19da8d39d4336faf3c0c",
+   "company": "minsait",
+   "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
+   "location": "Madrid"
+  },
+  "2ab2a2283109b991a7006685d1eec70c": {
+   "id": "2ab2a2283109b991a7006685d1eec70c",
+   "company": "Indra Group",
+   "role": "Ingeniero/a Software Junior C/c++ - Sector Defensa",
    "location": "Madrid"
   },
   "7305fc1f070c3d55768f1f5426ecc81c": {
@@ -534,12 +552,6 @@
    "id": "e909546b928e5360a1ccaff8d81f9570",
    "company": "Indra group",
    "role": "Ingeniero/a De Software Embebido C++ Y Ada",
-   "location": "Madrid"
-  },
-  "f23ad2ff08f8ac2b6f02f5c42c6193c7": {
-   "id": "f23ad2ff08f8ac2b6f02f5c42c6193c7",
-   "company": "Indra group",
-   "role": "Ingeniero/a Software Junior C/c++ - Sector Defensa",
    "location": "Madrid"
   },
   "0001038": {
@@ -654,12 +666,6 @@
    "id": "57b49845c48ada3bc821d9f976ecec6c",
    "company": "minsait",
    "role": "Ingeniero/a De Desarrollo Software De Radares",
-   "location": "Madrid"
-  },
-  "dfa92f59240e5fd3dc74b798a9b30650": {
-   "id": "dfa92f59240e5fd3dc74b798a9b30650",
-   "company": "Indra",
-   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
    "location": "Madrid"
   },
   "4f7cf864491004b12208e12093984d12": {
@@ -986,12 +992,6 @@
    "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
    "location": "Madrid"
   },
-  "978206e82a58c19dea58b3c9bf283726": {
-   "id": "978206e82a58c19dea58b3c9bf283726",
-   "company": "KION",
-   "role": "Backend Developer Digital Twin",
-   "location": "Barcelona"
-  },
   "8828fd6763f2c409571118ea546b871d": {
    "id": "8828fd6763f2c409571118ea546b871d",
    "company": "TD SYNNEX",
@@ -1082,11 +1082,17 @@
    "role": "Ai Engineer Internship (m/f/x)",
    "location": "Madrid"
   },
-  "e726a790a3a5d1ffaf8e2e245cdc5c00": {
-   "id": "e726a790a3a5d1ffaf8e2e245cdc5c00",
-   "company": "Airbus Defence and Space SAU",
-   "role": "#discover Ii 2026/2027 Map Systems Internship",
-   "location": "Spain"
+  "fd85a851c4ff61ac2c4397c846a81975": {
+   "id": "fd85a851c4ff61ac2c4397c846a81975",
+   "company": "minsait",
+   "role": "Data Analyst (sql & Sas) - Orientado A Negocio",
+   "location": "Barcelona"
+  },
+  "289c736421e4a764d259d900f292e901": {
+   "id": "289c736421e4a764d259d900f292e901",
+   "company": "Indra Group",
+   "role": "Data Scientist/data Engineer Junior",
+   "location": "Es"
   },
   "f0961946b004ad232feab278f810eac1": {
    "id": "f0961946b004ad232feab278f810eac1",
@@ -1100,11 +1106,11 @@
    "role": "Data Analyst (sql & Sas) - Orientado A Negocio",
    "location": "Barcelona"
   },
-  "40bb2912f0bf2b5c4525c94f4ab8eb2d": {
-   "id": "40bb2912f0bf2b5c4525c94f4ab8eb2d",
-   "company": "Indra group",
-   "role": "Data Scientist/data Engineer Junior",
-   "location": "Spain"
+  "be801ec8b1dde167c1b024382ff71ed6": {
+   "id": "be801ec8b1dde167c1b024382ff71ed6",
+   "company": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
+   "role": "Data Scientist - Optimization Focus (beca)",
+   "location": "Madrid"
   },
   "e7b7d378b2e0007450e9a6b4ae174077": {
    "id": "e7b7d378b2e0007450e9a6b4ae174077",
@@ -1116,12 +1122,6 @@
    "id": "f0d5f135bdbd1c20993836cfdea83d94",
    "company": "Indra group",
    "role": "Ai Engineer",
-   "location": "Madrid"
-  },
-  "8e36b29835e6807aee84527044f85155": {
-   "id": "8e36b29835e6807aee84527044f85155",
-   "company": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
-   "role": "Data Scientist - Optimization Focus (beca)",
    "location": "Madrid"
   },
   "0d1b5cbc84d44227d024b8f5566a3208": {
@@ -1171,12 +1171,6 @@
    "company": "Indra",
    "role": "Ai Engineer",
    "location": "Madrid"
-  },
-  "e4f03ff1428c0c8967f4e1a120e7a1c1": {
-   "id": "e4f03ff1428c0c8967f4e1a120e7a1c1",
-   "company": "minsait",
-   "role": "Data Analyst (sql & Sas) - Orientado A Negocio",
-   "location": "Barcelona"
   },
   "da6d5fe6e9b9edc0849042602b62a7f2": {
    "id": "da6d5fe6e9b9edc0849042602b62a7f2",
@@ -1568,6 +1562,12 @@
    "role": "Hr Business Advisory Analyst/business Advisor",
    "location": "Madrid"
   },
+  "86233fd752dfcf2b386b079de65e4beb": {
+   "id": "86233fd752dfcf2b386b079de65e4beb",
+   "company": "DWS Group",
+   "role": "Hr Business Advisory Analyst/business Advisor",
+   "location": "Madrid"
+  },
   "df0403012ccff2bcc49034f2ee8c4b75": {
    "id": "df0403012ccff2bcc49034f2ee8c4b75",
    "company": "Zurich Insurance Company Ltd",
@@ -1934,6 +1934,30 @@
    "role": "Ssu Cra",
    "location": "Spain"
   },
+  "b0d7f138bd83836d752181c114027fd3": {
+   "id": "b0d7f138bd83836d752181c114027fd3",
+   "company": "Kone Corporation",
+   "role": "Técnico/a De Mantenimiento Ocas",
+   "location": "Madrid"
+  },
+  "5d410f126f1ac7b2661ed2b259e953be": {
+   "id": "5d410f126f1ac7b2661ed2b259e953be",
+   "company": "Kone Corporation",
+   "role": "Técnico/a De Mantenimiento De Ascensorees",
+   "location": "Zaragoza"
+  },
+  "dbe41a3a5b4acc6d393bdf9673ce12b3": {
+   "id": "dbe41a3a5b4acc6d393bdf9673ce12b3",
+   "company": "Westinghouse Electric Company LLC",
+   "role": "Maintenance Technician",
+   "location": "Salamanca"
+  },
+  "9d90ac982a1f061362aadd7b2ad04859": {
+   "id": "9d90ac982a1f061362aadd7b2ad04859",
+   "company": "minsait",
+   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
+   "location": "Salamanca"
+  },
   "b46da245aa1cce79995b7b6cdc4dc38e": {
    "id": "b46da245aa1cce79995b7b6cdc4dc38e",
    "company": "Indra group",
@@ -2071,12 +2095,6 @@
    "company": "Orona S.Coop",
    "role": "Técnico/a De Mantenimiento De Ascensores (barcelona)",
    "location": "Barcelona"
-  },
-  "25a1c1af32097f3b73d5ab3087a3a536": {
-   "id": "25a1c1af32097f3b73d5ab3087a3a536",
-   "company": "minsait",
-   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
-   "location": "Salamanca"
   },
   "9cce72a0ecc9a5e2c7f695ab448902e8": {
    "id": "9cce72a0ecc9a5e2c7f695ab448902e8",
@@ -2364,6 +2382,12 @@
    "id": "ba5203f7e96729481a4ac904184da7bf",
    "company": "Otis Worldwide Corporation",
    "role": "Técnico (h/m) Mantenimiento Portis Madrid",
+   "location": "Madrid"
+  },
+  "77c367a0a429b329a2dfbffc9b3a3d31": {
+   "id": "77c367a0a429b329a2dfbffc9b3a3d31",
+   "company": "brunellocucinelli.career",
+   "role": "Sales Associate - Las Rozas",
    "location": "Madrid"
   },
   "4bf4458c7ee8298e5f61f00a6b2b98da": {
@@ -2834,10 +2858,10 @@
    "role": "Digital Sales Associate – German Speaking",
    "location": "Barcelona"
   },
-  "420f02274f30dab7c024ba931fe3a8fe": {
-   "id": "420f02274f30dab7c024ba931fe3a8fe",
-   "company": "Levis Media",
-   "role": "Vacante 30h Sales Stilyst Ls Eci Castellana",
+  "4444ac41f62ee5987abe317256cf78e6": {
+   "id": "4444ac41f62ee5987abe317256cf78e6",
+   "company": "OCA Global Corporate Services S.A",
+   "role": "Administrativo/a Gestión Cae",
    "location": "Madrid"
   },
   "19f9bf1430caaede62b298ca74aa3223": {
