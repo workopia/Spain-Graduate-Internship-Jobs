@@ -366,4 +366,28 @@
 <tr><td>minsait</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-07-30</td></tr>
 <tr><td>minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-07-30</td></tr>
 <tr><td>Levis Media</td><td>Vacante 30h Sales Stilyst Ls Eci Castellana</td><td>Madrid</td><td>2026-07-30</td></tr>
+<tr><td>DKSH Corporate Shared Services Center Sdn Bhd</td><td>Intern, Tax (europe) - 6 To 12 Months</td><td>Barcelona</td><td>2026-07-31</td></tr>
+<tr><td>Nordex SE</td><td>Project Manager Support Intern (m/f/d)</td><td>Tajonar</td><td>2026-07-31</td></tr>
+<tr><td>Nordex SE</td><td>Pmd Process & Automation Intern (m/f/d)</td><td>Mutilva</td><td>2026-07-31</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)</td><td>Tajonar</td><td>2026-07-31</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Front Office Trainee</td><td>Barcelona</td><td>2026-07-31</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Welcome Trainee - W Barcelona</td><td>Barcelona</td><td>2026-07-31</td></tr>
+<tr><td>Mondelez</td><td>Taste The Future - People Lead Intern - Madrid, Spain</td><td>Madrid</td><td>2026-07-31</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - People Lead Intern - Madrid, Spain</td><td>Madrid</td><td>2026-07-31</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship It - September 2026</td><td>Esplugues Llobregat</td><td>2026-07-31</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Hr - September 2026</td><td>Esplugues Llobregat</td><td>2026-07-31</td></tr>
+<tr><td>Halfspace ApS</td><td>Dixcover - Programa Prácticas Fp Accenture</td><td>Madrid</td><td>2026-07-31</td></tr>
+<tr><td>Springerhealthplus</td><td>Becario/prácticas</td><td>Madrid</td><td>2026-07-31</td></tr>
+<tr><td>Springnature</td><td>Becario/prácticas</td><td>Madrid</td><td>2026-07-31</td></tr>
+<tr><td>ACCIONA</td><td>Beca Fp Practicas Sea (torrejón)</td><td>TorrejóN</td><td>2026-07-31</td></tr>
+<tr><td>164</td><td>Beca Fp Practicas Sea (torrejón)</td><td>TorrejóN</td><td>2026-07-31</td></tr>
+<tr><td>ACCIONA Energía</td><td>Beca Fp Practicas Sea (torrejón)</td><td>TorrejóN</td><td>2026-07-31</td></tr>
+<tr><td>Procter & Gamble (P&G)</td><td>Human Resources Internship (m/f/x)</td><td>Madrid</td><td>2026-07-31</td></tr>
+<tr><td>Pledgr</td><td>Human Resources Internship (m/f/x)</td><td>Madrid</td><td>2026-07-31</td></tr>
+<tr><td>Pgcareers</td><td>Human Resources Internship (m/f/x)</td><td>Madrid</td><td>2026-07-31</td></tr>
+<tr><td>Avanade</td><td>Avanade Campus Fp Clara Del Rey: Prácticas En Crm Con Tecnologías Microsoft</td><td>Clara Del Rey</td><td>2026-07-31</td></tr>
+<tr><td>SICPA SA</td><td>Software Engineer</td><td>Madrid</td><td>2026-07-31</td></tr>
+<tr><td>Hitachi Rail GTS Spain S.A.U.</td><td>Maintenance Engineer</td><td>Madrid</td><td>2026-07-31</td></tr>
+<tr><td>Prada Group</td><td>Client Advisor - Mens Department</td><td>Madrid</td><td>2026-07-31</td></tr>
+<tr><td>Automatic Data Processing</td><td>Digital Sales Associate – German Speaking</td><td>Barcelona</td><td>2026-07-31</td></tr>
 </table>
