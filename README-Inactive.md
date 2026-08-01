@@ -390,4 +390,51 @@
 <tr><td>Hitachi Rail GTS Spain S.A.U.</td><td>Maintenance Engineer</td><td>Madrid</td><td>2026-07-31</td></tr>
 <tr><td>Prada Group</td><td>Client Advisor - Mens Department</td><td>Madrid</td><td>2026-07-31</td></tr>
 <tr><td>Automatic Data Processing</td><td>Digital Sales Associate – German Speaking</td><td>Barcelona</td><td>2026-07-31</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Administración Economato Madrid</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>PTC</td><td>Business Development Intern - Uk/i/nordics</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>2026 Autumn Internship Opportunities- Four Seasons Hotel Madrid</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Comunicación</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>Fever</td><td>Event Producer Intern - Northern Europe (madrid)</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>Laboral Kutxa</td><td>¿quieres Hacer Prácticas En Laboral Kutxa? Envíanos Tu Currículum...</td><td>Spain</td><td>2026-08-01</td></tr>
+<tr><td>Coty Inc.</td><td>Demand Intern</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>Coty Inc.</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>jobs.abbott</td><td>Formación Comercial Internship - Core Lab (madrid)</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Formación Comercial Internship - Core Lab (madrid)</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>Inspired Education Group</td><td>Internship Opportunity - Administration & Management</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Operations - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-01</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Kitchen - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-01</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Business & Risk Consulting - Rookies Enero 2027</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Business Consulting - Rookies Enero 2027</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>Marriott International</td><td>Front Office Trainee - Renaissance Barcelona</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Strategy</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>licensed to TBVSC LLC</td><td>Personal Shopping Intern</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Discover Ii / 2026-2027 / Structural Dynamics, Aeroelastic, And Impact-type Challenges Internship</td><td>Spain</td><td>2026-08-01</td></tr>
+<tr><td>VIE-INDIA</td><td>Discover Ii / 2026-2027 / Structural Dynamics, Aeroelastic, And Impact-type Challenges Internship</td><td>Spain</td><td>2026-08-01</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Discover Ii / 2026-2027 / Structural Dynamics, Aeroelastic, And Impact-type Challenges Internship</td><td>Spain</td><td>2026-08-01</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Discover Ii / 2026-2027 / Structural Dynamics, Aeroelastic, And Impact-type Challenges Internship</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Front Office Trainee - Renaissance Barcelona</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Departamento Explotación - Barcelona</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Welcome Trainee - W Barcelona</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>Marriott International</td><td>Front Office Trainee</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>Marriott International</td><td>Welcome Trainee - W Barcelona</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>Indra</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>minsait</td><td>Ingeniero/a De Desarrollo De Aplicaciones En Tiempo Real (c++)</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>Telefonica</td><td>Responsable De Seguridad De La Información - Talent Pool</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>minsait</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-08-01</td></tr>
+<tr><td>Johnson & Johnson Innovative Medicine</td><td>Commercial Compliance Specialist Spain - Surgery</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>Johnson & Johnson UK</td><td>Commercial Compliance Specialist Spain - Surgery</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-08-01</td></tr>
+<tr><td>Indra group</td><td>Junior Electronic Maintenance Technician</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>SIXT</td><td>Técnico/a De Mantenimiento De Instalaciones Electromecánicas (m/f/d)</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>Palladium Hotel Group</td><td>Técnico De Mantenimiento - Bless Hotel Barcelona</td><td>Barcelona</td><td>2026-08-01</td></tr>
+<tr><td>DABA, SA</td><td>Mozo/a Servicio Técnico Madrid - 20h/s (temporal)</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>Orona S.Coop</td><td>Técnico/a De Mantenimiento De Ascensores (huesca)</td><td>Zaragoza</td><td>2026-08-01</td></tr>
+<tr><td>Otis Worldwide Corporation</td><td>Técnico (h/m) Mantenimiento Portis Madrid</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>Civitatis</td><td>Store Sales Advisor</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>Merkal Calzados S.L</td><td>Vendedor/a 10 Horas Semanales</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a - [plantilla Jes]</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Vendedor/a A Jornada Parcial – The Style Outlet Getafe</td><td>Madrid</td><td>2026-08-01</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Albacete</td><td>2026-08-01</td></tr>
 </table>
