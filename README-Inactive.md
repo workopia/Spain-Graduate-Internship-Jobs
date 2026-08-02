@@ -437,4 +437,36 @@
 <tr><td>JYSK</td><td>Vendedor/a - [plantilla Jes]</td><td>Madrid</td><td>2026-08-01</td></tr>
 <tr><td>SKECHERS USA Inc</td><td>Vendedor/a A Jornada Parcial – The Style Outlet Getafe</td><td>Madrid</td><td>2026-08-01</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Albacete</td><td>2026-08-01</td></tr>
+<tr><td>Boggi Milano</td><td>Sales Advisor Part Time</td><td>Madrid</td><td>2026-08-02</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Comunicación</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Edición Técnica</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Penguin Aula</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Edición</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Innovation & Digital Projects Intern - Barcelona</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Cocina Y Sala En Eurostars Hotel Company</td><td>Madrid</td><td>2026-08-02</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>#beca Ahe - Environment, Health And Safety (ehs)</td><td>Albacete</td><td>2026-08-02</td></tr>
+<tr><td>Melia</td><td>Prácticas Revenue</td><td>Islas Baleares</td><td>2026-08-02</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b Luxury Brands</td><td>Islas Baleares</td><td>2026-08-02</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b</td><td>Islas Baleares</td><td>2026-08-02</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Prácticas - Gestión Administrativa Y Soporte A Catman</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>Verisure S.A.</td><td>Intern – Hris</td><td>Madrid</td><td>2026-08-02</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Consultoría I+d</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Consultoría I+d Energía</td><td>Madrid</td><td>2026-08-02</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas I+d Proyectos Europeos</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>Nestlé</td><td>Spain Youth / Internship It - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-02</td></tr>
+<tr><td>Nestlé</td><td>Spain Youth / Internship Hr - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-02</td></tr>
+<tr><td>DABA, SA</td><td>Prácticas En Servicio De Atención Técnica - Nespresso Professional</td><td>EspañA</td><td>2026-08-02</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Soluciones Tecnológicas</td><td>Madrid</td><td>2026-08-02</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Revenue - Eurostars Hotel Company</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>Santander UK</td><td>Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds</td><td>Madrid</td><td>2026-08-02</td></tr>
+<tr><td>KION</td><td>Backend Developer Digital Twin</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>ING</td><td>Financial Crime Prevention Expert – Business Banking</td><td>Madrid</td><td>2026-08-02</td></tr>
+<tr><td>Abbott</td><td>Field Service Engineer Internship - Core Lab (madrid)</td><td>Madrid</td><td>2026-08-02</td></tr>
+<tr><td>Acciona SA</td><td>Operador/a Electromecánico</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Industrial Maintenance Technician</td><td>Madrid</td><td>2026-08-02</td></tr>
+<tr><td>ACCIONA</td><td>Operador/a Electromecánico</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>Grupo Otis</td><td>Técnico De Ascensores (h/m) - Programa Formativo Grupo Otis</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>COS</td><td>Sales Advisor / C.c Gran Via - Madrid / Part Time 12h / Permanente</td><td>Madrid</td><td>2026-08-02</td></tr>
+<tr><td>Temporing</td><td>Aux. Administrativo/a Almacén - Gavà</td><td>Barcelona</td><td>2026-08-02</td></tr>
+<tr><td>Jobgether</td><td>Accountant / Administrative Assistant</td><td>Spain</td><td>2026-08-02</td></tr>
 </table>
