@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-02",
- "count": 562,
+ "asOf": "2026-08-03",
+ "count": 564,
  "jobs": {
   "27657": {
    "id": "27657",
@@ -26,15 +26,75 @@
    "role": "Innovation Ai Engineer",
    "location": "Madrid"
   },
+  "d4412f87e5ca6a22660f210cd34dccd5": {
+   "id": "d4412f87e5ca6a22660f210cd34dccd5",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Beca Canal Corredores",
+   "location": "Barcelona"
+  },
+  "1f1ec1717717df9e6c2f42ecdc0e07ae": {
+   "id": "1f1ec1717717df9e6c2f42ecdc0e07ae",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Beca Suscripción Usp Pymes",
+   "location": "Madrid"
+  },
+  "5bd8c1b29b89f5412b44359ec164b85a": {
+   "id": "5bd8c1b29b89f5412b44359ec164b85a",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Kitchen - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "d46c12877f3095a6cfe81cdebd48a6f3": {
+   "id": "d46c12877f3095a6cfe81cdebd48a6f3",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Finance - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "948f561de51a2ddb93e876d8bc2fef38": {
+   "id": "948f561de51a2ddb93e876d8bc2fef38",
+   "company": "Zurich Insurance UK",
+   "role": "Beca Canal Corredores",
+   "location": "Barcelona"
+  },
+  "dd4f9ae1d6015570fe446aa50ac79280": {
+   "id": "dd4f9ae1d6015570fe446aa50ac79280",
+   "company": "Zurich Insurance UK",
+   "role": "Beca Suscripción Usp Pymes",
+   "location": "Madrid"
+  },
+  "4dc4a5076d44535128ddc1fda8a0b82a": {
+   "id": "4dc4a5076d44535128ddc1fda8a0b82a",
+   "company": "Coca-Cola HBC AG",
+   "role": "Coca-cola Ignite Intern - Franchise Operations",
+   "location": "Madrid"
+  },
+  "899fdcb912b4e8f255f921c1b4aec1c2": {
+   "id": "899fdcb912b4e8f255f921c1b4aec1c2",
+   "company": "Airbus SE",
+   "role": "#discover Ii 2026-2027/ Business & Product Development / Programme Management Internship",
+   "location": "Getafe Area"
+  },
   "9e5ecd7cd64789a6dce26efc27993a4f": {
    "id": "9e5ecd7cd64789a6dce26efc27993a4f",
    "company": "aeroshiftedge.pics",
    "role": "#discover Ii 2026-2027/ Business & Product Development / Programme Management Internship",
    "location": "Madrid"
   },
+  "fd99bc1dff8221d67068677fbc6776a4": {
+   "id": "fd99bc1dff8221d67068677fbc6776a4",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Finance Intern",
+   "location": "Barcelona"
+  },
   "33960eccfc51d059ca57e3acb89c9202": {
    "id": "33960eccfc51d059ca57e3acb89c9202",
    "company": "Accenture Australia",
+   "role": "Dixcover - Programa Prácticas Fp Accenture",
+   "location": "Madrid"
+  },
+  "0304018020633a254f8e7c3e5188d5cd": {
+   "id": "0304018020633a254f8e7c3e5188d5cd",
+   "company": "Halfspace ApS",
    "role": "Dixcover - Programa Prácticas Fp Accenture",
    "location": "Madrid"
   },
@@ -80,6 +140,12 @@
    "role": "Car Fleet Operations Internship (m/f/x)",
    "location": "Madrid"
   },
+  "296ca1e6a2920edb83faf6ec8672df05": {
+   "id": "296ca1e6a2920edb83faf6ec8672df05",
+   "company": "Procter & Gamble (P&G)",
+   "role": "Car Fleet Operations Internship (m/f/x)",
+   "location": "Madrid"
+  },
   "f0dfac110872fb0c74128671b56d0e3b": {
    "id": "f0dfac110872fb0c74128671b56d0e3b",
    "company": "Coty Inc",
@@ -110,16 +176,10 @@
    "role": "Beca Surety",
    "location": "Madrid"
   },
-  "391a7a362f03fdb62515cc613e7233ad": {
-   "id": "391a7a362f03fdb62515cc613e7233ad",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Beca Canal Corredores",
-   "location": "Barcelona"
-  },
-  "e1e5f7f2edbc10934c4b846c8496682e": {
-   "id": "e1e5f7f2edbc10934c4b846c8496682e",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Beca Suscripción Usp Pymes",
+  "aec557e4a56739e996fe77976915bd0c": {
+   "id": "aec557e4a56739e996fe77976915bd0c",
+   "company": "Marsh",
+   "role": "Beca Surety",
    "location": "Madrid"
   },
   "c907ab15c11aade28a833742ee01eb3c": {
@@ -137,6 +197,12 @@
   "a172f65703b0152eff7bd215326e3303": {
    "id": "a172f65703b0152eff7bd215326e3303",
    "company": "MSD (Merck)",
+   "role": "Beca En Business Practice Department",
+   "location": "Madrid"
+  },
+  "ff84c8b6524ae1b9d245332f8c12c72b": {
+   "id": "ff84c8b6524ae1b9d245332f8c12c72b",
+   "company": "Nerdgigs",
    "role": "Beca En Business Practice Department",
    "location": "Madrid"
   },
@@ -398,12 +464,6 @@
    "role": "Project Manager Support Intern (m/f/d)",
    "location": "Tajonar"
   },
-  "eb07c80789e9d5b0ccee63eba3caa2ac": {
-   "id": "eb07c80789e9d5b0ccee63eba3caa2ac",
-   "company": "Zurich Insurance UK",
-   "role": "Beca Suscripción Usp Pymes",
-   "location": "Madrid"
-  },
   "9efc1ff1a1eb9597a01f14e07fbb5ecc": {
    "id": "9efc1ff1a1eb9597a01f14e07fbb5ecc",
    "company": "Amey (Ferrovial)",
@@ -446,71 +506,17 @@
    "role": "Finance Trainee - Renaissance Barcelona",
    "location": "Barcelona"
   },
-  "ee7a7efa8d3b6c24088bab68ab2bd714": {
-   "id": "ee7a7efa8d3b6c24088bab68ab2bd714",
-   "company": "Marriott International",
-   "role": "F&b Trainee - Renaissance Barcelona",
-   "location": "Barcelona"
-  },
-  "26d74d2b6971cd09fb50efb37d06c4f2": {
-   "id": "26d74d2b6971cd09fb50efb37d06c4f2",
-   "company": "Sonymusicpub",
-   "role": "Facilities Intern Iberia",
-   "location": "Barcelona"
-  },
-  "1bd5f189d3c9cef1683e7b0517b2ddbe": {
-   "id": "1bd5f189d3c9cef1683e7b0517b2ddbe",
-   "company": "Juditechsono",
-   "role": "Facilities Intern Iberia",
-   "location": "Barcelona"
-  },
-  "32bc3697b0e2aff8d07afe5de20e8a46": {
-   "id": "32bc3697b0e2aff8d07afe5de20e8a46",
-   "company": "VIE-INDIA",
-   "role": "#discover Ii 2026-2027 / Test Support System Integrator Internship",
-   "location": "Getafe Area"
-  },
-  "3595594a5a09af709b9be5884a3b20a7": {
-   "id": "3595594a5a09af709b9be5884a3b20a7",
-   "company": "aeroshiftedge.pics",
-   "role": "#discover Ii 2026-2027 / Test Support System Integrator Internship",
-   "location": "Madrid"
-  },
-  "df5a875b43b114b39219d87b5233e18f": {
-   "id": "df5a875b43b114b39219d87b5233e18f",
-   "company": "Airbus Defence and Space SAU",
-   "role": "#discover Ii 2026-2027 / Test Support System Integrator Internship",
-   "location": "Madrid"
-  },
-  "1918d6b1518a9b00a9f7e1cc39780810": {
-   "id": "1918d6b1518a9b00a9f7e1cc39780810",
-   "company": "Bureau Veritas",
-   "role": "Becario/a Departamento De Pesca Sostenible",
-   "location": "Madrid"
-  },
-  "7a68e17fb4a24821fa50f50620a4809c": {
-   "id": "7a68e17fb4a24821fa50f50620a4809c",
-   "company": "Inspired Education Group",
-   "role": "Internship Opportunities - El Colegio Británico / The British School",
-   "location": "Madrid"
-  },
-  "fa707839a824f4a92134d69594d0b76a": {
-   "id": "fa707839a824f4a92134d69594d0b76a",
-   "company": "avoltaworld",
-   "role": "Intern Supply Chain",
-   "location": "Spain"
-  },
-  "8624f02b1a241f861d57438d4b9f6eac": {
-   "id": "8624f02b1a241f861d57438d4b9f6eac",
-   "company": "Grupo Hotusa",
-   "role": "Prácticas Recepción Eurostars Hotels (barcelona)",
-   "location": "Barcelona"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
    "location": "Madrid"
+  },
+  "e70fdbbe404f00cd0d2081147fc76a47": {
+   "id": "e70fdbbe404f00cd0d2081147fc76a47",
+   "company": "Nouryon",
+   "role": "Technical Service Representative",
+   "location": "Barcelona"
   },
   "8552b5f95cdac1b30051332e8f478355": {
    "id": "8552b5f95cdac1b30051332e8f478355",
@@ -751,12 +757,6 @@
    "company": "Jobgether",
    "role": "Software Craftsperson/node.js/react.js/ai",
    "location": "Spain"
-  },
-  "e70fdbbe404f00cd0d2081147fc76a47": {
-   "id": "e70fdbbe404f00cd0d2081147fc76a47",
-   "company": "Nouryon",
-   "role": "Technical Service Representative",
-   "location": "Barcelona"
   },
   "06525e8bf0fc1f0e8241cadae5012e38": {
    "id": "06525e8bf0fc1f0e8241cadae5012e38",
@@ -1076,9 +1076,33 @@
    "role": "Ai Engineer Internship (m/f/x)",
    "location": "Madrid"
   },
+  "9afebdf140d10c3c7f35bcc02f836c7d": {
+   "id": "9afebdf140d10c3c7f35bcc02f836c7d",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Data Analyst / Data Engineer (commercial Insurance)",
+   "location": "Barcelona"
+  },
+  "d9a22bb89162ca2512946570bf28b12c": {
+   "id": "d9a22bb89162ca2512946570bf28b12c",
+   "company": "Zurich Insurance UK",
+   "role": "Data Analyst / Data Engineer (commercial Insurance)",
+   "location": "Barcelona"
+  },
   "980608c0ca764ebc2c34040d129491bb": {
    "id": "980608c0ca764ebc2c34040d129491bb",
    "company": "Salesforce Service Cloud",
+   "role": "Ai Builder, Emerging Talent - Greek Market",
+   "location": "Madrid"
+  },
+  "170734de737188797b97afd175ab5976": {
+   "id": "170734de737188797b97afd175ab5976",
+   "company": "Salesforce UK",
+   "role": "Ai Builder, Emerging Talent - Greek Market",
+   "location": "Madrid"
+  },
+  "82db0b5ae1daaa9d1783734810e50c39": {
+   "id": "82db0b5ae1daaa9d1783734810e50c39",
+   "company": "swisssalesjobs.ch",
    "role": "Ai Builder, Emerging Talent - Greek Market",
    "location": "Madrid"
   },
@@ -1088,9 +1112,21 @@
    "role": "Oliver Wyman – Ai Engineer (m/f/d) – Quotient Ai Specialist – Madrid / London",
    "location": "Madrid"
   },
+  "40d1c76ac5270f436d1fe73083d9e4c1": {
+   "id": "40d1c76ac5270f436d1fe73083d9e4c1",
+   "company": "MARSH MCLENNAN",
+   "role": "Oliver Wyman – Ai Engineer (m/f/d) – Quotient Ai Specialist – Madrid / London",
+   "location": "Madrid"
+  },
   "60075dee167d76b0d7a86349f099df04": {
    "id": "60075dee167d76b0d7a86349f099df04",
    "company": "Aristocrat Technologies",
+   "role": "Data Scientist",
+   "location": "Barcelona"
+  },
+  "a60b6210cbe67b57db41ee9879069881": {
+   "id": "a60b6210cbe67b57db41ee9879069881",
+   "company": "Product Madness Inc",
    "role": "Data Scientist",
    "location": "Barcelona"
   },
@@ -1106,6 +1142,12 @@
    "role": "Junior Commercial Data Analyst",
    "location": "Madrid"
   },
+  "09892964a46fba83ddc73e021ef18112": {
+   "id": "09892964a46fba83ddc73e021ef18112",
+   "company": "Springer Nature",
+   "role": "Junior Commercial Data Analyst",
+   "location": "Madrid"
+  },
   "4ddf4195b2f9982e3d8cc367d575318f": {
    "id": "4ddf4195b2f9982e3d8cc367d575318f",
    "company": "My Medical Sales Jobs",
@@ -1115,6 +1157,12 @@
   "3a19af017c60d478906511e93460bc2c": {
    "id": "3a19af017c60d478906511e93460bc2c",
    "company": "Ivivamedical",
+   "role": "Data Analytics Analyst - Sas",
+   "location": "Madrid"
+  },
+  "995fb9e4a7a2e678bb129c28e542610f": {
+   "id": "995fb9e4a7a2e678bb129c28e542610f",
+   "company": "IQVIA UK",
    "role": "Data Analytics Analyst - Sas",
    "location": "Madrid"
   },
@@ -1190,12 +1238,6 @@
    "role": "Ai Engineer",
    "location": "Madrid"
   },
-  "0d1b5cbc84d44227d024b8f5566a3208": {
-   "id": "0d1b5cbc84d44227d024b8f5566a3208",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Data Analyst / Data Engineer (commercial Insurance)",
-   "location": "Barcelona"
-  },
   "cfe6f0ff88c8b3aa954845e86db1d52a": {
    "id": "cfe6f0ff88c8b3aa954845e86db1d52a",
    "company": "MAPFRE",
@@ -1242,12 +1284,6 @@
    "id": "b798c8562932492a3eab68c92cb7f7af",
    "company": "Zurich Insurance UK",
    "role": "Beca Claims - Análisis De Datos",
-   "location": "Barcelona"
-  },
-  "83c5bcedcc8be2b24b38260353779e6b": {
-   "id": "83c5bcedcc8be2b24b38260353779e6b",
-   "company": "Zurich Insurance UK",
-   "role": "Data Analyst / Data Engineer (commercial Insurance)",
    "location": "Barcelona"
   },
   "c61cb186bb0a4fad38dbdbed62772a88": {
@@ -1508,29 +1544,23 @@
    "role": "Ai Quality &amp; Context Engineer (gobernanza De Código)",
    "location": "Barcelona"
   },
-  "fee26f54c9eace50f62aa1bc88fa6879": {
-   "id": "fee26f54c9eace50f62aa1bc88fa6879",
-   "company": "MAPFRE",
-   "role": "Data Scientist - Gestion Estrategica Tecnica Vida",
-   "location": "Madrid"
+  "5084aeedb7cff32a071e0dfecd3a04c6": {
+   "id": "5084aeedb7cff32a071e0dfecd3a04c6",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Business Analyst Intern",
+   "location": "Barcelona"
+  },
+  "6a0d3ffe49a15d48bfc1e14303b94f1c": {
+   "id": "6a0d3ffe49a15d48bfc1e14303b94f1c",
+   "company": "Zurich Insurance UK",
+   "role": "Business Analyst Intern",
+   "location": "Barcelona"
   },
   "847311827f891518d8fd11ad1c18a6b2": {
    "id": "847311827f891518d8fd11ad1c18a6b2",
    "company": "Celonis",
    "role": "Intern Competitive Value Engineering & Management Consulting",
    "location": "Madrid"
-  },
-  "81199bd87bb6872c74c6929b19ddf3ba": {
-   "id": "81199bd87bb6872c74c6929b19ddf3ba",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Business Analyst Intern",
-   "location": "Barcelona"
-  },
-  "560e1fb2f0dcc5370b97f7948aa9f2f9": {
-   "id": "560e1fb2f0dcc5370b97f7948aa9f2f9",
-   "company": "Zurich Insurance UK",
-   "role": "Business Analyst Intern",
-   "location": "Barcelona"
   },
   "72221daadf09f2b0caade420e5140f17": {
    "id": "72221daadf09f2b0caade420e5140f17",
@@ -1574,17 +1604,17 @@
    "role": "Strategic Planning Analyst Intern (m/f/d)",
    "location": "Tajonar"
   },
-  "5a9b7d4a622d4e3e2e40e79a39ec57e0": {
-   "id": "5a9b7d4a622d4e3e2e40e79a39ec57e0",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Trainee Business Analyst (retención)",
+  "85684c2bc88495234fa6674f777453e4": {
+   "id": "85684c2bc88495234fa6674f777453e4",
+   "company": "Sabadell Zurich",
+   "role": "Trainee Business Analyst",
    "location": "Barcelona"
   },
-  "6f2ead132ddd129f67028d8f9b60671b": {
-   "id": "6f2ead132ddd129f67028d8f9b60671b",
+  "a682d7b89f3c19e65ef1bf5e0cee0954": {
+   "id": "a682d7b89f3c19e65ef1bf5e0cee0954",
    "company": "Zurich Insurance UK",
    "role": "Trainee Business Analyst (retención)",
-   "location": "Localidad"
+   "location": "Barcelona"
   },
   "9f426e93458286d9b3e1081c3004238f": {
    "id": "9f426e93458286d9b3e1081c3004238f",
@@ -1610,12 +1640,6 @@
    "role": "Graduate Business Analyst - Hp Additive Manufacturing Solutiions",
    "location": "Spain"
   },
-  "85684c2bc88495234fa6674f777453e4": {
-   "id": "85684c2bc88495234fa6674f777453e4",
-   "company": "Sabadell Zurich",
-   "role": "Trainee Business Analyst",
-   "location": "Barcelona"
-  },
   "9b8eff5ab01588ddcaa745770837752c": {
    "id": "9b8eff5ab01588ddcaa745770837752c",
    "company": "Sabadell Zurich",
@@ -1626,6 +1650,12 @@
    "id": "UNI3768",
    "company": "HP",
    "role": "Graduate Business Analyst - Hp Additive Manufacturing Solutiions",
+   "location": "Barcelona"
+  },
+  "d3ad00d3abd9eb0bf4a22d13cb3a71bf": {
+   "id": "d3ad00d3abd9eb0bf4a22d13cb3a71bf",
+   "company": "Zurich Insurance UK",
+   "role": "Consultor/a Seguros Previsión Social Empresas",
    "location": "Barcelona"
   },
   "e437e2c4f6ef214c7c14e96f5fe2b86f": {
@@ -2006,24 +2036,6 @@
    "role": "Consultor/a Sap Finanzas - España 100% Remoto",
    "location": "Spain"
   },
-  "5568f4dcbe36eff33cb45797eb63521a": {
-   "id": "5568f4dcbe36eff33cb45797eb63521a",
-   "company": "Johnson & Johnson",
-   "role": "Commercial Compliance Specialist Spain - Surgery",
-   "location": "Madrid"
-  },
-  "015042e14367fd7c7676b39cd6391532": {
-   "id": "015042e14367fd7c7676b39cd6391532",
-   "company": "Spaulding Ridge",
-   "role": "Revenue Excellence Consulting Analyst",
-   "location": "London +1"
-  },
-  "56957a3fd29c27545692b7f1e5a58d67": {
-   "id": "56957a3fd29c27545692b7f1e5a58d67",
-   "company": "Johnson & Johnson MedTech",
-   "role": "Commercial Compliance Specialist Spain - Surgery",
-   "location": "Madrid"
-  },
   "e9827e9267805b8669922159e05f48e8": {
    "id": "e9827e9267805b8669922159e05f48e8",
    "company": "Ivivamedical",
@@ -2040,12 +2052,6 @@
    "id": "f7419cd3b112a977d804939a39ca3e7f",
    "company": "IQVIA Holdings",
    "role": "Clinical Research Associate 2 - Cfsp",
-   "location": "Spain"
-  },
-  "6736b539cce738053d076b10438bfef1": {
-   "id": "6736b539cce738053d076b10438bfef1",
-   "company": "My Medical Sales Jobs",
-   "role": "Ssu Cra",
    "location": "Spain"
   },
   "783715e6690dd980ce4da24f456aed43": {
@@ -2066,6 +2072,18 @@
    "role": "Workshop Service Engineer",
    "location": "Barcelona"
   },
+  "7ccc51c47cb7a84489ec7023e1decfb2": {
+   "id": "7ccc51c47cb7a84489ec7023e1decfb2",
+   "company": "Willenbrock Fordertechnik GmbH & Co. KG",
+   "role": "Workshop Service Engineer",
+   "location": "Barcelona"
+  },
+  "865f92e9d80168b76610b0fb8f713367": {
+   "id": "865f92e9d80168b76610b0fb8f713367",
+   "company": "fenwick-linde.fr",
+   "role": "Workshop Service Engineer",
+   "location": "Barcelona"
+  },
   "1b3020c8d61f6a7e9573a855b56f0285": {
    "id": "1b3020c8d61f6a7e9573a855b56f0285",
    "company": "aeroshiftedge.pics",
@@ -2075,6 +2093,12 @@
   "bd8de1f1e77affeedd1f68847c45cb84": {
    "id": "bd8de1f1e77affeedd1f68847c45cb84",
    "company": "Airbus Operations SL",
+   "role": "Applications Technician For Industrial Maintenance Area",
+   "location": "Madrid"
+  },
+  "99a31cb8091192c36b56040a8ac11bfb": {
+   "id": "99a31cb8091192c36b56040a8ac11bfb",
+   "company": "Satair (an Airbus Services Company)",
    "role": "Applications Technician For Industrial Maintenance Area",
    "location": "Madrid"
   },
@@ -2093,6 +2117,12 @@
   "5544f7f04f66f1c8d414e8546b8c7358": {
    "id": "5544f7f04f66f1c8d414e8546b8c7358",
    "company": "KONE Bulgaria",
+   "role": "Técnico/a De Mantenimiento De Ascensores",
+   "location": "Madrid"
+  },
+  "2731459c4da66726f92ad43290e2202c": {
+   "id": "2731459c4da66726f92ad43290e2202c",
+   "company": "KONE International",
    "role": "Técnico/a De Mantenimiento De Ascensores",
    "location": "Madrid"
   },
@@ -2503,30 +2533,6 @@
    "company": "Hitachi Rail GTS",
    "role": "Técnico/a De Mantenimiento Ferroviario Multidisciplinar",
    "location": "Barcelona"
-  },
-  "f7d213ee13830974a5bfdd64d632110d": {
-   "id": "f7d213ee13830974a5bfdd64d632110d",
-   "company": "SAICA",
-   "role": "Electromecánico Saica Natur Madrid (4 Vacantes)",
-   "location": "Madrid"
-  },
-  "a7776336c038621afb5c9db70584a54e": {
-   "id": "a7776336c038621afb5c9db70584a54e",
-   "company": "Barcelo",
-   "role": "Oficial De Servicios Técnicos - Barceló Emperatriz",
-   "location": "Madrid"
-  },
-  "da3c66e0dd137f52f69e5b8ee16df29f": {
-   "id": "da3c66e0dd137f52f69e5b8ee16df29f",
-   "company": "Barcelo",
-   "role": "Oficial De Servicios Técnicos Hotel - Occidental Barcelona 1929",
-   "location": "Barcelona"
-  },
-  "2bae9c19ad92a6679233d27b25fec904": {
-   "id": "2bae9c19ad92a6679233d27b25fec904",
-   "company": "BayWa r.e. renewable energy GmbH",
-   "role": "O&m Technician (all Genders) - Zaragoza",
-   "location": "Zaragoza"
   },
   "987cdf6bd398dc99ce1b0e652af2d494": {
    "id": "987cdf6bd398dc99ce1b0e652af2d494",
@@ -3011,6 +3017,12 @@
   "1a082d7d54144e9e6858c00056b17ff7": {
    "id": "1a082d7d54144e9e6858c00056b17ff7",
    "company": "Bacardi",
+   "role": "Customer Service Specialist, Europe (coe)",
+   "location": "Barcelona"
+  },
+  "519b21154e64f714efd1236d3c1b86df": {
+   "id": "519b21154e64f714efd1236d3c1b86df",
+   "company": "Onebacardi",
    "role": "Customer Service Specialist, Europe (coe)",
    "location": "Barcelona"
   },

@@ -469,4 +469,32 @@
 <tr><td>COS</td><td>Sales Advisor / C.c Gran Via - Madrid / Part Time 12h / Permanente</td><td>Madrid</td><td>2026-08-02</td></tr>
 <tr><td>Temporing</td><td>Aux. Administrativo/a Almacén - Gavà</td><td>Barcelona</td><td>2026-08-02</td></tr>
 <tr><td>Jobgether</td><td>Accountant / Administrative Assistant</td><td>Spain</td><td>2026-08-02</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Beca Canal Corredores</td><td>Barcelona</td><td>2026-08-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Beca Suscripción Usp Pymes</td><td>Madrid</td><td>2026-08-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Suscripción Usp Pymes</td><td>Madrid</td><td>2026-08-03</td></tr>
+<tr><td>Marriott International</td><td>F&b Trainee - Renaissance Barcelona</td><td>Barcelona</td><td>2026-08-03</td></tr>
+<tr><td>Sonymusicpub</td><td>Facilities Intern Iberia</td><td>Barcelona</td><td>2026-08-03</td></tr>
+<tr><td>Juditechsono</td><td>Facilities Intern Iberia</td><td>Barcelona</td><td>2026-08-03</td></tr>
+<tr><td>VIE-INDIA</td><td>#discover Ii 2026-2027 / Test Support System Integrator Internship</td><td>Getafe Area</td><td>2026-08-03</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>#discover Ii 2026-2027 / Test Support System Integrator Internship</td><td>Madrid</td><td>2026-08-03</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#discover Ii 2026-2027 / Test Support System Integrator Internship</td><td>Madrid</td><td>2026-08-03</td></tr>
+<tr><td>Bureau Veritas</td><td>Becario/a Departamento De Pesca Sostenible</td><td>Madrid</td><td>2026-08-03</td></tr>
+<tr><td>Inspired Education Group</td><td>Internship Opportunities - El Colegio Británico / The British School</td><td>Madrid</td><td>2026-08-03</td></tr>
+<tr><td>avoltaworld</td><td>Intern Supply Chain</td><td>Spain</td><td>2026-08-03</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Recepción Eurostars Hotels (barcelona)</td><td>Barcelona</td><td>2026-08-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Data Analyst / Data Engineer (commercial Insurance)</td><td>Barcelona</td><td>2026-08-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Analyst / Data Engineer (commercial Insurance)</td><td>Barcelona</td><td>2026-08-03</td></tr>
+<tr><td>MAPFRE</td><td>Data Scientist - Gestion Estrategica Tecnica Vida</td><td>Madrid</td><td>2026-08-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-08-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-08-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Trainee Business Analyst (retención)</td><td>Barcelona</td><td>2026-08-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Trainee Business Analyst (retención)</td><td>Localidad</td><td>2026-08-03</td></tr>
+<tr><td>Johnson & Johnson</td><td>Commercial Compliance Specialist Spain - Surgery</td><td>Madrid</td><td>2026-08-03</td></tr>
+<tr><td>Spaulding Ridge</td><td>Revenue Excellence Consulting Analyst</td><td>London +1</td><td>2026-08-03</td></tr>
+<tr><td>Johnson & Johnson MedTech</td><td>Commercial Compliance Specialist Spain - Surgery</td><td>Madrid</td><td>2026-08-03</td></tr>
+<tr><td>My Medical Sales Jobs</td><td>Ssu Cra</td><td>Spain</td><td>2026-08-03</td></tr>
+<tr><td>SAICA</td><td>Electromecánico Saica Natur Madrid (4 Vacantes)</td><td>Madrid</td><td>2026-08-03</td></tr>
+<tr><td>Barcelo</td><td>Oficial De Servicios Técnicos - Barceló Emperatriz</td><td>Madrid</td><td>2026-08-03</td></tr>
+<tr><td>Barcelo</td><td>Oficial De Servicios Técnicos Hotel - Occidental Barcelona 1929</td><td>Barcelona</td><td>2026-08-03</td></tr>
+<tr><td>BayWa r.e. renewable energy GmbH</td><td>O&m Technician (all Genders) - Zaragoza</td><td>Zaragoza</td><td>2026-08-03</td></tr>
 </table>
