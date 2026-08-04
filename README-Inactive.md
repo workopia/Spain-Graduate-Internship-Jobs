@@ -497,4 +497,17 @@
 <tr><td>Barcelo</td><td>Oficial De Servicios Técnicos - Barceló Emperatriz</td><td>Madrid</td><td>2026-08-03</td></tr>
 <tr><td>Barcelo</td><td>Oficial De Servicios Técnicos Hotel - Occidental Barcelona 1929</td><td>Barcelona</td><td>2026-08-03</td></tr>
 <tr><td>BayWa r.e. renewable energy GmbH</td><td>O&m Technician (all Genders) - Zaragoza</td><td>Zaragoza</td><td>2026-08-03</td></tr>
+<tr><td>Coty Inc</td><td>Mps Intern</td><td>Barcelona</td><td>2026-08-04</td></tr>
+<tr><td>Coty Inc</td><td>Exo Intern</td><td>Barcelona</td><td>2026-08-04</td></tr>
+<tr><td>ferromallas.es</td><td>Finance Intern</td><td>Madrid</td><td>2026-08-04</td></tr>
+<tr><td>ACCIONA</td><td>Beca Seguridad Corporativa</td><td>Madrid</td><td>2026-08-04</td></tr>
+<tr><td>164</td><td>Beca Seguridad Corporativa</td><td>Madrid</td><td>2026-08-04</td></tr>
+<tr><td>Indra group</td><td>Aerotelecom</td><td>Barcelona</td><td>2026-08-04</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Finance Trainee - Renaissance Barcelona</td><td>Barcelona</td><td>2026-08-04</td></tr>
+<tr><td>E80 Group</td><td>Lgv Cs Programmer - Barcelona</td><td>Barcelona</td><td>2026-08-04</td></tr>
+<tr><td>Kellanova</td><td>Field Sales Data Analyst</td><td>Madrid</td><td>2026-08-04</td></tr>
+<tr><td>MAPFRE</td><td>Data Analyst De Negocio</td><td>Madrid</td><td>2026-08-04</td></tr>
+<tr><td>OCA Global Corporate Services</td><td>Ai Quality &amp; Context Engineer (gobernanza De Código)</td><td>Barcelona</td><td>2026-08-04</td></tr>
+<tr><td>Ahorramas, S.A</td><td>Técnico/a Mantenimiento De Instalaciones Automatizadas</td><td>Salamanca</td><td>2026-08-04</td></tr>
+<tr><td>Ahorramas, S.A</td><td>Administrativo/a Para Departamento De Seguridad Alimentaria Y Calidad</td><td>Salamanca</td><td>2026-08-04</td></tr>
 </table>
