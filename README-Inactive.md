@@ -510,4 +510,22 @@
 <tr><td>OCA Global Corporate Services</td><td>Ai Quality &amp; Context Engineer (gobernanza De Código)</td><td>Barcelona</td><td>2026-08-04</td></tr>
 <tr><td>Ahorramas, S.A</td><td>Técnico/a Mantenimiento De Instalaciones Automatizadas</td><td>Salamanca</td><td>2026-08-04</td></tr>
 <tr><td>Ahorramas, S.A</td><td>Administrativo/a Para Departamento De Seguridad Alimentaria Y Calidad</td><td>Salamanca</td><td>2026-08-04</td></tr>
+<tr><td>Nordex SE</td><td>Major Correctives Intern (m/f/d)</td><td>Imarcoain</td><td>2026-08-05</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Claim Management Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-05</td></tr>
+<tr><td>Nordex SE</td><td>Qhse Administrative Intern (m/f/d)</td><td>Barasoain</td><td>2026-08-05</td></tr>
+<tr><td>Nordex SE</td><td>Project Manager Support Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-05</td></tr>
+<tr><td>Amey (Ferrovial)</td><td>Finance Intern</td><td>Madrid</td><td>2026-08-05</td></tr>
+<tr><td>Ferrovial SE</td><td>Finance Intern</td><td>Madrid</td><td>2026-08-05</td></tr>
+<tr><td>Santander UK</td><td>Sgto_software Engineering Analyst i</td><td>Madrid</td><td>2026-08-05</td></tr>
+<tr><td>Santander UK</td><td>I_sgto_software Engineering Specialist</td><td>Madrid</td><td>2026-08-05</td></tr>
+<tr><td>Sabadell Zurich</td><td>Trainee Business Analyst De Salud</td><td>Barcelona</td><td>2026-08-05</td></tr>
+<tr><td>HP</td><td>Graduate Business Analyst - Hp Additive Manufacturing Solutiions</td><td>Barcelona</td><td>2026-08-05</td></tr>
+<tr><td>Minsait</td><td>Consultor/a Sector Sanidad</td><td>Spain</td><td>2026-08-05</td></tr>
+<tr><td>Indra group</td><td>Consultor/a Sap Finanzas - España 100% Remoto</td><td>Spain</td><td>2026-08-05</td></tr>
+<tr><td>Airbus</td><td>Industrial Maintenance Technician</td><td>Madrid</td><td>2026-08-05</td></tr>
+<tr><td>Hitachi Rail GTS</td><td>Técnico/a De Mantenimiento Ferroviario Multidisciplinar</td><td>Barcelona</td><td>2026-08-05</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets</td><td>Madrid</td><td>2026-08-05</td></tr>
+<tr><td>Merkal Calzados S.L</td><td>Vendedores/as 30 Horas Semanales</td><td>Barcelona</td><td>2026-08-05</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Madrid</td><td>2026-08-05</td></tr>
+<tr><td>Temporing</td><td>Administrativo/a De Logística</td><td>Barcelona</td><td>2026-08-05</td></tr>
 </table>

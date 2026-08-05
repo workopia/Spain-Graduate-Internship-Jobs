@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-04",
- "count": 567,
+ "asOf": "2026-08-05",
+ "count": 565,
  "jobs": {
   "27657": {
    "id": "27657",
@@ -26,11 +26,47 @@
    "role": "Innovation Ai Engineer",
    "location": "Madrid"
   },
+  "3adecc2391f6ae7d98c54fc12997ab6c": {
+   "id": "3adecc2391f6ae7d98c54fc12997ab6c",
+   "company": "Houseoftechcommunity",
+   "role": "Ap Trainee",
+   "location": "Barcelona"
+  },
+  "c0ba60d63b6fd89e9ba55657a9cd40af": {
+   "id": "c0ba60d63b6fd89e9ba55657a9cd40af",
+   "company": "Airbus SE",
+   "role": "#discover Ii 2026-2027 - Air Power Portfolio Digitalization & Analytics Internship",
+   "location": "Madrid"
+  },
+  "7e7cc3525b4c5b2597aa29712db440b6": {
+   "id": "7e7cc3525b4c5b2597aa29712db440b6",
+   "company": "Coty Inc.",
+   "role": "Msp Intern",
+   "location": "Barcelona"
+  },
+  "01039b7313ed80ca126f106c3d8f239c": {
+   "id": "01039b7313ed80ca126f106c3d8f239c",
+   "company": "Verisure S.A.",
+   "role": "Group Hr Strategy (c&b) Intern",
+   "location": "Madrid"
+  },
+  "5988340db8ac21ac3349ad924d95128d": {
+   "id": "5988340db8ac21ac3349ad924d95128d",
+   "company": "Inspired Education Group",
+   "role": "School Intern",
+   "location": "Barcelona"
+  },
   "983a255742ed6c9f0823475d0b7056dd": {
    "id": "983a255742ed6c9f0823475d0b7056dd",
    "company": "aliaxis.fr",
    "role": "Practicas Tms Backhand Support",
    "location": "Spain"
+  },
+  "4dfcc8dc2e72d850b1dcbd8b442d4dec": {
+   "id": "4dfcc8dc2e72d850b1dcbd8b442d4dec",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Front Office Internship",
+   "location": "Barcelona"
   },
   "4232a0a14d73d4d9f0c32bf18111542f": {
    "id": "4232a0a14d73d4d9f0c32bf18111542f",
@@ -470,46 +506,22 @@
    "role": "Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)",
    "location": "Tajonar"
   },
-  "8f160bc1d973503675ae90249e345a68": {
-   "id": "8f160bc1d973503675ae90249e345a68",
-   "company": "Nordex SE",
-   "role": "Major Correctives Intern (m/f/d)",
-   "location": "Imarcoain"
-  },
-  "648928bcdcb8ec5f5705d52fc38f401d": {
-   "id": "648928bcdcb8ec5f5705d52fc38f401d",
-   "company": "Nordex SE",
-   "role": "Global Sourcing Claim Management Intern (m/f/d)",
-   "location": "Tajonar"
-  },
-  "e90f44e05dfbf86394722ccea433c851": {
-   "id": "e90f44e05dfbf86394722ccea433c851",
-   "company": "Nordex SE",
-   "role": "Qhse Administrative Intern (m/f/d)",
-   "location": "Barasoain"
-  },
-  "4043b8215dd1326e1407ad6278ca536a": {
-   "id": "4043b8215dd1326e1407ad6278ca536a",
-   "company": "Nordex SE",
-   "role": "Project Manager Support Intern (m/f/d)",
-   "location": "Tajonar"
-  },
-  "9efc1ff1a1eb9597a01f14e07fbb5ecc": {
-   "id": "9efc1ff1a1eb9597a01f14e07fbb5ecc",
-   "company": "Amey (Ferrovial)",
-   "role": "Finance Intern",
-   "location": "Madrid"
-  },
-  "3c4005fd7d3fe4a581c52005e9a4b911": {
-   "id": "3c4005fd7d3fe4a581c52005e9a4b911",
-   "company": "Ferrovial SE",
-   "role": "Finance Intern",
-   "location": "Madrid"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
+   "location": "Madrid"
+  },
+  "a1ac60c737a06ab46ff9943379e5ef3e": {
+   "id": "a1ac60c737a06ab46ff9943379e5ef3e",
+   "company": "Airbus SE",
+   "role": "Modelling And Simulation Junior Software Engineer",
+   "location": "Madrid"
+  },
+  "5b45d03befb2a8cb918c2c396014f256": {
+   "id": "5b45d03befb2a8cb918c2c396014f256",
+   "company": "Betechwithsantander",
+   "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
    "location": "Madrid"
   },
   "da832cd5dacbbaf60724c82deab51cb1": {
@@ -972,18 +984,6 @@
    "id": "bcffc0cfde009713a4e2a941b8d1359b",
    "company": "Santander UK",
    "role": "Esp Sanco Solution Design Software Engineering Specialist ii",
-   "location": "Madrid"
-  },
-  "57b745ca348bfcffc8221fd3213d824c": {
-   "id": "57b745ca348bfcffc8221fd3213d824c",
-   "company": "Santander UK",
-   "role": "Sgto_software Engineering Analyst i",
-   "location": "Madrid"
-  },
-  "6fabe87913aefbb0a5befc153bc927d2": {
-   "id": "6fabe87913aefbb0a5befc153bc927d2",
-   "company": "Santander UK",
-   "role": "I_sgto_software Engineering Specialist",
    "location": "Madrid"
   },
   "8828fd6763f2c409571118ea546b871d": {
@@ -1618,9 +1618,9 @@
   },
   "85684c2bc88495234fa6674f777453e4": {
    "id": "85684c2bc88495234fa6674f777453e4",
-   "company": "Sabadell Zurich",
-   "role": "Trainee Business Analyst",
-   "location": "Barcelona"
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Trainee Business Analyst (retención)",
+   "location": "Localidad"
   },
   "a682d7b89f3c19e65ef1bf5e0cee0954": {
    "id": "a682d7b89f3c19e65ef1bf5e0cee0954",
@@ -1651,18 +1651,6 @@
    "company": "Hydeparkbank",
    "role": "Graduate Business Analyst - Hp Additive Manufacturing Solutiions",
    "location": "Spain"
-  },
-  "9b8eff5ab01588ddcaa745770837752c": {
-   "id": "9b8eff5ab01588ddcaa745770837752c",
-   "company": "Sabadell Zurich",
-   "role": "Trainee Business Analyst De Salud",
-   "location": "Barcelona"
-  },
-  "UNI3768": {
-   "id": "UNI3768",
-   "company": "HP",
-   "role": "Graduate Business Analyst - Hp Additive Manufacturing Solutiions",
-   "location": "Barcelona"
   },
   "408e1b8f8552dd8bc880b56545623186": {
    "id": "408e1b8f8552dd8bc880b56545623186",
@@ -2042,18 +2030,6 @@
    "role": "Técnico/a De Cumplimiento Normativo (temporal - Media Jornada)",
    "location": "Madrid"
   },
-  "f27f286d8660bdf3112974b30647180a": {
-   "id": "f27f286d8660bdf3112974b30647180a",
-   "company": "Minsait",
-   "role": "Consultor/a Sector Sanidad",
-   "location": "Spain"
-  },
-  "d85d172059a8b68cb6aded4469ad4802": {
-   "id": "d85d172059a8b68cb6aded4469ad4802",
-   "company": "Indra group",
-   "role": "Consultor/a Sap Finanzas - España 100% Remoto",
-   "location": "Spain"
-  },
   "e9827e9267805b8669922159e05f48e8": {
    "id": "e9827e9267805b8669922159e05f48e8",
    "company": "Ivivamedical",
@@ -2071,6 +2047,18 @@
    "company": "IQVIA Holdings",
    "role": "Clinical Research Associate 2 - Cfsp",
    "location": "Spain"
+  },
+  "a51d628769b6f4a9bbdeeee660836c82": {
+   "id": "a51d628769b6f4a9bbdeeee660836c82",
+   "company": "Kone Corporation",
+   "role": "Técnico/a Mantenimiento Ascensores",
+   "location": "Madrid"
+  },
+  "7b46a25c0968e5693bc1704de0d60b14": {
+   "id": "7b46a25c0968e5693bc1704de0d60b14",
+   "company": "Baxconnect",
+   "role": "Técnico/a De Mantenimiento Electromecánico",
+   "location": "Zaragoza"
   },
   "c2981774ad8ef2d2468c4e5ba915d936": {
    "id": "c2981774ad8ef2d2468c4e5ba915d936",
@@ -2540,17 +2528,17 @@
    "role": "Industrial Maintenance Technician",
    "location": "Madrid"
   },
-  "0b628839b9304cf4f3e5a80a1efe5457": {
-   "id": "0b628839b9304cf4f3e5a80a1efe5457",
-   "company": "Airbus",
-   "role": "Industrial Maintenance Technician",
-   "location": "Madrid"
+  "e2eb81e679fbd4d9c1fe261888adddd4": {
+   "id": "e2eb81e679fbd4d9c1fe261888adddd4",
+   "company": "adidas AG",
+   "role": "Sales Associate Fo San Sebastian De Los Reyes",
+   "location": "Salamanca"
   },
-  "f73c010f043eb7595aacee6000a2b4b8": {
-   "id": "f73c010f043eb7595aacee6000a2b4b8",
-   "company": "Hitachi Rail GTS",
-   "role": "Técnico/a De Mantenimiento Ferroviario Multidisciplinar",
-   "location": "Barcelona"
+  "54b8aac2ce0b706fe3791b7089c5be64": {
+   "id": "54b8aac2ce0b706fe3791b7089c5be64",
+   "company": "adidas AG",
+   "role": "Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets",
+   "location": "Salamanca"
   },
   "987cdf6bd398dc99ce1b0e652af2d494": {
    "id": "987cdf6bd398dc99ce1b0e652af2d494",
@@ -2562,12 +2550,6 @@
    "id": "155b78ead15dc9a4312782aba7823444",
    "company": "adidas AG",
    "role": "Sales Associate Part Time 20h - Fo Oasiz Torrejon",
-   "location": "Madrid"
-  },
-  "47b0084dc2a012c715400cf3243ef302": {
-   "id": "47b0084dc2a012c715400cf3243ef302",
-   "company": "adidas AG",
-   "role": "Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets",
    "location": "Madrid"
   },
   "d8948ae6bf47e273eb8ff80167d3ec9a": {
@@ -3026,11 +3008,29 @@
    "role": "Vendedor/a Mango Man C.c. Vaguada (madrid) - 8h Semanales",
    "location": "Madrid"
   },
-  "b0e52bd18c692da17bbee62f5349f09e": {
-   "id": "b0e52bd18c692da17bbee62f5349f09e",
-   "company": "Merkal Calzados S.L",
-   "role": "Vendedores/as 30 Horas Semanales",
-   "location": "Barcelona"
+  "8aa0f6fde3c7731d0f24adc9063b0673": {
+   "id": "8aa0f6fde3c7731d0f24adc9063b0673",
+   "company": "Airbus SE",
+   "role": "Secretary / Assistant",
+   "location": "Madrid"
+  },
+  "fb8257e3a4c283688e103f39ce64327e": {
+   "id": "fb8257e3a4c283688e103f39ce64327e",
+   "company": "Bosch Group",
+   "role": "It Support Specialist (level 1) / Automotive Solutions / Turkish Market",
+   "location": "Salamanca"
+  },
+  "16c77d4a6f8714efff124e5f7a688722": {
+   "id": "16c77d4a6f8714efff124e5f7a688722",
+   "company": "Bosch Group",
+   "role": "It Support Specialist (level 1) / Automotive Solutions / Ukrainian Market",
+   "location": "Madrid"
+  },
+  "b2222ac98423cc4eb99a3e7cdf4da92e": {
+   "id": "b2222ac98423cc4eb99a3e7cdf4da92e",
+   "company": "Primark",
+   "role": "Retail Assistant - Dependiente/a",
+   "location": "Salamanca"
   },
   "b4b34312180e864ba552ca0fbc74be2e": {
    "id": "b4b34312180e864ba552ca0fbc74be2e",
@@ -3049,12 +3049,6 @@
    "company": "Onebacardi",
    "role": "Customer Service Specialist, Europe (coe)",
    "location": "Barcelona"
-  },
-  "ade4e9c82624bbe7e05457b6af669f4b": {
-   "id": "ade4e9c82624bbe7e05457b6af669f4b",
-   "company": "Primark",
-   "role": "Retail Assistant - Dependiente/a",
-   "location": "Madrid"
   },
   "4444ac41f62ee5987abe317256cf78e6": {
    "id": "4444ac41f62ee5987abe317256cf78e6",
@@ -3396,12 +3390,6 @@
    "id": "d73be0d894e09d7e8ed74f8bc7487983",
    "company": "Temporing",
    "role": "Auxiliar Administrativo/a Logística- Parets Del Vallés.",
-   "location": "Barcelona"
-  },
-  "75df86d9a03bc638473ec4a0f9ba13c1": {
-   "id": "75df86d9a03bc638473ec4a0f9ba13c1",
-   "company": "Temporing",
-   "role": "Administrativo/a De Logística",
    "location": "Barcelona"
   }
  }
