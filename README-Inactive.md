@@ -528,4 +528,21 @@
 <tr><td>Merkal Calzados S.L</td><td>Vendedores/as 30 Horas Semanales</td><td>Barcelona</td><td>2026-08-05</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Madrid</td><td>2026-08-05</td></tr>
 <tr><td>Temporing</td><td>Administrativo/a De Logística</td><td>Barcelona</td><td>2026-08-05</td></tr>
+<tr><td>Marriott International</td><td>Convention Sales Trainee - W Barcelona</td><td>Barcelona</td><td>2026-08-06</td></tr>
+<tr><td>Nordex SE</td><td>Pmd Process & Automation Intern (m/f/d)</td><td>Mutilva</td><td>2026-08-06</td></tr>
+<tr><td>Nordex SE</td><td>P&c General Services Intern (m/f/d)</td><td>Mutilva</td><td>2026-08-06</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Special Tools & Equipment Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-06</td></tr>
+<tr><td>Nordex SE</td><td>Global Mobility Intern (m/f/d)</td><td>Barasoain</td><td>2026-08-06</td></tr>
+<tr><td>Nordex SE</td><td>Industrialization Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-06</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-06</td></tr>
+<tr><td>Santander UK</td><td>Esp Sanco Solution Design Software Engineering Specialist ii</td><td>Madrid</td><td>2026-08-06</td></tr>
+<tr><td>MAPFRE</td><td>(00513) 00513-data Scientist</td><td>Madrid</td><td>2026-08-06</td></tr>
+<tr><td>OCA Global Corporate Services S.A</td><td>Ai Quality &amp; Context Engineer (gobernanza De Código)</td><td>Barcelona</td><td>2026-08-06</td></tr>
+<tr><td>MAPFRE</td><td>Experto/a En Privacidad Y Proteccion De Datos E Ia Responsable</td><td>Madrid</td><td>2026-08-06</td></tr>
+<tr><td>Fundación MAPFRE</td><td>Tecnico/a De Administracion Y Finanzas</td><td>Madrid</td><td>2026-08-06</td></tr>
+<tr><td>MAPFRE</td><td>Técnico/a De Cumplimiento Normativo (temporal - Media Jornada)</td><td>Madrid</td><td>2026-08-06</td></tr>
+<tr><td>IQVIA Holdings</td><td>Clinical Research Associate 2 - Cfsp</td><td>Spain</td><td>2026-08-06</td></tr>
+<tr><td>Orona S.Coop</td><td>Técnico/a De Reparación De Puertas Automáticas (madrid)</td><td>Madrid</td><td>2026-08-06</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Técnico/a De Mantenimiento (electricista)</td><td>Barcelona</td><td>2026-08-06</td></tr>
+<tr><td>Mango</td><td>Vendedor/a Mango Man C.c. Vaguada (madrid) - 8h Semanales</td><td>Madrid</td><td>2026-08-06</td></tr>
 </table>

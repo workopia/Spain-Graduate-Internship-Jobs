@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-05",
- "count": 565,
+ "asOf": "2026-08-06",
+ "count": 564,
  "jobs": {
   "27657": {
    "id": "27657",
@@ -25,6 +25,18 @@
    "company": "Vodafone",
    "role": "Innovation Ai Engineer",
    "location": "Madrid"
+  },
+  "765629": {
+   "id": "765629",
+   "company": "Ericsson",
+   "role": "Change Maker Internship",
+   "location": "Madrid"
+  },
+  "56e6fc814ccd7a448d6b589425dd18fc": {
+   "id": "56e6fc814ccd7a448d6b589425dd18fc",
+   "company": "Coty",
+   "role": "Msp Intern",
+   "location": "Barcelona"
   },
   "3adecc2391f6ae7d98c54fc12997ab6c": {
    "id": "3adecc2391f6ae7d98c54fc12997ab6c",
@@ -56,9 +68,39 @@
    "role": "School Intern",
    "location": "Barcelona"
   },
+  "f5fd321ba157d273490ad4318e04d1e3": {
+   "id": "f5fd321ba157d273490ad4318e04d1e3",
+   "company": "Nordex SE",
+   "role": "Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "9139006ac15680e6bbf5a83ab60d3169": {
+   "id": "9139006ac15680e6bbf5a83ab60d3169",
+   "company": "Nordex SE",
+   "role": "Project Manager Support Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "d3cc9898960edf4a14353ea502730488": {
+   "id": "d3cc9898960edf4a14353ea502730488",
+   "company": "Nordex SE",
+   "role": "Pmd Process & Automation Intern (m/f/d)",
+   "location": "Mutilva"
+  },
+  "36fa976164b7b8fcbede98bb24d109a5": {
+   "id": "36fa976164b7b8fcbede98bb24d109a5",
+   "company": "Four Seasons Hotels & Resorts",
+   "role": "Finance Intern - Four Seasons Resort Mallorca At Formentor",
+   "location": "Mallorca At Formentor"
+  },
   "983a255742ed6c9f0823475d0b7056dd": {
    "id": "983a255742ed6c9f0823475d0b7056dd",
    "company": "aliaxis.fr",
+   "role": "Practicas Tms Backhand Support",
+   "location": "Spain"
+  },
+  "ca431dec886f1052d1016bfce8edc14f": {
+   "id": "ca431dec886f1052d1016bfce8edc14f",
+   "company": "marley.de",
    "role": "Practicas Tms Backhand Support",
    "location": "Spain"
   },
@@ -464,53 +506,23 @@
    "role": "Mkt Trainee (chinese Market) - Renaissance Barcelona",
    "location": "Barcelona"
   },
-  "849abe6f411c04eeda5457d7d4dc268d": {
-   "id": "849abe6f411c04eeda5457d7d4dc268d",
-   "company": "Marriott International",
-   "role": "Convention Sales Trainee - W Barcelona",
-   "location": "Barcelona"
-  },
-  "f834f27a858dc4270297dc601ac079b6": {
-   "id": "f834f27a858dc4270297dc601ac079b6",
-   "company": "Nordex SE",
-   "role": "Pmd Process & Automation Intern (m/f/d)",
-   "location": "Mutilva"
-  },
-  "643914099aa5cf4fc0abf6f563fa75c1": {
-   "id": "643914099aa5cf4fc0abf6f563fa75c1",
-   "company": "Nordex SE",
-   "role": "P&c General Services Intern (m/f/d)",
-   "location": "Mutilva"
-  },
-  "5e3fdf476a00f774255b2bb9b2b228fe": {
-   "id": "5e3fdf476a00f774255b2bb9b2b228fe",
-   "company": "Nordex SE",
-   "role": "Global Sourcing Special Tools & Equipment Intern (m/f/d)",
-   "location": "Tajonar"
-  },
-  "5dec42a12b77ed754d093278b6389e23": {
-   "id": "5dec42a12b77ed754d093278b6389e23",
-   "company": "Nordex SE",
-   "role": "Global Mobility Intern (m/f/d)",
-   "location": "Barasoain"
-  },
-  "69aef0aef0d8e9d60927e520564da621": {
-   "id": "69aef0aef0d8e9d60927e520564da621",
-   "company": "Nordex SE",
-   "role": "Industrialization Intern (m/f/d)",
-   "location": "Tajonar"
-  },
-  "4f3bae9fb4da38b69b7dea528505bc58": {
-   "id": "4f3bae9fb4da38b69b7dea528505bc58",
-   "company": "Nordex SE",
-   "role": "Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)",
-   "location": "Tajonar"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
    "location": "Madrid"
+  },
+  "183c2b5475a2bfc052257a9700dbac4e": {
+   "id": "183c2b5475a2bfc052257a9700dbac4e",
+   "company": "SANTANDER CONSUMER BANK S.p.A",
+   "role": "Frontend Engineer",
+   "location": "Madrid"
+  },
+  "2e57a0f001a161f27c41e4e58a00cb69": {
+   "id": "2e57a0f001a161f27c41e4e58a00cb69",
+   "company": "Puratos",
+   "role": "Sap Sd Support Analyst",
+   "location": "Barcelona"
   },
   "a1ac60c737a06ab46ff9943379e5ef3e": {
    "id": "a1ac60c737a06ab46ff9943379e5ef3e",
@@ -660,12 +672,6 @@
    "id": "ff6172aaa76f56bb7351b9226be16b27",
    "company": "N26 GmbH",
    "role": "Junior Backend Engineer - Customer Identity",
-   "location": "Barcelona"
-  },
-  "2e57a0f001a161f27c41e4e58a00cb69": {
-   "id": "2e57a0f001a161f27c41e4e58a00cb69",
-   "company": "Puratos",
-   "role": "Sap Sd Support Analyst",
    "location": "Barcelona"
   },
   "4a80778b59f58f87717eb4003f611963": {
@@ -980,12 +986,6 @@
    "role": "Software Development Engineer - Cronos",
    "location": "Madrid"
   },
-  "bcffc0cfde009713a4e2a941b8d1359b": {
-   "id": "bcffc0cfde009713a4e2a941b8d1359b",
-   "company": "Santander UK",
-   "role": "Esp Sanco Solution Design Software Engineering Specialist ii",
-   "location": "Madrid"
-  },
   "8828fd6763f2c409571118ea546b871d": {
    "id": "8828fd6763f2c409571118ea546b871d",
    "company": "TD SYNNEX",
@@ -1074,6 +1074,18 @@
    "id": "1d99f72ac37f6e645b64a0cef22c1855",
    "company": "pgccT",
    "role": "Ai Engineer Internship (m/f/x)",
+   "location": "Madrid"
+  },
+  "18c46fde43cca861496050a3c4dccc4f": {
+   "id": "18c46fde43cca861496050a3c4dccc4f",
+   "company": "Amadeus",
+   "role": "Bi Data Acquisition Analyst",
+   "location": "Barcelona"
+  },
+  "1c768ef230cd3d65f09e2020f6d3e48e": {
+   "id": "1c768ef230cd3d65f09e2020f6d3e48e",
+   "company": "Accenture Australia",
+   "role": "Ai/ml Computational Scientist",
    "location": "Madrid"
   },
   "9b3e36eb47014a241eb33fb28b0b019f": {
@@ -1532,18 +1544,6 @@
    "role": "Scientist, Target Identification & Multiomics Evidence",
    "location": "Madrid"
   },
-  "73ddce771160a2573743117be0ccf202": {
-   "id": "73ddce771160a2573743117be0ccf202",
-   "company": "MAPFRE",
-   "role": "(00513) 00513-data Scientist",
-   "location": "Madrid"
-  },
-  "65fe523d9efea555a83b558865327a84": {
-   "id": "65fe523d9efea555a83b558865327a84",
-   "company": "OCA Global Corporate Services S.A",
-   "role": "Ai Quality &amp; Context Engineer (gobernanza De Código)",
-   "location": "Barcelona"
-  },
   "5084aeedb7cff32a071e0dfecd3a04c6": {
    "id": "5084aeedb7cff32a071e0dfecd3a04c6",
    "company": "Zurich Insurance Company Ltd",
@@ -1655,6 +1655,12 @@
   "408e1b8f8552dd8bc880b56545623186": {
    "id": "408e1b8f8552dd8bc880b56545623186",
    "company": "Amex GBT (Travel HR Portal)",
+   "role": "Junior Meetings & Events Business Analyst",
+   "location": "Barcelona"
+  },
+  "b20ad048e873a9f750cf638b33902aa0": {
+   "id": "b20ad048e873a9f750cf638b33902aa0",
+   "company": "Travel Kuz",
    "role": "Junior Meetings & Events Business Analyst",
    "location": "Barcelona"
   },
@@ -2012,24 +2018,6 @@
    "role": "Consultor/a Successfactors - España 100% Remoto",
    "location": "Spain"
   },
-  "9e3c398a2d9d41a50c87008610028f26": {
-   "id": "9e3c398a2d9d41a50c87008610028f26",
-   "company": "MAPFRE",
-   "role": "Experto/a En Privacidad Y Proteccion De Datos E Ia Responsable",
-   "location": "Madrid"
-  },
-  "218dfaacaf3002541a693a595e876b59": {
-   "id": "218dfaacaf3002541a693a595e876b59",
-   "company": "Fundación MAPFRE",
-   "role": "Tecnico/a De Administracion Y Finanzas",
-   "location": "Madrid"
-  },
-  "331f8161305c138d7bd62a5a91af11df": {
-   "id": "331f8161305c138d7bd62a5a91af11df",
-   "company": "MAPFRE",
-   "role": "Técnico/a De Cumplimiento Normativo (temporal - Media Jornada)",
-   "location": "Madrid"
-  },
   "e9827e9267805b8669922159e05f48e8": {
    "id": "e9827e9267805b8669922159e05f48e8",
    "company": "Ivivamedical",
@@ -2042,11 +2030,35 @@
    "role": "Physician And Researcher In The Field Of International Health",
    "location": "Barcelona"
   },
-  "f7419cd3b112a977d804939a39ca3e7f": {
-   "id": "f7419cd3b112a977d804939a39ca3e7f",
-   "company": "IQVIA Holdings",
-   "role": "Clinical Research Associate 2 - Cfsp",
-   "location": "Spain"
+  "f18feefb77aecdfd967e586e07bdb918": {
+   "id": "f18feefb77aecdfd967e586e07bdb918",
+   "company": "Orona S.Coop",
+   "role": "Técnico/a De Reparación De Puertas Automáticas (madrid)",
+   "location": "Madrid"
+  },
+  "99332f7d6b53a0d1da2c17a6e1e9c557": {
+   "id": "99332f7d6b53a0d1da2c17a6e1e9c557",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
+   "location": "Barcelona"
+  },
+  "25f0513cc998cb0699fe286ef18d7fc5": {
+   "id": "25f0513cc998cb0699fe286ef18d7fc5",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario/a De Mantenimiento Ferroviario Fuencarral",
+   "location": "Madrid"
+  },
+  "2baf436b667f5f2e640e75f8191727fb": {
+   "id": "2baf436b667f5f2e640e75f8191727fb",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario De Mantenimiento Pinto (temporal)",
+   "location": "Madrid"
+  },
+  "5864f7185281c9c835817e8e59a526c9": {
+   "id": "5864f7185281c9c835817e8e59a526c9",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario/a De Mantenimiento Ferroviario Valladolid",
+   "location": "Madrid"
   },
   "a51d628769b6f4a9bbdeeee660836c82": {
    "id": "a51d628769b6f4a9bbdeeee660836c82",
@@ -2065,12 +2077,6 @@
    "company": "Tetra Pak",
    "role": "Maintenance Engineer",
    "location": "Barcelona"
-  },
-  "a1b8825f2038fe906009cfa56efac612": {
-   "id": "a1b8825f2038fe906009cfa56efac612",
-   "company": "Orona S.Coop",
-   "role": "Técnico/a De Reparación De Puertas Automáticas (madrid)",
-   "location": "Madrid"
   },
   "e0c3b55d4562ad5a576982a236ee2bb8": {
    "id": "e0c3b55d4562ad5a576982a236ee2bb8",
@@ -2390,12 +2396,6 @@
    "role": "Maintenance Technician",
    "location": "Madrid"
   },
-  "99332f7d6b53a0d1da2c17a6e1e9c557": {
-   "id": "99332f7d6b53a0d1da2c17a6e1e9c557",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
-   "location": "Barcelona"
-  },
   "2239dbb3ed9df0b75111f91dc3a4c30b": {
    "id": "2239dbb3ed9df0b75111f91dc3a4c30b",
    "company": "ALSTOM TRANSPORT SA",
@@ -2406,24 +2406,6 @@
    "id": "0b336709f566d368515391878016f5d7",
    "company": "ALSTOM TRANSPORT SA",
    "role": "Tecnico/a De Mantenimiento Ferroviario Barajas - Temporal",
-   "location": "Madrid"
-  },
-  "2baf436b667f5f2e640e75f8191727fb": {
-   "id": "2baf436b667f5f2e640e75f8191727fb",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Operario De Mantenimiento Pinto",
-   "location": "Madrid"
-  },
-  "e245320cc0fe9cbd98ad9887de8fd305": {
-   "id": "e245320cc0fe9cbd98ad9887de8fd305",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Técnico/a De Mantenimiento (electricista)",
-   "location": "Barcelona"
-  },
-  "25f0513cc998cb0699fe286ef18d7fc5": {
-   "id": "25f0513cc998cb0699fe286ef18d7fc5",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Operario/a De Mantenimiento Ferroviario Fuencarral",
    "location": "Madrid"
   },
   "f71fe7ebcdfe4cc62d78cdb3af7546e3": {
@@ -2527,6 +2509,12 @@
    "company": "Airbus Operations SL",
    "role": "Industrial Maintenance Technician",
    "location": "Madrid"
+  },
+  "be2e12ea89ac9a21710d4a8ca67ac313": {
+   "id": "be2e12ea89ac9a21710d4a8ca67ac313",
+   "company": "VFC Corporation",
+   "role": "Vendedor/a 40h Grandes Almacenes - Barcelona",
+   "location": "Barcelona"
   },
   "e2eb81e679fbd4d9c1fe261888adddd4": {
    "id": "e2eb81e679fbd4d9c1fe261888adddd4",
@@ -3002,10 +2990,10 @@
    "role": "Vendedor/a Majadahonda Gran Plaza 2 - 30h 25h 20h",
    "location": "Madrid"
   },
-  "78c41465cd8bc65c2c47a6d4a2b7cbec": {
-   "id": "78c41465cd8bc65c2c47a6d4a2b7cbec",
-   "company": "Mango",
-   "role": "Vendedor/a Mango Man C.c. Vaguada (madrid) - 8h Semanales",
+  "bf68facdacb047f068264380c1697e15": {
+   "id": "bf68facdacb047f068264380c1697e15",
+   "company": "CHEP, A Brambles Company",
+   "role": "Interim Customer Service Coordinator",
    "location": "Madrid"
   },
   "8aa0f6fde3c7731d0f24adc9063b0673": {
@@ -3013,6 +3001,12 @@
    "company": "Airbus SE",
    "role": "Secretary / Assistant",
    "location": "Madrid"
+  },
+  "26684cf27238bf970b88b620fb7b6906": {
+   "id": "26684cf27238bf970b88b620fb7b6906",
+   "company": "KION",
+   "role": "Service Coordinator Support",
+   "location": "Barcelona"
   },
   "fb8257e3a4c283688e103f39ce64327e": {
    "id": "fb8257e3a4c283688e103f39ce64327e",
