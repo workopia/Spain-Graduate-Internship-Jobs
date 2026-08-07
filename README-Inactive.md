@@ -545,4 +545,38 @@
 <tr><td>Orona S.Coop</td><td>Técnico/a De Reparación De Puertas Automáticas (madrid)</td><td>Madrid</td><td>2026-08-06</td></tr>
 <tr><td>ALSTOM TRANSPORT SA</td><td>Técnico/a De Mantenimiento (electricista)</td><td>Barcelona</td><td>2026-08-06</td></tr>
 <tr><td>Mango</td><td>Vendedor/a Mango Man C.c. Vaguada (madrid) - 8h Semanales</td><td>Madrid</td><td>2026-08-06</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Beca Canal Corredores</td><td>Barcelona</td><td>2026-08-07</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Beca Suscripción Usp Pymes</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>Industria de Turbo Propulsores, S.A</td><td>Beca Riesgos , Control Interno Y Auditoría Interna (f/m/x)</td><td>Alcobendas</td><td>2026-08-07</td></tr>
+<tr><td>Coty</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-08-07</td></tr>
+<tr><td>Coty</td><td>Demand Intern</td><td>Barcelona</td><td>2026-08-07</td></tr>
+<tr><td>Bureau Veritas</td><td>¿quieres Hacer Tus Prácticas En Bureau Veritas? ¡únete A Bvacademy!</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>Bureau Veritas</td><td>Becario/a Agroalimentario</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Maintenance Intern</td><td>Salamanca</td><td>2026-08-07</td></tr>
+<tr><td>Cuyna</td><td>Business &amp; People Intern - Contrato En Prácticas</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>EY</td><td>Prácticas I+d Proyectos Europeos</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>EY</td><td>Prácticas Technology Consulting - Septiembre 2026</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>DKSH Corporate Shared Services Center Sdn Bhd</td><td>Intern, Tax (europe) - 6 To 12 Months</td><td>Barcelona</td><td>2026-08-07</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Convention Sales Trainee - W Barcelona</td><td>Barcelona</td><td>2026-08-07</td></tr>
+<tr><td>Marriott International</td><td>Mkt Trainee (chinese Market) - Renaissance Barcelona</td><td>Barcelona</td><td>2026-08-07</td></tr>
+<tr><td>Indra Group</td><td>Ingeniero/a Software Junior C/c++ - Sector Defensa</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>My Medical Sales Jobs</td><td>Software Development Engineer - Cronos</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>TD SYNNEX</td><td>Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)</td><td>Barcelona</td><td>2026-08-07</td></tr>
+<tr><td>pgccT</td><td>Ai Engineer Internship (m/f/x)</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Data Analyst / Data Engineer (commercial Insurance)</td><td>Barcelona</td><td>2026-08-07</td></tr>
+<tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-08-07</td></tr>
+<tr><td>Nordex SE</td><td>Strategic Planning Analyst Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-07</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Trainee Business Analyst (retención)</td><td>Localidad</td><td>2026-08-07</td></tr>
+<tr><td>Indra Group</td><td>Junior Electronic Maintenance Technician</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>TV SD</td><td>Técnico/a Especialista En Ascensores En Madrid (f/m/d)</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>Enagas</td><td>Operador/a Mantenimiento Infraestructuras - Zaragoza</td><td>Zaragoza</td><td>2026-08-07</td></tr>
+<tr><td>Aggreko</td><td>Técnico Electromecánico</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>Airbus Operations SL</td><td>Industrial Maintenance Technician</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>VF Corporation (Vans)</td><td>Vendedor/a 16h Eastpak - Barcelona</td><td>Barcelona</td><td>2026-08-07</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 24h Lfo La Roca</td><td>Barcelona</td><td>2026-08-07</td></tr>
+<tr><td>Arrow Electronics</td><td>Sales Associate</td><td>Salamanca</td><td>2026-08-07</td></tr>
+<tr><td>Mango</td><td>Dependiente/a Zona Sur De Madrid</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>Mango</td><td>Vendedor/a Majadahonda Gran Plaza 2 - 30h 25h 20h</td><td>Madrid</td><td>2026-08-07</td></tr>
 </table>
