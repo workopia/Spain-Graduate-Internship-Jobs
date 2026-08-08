@@ -579,4 +579,37 @@
 <tr><td>Arrow Electronics</td><td>Sales Associate</td><td>Salamanca</td><td>2026-08-07</td></tr>
 <tr><td>Mango</td><td>Dependiente/a Zona Sur De Madrid</td><td>Madrid</td><td>2026-08-07</td></tr>
 <tr><td>Mango</td><td>Vendedor/a Majadahonda Gran Plaza 2 - 30h 25h 20h</td><td>Madrid</td><td>2026-08-07</td></tr>
+<tr><td>Softtek</td><td>Desarrollador Flutter</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Mercer</td><td>Beca Seguros Salud Y Vida</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Mercer</td><td>Beca Seguros</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Mercer</td><td>Beca Operaciones Retribución Flexible</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Coty Inc</td><td>Material Masterdata Intern</td><td>Barcelona Hub</td><td>2026-08-08</td></tr>
+<tr><td>ABB Ltd</td><td>Internship: Customer Operations Department: Customer Service And Order Management</td><td>Barcelona</td><td>2026-08-08</td></tr>
+<tr><td>ABB UK</td><td>Internship: Customer Operations Department: Customer Service And Order Management</td><td>Barcelona</td><td>2026-08-08</td></tr>
+<tr><td>ABB Ltd</td><td>Internship: Hse Department Support</td><td>Trapagaran</td><td>2026-08-08</td></tr>
+<tr><td>ABB UK</td><td>Internship: Hse Department Support</td><td>Trapagaran</td><td>2026-08-08</td></tr>
+<tr><td>Ernst & Young</td><td>Prácticas Technology Consulting - Septiembre 2026</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Aircall</td><td>Software Engineer, Programmable Comms</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Referralsuseonly</td><td>Software Engineer Ii - Ssc</td><td>Spain</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Python - Container Images</td><td>Spain</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Mobile Game Unity Developer</td><td>Spain</td><td>2026-08-08</td></tr>
+<tr><td>buildlist.xyz</td><td>Forward Deployed Software Engineer</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer: Iac Platform Experience</td><td>Spain</td><td>2026-08-08</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Simulation Software Engineer – Eurofighter Flight Simulator</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Security Incident Handler</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>MAPFRE</td><td>Data Analyst De Negocio</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Johnson & Johnson</td><td>Scientist, Target Identification & Multiomics Evidence</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Business Analyst</td><td>Spain</td><td>2026-08-08</td></tr>
+<tr><td>Accenture</td><td>Consultor Bexel</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>IQVIA</td><td>Business Data Analyst</td><td>Spain</td><td>2026-08-08</td></tr>
+<tr><td>DEKRA SE</td><td>Business Analyst - Ai & Automation (m/f/d)</td><td>Campanillas</td><td>2026-08-08</td></tr>
+<tr><td>minsait</td><td>Consultor/a Técnico Y/o Funcional Microsoft Dynamics 365 Bc/fo - España - 100% Remoto</td><td>Spain</td><td>2026-08-08</td></tr>
+<tr><td>minsait</td><td>Consultor/a Sap Finanzas - España 100% Remoto</td><td>Spain</td><td>2026-08-08</td></tr>
+<tr><td>Indra Group</td><td>Consultor/a Successfactors - España 100% Remoto</td><td>Spain</td><td>2026-08-08</td></tr>
+<tr><td>Xcenda</td><td>Operario De Mantenimiento Eléctrico - Distribución Farmacéutica</td><td>Barcelona</td><td>2026-08-08</td></tr>
+<tr><td>minsait</td><td>Técnico/a Instalador</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Kiabi</td><td>¡nueva Apertura! Vendedor/a Moda Kiabi Madrid Sur</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Temporing</td><td>Ayudante De Almacén - Molins De Rei</td><td>Barcelona</td><td>2026-08-08</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / Madrid C.c Plenilunio / Part Time 12h / Permanente</td><td>Madrid</td><td>2026-08-08</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Salamanca</td><td>2026-08-08</td></tr>
 </table>
