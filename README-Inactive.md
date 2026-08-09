@@ -612,4 +612,38 @@
 <tr><td>Temporing</td><td>Ayudante De Almacén - Molins De Rei</td><td>Barcelona</td><td>2026-08-08</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / Madrid C.c Plenilunio / Part Time 12h / Permanente</td><td>Madrid</td><td>2026-08-08</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Salamanca</td><td>2026-08-08</td></tr>
+<tr><td>Nerdgigs</td><td>Beca En Business Practice Department</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>ACCIONA</td><td>Beca Comunicación Externa</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>ACCIONA</td><td>Beca De Comunicación Interna</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>164</td><td>Beca De Comunicación Interna</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>164</td><td>Beca Comunicación Externa</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Account Manager Regions Spain</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Circular&value Added Lab</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Estrategia Y Negocio & Ai Native Soc</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum Para El Área De Gobierno De La Seguridad</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Telefonica</td><td>Telefónica_foro_empleo_upm_2025</td><td>Spain</td><td>2026-08-09</td></tr>
+<tr><td>Telefonica</td><td>Tech_10 Becas Finanzas, Datos, Y Consultoria Negocio</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Telefonica</td><td>Tech_2 Becas Area De People</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a Software Junior C/c++ - Sector Defensa</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Indra group</td><td>Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Indra group</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-08-09</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>Spain</td><td>2026-08-09</td></tr>
+<tr><td>Smadex</td><td>Data Scientist For Machine Learning Team</td><td>Barcelona</td><td>2026-08-09</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-08-09</td></tr>
+<tr><td>Medtronic Diabetes</td><td>Intern: Consulting Integrated Health Solutions</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Medtronic UK</td><td>Intern: Consulting Integrated Health Solutions</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Medtronic</td><td>Intern: Consulting Integrated Health Solutions</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Alter Domus</td><td>Financial Crime Officer - Ethical Governance</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Airbus Operations SL</td><td>Accountant (temp Agency)</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Indra group</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-08-09</td></tr>
+<tr><td>Dover</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>VIE-INDIA</td><td>Industrial Maintenance Technician</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Golden Palms Rehabilitation and Retirement</td><td>Técnico Mantenimiento Mecánico Parque Warner</td><td>Madrid</td><td>2026-08-09</td></tr>
+<tr><td>Xcenda</td><td>Operario De Mantenimiento Eléctrico - Polinyà</td><td>Barcelona</td><td>2026-08-09</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Fo San Sebastian De Los Reyes</td><td>Salamanca</td><td>2026-08-09</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets</td><td>Salamanca</td><td>2026-08-09</td></tr>
+<tr><td>Automatic Data Processing</td><td>Digital Sales Specialist German Speakers</td><td>Barcelona</td><td>2026-08-09</td></tr>
+<tr><td>Thales Group</td><td>Internal Supply Warehouse</td><td>Barcelona</td><td>2026-08-09</td></tr>
+<tr><td>Temporing</td><td>Auxiliar Administrativo/a Logística- Parets Del Vallés.</td><td>Barcelona</td><td>2026-08-09</td></tr>
 </table>
