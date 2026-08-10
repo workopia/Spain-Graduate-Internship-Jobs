@@ -646,4 +646,15 @@
 <tr><td>Automatic Data Processing</td><td>Digital Sales Specialist German Speakers</td><td>Barcelona</td><td>2026-08-09</td></tr>
 <tr><td>Thales Group</td><td>Internal Supply Warehouse</td><td>Barcelona</td><td>2026-08-09</td></tr>
 <tr><td>Temporing</td><td>Auxiliar Administrativo/a Logística- Parets Del Vallés.</td><td>Barcelona</td><td>2026-08-09</td></tr>
+<tr><td>Coty Inc.</td><td>Demand Intern</td><td>Barcelona</td><td>2026-08-10</td></tr>
+<tr><td>serveo</td><td>Beca Gestión Rrhh Ii - Madrid 1 1</td><td>Madrid</td><td>2026-08-10</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Beca Surety</td><td>Madrid</td><td>2026-08-10</td></tr>
+<tr><td>Marsh</td><td>Beca Surety</td><td>Madrid</td><td>2026-08-10</td></tr>
+<tr><td>39med</td><td>Beca En Business Practice Department</td><td>Madrid</td><td>2026-08-10</td></tr>
+<tr><td>mnssazn.top</td><td>Beca En Business Practice Department</td><td>Madrid</td><td>2026-08-10</td></tr>
+<tr><td>MSD (Merck)</td><td>Beca En Business Practice Department</td><td>Madrid</td><td>2026-08-10</td></tr>
+<tr><td>Abbott</td><td>Ai Engineer - Python</td><td>Barcelona</td><td>2026-08-10</td></tr>
+<tr><td>Jobgether</td><td>Sap Business Analyst & Sme</td><td>Spain</td><td>2026-08-10</td></tr>
+<tr><td>Grupo Hotusa</td><td>Técnico De Mantenimiento Hotel 4*</td><td>Barcelona</td><td>2026-08-10</td></tr>
+<tr><td>Grupo Hotusa</td><td>Técnico/a Administrativo De Mantenimiento</td><td>Barcelona</td><td>2026-08-10</td></tr>
 </table>

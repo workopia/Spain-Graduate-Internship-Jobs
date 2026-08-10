@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-09",
+ "asOf": "2026-08-10",
  "count": 562,
  "jobs": {
   "42686": {
@@ -24,6 +24,48 @@
    "id": "765629",
    "company": "Ericsson",
    "role": "Change Maker Internship",
+   "location": "Madrid"
+  },
+  "1918d6b1518a9b00a9f7e1cc39780810": {
+   "id": "1918d6b1518a9b00a9f7e1cc39780810",
+   "company": "Bureau Veritas",
+   "role": "Becario/a Departamento De Pesca Sostenible",
+   "location": "Madrid"
+  },
+  "fc93ca9242805d2e169d0267b0e03468": {
+   "id": "fc93ca9242805d2e169d0267b0e03468",
+   "company": "Coty",
+   "role": "Commercial Internship Program Iberia",
+   "location": "Barcelona"
+  },
+  "eba4bb4127da0307118c333b92de0447": {
+   "id": "eba4bb4127da0307118c333b92de0447",
+   "company": "avoltaworld",
+   "role": "Intern Planning And Purchasing",
+   "location": "Spain"
+  },
+  "fa707839a824f4a92134d69594d0b76a": {
+   "id": "fa707839a824f4a92134d69594d0b76a",
+   "company": "avoltaworld",
+   "role": "Intern Supply Chain",
+   "location": "Spain"
+  },
+  "c85108df413657f5c9491abd1ff4a9c9": {
+   "id": "c85108df413657f5c9491abd1ff4a9c9",
+   "company": "Grupo Hotusa",
+   "role": "Becario/a Revenue - Eurostars Hotel Company",
+   "location": "Barcelona"
+  },
+  "27a2007f9fc5aaf806fb0a520e87de6b": {
+   "id": "27a2007f9fc5aaf806fb0a520e87de6b",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Departamento Explotación - Barcelona",
+   "location": "Barcelona"
+  },
+  "bf91b02608445870e54c936bb93c3557": {
+   "id": "bf91b02608445870e54c936bb93c3557",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Administración Economato Madrid",
    "location": "Madrid"
   },
   "6a84b3426c4bd7ed11d0604b319fa50f": {
@@ -458,52 +500,16 @@
    "role": "Car Fleet Operations Internship (m/f/x)",
    "location": "Madrid"
   },
-  "c6e03adfdb9e2cfaad08c5de8d3a9bd2": {
-   "id": "c6e03adfdb9e2cfaad08c5de8d3a9bd2",
-   "company": "Coty Inc.",
-   "role": "Demand Intern",
-   "location": "Barcelona"
-  },
-  "36d7c383d42069eb78847acd36620569": {
-   "id": "36d7c383d42069eb78847acd36620569",
-   "company": "serveo",
-   "role": "Beca Gestión Rrhh Ii - Madrid 1 1",
-   "location": "Madrid"
-  },
-  "b7a847f0dd75b8fb1d9677f2240e5257": {
-   "id": "b7a847f0dd75b8fb1d9677f2240e5257",
-   "company": "Marsh & McLennan Companies Inc",
-   "role": "Beca Surety",
-   "location": "Madrid"
-  },
-  "aec557e4a56739e996fe77976915bd0c": {
-   "id": "aec557e4a56739e996fe77976915bd0c",
-   "company": "Marsh",
-   "role": "Beca Surety",
-   "location": "Madrid"
-  },
-  "c907ab15c11aade28a833742ee01eb3c": {
-   "id": "c907ab15c11aade28a833742ee01eb3c",
-   "company": "39med",
-   "role": "Beca En Business Practice Department",
-   "location": "Madrid"
-  },
-  "8ef4b7ff1088081b9814bcccf6772e89": {
-   "id": "8ef4b7ff1088081b9814bcccf6772e89",
-   "company": "mnssazn.top",
-   "role": "Beca En Business Practice Department",
-   "location": "Madrid"
-  },
-  "a172f65703b0152eff7bd215326e3303": {
-   "id": "a172f65703b0152eff7bd215326e3303",
-   "company": "MSD (Merck)",
-   "role": "Beca En Business Practice Department",
-   "location": "Madrid"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
+   "location": "Madrid"
+  },
+  "4f7cf864491004b12208e12093984d12": {
+   "id": "4f7cf864491004b12208e12093984d12",
+   "company": "Minsait",
+   "role": "Ingeniero/a De Software Embebido C++ Y Ada",
    "location": "Madrid"
   },
   "9526da259ae2d42cac7ced37c2b83134": {
@@ -660,12 +666,6 @@
    "id": "8f04672576195bb15e77cf092239f126",
    "company": "Telefonica",
    "role": "Beca Desarrollo Software Ai Gigafactory",
-   "location": "Madrid"
-  },
-  "4f7cf864491004b12208e12093984d12": {
-   "id": "4f7cf864491004b12208e12093984d12",
-   "company": "Minsait",
-   "role": "Ingeniero/a De Software Embebido C++ Y Ada",
    "location": "Madrid"
   },
   "460ef4936f31172283c84e42cb9070e2": {
@@ -1069,6 +1069,12 @@
    "company": "Zurich Insurance Company Ltd",
    "role": "Data Platform & Analytics Internship",
    "location": "Barcelona"
+  },
+  "0d011b4b9378c6afa684cf6a8705a248": {
+   "id": "0d011b4b9378c6afa684cf6a8705a248",
+   "company": "Bureau Veritas",
+   "role": "Analista De Datos Y Soporte Funcional",
+   "location": "Madrid"
   },
   "3dd692168e7ae6597d16c784f04c5bdf": {
    "id": "3dd692168e7ae6597d16c784f04c5bdf",
@@ -1532,12 +1538,6 @@
    "role": "Scientist, Target Identification & Multiomics Evidence",
    "location": "Madrid"
   },
-  "f4644e5c9084fc4598bc376956bf1959": {
-   "id": "f4644e5c9084fc4598bc376956bf1959",
-   "company": "Abbott",
-   "role": "Ai Engineer - Python",
-   "location": "Barcelona"
-  },
   "560e1fb2f0dcc5370b97f7948aa9f2f9": {
    "id": "560e1fb2f0dcc5370b97f7948aa9f2f9",
    "company": "Zurich Insurance UK",
@@ -1621,6 +1621,12 @@
    "company": "Hydeparkbank",
    "role": "Graduate Business Analyst - Hp Additive Manufacturing Solutiions",
    "location": "Spain"
+  },
+  "91e87692c05bddd12f39f0dbea43e0ad": {
+   "id": "91e87692c05bddd12f39f0dbea43e0ad",
+   "company": "TRYremote",
+   "role": "Accountant",
+   "location": "Madrid"
   },
   "dd8c1644aa3e9f8ec0d2380fa601493f": {
    "id": "dd8c1644aa3e9f8ec0d2380fa601493f",
@@ -1964,12 +1970,6 @@
    "role": "Commercial Compliance Specialist Spain - Surgery",
    "location": "Madrid"
   },
-  "1a1f053c36117fe90e2a6030f2c9e93a": {
-   "id": "1a1f053c36117fe90e2a6030f2c9e93a",
-   "company": "Jobgether",
-   "role": "Sap Business Analyst & Sme",
-   "location": "Spain"
-  },
   "e9827e9267805b8669922159e05f48e8": {
    "id": "e9827e9267805b8669922159e05f48e8",
    "company": "Ivivamedical",
@@ -1980,6 +1980,12 @@
    "id": "b05fe7cdcdf4aec702e6ae2172e99ec4",
    "company": "ISGlobal",
    "role": "Physician And Researcher In The Field Of International Health",
+   "location": "Barcelona"
+  },
+  "a5192c2b79952183831f482994b65882": {
+   "id": "a5192c2b79952183831f482994b65882",
+   "company": "Grupo Hotusa",
+   "role": "Técnico De Mantenimiento Hotel 4*",
    "location": "Barcelona"
   },
   "55cecbb1d07c86a9e3197e91a1c89aac": {
@@ -2370,12 +2376,6 @@
    "id": "9cce72a0ecc9a5e2c7f695ab448902e8",
    "company": "ALSTOM TRANSPORT SA",
    "role": "Técnico/a Mantenimiento Ferroviario - Santa Perpètua / Aeroport Bcn",
-   "location": "Barcelona"
-  },
-  "d15357c0c4bead2298db7f094bc6d038": {
-   "id": "d15357c0c4bead2298db7f094bc6d038",
-   "company": "Grupo Hotusa",
-   "role": "Técnico De Mantenimiento Hotel 4*",
    "location": "Barcelona"
   },
   "6b7c7664d4d0f6b4a882faa5d55d247c": {
@@ -2942,6 +2942,12 @@
    "role": "Vendedor/a Experto/a En Pintura_almacen Hospitalet",
    "location": "Barcelona"
   },
+  "d67b0289d63d9b6cdcdc2aee89961eb2": {
+   "id": "d67b0289d63d9b6cdcdc2aee89961eb2",
+   "company": "Grupo Hotusa",
+   "role": "Técnico/a Administrativo De Mantenimiento",
+   "location": "Barcelona"
+  },
   "724aadd73b38f7324a50a5e9aa5652af": {
    "id": "724aadd73b38f7324a50a5e9aa5652af",
    "company": "Primark",
@@ -3097,12 +3103,6 @@
    "company": "Johnson Controls Inc",
    "role": "Billing & Order Entry Admin",
    "location": "Madrid"
-  },
-  "794e482bd3677b903437531c56f98285": {
-   "id": "794e482bd3677b903437531c56f98285",
-   "company": "Grupo Hotusa",
-   "role": "Técnico/a Administrativo De Mantenimiento",
-   "location": "Barcelona"
   },
   "4c20d4038eb5f7d40bc3bb7433ed2790": {
    "id": "4c20d4038eb5f7d40bc3bb7433ed2790",
