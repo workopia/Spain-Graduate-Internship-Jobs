@@ -657,4 +657,21 @@
 <tr><td>Jobgether</td><td>Sap Business Analyst & Sme</td><td>Spain</td><td>2026-08-10</td></tr>
 <tr><td>Grupo Hotusa</td><td>Técnico De Mantenimiento Hotel 4*</td><td>Barcelona</td><td>2026-08-10</td></tr>
 <tr><td>Grupo Hotusa</td><td>Técnico/a Administrativo De Mantenimiento</td><td>Barcelona</td><td>2026-08-10</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b Luxury Brands</td><td>Islas Baleares</td><td>2026-08-11</td></tr>
+<tr><td>Melia</td><td>Prácticas Revenue</td><td>Islas Baleares</td><td>2026-08-11</td></tr>
+<tr><td>Inspired Education Group</td><td>Internship Opportunities - El Colegio Británico / The British School</td><td>Madrid</td><td>2026-08-11</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Canal Corredores</td><td>Barcelona</td><td>2026-08-11</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Suscripción Usp Pymes</td><td>Madrid</td><td>2026-08-11</td></tr>
+<tr><td>RWE AG</td><td>Internship Control Centre Operations D/f/m</td><td>Barcelona</td><td>2026-08-11</td></tr>
+<tr><td>PG Solutions</td><td>Car Fleet Operations Internship (m/f/x)</td><td>Madrid</td><td>2026-08-11</td></tr>
+<tr><td>Procter & Gamble (P&G)</td><td>Car Fleet Operations Internship (m/f/x)</td><td>Madrid</td><td>2026-08-11</td></tr>
+<tr><td>Procter & Gamble</td><td>Car Fleet Operations Internship (m/f/x)</td><td>Madrid</td><td>2026-08-11</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Analyst / Data Engineer (commercial Insurance)</td><td>Barcelona</td><td>2026-08-11</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Data Scientist - Optimization Focus (beca)</td><td>Madrid</td><td>2026-08-11</td></tr>
+<tr><td>J&J FAMILY OF COMPANIES</td><td>Scientist, Target Identification & Multiomics Evidence</td><td>Madrid</td><td>2026-08-11</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Trainee Business Analyst (retención)</td><td>Barcelona</td><td>2026-08-11</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Business Analyst</td><td>Barcelona</td><td>2026-08-11</td></tr>
+<tr><td>TÜV SÜD</td><td>Técnico/a Especialista En Ascensores En Madrid (f/m/d)</td><td>Madrid</td><td>2026-08-11</td></tr>
+<tr><td>HARTMANN</td><td>Técnico Eléctrico De Turno (fines De Semana)</td><td>Barcelona</td><td>2026-08-11</td></tr>
+<tr><td>Temporing</td><td>Aux Administrativo/a Departamento Financiero- Viladecans</td><td>Barcelona</td><td>2026-08-11</td></tr>
 </table>
