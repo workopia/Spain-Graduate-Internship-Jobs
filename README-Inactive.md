@@ -674,4 +674,50 @@
 <tr><td>TÜV SÜD</td><td>Técnico/a Especialista En Ascensores En Madrid (f/m/d)</td><td>Madrid</td><td>2026-08-11</td></tr>
 <tr><td>HARTMANN</td><td>Técnico Eléctrico De Turno (fines De Semana)</td><td>Barcelona</td><td>2026-08-11</td></tr>
 <tr><td>Temporing</td><td>Aux Administrativo/a Departamento Financiero- Viladecans</td><td>Barcelona</td><td>2026-08-11</td></tr>
+<tr><td>avoltaworld</td><td>Intern Supply Chain</td><td>Spain</td><td>2026-08-12</td></tr>
+<tr><td>Coty Inc.</td><td>Msp Intern</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>Marriott International</td><td>University Intern Europe - Hotel Arts Barcelona</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Administrative Internship - Asset Management Bu Spain.</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>Coty Inc</td><td>Mps Intern</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>Coty Inc</td><td>Exo Intern</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Kitchen - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-12</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Finance - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-12</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Franchise Operations</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>Airbus SE</td><td>#discover Ii 2026-2027/ Business & Product Development / Programme Management Internship</td><td>Getafe Area</td><td>2026-08-12</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>#discover Ii 2026-2027/ Business & Product Development / Programme Management Internship</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#discover Ii 2026-2027/ Business & Product Development / Programme Management Internship</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Finance Intern</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>Accenture Australia</td><td>Dixcover - Programa Prácticas Fp Accenture</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>Halfspace ApS</td><td>Dixcover - Programa Prácticas Fp Accenture</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Comunicación</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Edición</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Edición Técnica</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Penguin Aula</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>RWE AG</td><td>Internship Solar Operations & Maintenance D/f/m</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>Minsait</td><td>Ingeniero/a Software Junior C/c++ - Sector Defensa</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>Jobgether</td><td>Golang Engineer</td><td>Spain</td><td>2026-08-12</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Platform / Core Infrastructure</td><td>Spain</td><td>2026-08-12</td></tr>
+<tr><td>N26 GmbH</td><td>Backend Engineer – Core Systems</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>Jobgether</td><td>Linux Devices Software Engineer - Snapd</td><td>Spain</td><td>2026-08-12</td></tr>
+<tr><td>N26 GmbH</td><td>Backend Engineer - Engagement</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>Jobgether</td><td>C++ Developer</td><td>Spain</td><td>2026-08-12</td></tr>
+<tr><td>Minsait</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>avoltaworld</td><td>Global Data Scientist Specialist</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist Early Hire, Full Model Ownership, B2c Saas</td><td>Spain</td><td>2026-08-12</td></tr>
+<tr><td>Johnson & Johnson MedTech</td><td>Scientist, Target Identification & Multiomics Evidence</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>Boston Consulting Group</td><td>Forward Deployed Ai Scientist, Spain - Bcg X</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>Johnson & Johnson Innovative Medicine</td><td>Scientist, Target Identification & Multiomics Evidence</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>J&J FAMILY OF COMPANIES</td><td>Commercial Compliance Specialist Spain - Surgery</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>Grupo Hotusa</td><td>Técnico De Mantenimiento Hotel 4*</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>Minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-08-12</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>Indra group</td><td>Junior Electronic Maintenance Technician</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>Alstom</td><td>Técnico/a De Mantenimiento (electricista)</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>skechers.cl</td><td>Vended@r 16h Skechers Getafe</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Vended@r 16h Skechers Getafe</td><td>Madrid</td><td>2026-08-12</td></tr>
+<tr><td>obramat.es</td><td>Vendedor/a Experto/a En Pintura_almacen Hospitalet</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Gran Canaria</td><td>2026-08-12</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Administrativo/a (sustitución Por Baja Médica)</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>SGS UK</td><td>Administrativo/a (sustitución Por Baja Médica)</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>SGS & Co</td><td>Administrativo/a (Sustitución por baja médica)</td><td>Barcelona</td><td>2026-08-12</td></tr>
 </table>
