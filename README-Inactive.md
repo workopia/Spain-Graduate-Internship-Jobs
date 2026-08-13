@@ -720,4 +720,15 @@
 <tr><td>SGS Australia Pty Ltd</td><td>Administrativo/a (sustitución Por Baja Médica)</td><td>Barcelona</td><td>2026-08-12</td></tr>
 <tr><td>SGS UK</td><td>Administrativo/a (sustitución Por Baja Médica)</td><td>Barcelona</td><td>2026-08-12</td></tr>
 <tr><td>SGS & Co</td><td>Administrativo/a (Sustitución por baja médica)</td><td>Barcelona</td><td>2026-08-12</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b</td><td>Islas Baleares</td><td>2026-08-13</td></tr>
+<tr><td>marley.de</td><td>Practicas Tms Backhand Support</td><td>Spain</td><td>2026-08-13</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Front Office Internship</td><td>Barcelona</td><td>2026-08-13</td></tr>
+<tr><td>Aliaxis</td><td>Practicas Tms Backhand Support</td><td>Spain</td><td>2026-08-13</td></tr>
+<tr><td>Marriott International</td><td>Meeting Insider Trainee (banquets) - W Barcelona</td><td>Barcelona</td><td>2026-08-13</td></tr>
+<tr><td>Jobgether</td><td>Python Software Engineer - Ubuntu Hardware Certification Team</td><td>Spain</td><td>2026-08-13</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Data Platform & Analytics Internship</td><td>Barcelona</td><td>2026-08-13</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Data Analyst / Data Engineer (commercial Insurance)</td><td>Barcelona</td><td>2026-08-13</td></tr>
+<tr><td>VIE-INDIA</td><td>Industrial Maintenance Technician</td><td>Madrid</td><td>2026-08-13</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Fo San Sebastian De Los Reyes</td><td>Madrid</td><td>2026-08-13</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c Plaza Norte 2 St.sebastian Reyes - Madrid / Part Time 12h / Permanente</td><td>Madrid</td><td>2026-08-13</td></tr>
 </table>

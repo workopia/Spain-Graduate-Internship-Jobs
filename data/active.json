@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-12",
- "count": 559,
+ "asOf": "2026-08-13",
+ "count": 558,
  "jobs": {
   "42686": {
    "id": "42686",
@@ -24,6 +24,42 @@
    "id": "765629",
    "company": "Ericsson",
    "role": "Change Maker Internship",
+   "location": "Madrid"
+  },
+  "af20b4df31c7659eba838477497d3be5": {
+   "id": "af20b4df31c7659eba838477497d3be5",
+   "company": "Ferrovial SE",
+   "role": "Open Innovation Internship",
+   "location": "Madrid"
+  },
+  "06c494c24f2ec7b0c4f455c229ef5e81": {
+   "id": "06c494c24f2ec7b0c4f455c229ef5e81",
+   "company": "Melia",
+   "role": "Prácticas F&b",
+   "location": "Islas Baleares"
+  },
+  "01039b7313ed80ca126f106c3d8f239c": {
+   "id": "01039b7313ed80ca126f106c3d8f239c",
+   "company": "Verisure S.A.",
+   "role": "Group Hr Strategy (c&b) Intern",
+   "location": "Madrid"
+  },
+  "4f96875f8a73c987ea2a20f777a57059": {
+   "id": "4f96875f8a73c987ea2a20f777a57059",
+   "company": "Verisure S.A.",
+   "role": "Intern – Hris",
+   "location": "Madrid"
+  },
+  "4dc4a5076d44535128ddc1fda8a0b82a": {
+   "id": "4dc4a5076d44535128ddc1fda8a0b82a",
+   "company": "Coca-Cola HBC AG",
+   "role": "Coca-cola Ignite Intern - Franchise Operations",
+   "location": "Madrid"
+  },
+  "7cc2e5ef2ba62c371e728d4ddad88ca6": {
+   "id": "7cc2e5ef2ba62c371e728d4ddad88ca6",
+   "company": "Coca-Cola HBC AG",
+   "role": "Coca-cola Ignite Intern - Strategy",
    "location": "Madrid"
   },
   "60de6fdcd983a06718888d0a0a871465": {
@@ -102,6 +138,12 @@
    "id": "8624f02b1a241f861d57438d4b9f6eac",
    "company": "Grupo Hotusa",
    "role": "Prácticas Recepción Eurostars Hotels (barcelona)",
+   "location": "Barcelona"
+  },
+  "0f252fa668d74033bfc7c02d6d68b514": {
+   "id": "0f252fa668d74033bfc7c02d6d68b514",
+   "company": "St. Regis Hotels & Resorts",
+   "role": "Human Resources Communications Intern - Hotel Arts Barcelona",
    "location": "Barcelona"
   },
   "fd83dda9e0f00e954c97636baafbdc8a": {
@@ -332,22 +374,10 @@
    "role": "Beca Suscripción Usp Pymes",
    "location": "Madrid"
   },
-  "24119dc8094a64eec44931596f30bfef": {
-   "id": "24119dc8094a64eec44931596f30bfef",
-   "company": "Melia",
-   "role": "Prácticas F&b",
-   "location": "Islas Baleares"
-  },
   "81d71ff24617e2fecbf15100049d3a18": {
    "id": "81d71ff24617e2fecbf15100049d3a18",
    "company": "EY",
    "role": "Prácticas Rrhh Selección - Madrid",
-   "location": "Madrid"
-  },
-  "4f96875f8a73c987ea2a20f777a57059": {
-   "id": "4f96875f8a73c987ea2a20f777a57059",
-   "company": "Verisure S.A.",
-   "role": "Intern – Hris",
    "location": "Madrid"
   },
   "d254d075315f963e2663168f0983f85a": {
@@ -428,12 +458,6 @@
    "role": "#discover Ii 2026-2027 - Air Power Portfolio Digitalization & Analytics Internship",
    "location": "Madrid"
   },
-  "01039b7313ed80ca126f106c3d8f239c": {
-   "id": "01039b7313ed80ca126f106c3d8f239c",
-   "company": "Verisure S.A.",
-   "role": "Group Hr Strategy (c&b) Intern",
-   "location": "Madrid"
-  },
   "5988340db8ac21ac3349ad924d95128d": {
    "id": "5988340db8ac21ac3349ad924d95128d",
    "company": "Inspired Education Group",
@@ -476,35 +500,17 @@
    "role": "Practicas Tms Backhand Support",
    "location": "Spain"
   },
-  "ca431dec886f1052d1016bfce8edc14f": {
-   "id": "ca431dec886f1052d1016bfce8edc14f",
-   "company": "marley.de",
-   "role": "Practicas Tms Backhand Support",
-   "location": "Spain"
-  },
-  "4dfcc8dc2e72d850b1dcbd8b442d4dec": {
-   "id": "4dfcc8dc2e72d850b1dcbd8b442d4dec",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Front Office Internship",
-   "location": "Barcelona"
-  },
-  "4232a0a14d73d4d9f0c32bf18111542f": {
-   "id": "4232a0a14d73d4d9f0c32bf18111542f",
-   "company": "Aliaxis",
-   "role": "Practicas Tms Backhand Support",
-   "location": "Spain"
-  },
-  "6e76fd0ac01f57ffc1099f64c8f5f8d8": {
-   "id": "6e76fd0ac01f57ffc1099f64c8f5f8d8",
-   "company": "Marriott International",
-   "role": "Meeting Insider Trainee (banquets) - W Barcelona",
-   "location": "Barcelona"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
    "location": "Madrid"
+  },
+  "c256f3059f017be09adc122e362c0b11": {
+   "id": "c256f3059f017be09adc122e362c0b11",
+   "company": "ADOBE",
+   "role": "Software Development Engineer",
+   "location": "Barcelona"
   },
   "6ba9fe92dd117cb3cdf61311e9561036": {
    "id": "6ba9fe92dd117cb3cdf61311e9561036",
@@ -980,12 +986,6 @@
    "role": "Software Engineer, Platform",
    "location": "Spain"
   },
-  "0a9bcdde2f1d6c0e50becf62261310bc": {
-   "id": "0a9bcdde2f1d6c0e50becf62261310bc",
-   "company": "Jobgether",
-   "role": "Python Software Engineer - Ubuntu Hardware Certification Team",
-   "location": "Spain"
-  },
   "9476aeadd9fdfc331cbe374f64e3d4db": {
    "id": "9476aeadd9fdfc331cbe374f64e3d4db",
    "company": "TD SYNNEX",
@@ -1070,10 +1070,10 @@
    "role": "Data Operations Intern (they, She, He)",
    "location": "Barcelona"
   },
-  "fe54d3dc15239d2dc1c9fda7de948d0b": {
-   "id": "fe54d3dc15239d2dc1c9fda7de948d0b",
+  "9afebdf140d10c3c7f35bcc02f836c7d": {
+   "id": "9afebdf140d10c3c7f35bcc02f836c7d",
    "company": "Zurich Insurance Company Ltd",
-   "role": "Data Platform & Analytics Internship",
+   "role": "Data Analyst / Data Engineer (commercial Insurance)",
    "location": "Barcelona"
   },
   "1b1c32e16a00b10eeddc377353295e5f": {
@@ -1171,12 +1171,6 @@
    "company": "MAPFRE",
    "role": "Data Analyst De Negocio",
    "location": "Madrid"
-  },
-  "0d1b5cbc84d44227d024b8f5566a3208": {
-   "id": "0d1b5cbc84d44227d024b8f5566a3208",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Data Analyst / Data Engineer (commercial Insurance)",
-   "location": "Barcelona"
   },
   "18c46fde43cca861496050a3c4dccc4f": {
    "id": "18c46fde43cca861496050a3c4dccc4f",
@@ -1988,6 +1982,12 @@
    "role": "Physician And Researcher In The Field Of International Health",
    "location": "Barcelona"
   },
+  "e567804edd6b55026b5cbc17f6237121": {
+   "id": "e567804edd6b55026b5cbc17f6237121",
+   "company": "Danfoss AS",
+   "role": "Service Engineer",
+   "location": "Barcelona"
+  },
   "da01187f7c7a1982833c7d6c7d123814": {
    "id": "da01187f7c7a1982833c7d6c7d123814",
    "company": "Indra Group",
@@ -1999,6 +1999,12 @@
    "company": "Grupo Hotusa",
    "role": "Técnico De Mantenimiento Hotel 4*",
    "location": "Barcelona"
+  },
+  "acb2de2a15acaee327e199fad8e6f14e": {
+   "id": "acb2de2a15acaee327e199fad8e6f14e",
+   "company": "Vertiv",
+   "role": "Field Service Engineer - Bilbao",
+   "location": "Madrid"
   },
   "9d90ac982a1f061362aadd7b2ad04859": {
    "id": "9d90ac982a1f061362aadd7b2ad04859",
@@ -2041,12 +2047,6 @@
    "company": "Dover",
    "role": "Technical Service Engineer - Madrid Area",
    "location": "Madrid"
-  },
-  "e567804edd6b55026b5cbc17f6237121": {
-   "id": "e567804edd6b55026b5cbc17f6237121",
-   "company": "Danfoss AS",
-   "role": "Service Engineer",
-   "location": "Barcelona"
   },
   "15bf49cd157eb0c8a3be6a4e93004ce7": {
    "id": "15bf49cd157eb0c8a3be6a4e93004ce7",
@@ -2462,11 +2462,17 @@
    "role": "Industrial Maintenance Technician",
    "location": "Madrid"
   },
-  "023fdd31f5ef51a8c7fa60db2c2bd7e4": {
-   "id": "023fdd31f5ef51a8c7fa60db2c2bd7e4",
-   "company": "VIE-INDIA",
-   "role": "Industrial Maintenance Technician",
-   "location": "Madrid"
+  "e97c721425c796233adc1da4f2b98264": {
+   "id": "e97c721425c796233adc1da4f2b98264",
+   "company": "La Casa de las Carcasas",
+   "role": "Sales Assistant - Cc Splau",
+   "location": "Barcelona"
+  },
+  "e2eb81e679fbd4d9c1fe261888adddd4": {
+   "id": "e2eb81e679fbd4d9c1fe261888adddd4",
+   "company": "adidas AG",
+   "role": "Sales Associate Fo San Sebastian De Los Reyes",
+   "location": "Salamanca"
   },
   "62267fdb4e91f98a8ac267b90fa8d164": {
    "id": "62267fdb4e91f98a8ac267b90fa8d164",
@@ -2478,12 +2484,6 @@
    "id": "d2213317ab1559bdce7e1c4e6d57a563",
    "company": "obramat.es",
    "role": "Almacen Alcorcon_vendedor/a Madera",
-   "location": "Madrid"
-  },
-  "5105f0921563d827621bb8d754a0e873": {
-   "id": "5105f0921563d827621bb8d754a0e873",
-   "company": "adidas AG",
-   "role": "Sales Associate Fo San Sebastian De Los Reyes",
    "location": "Madrid"
   },
   "47b0084dc2a012c715400cf3243ef302": {
@@ -2940,12 +2940,6 @@
    "id": "20a024d20c5875d6ee72328f3b500a11",
    "company": "H & M Hennes & Mauritz AB",
    "role": "Sales Advisor / C.c Finestrelles - Madrid / Part Time 24h / Interinidad",
-   "location": "Madrid"
-  },
-  "83bdfb6193e3961f482aee6956c76623": {
-   "id": "83bdfb6193e3961f482aee6956c76623",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor / C.c Plaza Norte 2 St.sebastian Reyes - Madrid / Part Time 12h / Permanente",
    "location": "Madrid"
   },
   "e55409b00ddf9425738146a4c1d9b40d": {
