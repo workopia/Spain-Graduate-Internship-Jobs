@@ -731,4 +731,36 @@
 <tr><td>VIE-INDIA</td><td>Industrial Maintenance Technician</td><td>Madrid</td><td>2026-08-13</td></tr>
 <tr><td>adidas AG</td><td>Sales Associate Fo San Sebastian De Los Reyes</td><td>Madrid</td><td>2026-08-13</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c Plaza Norte 2 St.sebastian Reyes - Madrid / Part Time 12h / Permanente</td><td>Madrid</td><td>2026-08-13</td></tr>
+<tr><td>Inspired Education Group</td><td>School Intern</td><td>Barcelona</td><td>2026-08-14</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-14</td></tr>
+<tr><td>Nordex SE</td><td>Project Manager Support Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-14</td></tr>
+<tr><td>Nordex SE</td><td>Pmd Process & Automation Intern (m/f/d)</td><td>Mutilva</td><td>2026-08-14</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Finance Intern - Four Seasons Resort Mallorca At Formentor</td><td>Mallorca At Formentor</td><td>2026-08-14</td></tr>
+<tr><td>Four Seasons Resort Mallorca At Formentor</td><td>Finance Intern - Four Seasons Resort Mallorca At Formentor</td><td>Formentor</td><td>2026-08-14</td></tr>
+<tr><td>aliaxis.fr</td><td>Practicas Tms Backhand Support</td><td>Spain</td><td>2026-08-14</td></tr>
+<tr><td>Indra Group</td><td>Ingeniero/a Software Junior C/c++ - Sector Defensa</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>C# Engineer</td><td>Spain</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Information Technology - Software Engineer</td><td>Spain</td><td>2026-08-14</td></tr>
+<tr><td>Thales</td><td>Threat Intelligence Analyst</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Platform</td><td>Spain</td><td>2026-08-14</td></tr>
+<tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-08-14</td></tr>
+<tr><td>Indra group</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-08-14</td></tr>
+<tr><td>ING</td><td>Data Analyst</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Cybersecurity Data Analyst</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist - Extensions</td><td>Spain</td><td>2026-08-14</td></tr>
+<tr><td>morningstar.ventures</td><td>Data Research Analyst- Nordic Speakers</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>Indra group</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-08-14</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Técnico/a Patines/pequeño Electrodomestico-sustitucion 1</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Técnico/a Patines/pequeño Electrodomestico-sustitucion</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Lma Technician B1, B2, B1/b2 - Madrid Area</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Industrial Maintenance Technician</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vendedor/a 40h Av. Diagonal - Eastpak</td><td>Barcelona</td><td>2026-08-14</td></tr>
+<tr><td>beonit</td><td>Vendedor/a De Accesorios De Telefonía</td><td>Barcelona</td><td>2026-08-14</td></tr>
+<tr><td>Vwofdtla</td><td>Vendedor/a 40h - Preciados (madrid) - The North Face</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>VFC Corporation</td><td>Vendedor/a 40h - Preciados (madrid) - The North Face</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Ss Reyes Plaza Norte Teen</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c Finestrelles - Madrid / Part Time 24h / Interinidad</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>Bosch Group</td><td>It Support Specialist (level 1) / Automotive Solutions / Ukrainian Market</td><td>Madrid</td><td>2026-08-14</td></tr>
 </table>
