@@ -763,4 +763,18 @@
 <tr><td>Mango</td><td>Vendedor/a - Ss Reyes Plaza Norte Teen</td><td>Madrid</td><td>2026-08-14</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c Finestrelles - Madrid / Part Time 24h / Interinidad</td><td>Madrid</td><td>2026-08-14</td></tr>
 <tr><td>Bosch Group</td><td>It Support Specialist (level 1) / Automotive Solutions / Ukrainian Market</td><td>Madrid</td><td>2026-08-14</td></tr>
+<tr><td>The Ritz-Carlton</td><td>University Intern Europe - Hotel Arts Barcelona</td><td>Barcelona</td><td>2026-08-15</td></tr>
+<tr><td>Houseoftechcommunity</td><td>Ap Trainee</td><td>Barcelona</td><td>2026-08-15</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Ap Trainee</td><td>Barcelona</td><td>2026-08-15</td></tr>
+<tr><td>Airbus SE</td><td>#discover Ii 2026-2027 - Air Power Portfolio Digitalization & Analytics Internship</td><td>Madrid</td><td>2026-08-15</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>#discover Ii 2026-2027 - Air Power Portfolio Digitalization & Analytics Internship</td><td>Madrid</td><td>2026-08-15</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#discover Ii 2026-2027 - Air Power Portfolio Digitalization & Analytics Internship</td><td>Madrid</td><td>2026-08-15</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Technical Solutions Agent / Italian + Eng - Solve</td><td>Barcelona</td><td>2026-08-15</td></tr>
+<tr><td>Jobgether</td><td>Home Assistant Python Developer For Hardware</td><td>Spain</td><td>2026-08-15</td></tr>
+<tr><td>164</td><td>Beca Análisis De Datos (departamento Prevención De Riesgos Laborales)</td><td>Madrid</td><td>2026-08-15</td></tr>
+<tr><td>VF Corporation</td><td>Vendedor/a 40h Av. Diagonal - Eastpak</td><td>Barcelona</td><td>2026-08-15</td></tr>
+<tr><td>VF Corporation (Vans)</td><td>Vendedor/a 40h Av. Diagonal - Eastpak</td><td>Barcelona</td><td>2026-08-15</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Barcelona</td><td>2026-08-15</td></tr>
+<tr><td>Geotab</td><td>It Support Specialist</td><td>Madrid</td><td>2026-08-15</td></tr>
+<tr><td>PIMEC Jobs</td><td>Administrativo/a De Atencion Al Cliente (mataró) - Integral Plus</td><td>Barcelona</td><td>2026-08-15</td></tr>
 </table>

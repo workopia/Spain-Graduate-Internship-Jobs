@@ -1,7 +1,13 @@
 {
- "asOf": "2026-08-14",
+ "asOf": "2026-08-15",
  "count": 561,
  "jobs": {
+  "22271": {
+   "id": "22271",
+   "company": "Estée Lauder",
+   "role": "Intern Online Assistant - Fragances",
+   "location": "Madrid"
+  },
   "42686": {
    "id": "42686",
    "company": "Arcadis",
@@ -26,6 +32,12 @@
    "role": "Change Maker Internship",
    "location": "Madrid"
   },
+  "4ef4f3ef25beac764d059b704d3edf51": {
+   "id": "4ef4f3ef25beac764d059b704d3edf51",
+   "company": "Roche UK",
+   "role": "Quality And Development Intern",
+   "location": "Sant Cugat Del Vall"
+  },
   "d5ac8c5b0061a8e89ce2a38771bd88a6": {
    "id": "d5ac8c5b0061a8e89ce2a38771bd88a6",
    "company": "IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY",
@@ -36,6 +48,24 @@
    "id": "2d9b29789fb9b2efcd9412f271db7e66",
    "company": "Avanade",
    "role": "Avanade Campus: Prácticas En Infraestructura Con Tecnologías Microsoft - Octubre 2026",
+   "location": "Madrid"
+  },
+  "0d3a5c16aa178254c4d879d1e0c9a87b": {
+   "id": "0d3a5c16aa178254c4d879d1e0c9a87b",
+   "company": "Hotel Chadstone Melbourne MGallery",
+   "role": "Lobby Ambassador Intern",
+   "location": "Barcelona"
+  },
+  "d500bc6731a7166ec3780a14e98997ce": {
+   "id": "d500bc6731a7166ec3780a14e98997ce",
+   "company": "Hotel Chadstone Melbourne MGallery",
+   "role": "Food & Beverage Operational Intern",
+   "location": "Barcelona"
+  },
+  "3e64c0f93fd08bbc090cc189b41db6e1": {
+   "id": "3e64c0f93fd08bbc090cc189b41db6e1",
+   "company": "Fever",
+   "role": "Internship: Event Producer - Northern Europe (madrid)",
    "location": "Madrid"
   },
   "6578fce12e2d95031abeca8f3034216f": {
@@ -65,6 +95,12 @@
   "1f785c371f30a9edf30f394cc4cb2b0c": {
    "id": "1f785c371f30a9edf30f394cc4cb2b0c",
    "company": "Amey (Ferrovial)",
+   "role": "Open Innovation Internship",
+   "location": "Madrid"
+  },
+  "e6a826e477911f0e903ecf9bb572aaa1": {
+   "id": "e6a826e477911f0e903ecf9bb572aaa1",
+   "company": "Ferrovial",
    "role": "Open Innovation Internship",
    "location": "Madrid"
   },
@@ -464,46 +500,22 @@
    "role": "Aerotelecom",
    "location": "Barcelona"
   },
-  "169b59fa6344f93b9a803c524f19dfd5": {
-   "id": "169b59fa6344f93b9a803c524f19dfd5",
-   "company": "The Ritz-Carlton",
-   "role": "University Intern Europe - Hotel Arts Barcelona",
-   "location": "Barcelona"
-  },
-  "3adecc2391f6ae7d98c54fc12997ab6c": {
-   "id": "3adecc2391f6ae7d98c54fc12997ab6c",
-   "company": "Houseoftechcommunity",
-   "role": "Ap Trainee",
-   "location": "Barcelona"
-  },
-  "9fd4a925e3dcaff4b7d9f545537f1bd4": {
-   "id": "9fd4a925e3dcaff4b7d9f545537f1bd4",
-   "company": "TD SYNNEX Accessboard",
-   "role": "Ap Trainee",
-   "location": "Barcelona"
-  },
-  "c0ba60d63b6fd89e9ba55657a9cd40af": {
-   "id": "c0ba60d63b6fd89e9ba55657a9cd40af",
-   "company": "Airbus SE",
-   "role": "#discover Ii 2026-2027 - Air Power Portfolio Digitalization & Analytics Internship",
-   "location": "Madrid"
-  },
-  "b688849a13655eeb0921bcdf8b5f1067": {
-   "id": "b688849a13655eeb0921bcdf8b5f1067",
-   "company": "Satair (an Airbus Services Company)",
-   "role": "#discover Ii 2026-2027 - Air Power Portfolio Digitalization & Analytics Internship",
-   "location": "Madrid"
-  },
-  "7096deccebe4a2315d6bf8c155366807": {
-   "id": "7096deccebe4a2315d6bf8c155366807",
-   "company": "Airbus Defence and Space SAU",
-   "role": "#discover Ii 2026-2027 - Air Power Portfolio Digitalization & Analytics Internship",
-   "location": "Madrid"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
    "role": "Frontend Engineer Intern",
+   "location": "Madrid"
+  },
+  "6f5b7169f53b7d5d0ebfe3536c8c8d73": {
+   "id": "6f5b7169f53b7d5d0ebfe3536c8c8d73",
+   "company": "Fever",
+   "role": "Graduate Software Engineer",
+   "location": "Madrid"
+  },
+  "5ff3537bb06fccab0b1041cdec3a650f": {
+   "id": "5ff3537bb06fccab0b1041cdec3a650f",
+   "company": "NN Group",
+   "role": "Cloud Solution Developer (api Developer)",
    "location": "Madrid"
   },
   "da832cd5dacbbaf60724c82deab51cb1": {
@@ -552,6 +564,12 @@
    "id": "55a6d64f221d6f136282a35e2ef64a72",
    "company": "Elastic",
    "role": "Software Engineer Ii (networking) - Platform Infra",
+   "location": "Spain"
+  },
+  "ff0ceb9cd1d50806fcb4cb479b3adf0d": {
+   "id": "ff0ceb9cd1d50806fcb4cb479b3adf0d",
+   "company": "Jobgether",
+   "role": "Software Engineer P2p - Search Team",
    "location": "Spain"
   },
   "c256f3059f017be09adc122e362c0b11": {
@@ -974,18 +992,6 @@
    "role": "Software Engineer – Intersystems Caché & Trakcare His",
    "location": "Spain"
   },
-  "d9d4cb236c2e46657ad6882d2289402a": {
-   "id": "d9d4cb236c2e46657ad6882d2289402a",
-   "company": "Bosch Rexroth Pty. Ltd.",
-   "role": "Technical Solutions Agent / Italian + Eng - Solve",
-   "location": "Barcelona"
-  },
-  "b96f680ac5232856d134ce20e080a07e": {
-   "id": "b96f680ac5232856d134ce20e080a07e",
-   "company": "Jobgether",
-   "role": "Home Assistant Python Developer For Hardware",
-   "location": "Spain"
-  },
   "9476aeadd9fdfc331cbe374f64e3d4db": {
    "id": "9476aeadd9fdfc331cbe374f64e3d4db",
    "company": "TD SYNNEX",
@@ -1073,6 +1079,12 @@
   "1c1c59a7cae7370a6a3bb7b5a431ed5d": {
    "id": "1c1c59a7cae7370a6a3bb7b5a431ed5d",
    "company": "Accenture Australia",
+   "role": "Ai Software Engineer / Spain",
+   "location": "Madrid"
+  },
+  "88a146b56a128ce85af2547648c19ac6": {
+   "id": "88a146b56a128ce85af2547648c19ac6",
+   "company": "Halfspace ApS",
    "role": "Ai Software Engineer / Spain",
    "location": "Madrid"
   },
@@ -1532,12 +1544,6 @@
    "role": "Data Scientist",
    "location": "Barcelona"
   },
-  "ecf344e95a1c187c1191eebc1f27a7e6": {
-   "id": "ecf344e95a1c187c1191eebc1f27a7e6",
-   "company": "164",
-   "role": "Beca Análisis De Datos (departamento Prevención De Riesgos Laborales)",
-   "location": "Madrid"
-  },
   "181b8bb902af852b5d40abe6d96c27a5": {
    "id": "181b8bb902af852b5d40abe6d96c27a5",
    "company": "William Blair",
@@ -1632,6 +1638,12 @@
    "id": "d877bbec3fbde4cd7257e1f3a210e7de",
    "company": "Hydeparkbank",
    "role": "Graduate Business Analyst - Hp Additive Manufacturing Solutiions",
+   "location": "Spain"
+  },
+  "810b1443b1eb827c001baf85e0550e2d": {
+   "id": "810b1443b1eb827c001baf85e0550e2d",
+   "company": "Jobgether",
+   "role": "Transactional Revenue Intelligence & Systems Analyst",
    "location": "Spain"
   },
   "9ffe0a71c364264fa8e5a144c247a960": {
@@ -1994,6 +2006,12 @@
    "role": "Physician And Researcher In The Field Of International Health",
    "location": "Barcelona"
   },
+  "783715e6690dd980ce4da24f456aed43": {
+   "id": "783715e6690dd980ce4da24f456aed43",
+   "company": "Schindler Group",
+   "role": "Técnico/a De Mantenimiento Ascensores (empresa Afiliada)",
+   "location": "Barcelona"
+  },
   "b46da245aa1cce79995b7b6cdc4dc38e": {
    "id": "b46da245aa1cce79995b7b6cdc4dc38e",
    "company": "Indra group",
@@ -2215,12 +2233,6 @@
    "company": "Ahorramas, S.A",
    "role": "Técnico/a Mantenimiento De Instalaciones Automatizadas",
    "location": "Madrid"
-  },
-  "783715e6690dd980ce4da24f456aed43": {
-   "id": "783715e6690dd980ce4da24f456aed43",
-   "company": "Schindler Group",
-   "role": "Técnico/a De Mantenimiento Ascensores (empresa Afiliada)",
-   "location": "Barcelona"
   },
   "61b6a5f9dcd67129c27381ad898c18b3": {
    "id": "61b6a5f9dcd67129c27381ad898c18b3",
@@ -2479,6 +2491,18 @@
    "company": "Saint Laurent",
    "role": "Saint Laurent Client Advisor - Madrid Pop Up",
    "location": "Madrid"
+  },
+  "0175725f3947ea7333fd6acbede8f34d": {
+   "id": "0175725f3947ea7333fd6acbede8f34d",
+   "company": "NUDE PROJECT",
+   "role": "Visual Sales Assistant 24h - Madrid Flagship",
+   "location": "Madrid"
+  },
+  "c7ab5c4bc11cd373b8fa0a77efd670cd": {
+   "id": "c7ab5c4bc11cd373b8fa0a77efd670cd",
+   "company": "beonit",
+   "role": "Vendedor/a De Accesorios De Telefonía",
+   "location": "Barcelona"
   },
   "f3ede5c6001b985e45121633a9f01b06": {
    "id": "f3ede5c6001b985e45121633a9f01b06",
@@ -2942,17 +2966,11 @@
    "role": "Vendedor/a 40h Av. Diagonal - Eastpak",
    "location": "Barcelona"
   },
-  "80fa4d6ecb87d7bb5985ff8886dfbb26": {
-   "id": "80fa4d6ecb87d7bb5985ff8886dfbb26",
-   "company": "VF Corporation",
-   "role": "Vendedor/a 40h Av. Diagonal - Eastpak",
-   "location": "Barcelona"
-  },
-  "bfb2c3daaecc24fc231a249bc796a9d4": {
-   "id": "bfb2c3daaecc24fc231a249bc796a9d4",
-   "company": "VF Corporation (Vans)",
-   "role": "Vendedor/a 40h Av. Diagonal - Eastpak",
-   "location": "Barcelona"
+  "ecd705ed023ca9517af6e2db4f054b31": {
+   "id": "ecd705ed023ca9517af6e2db4f054b31",
+   "company": "Primark",
+   "role": "Retail Assistant - Dependiente/a",
+   "location": "Madrid"
   },
   "257af246c82017bd0982868e6a858572": {
    "id": "257af246c82017bd0982868e6a858572",
@@ -2977,12 +2995,6 @@
    "company": "Bosch Group",
    "role": "It Support Specialist (level 1) / Automotive Solutions / Ukrainian Market",
    "location": "Salamanca"
-  },
-  "e55409b00ddf9425738146a4c1d9b40d": {
-   "id": "e55409b00ddf9425738146a4c1d9b40d",
-   "company": "Primark",
-   "role": "Retail Assistant - Dependiente/a",
-   "location": "Barcelona"
   },
   "d67b0289d63d9b6cdcdc2aee89961eb2": {
    "id": "d67b0289d63d9b6cdcdc2aee89961eb2",
@@ -3355,18 +3367,6 @@
    "company": "Satair (an Airbus Services Company)",
    "role": "Assistant For Research & Technology (temp Agency)",
    "location": "Madrid"
-  },
-  "45152cc94ecfaf9e2bc90a36e50be4b2": {
-   "id": "45152cc94ecfaf9e2bc90a36e50be4b2",
-   "company": "Geotab",
-   "role": "It Support Specialist",
-   "location": "Madrid"
-  },
-  "9da88c7183b5f2208834a6d96a7a1092": {
-   "id": "9da88c7183b5f2208834a6d96a7a1092",
-   "company": "PIMEC Jobs",
-   "role": "Administrativo/a De Atencion Al Cliente (mataró) - Integral Plus",
-   "location": "Barcelona"
   }
  }
 }
