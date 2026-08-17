@@ -965,4 +965,25 @@
 <tr><td>Introba</td><td>Recepcionista</td><td>Madrid</td><td>2026-08-16</td></tr>
 <tr><td>La Casa de las Carcasas</td><td>Sales Assistant - Cuenca</td><td>Cuenca</td><td>2026-08-16</td></tr>
 <tr><td>Satair (an Airbus Services Company)</td><td>Assistant For Research & Technology (temp Agency)</td><td>Madrid</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Retail Trainee</td><td>Madrid</td><td>2026-08-17</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Comunicación</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Edición Técnica</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Penguin Aula</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>Avolta</td><td>Intern Planning And Purchasing</td><td>Es</td><td>2026-08-17</td></tr>
+<tr><td>avoltaworld</td><td>Intern Supply Chain</td><td>Es</td><td>2026-08-17</td></tr>
+<tr><td>CMA CGM Group</td><td>Prácticas Prevención De Riesgos Laborales</td><td>OntíGola</td><td>2026-08-17</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Recepción Eurostars Hotels (barcelona)</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Human Resources Communications Intern - Hotel Arts Barcelona</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Administrative Internship - Asset Management Bu Spain.</td><td>Madrid</td><td>2026-08-17</td></tr>
+<tr><td>Coty Inc.</td><td>Demand Intern</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>Coty Inc.</td><td>Mps Intern</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>Coty Inc.</td><td>Exo Intern</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>Coty Inc.</td><td>Msp Intern</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b Luxury Brands</td><td>Islas Baleares</td><td>2026-08-17</td></tr>
+<tr><td>Betway Group</td><td>Service Desk Analyst</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Madrid</td><td>2026-08-17</td></tr>
+<tr><td>Barcelo</td><td>Oficial De Servicios Técnicos - Barceló Emperatriz</td><td>Madrid</td><td>2026-08-17</td></tr>
+<tr><td>Barcelo</td><td>Oficial De Servicios Técnicos Hotel - Occidental Barcelona 1929</td><td>Barcelona</td><td>2026-08-17</td></tr>
+<tr><td>BayWa r.e. renewable energy GmbH</td><td>O&m Technician (all Genders) - Zaragoza</td><td>Zaragoza</td><td>2026-08-17</td></tr>
 </table>

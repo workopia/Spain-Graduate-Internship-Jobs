@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-16",
- "count": 463,
+ "asOf": "2026-08-17",
+ "count": 461,
  "jobs": {
   "22271": {
    "id": "22271",
@@ -18,6 +18,78 @@
    "id": "2053833",
    "company": "Holded",
    "role": "Phone Support Specialist",
+   "location": "Barcelona"
+  },
+  "5988340db8ac21ac3349ad924d95128d": {
+   "id": "5988340db8ac21ac3349ad924d95128d",
+   "company": "Inspired Education Group",
+   "role": "School Intern",
+   "location": "Barcelona"
+  },
+  "2aed6504bed1e2555c7285e0a77565f7": {
+   "id": "2aed6504bed1e2555c7285e0a77565f7",
+   "company": "Nordex SE",
+   "role": "Global Sourcing Special Tools & Equipment Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "57496078e60c4aca5ca682c69d7038d8": {
+   "id": "57496078e60c4aca5ca682c69d7038d8",
+   "company": "Nordex SE",
+   "role": "Major Correctives Intern (m/f/d)",
+   "location": "Imarcoain"
+  },
+  "8e5fee78f03b249ebc249b67a2a158b1": {
+   "id": "8e5fee78f03b249ebc249b67a2a158b1",
+   "company": "Nordex SE",
+   "role": "Global Sourcing Claim Management Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "9139006ac15680e6bbf5a83ab60d3169": {
+   "id": "9139006ac15680e6bbf5a83ab60d3169",
+   "company": "Nordex SE",
+   "role": "Project Manager Support Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "d3cc9898960edf4a14353ea502730488": {
+   "id": "d3cc9898960edf4a14353ea502730488",
+   "company": "Nordex SE",
+   "role": "Pmd Process & Automation Intern (m/f/d)",
+   "location": "Mutilva"
+  },
+  "a9210531e63a346c530e686921bd5d98": {
+   "id": "a9210531e63a346c530e686921bd5d98",
+   "company": "Nordex SE",
+   "role": "P&c General Services Intern (m/f/d)",
+   "location": "Mutilva"
+  },
+  "9e1f903c5ef320cddf2784c8ae70df0a": {
+   "id": "9e1f903c5ef320cddf2784c8ae70df0a",
+   "company": "Nordex SE",
+   "role": "Global Mobility Intern (m/f/d)",
+   "location": "Barasoain"
+  },
+  "f5fd321ba157d273490ad4318e04d1e3": {
+   "id": "f5fd321ba157d273490ad4318e04d1e3",
+   "company": "Nordex SE",
+   "role": "Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "b29f5737ffa4a2c83ace5abb9a799f0e": {
+   "id": "b29f5737ffa4a2c83ace5abb9a799f0e",
+   "company": "Nordex SE",
+   "role": "Industrialization Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "04aa2dcead4669f894946405ecb0876e": {
+   "id": "04aa2dcead4669f894946405ecb0876e",
+   "company": "Nestlé",
+   "role": "Spain Youth / Internship Hr - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "ab89a2fd85b3004c69049c9fe5631c8a": {
+   "id": "ab89a2fd85b3004c69049c9fe5631c8a",
+   "company": "Penguin Random House Grupo Editorial",
+   "role": "Prácticas- Comunicación",
    "location": "Barcelona"
   },
   "594f316c12acb71ffcebe70a8e36d61d": {
@@ -185,6 +257,30 @@
   "2e1c19cc281f04eaa312cb9c1c7b5433": {
    "id": "2e1c19cc281f04eaa312cb9c1c7b5433",
    "company": "Thales Group",
+   "role": "Navaids & Avionics Intern",
+   "location": "Madrid"
+  },
+  "445f54a09ddbc73cec2fa3912bf0ff98": {
+   "id": "445f54a09ddbc73cec2fa3912bf0ff98",
+   "company": "THALES",
+   "role": "Legal & Contract General Intern (hybrid)",
+   "location": "Madrid"
+  },
+  "189a368c1c0075c133f1d308994dacb8": {
+   "id": "189a368c1c0075c133f1d308994dacb8",
+   "company": "THALES",
+   "role": "Quality & Hse Generalist Intern",
+   "location": "Madrid"
+  },
+  "98222093148a570f6ee892e1de0cf3ed": {
+   "id": "98222093148a570f6ee892e1de0cf3ed",
+   "company": "THALES",
+   "role": "Configuration Administrator Intern",
+   "location": "Madrid"
+  },
+  "ff37fc019769b248a68c95f41f8418f2": {
+   "id": "ff37fc019769b248a68c95f41f8418f2",
+   "company": "THALES",
    "role": "Navaids & Avionics Intern",
    "location": "Madrid"
   },
@@ -397,102 +493,6 @@
    "company": "GFT Technologies Canada Inc",
    "role": "Hr Operations Intern / Departamento People",
    "location": "Barcelona"
-  },
-  "ad4d185a68792eb5dd93eff2634987be": {
-   "id": "ad4d185a68792eb5dd93eff2634987be",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Retail Trainee",
-   "location": "Madrid"
-  },
-  "1b9f49f2235f8acd638672b1da8dd6d2": {
-   "id": "1b9f49f2235f8acd638672b1da8dd6d2",
-   "company": "createyourowncareer",
-   "role": "Prácticas- Comunicación",
-   "location": "Barcelona"
-  },
-  "156a71d51cadaf0067943ab2832eb3e8": {
-   "id": "156a71d51cadaf0067943ab2832eb3e8",
-   "company": "createyourowncareer",
-   "role": "Prácticas- Edición Técnica",
-   "location": "Barcelona"
-  },
-  "f49142b42f013049e83cd8009d11e794": {
-   "id": "f49142b42f013049e83cd8009d11e794",
-   "company": "createyourowncareer",
-   "role": "Prácticas- Penguin Aula",
-   "location": "Barcelona"
-  },
-  "bd9f758347bae40ee324df1aa6a69c53": {
-   "id": "bd9f758347bae40ee324df1aa6a69c53",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas- Edición",
-   "location": "Barcelona"
-  },
-  "75e73c0a57713bc8bb9adfcc014c2b59": {
-   "id": "75e73c0a57713bc8bb9adfcc014c2b59",
-   "company": "Avolta",
-   "role": "Intern Planning And Purchasing",
-   "location": "Es"
-  },
-  "0b65324dbdfeac5d93bbbf99963c372b": {
-   "id": "0b65324dbdfeac5d93bbbf99963c372b",
-   "company": "avoltaworld",
-   "role": "Intern Supply Chain",
-   "location": "Es"
-  },
-  "c9fcec15279f2a07a4e9a2a1d4001d51": {
-   "id": "c9fcec15279f2a07a4e9a2a1d4001d51",
-   "company": "CMA CGM Group",
-   "role": "Prácticas Prevención De Riesgos Laborales",
-   "location": "OntíGola"
-  },
-  "8624f02b1a241f861d57438d4b9f6eac": {
-   "id": "8624f02b1a241f861d57438d4b9f6eac",
-   "company": "Grupo Hotusa",
-   "role": "Prácticas Recepción Eurostars Hotels (barcelona)",
-   "location": "Barcelona"
-  },
-  "0f252fa668d74033bfc7c02d6d68b514": {
-   "id": "0f252fa668d74033bfc7c02d6d68b514",
-   "company": "St. Regis Hotels & Resorts",
-   "role": "Human Resources Communications Intern - Hotel Arts Barcelona",
-   "location": "Barcelona"
-  },
-  "fd83dda9e0f00e954c97636baafbdc8a": {
-   "id": "fd83dda9e0f00e954c97636baafbdc8a",
-   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
-   "role": "Administrative Internship - Asset Management Bu Spain.",
-   "location": "Madrid"
-  },
-  "fd3b7a1d3707fec228b7818bfe021912": {
-   "id": "fd3b7a1d3707fec228b7818bfe021912",
-   "company": "Coty Inc.",
-   "role": "Demand Intern",
-   "location": "Barcelona"
-  },
-  "bd3144ed1faf487fc0d4f869791093a1": {
-   "id": "bd3144ed1faf487fc0d4f869791093a1",
-   "company": "Coty Inc.",
-   "role": "Mps Intern",
-   "location": "Barcelona"
-  },
-  "5e3945da7db65613f27aac7f5e2ecf35": {
-   "id": "5e3945da7db65613f27aac7f5e2ecf35",
-   "company": "Coty Inc.",
-   "role": "Exo Intern",
-   "location": "Barcelona"
-  },
-  "b3486a1da54b4259e265ed2d77e7a5d7": {
-   "id": "b3486a1da54b4259e265ed2d77e7a5d7",
-   "company": "Coty Inc.",
-   "role": "Msp Intern",
-   "location": "Barcelona"
-  },
-  "7568719dd7d185cc919eaf74f12c031a": {
-   "id": "7568719dd7d185cc919eaf74f12c031a",
-   "company": "Melia",
-   "role": "Prácticas F&b Luxury Brands",
-   "location": "Islas Baleares"
   },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
@@ -932,12 +932,6 @@
    "role": "Frontend Engineer",
    "location": "Madrid"
   },
-  "a83534b9ce44e55d986d9be472cdcf86": {
-   "id": "a83534b9ce44e55d986d9be472cdcf86",
-   "company": "Betway Group",
-   "role": "Service Desk Analyst",
-   "location": "Barcelona"
-  },
   "9476aeadd9fdfc331cbe374f64e3d4db": {
    "id": "9476aeadd9fdfc331cbe374f64e3d4db",
    "company": "TD SYNNEX",
@@ -1304,6 +1298,12 @@
    "role": "Financial Analyst Intern",
    "location": "Madrid"
   },
+  "2b641531ea0d31218fd2adafffe65c85": {
+   "id": "2b641531ea0d31218fd2adafffe65c85",
+   "company": "THALES",
+   "role": "Financial Analyst Intern",
+   "location": "Madrid"
+  },
   "72221daadf09f2b0caade420e5140f17": {
    "id": "72221daadf09f2b0caade420e5140f17",
    "company": "Zurich Insurance UK",
@@ -1640,6 +1640,42 @@
    "role": "Physician And Researcher In The Field Of International Health",
    "location": "Barcelona"
   },
+  "0f91135a08ca1a580c0d46c486247aa5": {
+   "id": "0f91135a08ca1a580c0d46c486247aa5",
+   "company": "Dover India",
+   "role": "Technical Service Engineer - Madrid Area",
+   "location": "Madrid"
+  },
+  "25f0513cc998cb0699fe286ef18d7fc5": {
+   "id": "25f0513cc998cb0699fe286ef18d7fc5",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario/a De Mantenimiento Ferroviario Fuencarral",
+   "location": "Madrid"
+  },
+  "2baf436b667f5f2e640e75f8191727fb": {
+   "id": "2baf436b667f5f2e640e75f8191727fb",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario De Mantenimiento Pinto (temporal)",
+   "location": "Madrid"
+  },
+  "99332f7d6b53a0d1da2c17a6e1e9c557": {
+   "id": "99332f7d6b53a0d1da2c17a6e1e9c557",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
+   "location": "Barcelona"
+  },
+  "e245320cc0fe9cbd98ad9887de8fd305": {
+   "id": "e245320cc0fe9cbd98ad9887de8fd305",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Técnico/a De Mantenimiento (electricista)",
+   "location": "Barcelona"
+  },
+  "c2981774ad8ef2d2468c4e5ba915d936": {
+   "id": "c2981774ad8ef2d2468c4e5ba915d936",
+   "company": "Tetra Pak",
+   "role": "Maintenance Engineer",
+   "location": "Barcelona"
+  },
   "3be7e2a0801b68a24e7ff0f9f2eb8175": {
    "id": "3be7e2a0801b68a24e7ff0f9f2eb8175",
    "company": "Indra group",
@@ -1711,12 +1747,6 @@
    "company": "minsait",
    "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
    "location": "Salamanca"
-  },
-  "a88e584cd716cc44c51072f17b3a9912": {
-   "id": "a88e584cd716cc44c51072f17b3a9912",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
-   "location": "Madrid"
   },
   "dbe41a3a5b4acc6d393bdf9673ce12b3": {
    "id": "dbe41a3a5b4acc6d393bdf9673ce12b3",
@@ -1802,18 +1832,6 @@
    "role": "Técnico/a De Reparación De Puertas Automáticas (madrid)",
    "location": "Madrid"
   },
-  "25f0513cc998cb0699fe286ef18d7fc5": {
-   "id": "25f0513cc998cb0699fe286ef18d7fc5",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Operario/a De Mantenimiento Ferroviario Fuencarral",
-   "location": "Madrid"
-  },
-  "2baf436b667f5f2e640e75f8191727fb": {
-   "id": "2baf436b667f5f2e640e75f8191727fb",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Operario De Mantenimiento Pinto (temporal)",
-   "location": "Madrid"
-  },
   "5864f7185281c9c835817e8e59a526c9": {
    "id": "5864f7185281c9c835817e8e59a526c9",
    "company": "ALSTOM TRANSPORT SA",
@@ -1861,12 +1879,6 @@
    "company": "BAXTER HEALTHCARE PTY AUS",
    "role": "Técnico/a De Mantenimiento Electromecánico",
    "location": "Zaragoza"
-  },
-  "c2981774ad8ef2d2468c4e5ba915d936": {
-   "id": "c2981774ad8ef2d2468c4e5ba915d936",
-   "company": "Tetra Pak",
-   "role": "Maintenance Engineer",
-   "location": "Barcelona"
   },
   "e0c3b55d4562ad5a576982a236ee2bb8": {
    "id": "e0c3b55d4562ad5a576982a236ee2bb8",
@@ -1946,12 +1958,6 @@
    "role": "L1 Field Engineer. Madrid, Spain",
    "location": "Madrid"
   },
-  "0f91135a08ca1a580c0d46c486247aa5": {
-   "id": "0f91135a08ca1a580c0d46c486247aa5",
-   "company": "Dover India",
-   "role": "Technical Service Engineer - Madrid Area",
-   "location": "Madrid"
-  },
   "61a3316915e7da2462fc4558cc03d79f": {
    "id": "61a3316915e7da2462fc4558cc03d79f",
    "company": "Grupo Hotusa",
@@ -1992,24 +1998,6 @@
    "id": "f0b22c36ba5ed43a1a51894922c8ede9",
    "company": "Enagas",
    "role": "Operador/a Mantenimiento Infraestructuras - Zaragoza",
-   "location": "Zaragoza"
-  },
-  "a7776336c038621afb5c9db70584a54e": {
-   "id": "a7776336c038621afb5c9db70584a54e",
-   "company": "Barcelo",
-   "role": "Oficial De Servicios Técnicos - Barceló Emperatriz",
-   "location": "Madrid"
-  },
-  "da3c66e0dd137f52f69e5b8ee16df29f": {
-   "id": "da3c66e0dd137f52f69e5b8ee16df29f",
-   "company": "Barcelo",
-   "role": "Oficial De Servicios Técnicos Hotel - Occidental Barcelona 1929",
-   "location": "Barcelona"
-  },
-  "2bae9c19ad92a6679233d27b25fec904": {
-   "id": "2bae9c19ad92a6679233d27b25fec904",
-   "company": "BayWa r.e. renewable energy GmbH",
-   "role": "O&m Technician (all Genders) - Zaragoza",
    "location": "Zaragoza"
   },
   "861ba577d505d3a161048eff44b162ac": {
