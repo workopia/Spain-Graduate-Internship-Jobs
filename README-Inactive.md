@@ -986,4 +986,15 @@
 <tr><td>Barcelo</td><td>Oficial De Servicios Técnicos - Barceló Emperatriz</td><td>Madrid</td><td>2026-08-17</td></tr>
 <tr><td>Barcelo</td><td>Oficial De Servicios Técnicos Hotel - Occidental Barcelona 1929</td><td>Barcelona</td><td>2026-08-17</td></tr>
 <tr><td>BayWa r.e. renewable energy GmbH</td><td>O&m Technician (all Genders) - Zaragoza</td><td>Zaragoza</td><td>2026-08-17</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Área Comercial - Sector Hoteles / Madrid</td><td>Madrid</td><td>2026-08-18</td></tr>
+<tr><td>Ferrovial</td><td>Open Innovation Internship</td><td>Madrid</td><td>2026-08-18</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b</td><td>Islas Baleares</td><td>2026-08-18</td></tr>
+<tr><td>Verisure S.A.</td><td>Group Hr Strategy (c&b) Intern</td><td>Madrid</td><td>2026-08-18</td></tr>
+<tr><td>Verisure S.A.</td><td>Intern – Hris</td><td>Madrid</td><td>2026-08-18</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Franchise Operations</td><td>Madrid</td><td>2026-08-18</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Strategy</td><td>Madrid</td><td>2026-08-18</td></tr>
+<tr><td>ACCIONA Energia</td><td>Beca Reclutamiento</td><td>Madrid</td><td>2026-08-18</td></tr>
+<tr><td>164</td><td>Beca Reclutamiento</td><td>Madrid</td><td>2026-08-18</td></tr>
+<tr><td>GFT Technologies Canada Inc</td><td>Hr Operations Intern / Departamento People</td><td>Barcelona</td><td>2026-08-18</td></tr>
+<tr><td>avoltaworld</td><td>Global Data Scientist Specialist</td><td>Madrid</td><td>2026-08-18</td></tr>
 </table>

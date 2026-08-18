@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-17",
- "count": 461,
+ "asOf": "2026-08-18",
+ "count": 462,
  "jobs": {
   "22271": {
    "id": "22271",
@@ -19,6 +19,66 @@
    "company": "Holded",
    "role": "Phone Support Specialist",
    "location": "Barcelona"
+  },
+  "b4cf93156c78a2178a83607ee1fbe872": {
+   "id": "b4cf93156c78a2178a83607ee1fbe872",
+   "company": "Barcelo",
+   "role": "Estudiante En Prácticas Hotel",
+   "location": "Barcelona"
+  },
+  "cf4ad6eba10539c716a21a693da24792": {
+   "id": "cf4ad6eba10539c716a21a693da24792",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Área Comercial - Sector Hoteles / Madrid",
+   "location": "Madrid"
+  },
+  "20c5914a3ac56140d85e734467437b79": {
+   "id": "20c5914a3ac56140d85e734467437b79",
+   "company": "Airbus",
+   "role": "#discover Ii 2026-2027 Future Capabilities Internship",
+   "location": "Madrid"
+  },
+  "85da8f974b75073e8a52276f598e0f83": {
+   "id": "85da8f974b75073e8a52276f598e0f83",
+   "company": "Telefonica",
+   "role": "Tech_10 Becas Finanzas, Datos, Y Consultoria Negocio",
+   "location": "Madrid"
+  },
+  "7e6033da5efc195b90db1e3d96f56ca1": {
+   "id": "7e6033da5efc195b90db1e3d96f56ca1",
+   "company": "Telefonica",
+   "role": "Tech_2 Becas Area De People",
+   "location": "Madrid"
+  },
+  "f9f8908a78474ea8ea34910a5fa04c57": {
+   "id": "f9f8908a78474ea8ea34910a5fa04c57",
+   "company": "Telefonica",
+   "role": "Beca Talentum - Ai Factory",
+   "location": "Madrid"
+  },
+  "7fb0843cdf437d75fe9fcb5160f90e71": {
+   "id": "7fb0843cdf437d75fe9fcb5160f90e71",
+   "company": "Telefonica",
+   "role": "Beca Talentum - Circular&value Added Lab",
+   "location": "Madrid"
+  },
+  "8c302ad8088f12263ee0dd3bde81d913": {
+   "id": "8c302ad8088f12263ee0dd3bde81d913",
+   "company": "Telefonica",
+   "role": "Practicas Curriculares/extracurriculares",
+   "location": "Spain"
+  },
+  "94c2e3e3861ae8a1d022cbe9c772386d": {
+   "id": "94c2e3e3861ae8a1d022cbe9c772386d",
+   "company": "Telefonica",
+   "role": "Beca Talentum - Wayra Innovation Services",
+   "location": "Madrid"
+  },
+  "b684764f8cacec9739ec0344a8645f54": {
+   "id": "b684764f8cacec9739ec0344a8645f54",
+   "company": "Telefonica",
+   "role": "Telefónica_foro_empleo_upm_2025",
+   "location": "Spain"
   },
   "5988340db8ac21ac3349ad924d95128d": {
    "id": "5988340db8ac21ac3349ad924d95128d",
@@ -144,12 +204,6 @@
    "id": "c4eb87ab48473637627ab2a61ea9f027",
    "company": "Grupo Hotusa",
    "role": "Prácticas Administración Economato Madrid",
-   "location": "Madrid"
-  },
-  "6814d0afaf95f8f021167064b4759c72": {
-   "id": "6814d0afaf95f8f021167064b4759c72",
-   "company": "Grupo Hotusa",
-   "role": "Prácticas Área Comercial - Sector Hoteles / Madrid",
    "location": "Madrid"
   },
   "0f7850e06152ca6cfa18003862b16da5": {
@@ -440,60 +494,6 @@
    "role": "Open Innovation Internship",
    "location": "Madrid"
   },
-  "e6a826e477911f0e903ecf9bb572aaa1": {
-   "id": "e6a826e477911f0e903ecf9bb572aaa1",
-   "company": "Ferrovial",
-   "role": "Open Innovation Internship",
-   "location": "Madrid"
-  },
-  "06c494c24f2ec7b0c4f455c229ef5e81": {
-   "id": "06c494c24f2ec7b0c4f455c229ef5e81",
-   "company": "Melia",
-   "role": "Prácticas F&b",
-   "location": "Islas Baleares"
-  },
-  "01039b7313ed80ca126f106c3d8f239c": {
-   "id": "01039b7313ed80ca126f106c3d8f239c",
-   "company": "Verisure S.A.",
-   "role": "Group Hr Strategy (c&b) Intern",
-   "location": "Madrid"
-  },
-  "4f96875f8a73c987ea2a20f777a57059": {
-   "id": "4f96875f8a73c987ea2a20f777a57059",
-   "company": "Verisure S.A.",
-   "role": "Intern – Hris",
-   "location": "Madrid"
-  },
-  "4dc4a5076d44535128ddc1fda8a0b82a": {
-   "id": "4dc4a5076d44535128ddc1fda8a0b82a",
-   "company": "Coca-Cola HBC AG",
-   "role": "Coca-cola Ignite Intern - Franchise Operations",
-   "location": "Madrid"
-  },
-  "7cc2e5ef2ba62c371e728d4ddad88ca6": {
-   "id": "7cc2e5ef2ba62c371e728d4ddad88ca6",
-   "company": "Coca-Cola HBC AG",
-   "role": "Coca-cola Ignite Intern - Strategy",
-   "location": "Madrid"
-  },
-  "0e6afecfb61ad5691f70ce165ec1d0eb": {
-   "id": "0e6afecfb61ad5691f70ce165ec1d0eb",
-   "company": "ACCIONA Energia",
-   "role": "Beca Reclutamiento",
-   "location": "Madrid"
-  },
-  "39f14e8accce11fc2e0436d5e36769e6": {
-   "id": "39f14e8accce11fc2e0436d5e36769e6",
-   "company": "164",
-   "role": "Beca Reclutamiento",
-   "location": "Madrid"
-  },
-  "c7daf65a727b863dbc2a1a8524ece146": {
-   "id": "c7daf65a727b863dbc2a1a8524ece146",
-   "company": "GFT Technologies Canada Inc",
-   "role": "Hr Operations Intern / Departamento People",
-   "location": "Barcelona"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
@@ -504,6 +504,12 @@
    "id": "6f5b7169f53b7d5d0ebfe3536c8c8d73",
    "company": "Fever",
    "role": "Graduate Software Engineer",
+   "location": "Madrid"
+  },
+  "8f04672576195bb15e77cf092239f126": {
+   "id": "8f04672576195bb15e77cf092239f126",
+   "company": "Telefonica",
+   "role": "Beca Desarrollo Software Ai Gigafactory",
    "location": "Madrid"
   },
   "4cd9bd756b1bf5468fc1053ab21b2f28": {
@@ -950,6 +956,12 @@
    "role": "Offer Safety Data Scientist Intern Stp26",
    "location": "Catalonia"
   },
+  "f0961946b004ad232feab278f810eac1": {
+   "id": "f0961946b004ad232feab278f810eac1",
+   "company": "avoltaworld",
+   "role": "Global Data Scientist Specialist",
+   "location": "Madrid"
+  },
   "59ab37b61012b0e55ba120fe0d9ce085": {
    "id": "59ab37b61012b0e55ba120fe0d9ce085",
    "company": "Indra group",
@@ -1026,12 +1038,6 @@
    "id": "33c2bf11fa9ac70f7c3bb3c35fbb7f22",
    "company": "Halfspace ApS",
    "role": "Ai Native Product Engineer & Orchestrator",
-   "location": "Madrid"
-  },
-  "d49167b62c14190f05715ca43bf419c9": {
-   "id": "d49167b62c14190f05715ca43bf419c9",
-   "company": "avoltaworld",
-   "role": "Global Data Scientist Specialist",
    "location": "Madrid"
   },
   "289c736421e4a764d259d900f292e901": {
