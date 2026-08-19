@@ -12,8 +12,8 @@
   "as_of": "2026-08-19",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 3405,
-  "generated_at": "2026-08-19T01:15:34.796Z"
+  "country_live_total": 3402,
+  "generated_at": "2026-08-19T09:48:21.101Z"
  },
  "categories": [
   {
@@ -377,23 +377,6 @@
    "date_posted": "2026-08-17T05:12:01.645Z",
    "active": true,
    "url": "https://workopia.io/jobs/b684764f8cacec9739ec0344a8645f54",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "c696fa1aaa7f3b099f557e6dbc30209b",
-   "source": "Workopia",
-   "company_name": "The Ritz-Carlton",
-   "company_hi_slug": "the-ritz-carlton",
-   "title": "Finance Trainee (internship) - W Barcelona",
-   "location": "Barcelona",
-   "skills": "Hotel operations, Hands-on experience",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-17T00:00:00.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/c696fa1aaa7f3b099f557e6dbc30209b",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1431,6 +1414,23 @@
    "date_posted": "2026-08-14T11:00:02.045Z",
    "active": true,
    "url": "https://workopia.io/jobs/3dbb20dfe05aade4794522d0111f3798",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "34ccdfa3f9417e9f03be5410d7098f47",
+   "source": "Workopia",
+   "company_name": "Zurich Insurance UK",
+   "company_hi_slug": "zurich-insurance-uk",
+   "title": "Front Office Systems Intern",
+   "location": "Barcelona",
+   "skills": "Bloomberg AIM support, Bloomberg Terminal kno",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-14T11:00:02.027Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/34ccdfa3f9417e9f03be5410d7098f47",
    "category": "grad",
    "tier": "Intern"
   },

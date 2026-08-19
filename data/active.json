@@ -122,12 +122,6 @@
    "role": "Telefónica_foro_empleo_upm_2025",
    "location": "Spain"
   },
-  "c696fa1aaa7f3b099f557e6dbc30209b": {
-   "id": "c696fa1aaa7f3b099f557e6dbc30209b",
-   "company": "The Ritz-Carlton",
-   "role": "Finance Trainee (internship) - W Barcelona",
-   "location": "Barcelona"
-  },
   "b6f3cb622a848891a25e48b6db6f6f9e": {
    "id": "b6f3cb622a848891a25e48b6db6f6f9e",
    "company": "St. Regis Hotels & Resorts",
@@ -492,6 +486,12 @@
    "id": "3dbb20dfe05aade4794522d0111f3798",
    "company": "Zurich Insurance UK",
    "role": "Network & Partner Operations Intern",
+   "location": "Barcelona"
+  },
+  "34ccdfa3f9417e9f03be5410d7098f47": {
+   "id": "34ccdfa3f9417e9f03be5410d7098f47",
+   "company": "Zurich Insurance UK",
+   "role": "Front Office Systems Intern",
    "location": "Barcelona"
   },
   "05d41416d7ab8aff1705f8b1a29c9405": {

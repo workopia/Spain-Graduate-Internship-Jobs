@@ -1017,4 +1017,5 @@
 <tr><td>Amey (Ferrovial)</td><td>Open Innovation Internship</td><td>Madrid</td><td>2026-08-19</td></tr>
 <tr><td>Skechers U.S.A., Inc</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-08-19</td></tr>
 <tr><td>La Casa de las Carcasas</td><td>Sales Assistant - Salamanca</td><td>Salamanca</td><td>2026-08-19</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Finance Trainee (internship) - W Barcelona</td><td>Barcelona</td><td>2026-08-19</td></tr>
 </table>
