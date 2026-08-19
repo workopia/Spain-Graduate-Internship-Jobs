@@ -997,4 +997,24 @@
 <tr><td>164</td><td>Beca Reclutamiento</td><td>Madrid</td><td>2026-08-18</td></tr>
 <tr><td>GFT Technologies Canada Inc</td><td>Hr Operations Intern / Departamento People</td><td>Barcelona</td><td>2026-08-18</td></tr>
 <tr><td>avoltaworld</td><td>Global Data Scientist Specialist</td><td>Madrid</td><td>2026-08-18</td></tr>
+<tr><td>Estée Lauder</td><td>Intern Online Assistant - Fragances</td><td>Madrid</td><td>2026-08-19</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Front Office Systems Intern</td><td>Barcelona</td><td>2026-08-19</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Canal Corredores</td><td>Barcelona</td><td>2026-08-19</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Investment Performance Analyst Intern</td><td>Barcelona</td><td>2026-08-19</td></tr>
+<tr><td>Swiss Re</td><td>People Operations Intern</td><td>Madrid</td><td>2026-08-19</td></tr>
+<tr><td>Bureau Veritas</td><td>¿quieres Hacer Tus Prácticas En Bureau Veritas? ¡únete A Bvacademy!</td><td>Madrid</td><td>2026-08-19</td></tr>
+<tr><td>Roche UK</td><td>Quality And Development Intern</td><td>Sant Cugat Del Vall</td><td>2026-08-19</td></tr>
+<tr><td>IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY</td><td>Digital Services Intern, Madrid</td><td>Madrid</td><td>2026-08-19</td></tr>
+<tr><td>Avanade</td><td>Avanade Campus: Prácticas En Infraestructura Con Tecnologías Microsoft - Octubre 2026</td><td>Madrid</td><td>2026-08-19</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Lobby Ambassador Intern</td><td>Barcelona</td><td>2026-08-19</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Food & Beverage Operational Intern</td><td>Barcelona</td><td>2026-08-19</td></tr>
+<tr><td>Fever</td><td>Internship: Event Producer - Northern Europe (madrid)</td><td>Madrid</td><td>2026-08-19</td></tr>
+<tr><td>Civitatis</td><td>Copywriter Es Internship</td><td>Madrid</td><td>2026-08-19</td></tr>
+<tr><td>Smart Communications Inc</td><td>Intern Smart Spain (f/m/d)</td><td>Madrid</td><td>2026-08-19</td></tr>
+<tr><td>MediaMarktSaturn - Webshop Foundation</td><td>Prácticas - Gestión Administrativa Y Soporte A Catman</td><td>Barcelona</td><td>2026-08-19</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Key Accounts Spain</td><td>Madrid</td><td>2026-08-19</td></tr>
+<tr><td>Ferrovial SE</td><td>Open Innovation Internship</td><td>Madrid</td><td>2026-08-19</td></tr>
+<tr><td>Amey (Ferrovial)</td><td>Open Innovation Internship</td><td>Madrid</td><td>2026-08-19</td></tr>
+<tr><td>Skechers U.S.A., Inc</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-08-19</td></tr>
+<tr><td>La Casa de las Carcasas</td><td>Sales Assistant - Salamanca</td><td>Salamanca</td><td>2026-08-19</td></tr>
 </table>
