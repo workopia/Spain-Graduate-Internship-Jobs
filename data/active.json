@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-19",
- "count": 469,
+ "asOf": "2026-08-20",
+ "count": 474,
  "jobs": {
   "42686": {
    "id": "42686",
@@ -20,10 +20,142 @@
    "role": "M&e Internship",
    "location": "Barcelona"
   },
+  "ee8d94ae6a4821273ae1cbfc8fd2e78a": {
+   "id": "ee8d94ae6a4821273ae1cbfc8fd2e78a",
+   "company": "Boeing Aerostructures Australia",
+   "role": "Intern - Software Engineering",
+   "location": "Madrid"
+  },
+  "f06de10dfa17d888d33f6bf8976aec2d": {
+   "id": "f06de10dfa17d888d33f6bf8976aec2d",
+   "company": "Boeing Aerostructures Australia",
+   "role": "Intern - Systems Safety Engineering",
+   "location": "Madrid"
+  },
+  "2b2341430d503c56ceca7e0b7456e8b6": {
+   "id": "2b2341430d503c56ceca7e0b7456e8b6",
+   "company": "Telefonica",
+   "role": "Beca Talentum - Use Cases Home Advanced Conectivity (hac)",
+   "location": "Madrid"
+  },
+  "fd3b7a1d3707fec228b7818bfe021912": {
+   "id": "fd3b7a1d3707fec228b7818bfe021912",
+   "company": "Coty Inc.",
+   "role": "Demand Intern",
+   "location": "Barcelona"
+  },
+  "bd3144ed1faf487fc0d4f869791093a1": {
+   "id": "bd3144ed1faf487fc0d4f869791093a1",
+   "company": "Coty Inc.",
+   "role": "Mps Intern",
+   "location": "Barcelona"
+  },
+  "472609b3cbd92db7f74224b277a21cbd": {
+   "id": "472609b3cbd92db7f74224b277a21cbd",
+   "company": "Coty Inc.",
+   "role": "Commercial Internship Program Iberia",
+   "location": "Barcelona"
+  },
+  "8843fe692157750cbf8dc2807ccea8c6": {
+   "id": "8843fe692157750cbf8dc2807ccea8c6",
+   "company": "Coty Inc.",
+   "role": "Warehouse Intern",
+   "location": "Barcelona"
+  },
+  "4439594a406ec58f1c0537b6f2cda6d1": {
+   "id": "4439594a406ec58f1c0537b6f2cda6d1",
+   "company": "Coty Inc.",
+   "role": "Site Planner Intern",
+   "location": "Barcelona"
+  },
+  "6578fce12e2d95031abeca8f3034216f": {
+   "id": "6578fce12e2d95031abeca8f3034216f",
+   "company": "Smart Communications Inc",
+   "role": "Intern Smart Spain (f/m/d)",
+   "location": "Madrid"
+  },
+  "71bf7c288f4d671284cba25e9c7b57ea": {
+   "id": "71bf7c288f4d671284cba25e9c7b57ea",
+   "company": "Industria de Turbo Propulsores, S.A",
+   "role": "Beca Riesgos , Control Interno Y Auditoría Interna (f/m/x)",
+   "location": "Alcobendas"
+  },
+  "06c494c24f2ec7b0c4f455c229ef5e81": {
+   "id": "06c494c24f2ec7b0c4f455c229ef5e81",
+   "company": "Melia",
+   "role": "Prácticas F&b",
+   "location": "Islas Baleares"
+  },
+  "f25399bb4b9ac39c3f42387a7bde15e3": {
+   "id": "f25399bb4b9ac39c3f42387a7bde15e3",
+   "company": "Melia",
+   "role": "Prácticas Guest Experience - Meliá Palma Marina",
+   "location": "Islas Baleares"
+  },
+  "50e18bc86e7cf7948b063b437bec609b": {
+   "id": "50e18bc86e7cf7948b063b437bec609b",
+   "company": "Mango",
+   "role": "Intern Public Relations",
+   "location": "Palau"
+  },
+  "a59d576d9066f10c58c4c8af74aa94e1": {
+   "id": "a59d576d9066f10c58c4c8af74aa94e1",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Finance - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "46f695d4e30f6b9c1130e55d2464a0c9": {
+   "id": "46f695d4e30f6b9c1130e55d2464a0c9",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship It - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "a15abd5e0245a42eaf43776461f5c82a": {
+   "id": "a15abd5e0245a42eaf43776461f5c82a",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Operations - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "99ad58abe104db5aaa8c68d6bd70554b": {
+   "id": "99ad58abe104db5aaa8c68d6bd70554b",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Kitchen - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "9fdddb19d3e52e1baa0ffebf67864709": {
+   "id": "9fdddb19d3e52e1baa0ffebf67864709",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Hr - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "ad23e98f71d18ec4539e9915f90ca2e8": {
+   "id": "ad23e98f71d18ec4539e9915f90ca2e8",
+   "company": "Nestle Ltd",
+   "role": "Spain Youth / Internship Nutrition, Health Sciences & Food Research - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "ebc6dc986294c04e1f9d46443a88264c": {
+   "id": "ebc6dc986294c04e1f9d46443a88264c",
+   "company": "Nestle Ltd",
+   "role": "Spain Youth / Internship Operations - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "7d42f11a841b62018d647517a7e4e846": {
+   "id": "7d42f11a841b62018d647517a7e4e846",
+   "company": "Nestle Ltd",
+   "role": "Spain Youth / Internship Kitchen - September 2026",
+   "location": "Esplugues Llobregat"
+  },
   "1065252d748cefb9c00db6c16a76ddc9": {
    "id": "1065252d748cefb9c00db6c16a76ddc9",
    "company": "Mars Australia",
    "role": "Revenue Growth Intern",
+   "location": "Barcelona"
+  },
+  "58b9fc7435fa4885ef433337efabbb04": {
+   "id": "58b9fc7435fa4885ef433337efabbb04",
+   "company": "TFS HealthScience",
+   "role": "Marketing &amp; Communications Intern",
    "location": "Barcelona"
   },
   "f649dd1c7bb1d36cb77a114e4b09f175": {
@@ -152,22 +284,10 @@
    "role": "Sap Ixp Internship - Ambassador Program Intern",
    "location": "Barcelona"
   },
-  "24119dc8094a64eec44931596f30bfef": {
-   "id": "24119dc8094a64eec44931596f30bfef",
-   "company": "Melia",
-   "role": "Prácticas F&b",
-   "location": "Islas Baleares"
-  },
   "fe79d3c8d563cc2591f2c49767734130": {
    "id": "fe79d3c8d563cc2591f2c49767734130",
    "company": "Melia",
    "role": "Prácticas Revenue",
-   "location": "Islas Baleares"
-  },
-  "f66db1a1eb8d3faa1cc8c7da4b187b61": {
-   "id": "f66db1a1eb8d3faa1cc8c7da4b187b61",
-   "company": "Melia",
-   "role": "Prácticas Guest Experience - Meliá Palma Marina",
    "location": "Islas Baleares"
   },
   "9fff814ced8bcb41f8bf459cbd8bf1db": {
@@ -266,12 +386,6 @@
    "role": "Beca Operaciones Retribución Flexible",
    "location": "Madrid"
   },
-  "6277eff8dd669c8287c6b20f8119d1ef": {
-   "id": "6277eff8dd669c8287c6b20f8119d1ef",
-   "company": "Coty Inc.",
-   "role": "Commercial Internship Program Iberia",
-   "location": "Barcelona"
-  },
   "eb0b483db88fcdfa406bb909fec8d56b": {
    "id": "eb0b483db88fcdfa406bb909fec8d56b",
    "company": "RWE AG",
@@ -307,12 +421,6 @@
    "company": "MAPFRE",
    "role": "Beca En Retribución Ejecutiva",
    "location": "Madrid"
-  },
-  "212dfd13dce3d4347350795c6940aff6": {
-   "id": "212dfd13dce3d4347350795c6940aff6",
-   "company": "Nestle SA",
-   "role": "Spain Youth / Internship It - September 2026",
-   "location": "Esplugues Llobregat"
   },
   "f0dfac110872fb0c74128671b56d0e3b": {
    "id": "f0dfac110872fb0c74128671b56d0e3b",
@@ -386,114 +494,6 @@
    "role": "Prácticas Talent Energy",
    "location": "Campus Repsol"
   },
-  "d7909ccc8d318edc8ac5f2d8d7be7a2f": {
-   "id": "d7909ccc8d318edc8ac5f2d8d7be7a2f",
-   "company": "Thales Group",
-   "role": "Legal & Contract General Intern (hybrid)",
-   "location": "Madrid"
-  },
-  "dda00ba723e8fac22c3c57b482da33f5": {
-   "id": "dda00ba723e8fac22c3c57b482da33f5",
-   "company": "Thales Group",
-   "role": "Quality & Hse Generalist Intern",
-   "location": "Madrid"
-  },
-  "7df7429eb9b9cb7dee81c69c0c5fafe6": {
-   "id": "7df7429eb9b9cb7dee81c69c0c5fafe6",
-   "company": "Thales Group",
-   "role": "Configuration Administrator Intern",
-   "location": "Madrid"
-  },
-  "2e1c19cc281f04eaa312cb9c1c7b5433": {
-   "id": "2e1c19cc281f04eaa312cb9c1c7b5433",
-   "company": "Thales Group",
-   "role": "Navaids & Avionics Intern",
-   "location": "Madrid"
-  },
-  "445f54a09ddbc73cec2fa3912bf0ff98": {
-   "id": "445f54a09ddbc73cec2fa3912bf0ff98",
-   "company": "THALES",
-   "role": "Legal & Contract General Intern (hybrid)",
-   "location": "Madrid"
-  },
-  "189a368c1c0075c133f1d308994dacb8": {
-   "id": "189a368c1c0075c133f1d308994dacb8",
-   "company": "THALES",
-   "role": "Quality & Hse Generalist Intern",
-   "location": "Madrid"
-  },
-  "98222093148a570f6ee892e1de0cf3ed": {
-   "id": "98222093148a570f6ee892e1de0cf3ed",
-   "company": "THALES",
-   "role": "Configuration Administrator Intern",
-   "location": "Madrid"
-  },
-  "ff37fc019769b248a68c95f41f8418f2": {
-   "id": "ff37fc019769b248a68c95f41f8418f2",
-   "company": "THALES",
-   "role": "Navaids & Avionics Intern",
-   "location": "Madrid"
-  },
-  "e9905f0def9d94c6497a00b4ad002c04": {
-   "id": "e9905f0def9d94c6497a00b4ad002c04",
-   "company": "Celonis",
-   "role": "Global Content Graduated Internship (12 Months)",
-   "location": "Madrid"
-  },
-  "91ac89b13d249538fe8bedaec653d019": {
-   "id": "91ac89b13d249538fe8bedaec653d019",
-   "company": "Zurich Insurance UK",
-   "role": "Ai Analyst Intern",
-   "location": "Barcelona"
-  },
-  "dd4f9ae1d6015570fe446aa50ac79280": {
-   "id": "dd4f9ae1d6015570fe446aa50ac79280",
-   "company": "Zurich Insurance UK",
-   "role": "Beca Suscripción Usp Pymes",
-   "location": "Madrid"
-  },
-  "9ebcba3dd1747413184c0b892b4f4486": {
-   "id": "9ebcba3dd1747413184c0b892b4f4486",
-   "company": "Zurich Insurance UK",
-   "role": "Ai Developer Intern",
-   "location": "Madrid"
-  },
-  "3d01506af211d8426422e718ebcc557d": {
-   "id": "3d01506af211d8426422e718ebcc557d",
-   "company": "Zurich Insurance UK",
-   "role": "Digital Associate Internship",
-   "location": "Barcelona"
-  },
-  "ec968e4e9fe2009049fa581c20e149e0": {
-   "id": "ec968e4e9fe2009049fa581c20e149e0",
-   "company": "Zurich Insurance UK",
-   "role": "Data Engineering & Visualization Intern",
-   "location": "Barcelona"
-  },
-  "4ddfd1e7d8c27bf34e98ae70414cbb65": {
-   "id": "4ddfd1e7d8c27bf34e98ae70414cbb65",
-   "company": "Zurich Insurance UK",
-   "role": "Zictt Business Specialist Internship",
-   "location": "Barcelona"
-  },
-  "c303331174cf1ba885f9b298672fd6fd": {
-   "id": "c303331174cf1ba885f9b298672fd6fd",
-   "company": "Zurich Insurance UK",
-   "role": "Data Platform & Analytics Internship",
-   "location": "Barcelona"
-  },
-  "3dbb20dfe05aade4794522d0111f3798": {
-   "id": "3dbb20dfe05aade4794522d0111f3798",
-   "company": "Zurich Insurance UK",
-   "role": "Network & Partner Operations Intern",
-   "location": "Barcelona"
-  },
-  "34ccdfa3f9417e9f03be5410d7098f47": {
-   "id": "34ccdfa3f9417e9f03be5410d7098f47",
-   "company": "Zurich Insurance UK",
-   "role": "Front Office Systems Intern",
-   "location": "Barcelona"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
@@ -505,6 +505,30 @@
    "company": "Fever",
    "role": "Graduate Software Engineer",
    "location": "Madrid"
+  },
+  "460ef4936f31172283c84e42cb9070e2": {
+   "id": "460ef4936f31172283c84e42cb9070e2",
+   "company": "Minsait",
+   "role": "Ingeniero/a De Software - Gestión Y Monitorización De Redes Qkd",
+   "location": "Madrid"
+  },
+  "ed95d6dd72ee1272f63115d9abacf88b": {
+   "id": "ed95d6dd72ee1272f63115d9abacf88b",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Software - Gestión Y Monitorización De Redes Qkd",
+   "location": "Madrid"
+  },
+  "baea95e3d5c29ea51bae67d6ae4b1dce": {
+   "id": "baea95e3d5c29ea51bae67d6ae4b1dce",
+   "company": "Industria de Turbo Propulsores, S.A",
+   "role": "Control Systems Software Engineer (f,m,x)",
+   "location": "Ajalvir"
+  },
+  "c738b8628972fc411b25c07cd282049f": {
+   "id": "c738b8628972fc411b25c07cd282049f",
+   "company": "Atos",
+   "role": "Técnico/a Helpdesk Nivel 2",
+   "location": "Barcelona"
   },
   "716fab667c4aac305d5adccf3e8580ab": {
    "id": "716fab667c4aac305d5adccf3e8580ab",
@@ -644,12 +668,6 @@
    "role": "Ingeniero/a De Desarrollo Software C++",
    "location": "Madrid"
   },
-  "0b4537909431783ade447e01ad7a9892": {
-   "id": "0b4537909431783ade447e01ad7a9892",
-   "company": "Atos",
-   "role": "Analista Iam (identity & Access Management)",
-   "location": "Madrid"
-  },
   "5813eb535362ed5555dbd3bd95f0ab09": {
    "id": "5813eb535362ed5555dbd3bd95f0ab09",
    "company": "minsait",
@@ -769,12 +787,6 @@
    "company": "Jobgether",
    "role": "Game Developer - Voxel-based Engine (java)",
    "location": "Spain"
-  },
-  "baea95e3d5c29ea51bae67d6ae4b1dce": {
-   "id": "baea95e3d5c29ea51bae67d6ae4b1dce",
-   "company": "Industria de Turbo Propulsores, S.A",
-   "role": "Control Systems Software Engineer (f,m,x)",
-   "location": "Ajalvir"
   },
   "0001038": {
    "id": "0001038",
@@ -967,6 +979,12 @@
    "company": "Schneider Electric",
    "role": "Offer Safety Data Scientist Intern Stp26",
    "location": "Catalonia"
+  },
+  "50623027197d7e94c69877934a9f6786": {
+   "id": "50623027197d7e94c69877934a9f6786",
+   "company": "Telefonica",
+   "role": "Agentic Ai Practicioner (i)",
+   "location": "Madrid"
   },
   "405e9972116a264781b56b141a22bb38": {
    "id": "405e9972116a264781b56b141a22bb38",
@@ -1400,6 +1418,12 @@
    "role": "Graduate Business Analyst - Hp Additive Manufacturing Solutiions",
    "location": "Spain"
   },
+  "3c13e244c4337e92b37cce02b0767a66": {
+   "id": "3c13e244c4337e92b37cce02b0767a66",
+   "company": "Acciona",
+   "role": "Beca Analista Financiero",
+   "location": "Madrid"
+  },
   "37489c462c5847bda9d2bcb9cb0f3509": {
    "id": "37489c462c5847bda9d2bcb9cb0f3509",
    "company": "Indra group",
@@ -1676,6 +1700,12 @@
    "role": "Physician And Researcher In The Field Of International Health",
    "location": "Barcelona"
   },
+  "e0c3b55d4562ad5a576982a236ee2bb8": {
+   "id": "e0c3b55d4562ad5a576982a236ee2bb8",
+   "company": "Ahorramas, S.A",
+   "role": "Técnico/a Mantenimiento De Instalaciones Automatizadas",
+   "location": "Madrid"
+  },
   "9914c52e1a6b40176ebd91b6b6112c3c": {
    "id": "9914c52e1a6b40176ebd91b6b6112c3c",
    "company": "Melia",
@@ -1916,12 +1946,6 @@
    "role": "Técnico/a De Mantenimiento Electromecánico",
    "location": "Zaragoza"
   },
-  "e0c3b55d4562ad5a576982a236ee2bb8": {
-   "id": "e0c3b55d4562ad5a576982a236ee2bb8",
-   "company": "Ahorramas, S.A",
-   "role": "Técnico/a Mantenimiento De Instalaciones Automatizadas",
-   "location": "Madrid"
-  },
   "61b6a5f9dcd67129c27381ad898c18b3": {
    "id": "61b6a5f9dcd67129c27381ad898c18b3",
    "company": "Schindler Group",
@@ -2036,6 +2060,24 @@
    "role": "Operador/a Mantenimiento Infraestructuras - Zaragoza",
    "location": "Zaragoza"
   },
+  "5d411baf8015cdf71f37c9a28e1c3cac": {
+   "id": "5d411baf8015cdf71f37c9a28e1c3cac",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Sales Associate",
+   "location": "Barcelona"
+  },
+  "5a0ad980fac98a1931a32e5e4f853c90": {
+   "id": "5a0ad980fac98a1931a32e5e4f853c90",
+   "company": "Mango",
+   "role": "Jornada De Selección Mozo/a De Almacén 24 De Agosto De 09-17h En La Central De Mango",
+   "location": "Barcelona"
+  },
+  "bd58429d16a78f61e051245450a4a148": {
+   "id": "bd58429d16a78f61e051245450a4a148",
+   "company": "JYSK",
+   "role": "Vendedor/a",
+   "location": "Barcelona"
+  },
   "1da2b7abdce7178d6c5dd7366330441a": {
    "id": "1da2b7abdce7178d6c5dd7366330441a",
    "company": "SKECHERS USA Inc",
@@ -2052,12 +2094,6 @@
    "id": "861ba577d505d3a161048eff44b162ac",
    "company": "Levis Media",
    "role": "Sales Stylist 10h La Roca",
-   "location": "Barcelona"
-  },
-  "20e9400fb91383be7907c953d88c504a": {
-   "id": "20e9400fb91383be7907c953d88c504a",
-   "company": "JYSK",
-   "role": "Vendedor/a",
    "location": "Barcelona"
   },
   "R169597": {
@@ -2504,17 +2540,17 @@
    "role": "Vendedor/a Majadahonda Gran Plaza 2 - 30h 25h 20h",
    "location": "Madrid"
   },
-  "78c41465cd8bc65c2c47a6d4a2b7cbec": {
-   "id": "78c41465cd8bc65c2c47a6d4a2b7cbec",
-   "company": "Mango",
-   "role": "Vendedor/a Mango Man C.c. Vaguada (madrid) - 8h Semanales",
-   "location": "Madrid"
+  "b4b34312180e864ba552ca0fbc74be2e": {
+   "id": "b4b34312180e864ba552ca0fbc74be2e",
+   "company": "Ahorramas, S.A",
+   "role": "Administrativo/a Para Departamento De Seguridad Alimentaria Y Calidad",
+   "location": "Salamanca"
   },
-  "b0e52bd18c692da17bbee62f5349f09e": {
-   "id": "b0e52bd18c692da17bbee62f5349f09e",
-   "company": "Merkal Calzados S.L",
-   "role": "Vendedores/as 30 Horas Semanales",
-   "location": "Barcelona"
+  "ddde2a10a5ef4be1d56ba163163effbd": {
+   "id": "ddde2a10a5ef4be1d56ba163163effbd",
+   "company": "Temporing",
+   "role": "Administrativo/a - Loiu",
+   "location": "Derio"
   },
   "166622c9477c909952e218ea0bcd5313": {
    "id": "166622c9477c909952e218ea0bcd5313",
@@ -2635,12 +2671,6 @@
    "company": "Byselva",
    "role": "Administrative & Operations Coordinator",
    "location": "Madrid"
-  },
-  "b4b34312180e864ba552ca0fbc74be2e": {
-   "id": "b4b34312180e864ba552ca0fbc74be2e",
-   "company": "Ahorramas, S.A",
-   "role": "Administrativo/a Para Departamento De Seguridad Alimentaria Y Calidad",
-   "location": "Salamanca"
   },
   "1a082d7d54144e9e6858c00056b17ff7": {
    "id": "1a082d7d54144e9e6858c00056b17ff7",

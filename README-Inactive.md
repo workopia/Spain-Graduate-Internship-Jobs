@@ -1018,4 +1018,30 @@
 <tr><td>Skechers U.S.A., Inc</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-08-19</td></tr>
 <tr><td>La Casa de las Carcasas</td><td>Sales Assistant - Salamanca</td><td>Salamanca</td><td>2026-08-19</td></tr>
 <tr><td>The Ritz-Carlton</td><td>Finance Trainee (internship) - W Barcelona</td><td>Barcelona</td><td>2026-08-19</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b</td><td>Islas Baleares</td><td>2026-08-20</td></tr>
+<tr><td>Melia</td><td>Prácticas Guest Experience - Meliá Palma Marina</td><td>Islas Baleares</td><td>2026-08-20</td></tr>
+<tr><td>Coty Inc.</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-08-20</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship It - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-20</td></tr>
+<tr><td>Thales Group</td><td>Legal & Contract General Intern (hybrid)</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>Thales Group</td><td>Quality & Hse Generalist Intern</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>Thales Group</td><td>Configuration Administrator Intern</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>Thales Group</td><td>Navaids & Avionics Intern</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>THALES</td><td>Legal & Contract General Intern (hybrid)</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>THALES</td><td>Quality & Hse Generalist Intern</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>THALES</td><td>Configuration Administrator Intern</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>THALES</td><td>Navaids & Avionics Intern</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>Celonis</td><td>Global Content Graduated Internship (12 Months)</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Analyst Intern</td><td>Barcelona</td><td>2026-08-20</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Suscripción Usp Pymes</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Developer Intern</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Digital Associate Internship</td><td>Barcelona</td><td>2026-08-20</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Engineering & Visualization Intern</td><td>Barcelona</td><td>2026-08-20</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Zictt Business Specialist Internship</td><td>Barcelona</td><td>2026-08-20</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Platform & Analytics Internship</td><td>Barcelona</td><td>2026-08-20</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Network & Partner Operations Intern</td><td>Barcelona</td><td>2026-08-20</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Front Office Systems Intern</td><td>Barcelona</td><td>2026-08-20</td></tr>
+<tr><td>Atos</td><td>Analista Iam (identity & Access Management)</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-08-20</td></tr>
+<tr><td>Mango</td><td>Vendedor/a Mango Man C.c. Vaguada (madrid) - 8h Semanales</td><td>Madrid</td><td>2026-08-20</td></tr>
+<tr><td>Merkal Calzados S.L</td><td>Vendedores/as 30 Horas Semanales</td><td>Barcelona</td><td>2026-08-20</td></tr>
 </table>
