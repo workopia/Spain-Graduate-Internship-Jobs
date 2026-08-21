@@ -1044,4 +1044,26 @@
 <tr><td>JYSK</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-08-20</td></tr>
 <tr><td>Mango</td><td>Vendedor/a Mango Man C.c. Vaguada (madrid) - 8h Semanales</td><td>Madrid</td><td>2026-08-20</td></tr>
 <tr><td>Merkal Calzados S.L</td><td>Vendedores/as 30 Horas Semanales</td><td>Barcelona</td><td>2026-08-20</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Special Tools & Equipment Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-21</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Claim Management Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-21</td></tr>
+<tr><td>Nordex SE</td><td>Project Manager Support Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-21</td></tr>
+<tr><td>Nordex SE</td><td>Pmd Process & Automation Intern (m/f/d)</td><td>Mutilva</td><td>2026-08-21</td></tr>
+<tr><td>Nordex SE</td><td>Global Mobility Intern (m/f/d)</td><td>Barasoain</td><td>2026-08-21</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-21</td></tr>
+<tr><td>Nordex SE</td><td>Industrialization Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-21</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Ai Analyst Intern</td><td>Barcelona</td><td>2026-08-21</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Beca Suscripción Usp Pymes</td><td>Madrid</td><td>2026-08-21</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Ai Developer Intern</td><td>Barcelona</td><td>2026-08-21</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Digital Associate Internship</td><td>Barcelona</td><td>2026-08-21</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Data Engineering & Visualization Intern</td><td>Barcelona</td><td>2026-08-21</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Zictt Business Specialist Internship</td><td>Barcelona</td><td>2026-08-21</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Data Platform & Analytics Internship</td><td>Barcelona</td><td>2026-08-21</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Beca Canal Corredores</td><td>Barcelona</td><td>2026-08-21</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Investment Performance Analyst Intern</td><td>Barcelona</td><td>2026-08-21</td></tr>
+<tr><td>repsol</td><td>Prácticas Talent Energy</td><td>Campus Repsol</td><td>2026-08-21</td></tr>
+<tr><td>minsait</td><td>Ingeniero/a Front</td><td>Madrid</td><td>2026-08-21</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-08-21</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Barcelona</td><td>2026-08-21</td></tr>
+<tr><td>Dover</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-08-21</td></tr>
+<tr><td>Skechers</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-08-21</td></tr>
 </table>

@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-20",
- "count": 474,
+ "asOf": "2026-08-21",
+ "count": 479,
  "jobs": {
   "42686": {
    "id": "42686",
@@ -19,6 +19,84 @@
    "company": "ODYSSEY HOTEL Group",
    "role": "M&e Internship",
    "location": "Barcelona"
+  },
+  "9ab4a4fa34e8f677553076b7808f7548": {
+   "id": "9ab4a4fa34e8f677553076b7808f7548",
+   "company": "Thales Group",
+   "role": "Int Trainee",
+   "location": "Madrid"
+  },
+  "3a18ae15e39f57fecb738224afe81246": {
+   "id": "3a18ae15e39f57fecb738224afe81246",
+   "company": "EY",
+   "role": "Prácticas Business & Risk Consulting - Rookies Enero 2027",
+   "location": "Madrid"
+  },
+  "8ffad76c4e213ba32f7944cb45a0be5c": {
+   "id": "8ffad76c4e213ba32f7944cb45a0be5c",
+   "company": "EY",
+   "role": "Prácticas Business Consulting - Rookies Enero 2027",
+   "location": "Barcelona"
+  },
+  "e90f44e05dfbf86394722ccea433c851": {
+   "id": "e90f44e05dfbf86394722ccea433c851",
+   "company": "Nordex SE",
+   "role": "Qhse Administrative Intern (m/f/d)",
+   "location": "Barasoain"
+  },
+  "4043b8215dd1326e1407ad6278ca536a": {
+   "id": "4043b8215dd1326e1407ad6278ca536a",
+   "company": "Nordex SE",
+   "role": "Project Manager Support Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "f834f27a858dc4270297dc601ac079b6": {
+   "id": "f834f27a858dc4270297dc601ac079b6",
+   "company": "Nordex SE",
+   "role": "Pmd Process & Automation Intern (m/f/d)",
+   "location": "Mutilva"
+  },
+  "5dec42a12b77ed754d093278b6389e23": {
+   "id": "5dec42a12b77ed754d093278b6389e23",
+   "company": "Nordex SE",
+   "role": "Global Mobility Intern (m/f/d)",
+   "location": "Barasoain"
+  },
+  "5e3fdf476a00f774255b2bb9b2b228fe": {
+   "id": "5e3fdf476a00f774255b2bb9b2b228fe",
+   "company": "Nordex SE",
+   "role": "Global Sourcing Special Tools & Equipment Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "69aef0aef0d8e9d60927e520564da621": {
+   "id": "69aef0aef0d8e9d60927e520564da621",
+   "company": "Nordex SE",
+   "role": "Industrialization Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "4f3bae9fb4da38b69b7dea528505bc58": {
+   "id": "4f3bae9fb4da38b69b7dea528505bc58",
+   "company": "Nordex SE",
+   "role": "Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "648928bcdcb8ec5f5705d52fc38f401d": {
+   "id": "648928bcdcb8ec5f5705d52fc38f401d",
+   "company": "Nordex SE",
+   "role": "Global Sourcing Claim Management Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "cec6424437942bcc872c42a717173334": {
+   "id": "cec6424437942bcc872c42a717173334",
+   "company": "Bunge Global",
+   "role": "Indirect Tax Intern",
+   "location": "Barcelona"
+  },
+  "4272df62ac0fa118ebe57d5bbf8e2b4f": {
+   "id": "4272df62ac0fa118ebe57d5bbf8e2b4f",
+   "company": "Enagas",
+   "role": "Beca Atracción De Talento / Madrid",
+   "location": "Madrid"
   },
   "ee8d94ae6a4821273ae1cbfc8fd2e78a": {
    "id": "ee8d94ae6a4821273ae1cbfc8fd2e78a",
@@ -152,6 +230,12 @@
    "role": "Revenue Growth Intern",
    "location": "Barcelona"
   },
+  "e6967b3a0be8ec2cb00893ebcdcd0f40": {
+   "id": "e6967b3a0be8ec2cb00893ebcdcd0f40",
+   "company": "Mars",
+   "role": "Revenue Growth Intern",
+   "location": "Barcelona"
+  },
   "58b9fc7435fa4885ef433337efabbb04": {
    "id": "58b9fc7435fa4885ef433337efabbb04",
    "company": "TFS HealthScience",
@@ -176,9 +260,21 @@
    "role": "Prácticas En El Área De Métodos-procesos",
    "location": "Zaragoza"
   },
+  "1540f8f72c5a4dcb1b634f216dd52d53": {
+   "id": "1540f8f72c5a4dcb1b634f216dd52d53",
+   "company": "valeo.in",
+   "role": "Prácticas En El Área De Métodos-procesos",
+   "location": "Zaragoza"
+  },
   "bde37c8e3c653f7a434f4e1186c353d4": {
    "id": "bde37c8e3c653f7a434f4e1186c353d4",
    "company": "chevronlubricants.cn",
+   "role": "Supply Chain Intern",
+   "location": "Barcelona"
+  },
+  "e8ce3f991fbacb9e88a43370b7961023": {
+   "id": "e8ce3f991fbacb9e88a43370b7961023",
+   "company": "boucheron.cn",
    "role": "Supply Chain Intern",
    "location": "Barcelona"
   },
@@ -209,6 +305,12 @@
   "f84050c50eb51fcf699b4267f039877d": {
    "id": "f84050c50eb51fcf699b4267f039877d",
    "company": "Airbus SE",
+   "role": "#discover Ii 2026-2027 Future Capabilities Internship",
+   "location": "Madrid"
+  },
+  "d34d1d9831f6bc0b954fc43dbc1536dc": {
+   "id": "d34d1d9831f6bc0b954fc43dbc1536dc",
+   "company": "Satair (an Airbus Services Company)",
    "role": "#discover Ii 2026-2027 Future Capabilities Internship",
    "location": "Madrid"
   },
@@ -302,59 +404,17 @@
    "role": "School Intern",
    "location": "Barcelona"
   },
-  "2aed6504bed1e2555c7285e0a77565f7": {
-   "id": "2aed6504bed1e2555c7285e0a77565f7",
-   "company": "Nordex SE",
-   "role": "Global Sourcing Special Tools & Equipment Intern (m/f/d)",
-   "location": "Tajonar"
-  },
   "57496078e60c4aca5ca682c69d7038d8": {
    "id": "57496078e60c4aca5ca682c69d7038d8",
    "company": "Nordex SE",
    "role": "Major Correctives Intern (m/f/d)",
    "location": "Imarcoain"
   },
-  "8e5fee78f03b249ebc249b67a2a158b1": {
-   "id": "8e5fee78f03b249ebc249b67a2a158b1",
-   "company": "Nordex SE",
-   "role": "Global Sourcing Claim Management Intern (m/f/d)",
-   "location": "Tajonar"
-  },
-  "9139006ac15680e6bbf5a83ab60d3169": {
-   "id": "9139006ac15680e6bbf5a83ab60d3169",
-   "company": "Nordex SE",
-   "role": "Project Manager Support Intern (m/f/d)",
-   "location": "Tajonar"
-  },
-  "d3cc9898960edf4a14353ea502730488": {
-   "id": "d3cc9898960edf4a14353ea502730488",
-   "company": "Nordex SE",
-   "role": "Pmd Process & Automation Intern (m/f/d)",
-   "location": "Mutilva"
-  },
   "a9210531e63a346c530e686921bd5d98": {
    "id": "a9210531e63a346c530e686921bd5d98",
    "company": "Nordex SE",
    "role": "P&c General Services Intern (m/f/d)",
    "location": "Mutilva"
-  },
-  "9e1f903c5ef320cddf2784c8ae70df0a": {
-   "id": "9e1f903c5ef320cddf2784c8ae70df0a",
-   "company": "Nordex SE",
-   "role": "Global Mobility Intern (m/f/d)",
-   "location": "Barasoain"
-  },
-  "f5fd321ba157d273490ad4318e04d1e3": {
-   "id": "f5fd321ba157d273490ad4318e04d1e3",
-   "company": "Nordex SE",
-   "role": "Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)",
-   "location": "Tajonar"
-  },
-  "b29f5737ffa4a2c83ace5abb9a799f0e": {
-   "id": "b29f5737ffa4a2c83ace5abb9a799f0e",
-   "company": "Nordex SE",
-   "role": "Industrialization Intern (m/f/d)",
-   "location": "Tajonar"
   },
   "04aa2dcead4669f894946405ecb0876e": {
    "id": "04aa2dcead4669f894946405ecb0876e",
@@ -434,66 +494,6 @@
    "role": "Procurement Intern",
    "location": "Barcelona"
   },
-  "4cc7be168d0ef74c9b68bf9cce0dc7cd": {
-   "id": "4cc7be168d0ef74c9b68bf9cce0dc7cd",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Ai Analyst Intern",
-   "location": "Barcelona"
-  },
-  "1f1ec1717717df9e6c2f42ecdc0e07ae": {
-   "id": "1f1ec1717717df9e6c2f42ecdc0e07ae",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Beca Suscripción Usp Pymes",
-   "location": "Madrid"
-  },
-  "331c9d12e481886eb82976ddf29ca8aa": {
-   "id": "331c9d12e481886eb82976ddf29ca8aa",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Ai Developer Intern",
-   "location": "Barcelona"
-  },
-  "b7c61712ce311d77ea0e89ab312c9271": {
-   "id": "b7c61712ce311d77ea0e89ab312c9271",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Digital Associate Internship",
-   "location": "Barcelona"
-  },
-  "d3a305eb4e69fe0476a6faebcec09f80": {
-   "id": "d3a305eb4e69fe0476a6faebcec09f80",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Data Engineering & Visualization Intern",
-   "location": "Barcelona"
-  },
-  "a98f1fbff4ac93bbf2786f1e5db9a477": {
-   "id": "a98f1fbff4ac93bbf2786f1e5db9a477",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Zictt Business Specialist Internship",
-   "location": "Barcelona"
-  },
-  "fe54d3dc15239d2dc1c9fda7de948d0b": {
-   "id": "fe54d3dc15239d2dc1c9fda7de948d0b",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Data Platform & Analytics Internship",
-   "location": "Barcelona"
-  },
-  "d4412f87e5ca6a22660f210cd34dccd5": {
-   "id": "d4412f87e5ca6a22660f210cd34dccd5",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Beca Canal Corredores",
-   "location": "Barcelona"
-  },
-  "27617f20f733d5e2b8df24a5829f3659": {
-   "id": "27617f20f733d5e2b8df24a5829f3659",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Investment Performance Analyst Intern",
-   "location": "Barcelona"
-  },
-  "b6b955df916c82dac19450d0d8ae50c2": {
-   "id": "b6b955df916c82dac19450d0d8ae50c2",
-   "company": "repsol",
-   "role": "Prácticas Talent Energy",
-   "location": "Campus Repsol"
-  },
   "05d41416d7ab8aff1705f8b1a29c9405": {
    "id": "05d41416d7ab8aff1705f8b1a29c9405",
    "company": "ING",
@@ -504,6 +504,24 @@
    "id": "6f5b7169f53b7d5d0ebfe3536c8c8d73",
    "company": "Fever",
    "role": "Graduate Software Engineer",
+   "location": "Madrid"
+  },
+  "3a2b3a268a46fea45fd37eae7a31cb7c": {
+   "id": "3a2b3a268a46fea45fd37eae7a31cb7c",
+   "company": "Indra",
+   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
+   "location": "Madrid"
+  },
+  "7340e8c90a9c19da8d39d4336faf3c0c": {
+   "id": "7340e8c90a9c19da8d39d4336faf3c0c",
+   "company": "minsait",
+   "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
+   "location": "Madrid"
+  },
+  "8d0036f8924e4a014f52eb37668a6107": {
+   "id": "8d0036f8924e4a014f52eb37668a6107",
+   "company": "Indra",
+   "role": "Ingeniero/a De Desarrollo Software C++",
    "location": "Madrid"
   },
   "460ef4936f31172283c84e42cb9070e2": {
@@ -668,28 +686,10 @@
    "role": "Ingeniero/a De Desarrollo Software C++",
    "location": "Madrid"
   },
-  "5813eb535362ed5555dbd3bd95f0ab09": {
-   "id": "5813eb535362ed5555dbd3bd95f0ab09",
-   "company": "minsait",
-   "role": "Ingeniero/a Front",
-   "location": "Madrid"
-  },
   "2ab2a2283109b991a7006685d1eec70c": {
    "id": "2ab2a2283109b991a7006685d1eec70c",
    "company": "minsait",
    "role": "Ingeniero/a Software Junior C/c++ - Sector Defensa",
-   "location": "Madrid"
-  },
-  "3a2b3a268a46fea45fd37eae7a31cb7c": {
-   "id": "3a2b3a268a46fea45fd37eae7a31cb7c",
-   "company": "minsait",
-   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
-   "location": "Madrid"
-  },
-  "7340e8c90a9c19da8d39d4336faf3c0c": {
-   "id": "7340e8c90a9c19da8d39d4336faf3c0c",
-   "company": "minsait",
-   "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
    "location": "Madrid"
   },
   "0cdbc9babab96efafcabfa1f3004b375": {
@@ -980,10 +980,34 @@
    "role": "Offer Safety Data Scientist Intern Stp26",
    "location": "Catalonia"
   },
+  "289c736421e4a764d259d900f292e901": {
+   "id": "289c736421e4a764d259d900f292e901",
+   "company": "Indra Group",
+   "role": "Data Scientist/data Engineer Junior",
+   "location": "Es"
+  },
+  "fd85a851c4ff61ac2c4397c846a81975": {
+   "id": "fd85a851c4ff61ac2c4397c846a81975",
+   "company": "minsait",
+   "role": "Data Analyst (sql & Sas) - Orientado A Negocio",
+   "location": "Barcelona"
+  },
+  "d87b3349825000fc66de816310b4379b": {
+   "id": "d87b3349825000fc66de816310b4379b",
+   "company": "Ebury",
+   "role": "Associate Engineer",
+   "location": "Madrid"
+  },
   "50623027197d7e94c69877934a9f6786": {
    "id": "50623027197d7e94c69877934a9f6786",
    "company": "Telefonica",
    "role": "Agentic Ai Practicioner (i)",
+   "location": "Madrid"
+  },
+  "da6d5fe6e9b9edc0849042602b62a7f2": {
+   "id": "da6d5fe6e9b9edc0849042602b62a7f2",
+   "company": "Kellogg",
+   "role": "Field Sales Data Analyst",
    "location": "Madrid"
   },
   "405e9972116a264781b56b141a22bb38": {
@@ -1003,12 +1027,6 @@
    "company": "avoltaworld",
    "role": "Global Data Scientist Specialist",
    "location": "Madrid"
-  },
-  "59ab37b61012b0e55ba120fe0d9ce085": {
-   "id": "59ab37b61012b0e55ba120fe0d9ce085",
-   "company": "Indra group",
-   "role": "Data Scientist/data Engineer Junior",
-   "location": "Es"
   },
   "afc8ea3b24ae9e0a9fbbe8f0d2180114": {
    "id": "afc8ea3b24ae9e0a9fbbe8f0d2180114",
@@ -1082,18 +1100,6 @@
    "role": "Ai Native Product Engineer & Orchestrator",
    "location": "Madrid"
   },
-  "289c736421e4a764d259d900f292e901": {
-   "id": "289c736421e4a764d259d900f292e901",
-   "company": "minsait",
-   "role": "Data Scientist/data Engineer Junior",
-   "location": "Es"
-  },
-  "fd85a851c4ff61ac2c4397c846a81975": {
-   "id": "fd85a851c4ff61ac2c4397c846a81975",
-   "company": "minsait",
-   "role": "Data Analyst (sql & Sas) - Orientado A Negocio",
-   "location": "Barcelona"
-  },
   "beb103cc33ec5865867e2b7730ec4f1a": {
    "id": "beb103cc33ec5865867e2b7730ec4f1a",
    "company": "bankcarriere.nl",
@@ -1128,12 +1134,6 @@
    "id": "b6bc3dd7bd14c479caf457c2683a0a4c",
    "company": "Cuyna",
    "role": "Performance &amp; Revenue Analyst",
-   "location": "Madrid"
-  },
-  "da6d5fe6e9b9edc0849042602b62a7f2": {
-   "id": "da6d5fe6e9b9edc0849042602b62a7f2",
-   "company": "Kellogg",
-   "role": "Field Sales Data Analyst",
    "location": "Madrid"
   },
   "0d011b4b9378c6afa684cf6a8705a248": {
@@ -1292,6 +1292,12 @@
    "role": "Data Scientist",
    "location": "Barcelona"
   },
+  "6b7f153154db97a6238f1f8dbd853c4f": {
+   "id": "6b7f153154db97a6238f1f8dbd853c4f",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Beca Claims - Análisis De Datos",
+   "location": "Barcelona"
+  },
   "e10653da8dc6c2f725b3464c43ac4483": {
    "id": "e10653da8dc6c2f725b3464c43ac4483",
    "company": "Jobgether",
@@ -1418,6 +1424,12 @@
    "role": "Graduate Business Analyst - Hp Additive Manufacturing Solutiions",
    "location": "Spain"
   },
+  "d9262860366b7d263689250d1dad5cef": {
+   "id": "d9262860366b7d263689250d1dad5cef",
+   "company": "Black & Veatch Corporation",
+   "role": "Environmental Permitting And Regulatory Compliance Specialist",
+   "location": "Madrid"
+  },
   "3c13e244c4337e92b37cce02b0767a66": {
    "id": "3c13e244c4337e92b37cce02b0767a66",
    "company": "Acciona",
@@ -1453,6 +1465,12 @@
    "company": "Zurich Insurance UK",
    "role": "Consultor/a Seguros Previsión Social Empresas",
    "location": "Barcelona"
+  },
+  "e896689584a2fe724da72b04c5b7b7c0": {
+   "id": "e896689584a2fe724da72b04c5b7b7c0",
+   "company": "Zurich Insurance UK",
+   "role": "Data Governance Business Analyst",
+   "location": "Localidad"
   },
   "810b1443b1eb827c001baf85e0550e2d": {
    "id": "810b1443b1eb827c001baf85e0550e2d",
@@ -1700,10 +1718,34 @@
    "role": "Physician And Researcher In The Field Of International Health",
    "location": "Barcelona"
   },
+  "a88e584cd716cc44c51072f17b3a9912": {
+   "id": "a88e584cd716cc44c51072f17b3a9912",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
+   "location": "Madrid"
+  },
+  "9d90ac982a1f061362aadd7b2ad04859": {
+   "id": "9d90ac982a1f061362aadd7b2ad04859",
+   "company": "minsait",
+   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
+   "location": "Salamanca"
+  },
+  "81839c2a1ebfa9f3d56066de32147a06": {
+   "id": "81839c2a1ebfa9f3d56066de32147a06",
+   "company": "Dover",
+   "role": "Technical Service Engineer - Madrid Area",
+   "location": "Madrid"
+  },
   "e0c3b55d4562ad5a576982a236ee2bb8": {
    "id": "e0c3b55d4562ad5a576982a236ee2bb8",
    "company": "Ahorramas, S.A",
    "role": "Técnico/a Mantenimiento De Instalaciones Automatizadas",
+   "location": "Madrid"
+  },
+  "e5cdc80e1aec40db7654bd6632ff091f": {
+   "id": "e5cdc80e1aec40db7654bd6632ff091f",
+   "company": "Satair (an Airbus Services Company)",
+   "role": "Lma Technician B1, B2, B1/b2 - Madrid Area",
    "location": "Madrid"
   },
   "9914c52e1a6b40176ebd91b6b6112c3c": {
@@ -1735,12 +1777,6 @@
    "company": "ALSTOM TRANSPORT SA",
    "role": "Operario De Mantenimiento Pinto (temporal)",
    "location": "Madrid"
-  },
-  "99332f7d6b53a0d1da2c17a6e1e9c557": {
-   "id": "99332f7d6b53a0d1da2c17a6e1e9c557",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
-   "location": "Barcelona"
   },
   "e245320cc0fe9cbd98ad9887de8fd305": {
    "id": "e245320cc0fe9cbd98ad9887de8fd305",
@@ -1820,12 +1856,6 @@
    "role": "Field Service Engineer - Bilbao",
    "location": "Madrid"
   },
-  "9d90ac982a1f061362aadd7b2ad04859": {
-   "id": "9d90ac982a1f061362aadd7b2ad04859",
-   "company": "minsait",
-   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
-   "location": "Salamanca"
-  },
   "dbe41a3a5b4acc6d393bdf9673ce12b3": {
    "id": "dbe41a3a5b4acc6d393bdf9673ce12b3",
    "company": "Westinghouse Electric Company LLC",
@@ -1849,12 +1879,6 @@
    "company": "KONE Corporation",
    "role": "Técnico/a De Mantenimiento Puertas - Malaga",
    "location": "Malaga"
-  },
-  "b2e983bc8a5e51c66030d80c858bfc20": {
-   "id": "b2e983bc8a5e51c66030d80c858bfc20",
-   "company": "Dover",
-   "role": "Technical Service Engineer - Madrid Area",
-   "location": "Madrid"
   },
   "15bf49cd157eb0c8a3be6a4e93004ce7": {
    "id": "15bf49cd157eb0c8a3be6a4e93004ce7",
@@ -2081,6 +2105,12 @@
   "1da2b7abdce7178d6c5dd7366330441a": {
    "id": "1da2b7abdce7178d6c5dd7366330441a",
    "company": "SKECHERS USA Inc",
+   "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
+   "location": "Barcelona"
+  },
+  "642f4beb1bf8b510bad784324a635088": {
+   "id": "642f4beb1bf8b510bad784324a635088",
+   "company": "Skechers",
    "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
    "location": "Barcelona"
   },
@@ -2342,12 +2372,6 @@
    "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
    "location": "Barcelona"
   },
-  "0e2254be703ba5d42ffe47cfb1725286": {
-   "id": "0e2254be703ba5d42ffe47cfb1725286",
-   "company": "Skechers",
-   "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
-   "location": "Barcelona"
-  },
   "79c3599c56b8229130ab46866abec4ad": {
    "id": "79c3599c56b8229130ab46866abec4ad",
    "company": "VFC Corporation",
@@ -2539,6 +2563,12 @@
    "company": "Mango",
    "role": "Vendedor/a Majadahonda Gran Plaza 2 - 30h 25h 20h",
    "location": "Madrid"
+  },
+  "651ebefbadde3c837d46b132c793f026": {
+   "id": "651ebefbadde3c837d46b132c793f026",
+   "company": "Rexam Supplemental Unemployment Benefit Trust - Iam",
+   "role": "Manufacturing Excellence Specialist",
+   "location": "Barcelona"
   },
   "b4b34312180e864ba552ca0fbc74be2e": {
    "id": "b4b34312180e864ba552ca0fbc74be2e",
