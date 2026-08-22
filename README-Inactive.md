@@ -1066,4 +1066,22 @@
 <tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Barcelona</td><td>2026-08-21</td></tr>
 <tr><td>Dover</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-08-21</td></tr>
 <tr><td>Skechers</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-08-21</td></tr>
+<tr><td>Mercer</td><td>Beca Operaciones Retribución Flexible</td><td>Madrid</td><td>2026-08-22</td></tr>
+<tr><td>RWE AG</td><td>Internship Solar Operations & Maintenance D/f/m</td><td>Barcelona</td><td>2026-08-22</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Departamento Explotación - Barcelona</td><td>Barcelona</td><td>2026-08-22</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Cocina Y Sala En Eurostars Hotel Company</td><td>Madrid</td><td>2026-08-22</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Revenue - Eurostars Hotel Company</td><td>Barcelona</td><td>2026-08-22</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Administración Economato Madrid</td><td>Madrid</td><td>2026-08-22</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Retribución Ejecutiva</td><td>Madrid</td><td>2026-08-22</td></tr>
+<tr><td>Coty</td><td>Demand Intern</td><td>Barcelona</td><td>2026-08-22</td></tr>
+<tr><td>Coty Inc</td><td>Procurement Intern</td><td>Barcelona</td><td>2026-08-22</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-08-22</td></tr>
+<tr><td>Indra group</td><td>Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido</td><td>Madrid</td><td>2026-08-22</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Desarrollo Software C++</td><td>Madrid</td><td>2026-08-22</td></tr>
+<tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-08-22</td></tr>
+<tr><td>Indra group</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-08-22</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist Early Hire, Full Model Ownership, B2c Saas</td><td>Spain</td><td>2026-08-22</td></tr>
+<tr><td>Alantra</td><td>Fig Analyst (madrid, Spain)</td><td>Madrid</td><td>2026-08-22</td></tr>
+<tr><td>Indra group</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-08-22</td></tr>
+<tr><td>Indra Group</td><td>Junior Electronic Maintenance Technician</td><td>Madrid</td><td>2026-08-22</td></tr>
 </table>
