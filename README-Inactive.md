@@ -1119,4 +1119,19 @@
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Barcelona</td><td>2026-08-23</td></tr>
 <tr><td>JYSK</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-08-23</td></tr>
 <tr><td>Mango</td><td>Vendedor/a Majadahonda Gran Plaza 2 - 30h 25h 20h</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>ODYSSEY HOTEL Group</td><td>M&e Internship</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>Boeing Aerospace Spain, SL</td><td>Intern - Software Engineering</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Boeing Australia Holdings</td><td>Intern - Systems Safety Engineering</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>valeo.in</td><td>Prácticas En El Área De Métodos-procesos</td><td>Zaragoza</td><td>2026-08-23</td></tr>
+<tr><td>chevronlubricants.cn</td><td>Supply Chain Intern</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>boucheron.cn</td><td>Supply Chain Intern</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>Barcelo</td><td>Estudiante En Prácticas Hotel</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>Scopely</td><td>Product Analyst - Star Trek Fleet Command</td><td>Barcelona +1</td><td>2026-08-23</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Tecnico En Mantenimiento - The Madrid Edition</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Marriott International</td><td>Tecnico En Mantenimiento - The Madrid Edition</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Grupo Hotusa</td><td>Técnico De Mantenimiento Hotel 4*</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>Orona S.Coop</td><td>Técnico/a De Reparación De Puertas Automáticas (madrid)</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Merkal Calzados S.L</td><td>Vendedor/a 15 Horas Semanales</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Arrow Electronics</td><td>Sales Associate</td><td>Salamanca</td><td>2026-08-23</td></tr>
+<tr><td>Temporing</td><td>Auxiliar Administrativo/a</td><td>La Pobla De Mafumet</td><td>2026-08-23</td></tr>
 </table>
