@@ -1084,4 +1084,39 @@
 <tr><td>Alantra</td><td>Fig Analyst (madrid, Spain)</td><td>Madrid</td><td>2026-08-22</td></tr>
 <tr><td>Indra group</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-08-22</td></tr>
 <tr><td>Indra Group</td><td>Junior Electronic Maintenance Technician</td><td>Madrid</td><td>2026-08-22</td></tr>
+<tr><td>Boston Scientific Foundation Inc</td><td>Financial Planning & Analysis Intern</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Celonis</td><td>Intern Ai & Management Consulting (competitive Engagement)</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Área Comercial - Sector Hoteles / Madrid</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Airbus</td><td>#discover Ii 2026-2027 Future Capabilities Internship</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Airbus SE</td><td>#discover Ii 2026-2027 Future Capabilities Internship</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>#discover Ii 2026-2027 Future Capabilities Internship</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#discover Ii 2026-2027 Future Capabilities Internship</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Telefonica</td><td>Tech_10 Becas Finanzas, Datos, Y Consultoria Negocio</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Telefonica</td><td>Tech_2 Becas Area De People</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Ai Factory</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Circular&value Added Lab</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Telefonica</td><td>Practicas Curriculares/extracurriculares</td><td>Spain</td><td>2026-08-23</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Wayra Innovation Services</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Telefonica</td><td>Telefónica_foro_empleo_upm_2025</td><td>Spain</td><td>2026-08-23</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Finance Trainee (internship) - W Barcelona</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>SAP Ariba</td><td>Sap Ixp Intern - Talent Journey Coordinator Internship</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>SAP Ariba</td><td>Sap Ixp Intern - Customer Success Management (digital)</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>SAP Ariba</td><td>Sap Ixp Intern - Public Sector Industry Team</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>SAP Ariba</td><td>Sap Ixp Internship - Ambassador Program Intern</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>Melia</td><td>Prácticas Revenue</td><td>Islas Baleares</td><td>2026-08-23</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b Luxury Brands</td><td>Islas Baleares</td><td>2026-08-23</td></tr>
+<tr><td>Inspired Education Group</td><td>School Intern</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>Nordex SE</td><td>Major Correctives Intern (m/f/d)</td><td>Imarcoain</td><td>2026-08-23</td></tr>
+<tr><td>Nordex SE</td><td>P&c General Services Intern (m/f/d)</td><td>Mutilva</td><td>2026-08-23</td></tr>
+<tr><td>Nestlé</td><td>Spain Youth / Internship Hr - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-23</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Comunicación</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>Mercer</td><td>Beca Seguros Salud Y Vida</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Mercer</td><td>Beca Seguros</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist - Extensions</td><td>Spain</td><td>2026-08-23</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Técnico/a Apple Service Pro</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>TV SD</td><td>Técnico/a Especialista En Ascensores En Madrid (f/m/d)</td><td>Madrid</td><td>2026-08-23</td></tr>
+<tr><td>Enagas</td><td>Operador/a Mantenimiento Infraestructuras - Zaragoza</td><td>Zaragoza</td><td>2026-08-23</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-08-23</td></tr>
+<tr><td>Mango</td><td>Vendedor/a Majadahonda Gran Plaza 2 - 30h 25h 20h</td><td>Madrid</td><td>2026-08-23</td></tr>
 </table>
