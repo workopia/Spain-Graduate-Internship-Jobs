@@ -1134,4 +1134,34 @@
 <tr><td>Merkal Calzados S.L</td><td>Vendedor/a 15 Horas Semanales</td><td>Madrid</td><td>2026-08-23</td></tr>
 <tr><td>Arrow Electronics</td><td>Sales Associate</td><td>Salamanca</td><td>2026-08-23</td></tr>
 <tr><td>Temporing</td><td>Auxiliar Administrativo/a</td><td>La Pobla De Mafumet</td><td>2026-08-23</td></tr>
+<tr><td>Swiss Re</td><td>People Operations Intern</td><td>Madrid</td><td>2026-08-24</td></tr>
+<tr><td>Solunion</td><td>Solunion First Steps - Programa De Prácticas</td><td>Madrid</td><td>2026-08-24</td></tr>
+<tr><td>Smart Communications Inc</td><td>Intern Smart Spain (f/m/d)</td><td>Madrid</td><td>2026-08-24</td></tr>
+<tr><td>Industria de Turbo Propulsores, S.A</td><td>Beca Riesgos , Control Interno Y Auditoría Interna (f/m/x)</td><td>Alcobendas</td><td>2026-08-24</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b</td><td>Islas Baleares</td><td>2026-08-24</td></tr>
+<tr><td>Melia</td><td>Prácticas Guest Experience - Meliá Palma Marina</td><td>Islas Baleares</td><td>2026-08-24</td></tr>
+<tr><td>Mango</td><td>Intern Public Relations</td><td>Palau</td><td>2026-08-24</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Finance - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-24</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship It - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-24</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Operations - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-24</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Kitchen - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-24</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Hr - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-24</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Nutrition, Health Sciences & Food Research - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-24</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Operations - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-24</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Kitchen - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-24</td></tr>
+<tr><td>Mars Australia</td><td>Revenue Growth Intern</td><td>Barcelona</td><td>2026-08-24</td></tr>
+<tr><td>Mars</td><td>Revenue Growth Intern</td><td>Barcelona</td><td>2026-08-24</td></tr>
+<tr><td>TFS HealthScience</td><td>Marketing &amp; Communications Intern</td><td>Barcelona</td><td>2026-08-24</td></tr>
+<tr><td>Marriott International</td><td>Finance Trainee (internship) - W Barcelona</td><td>Barcelona</td><td>2026-08-24</td></tr>
+<tr><td>Valeo SA</td><td>Prácticas En El Área De Métodos-procesos</td><td>Zaragoza</td><td>2026-08-24</td></tr>
+<tr><td>Schneider Electric</td><td>Offer Safety Data Scientist Intern Stp26</td><td>Catalonia</td><td>2026-08-24</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Consultor/a Seguros Previsión Social Empresas</td><td>Barcelona</td><td>2026-08-24</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Madrid</td><td>2026-08-24</td></tr>
+<tr><td>Dover India</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-08-24</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h</td><td>Salamanca</td><td>2026-08-24</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Fo San Sebastian De Los Reyes</td><td>Salamanca</td><td>2026-08-24</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Ss Reyes Plaza Norte Teen</td><td>Madrid</td><td>2026-08-24</td></tr>
+<tr><td>Thales Group</td><td>Internal Supply Warehouse</td><td>Barcelona</td><td>2026-08-24</td></tr>
+<tr><td>Temporing</td><td>Ayudante De Almacén - Molins De Rei</td><td>Barcelona</td><td>2026-08-24</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 24h Lfo La Roca</td><td>Barcelona</td><td>2026-08-24</td></tr>
 </table>
