@@ -1164,4 +1164,23 @@
 <tr><td>Thales Group</td><td>Internal Supply Warehouse</td><td>Barcelona</td><td>2026-08-24</td></tr>
 <tr><td>Temporing</td><td>Ayudante De Almacén - Molins De Rei</td><td>Barcelona</td><td>2026-08-24</td></tr>
 <tr><td>Levis Media</td><td>Sales Stylist 24h Lfo La Roca</td><td>Barcelona</td><td>2026-08-24</td></tr>
+<tr><td>Coty</td><td>Site Planner Intern</td><td>Barcelona</td><td>2026-08-25</td></tr>
+<tr><td>Coty</td><td>Warehouse Intern</td><td>Barcelona</td><td>2026-08-25</td></tr>
+<tr><td>Boeing</td><td>Intern - Software Engineering</td><td>Madrid</td><td>2026-08-25</td></tr>
+<tr><td>Boeing</td><td>Intern - Systems Safety Engineering</td><td>Madrid</td><td>2026-08-25</td></tr>
+<tr><td>Boeing Co</td><td>Intern - Systems Safety Engineering</td><td>Madrid</td><td>2026-08-25</td></tr>
+<tr><td>Boeing Co</td><td>Intern - Software Engineering</td><td>Madrid</td><td>2026-08-25</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Use Cases Home Advanced Conectivity (hac)</td><td>Madrid</td><td>2026-08-25</td></tr>
+<tr><td>Coty Inc.</td><td>Demand Intern</td><td>Barcelona</td><td>2026-08-25</td></tr>
+<tr><td>Coty Inc.</td><td>Mps Intern</td><td>Barcelona</td><td>2026-08-25</td></tr>
+<tr><td>Coty Inc.</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-08-25</td></tr>
+<tr><td>Coty Inc.</td><td>Warehouse Intern</td><td>Barcelona</td><td>2026-08-25</td></tr>
+<tr><td>Coty Inc.</td><td>Site Planner Intern</td><td>Barcelona</td><td>2026-08-25</td></tr>
+<tr><td>ING</td><td>Frontend Engineer Intern</td><td>Madrid</td><td>2026-08-25</td></tr>
+<tr><td>NN Group</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-08-25</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Consultor/a Experienced Contabilidad Y Fiscalidad - Madrid</td><td>Madrid</td><td>2026-08-25</td></tr>
+<tr><td>EY</td><td>Consultor/a Experienced Contabilidad Y Fiscalidad - Madrid</td><td>Madrid</td><td>2026-08-25</td></tr>
+<tr><td>ISGlobal</td><td>Physician And Researcher In The Field Of International Health</td><td>Barcelona</td><td>2026-08-25</td></tr>
+<tr><td>minsait</td><td>Técnico/a Instalador</td><td>Madrid</td><td>2026-08-25</td></tr>
+<tr><td>Levis Media</td><td>Vendedor/a 35h Ls Eci Sanchinarro</td><td>Madrid</td><td>2026-08-25</td></tr>
 </table>
