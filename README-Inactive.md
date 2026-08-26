@@ -1183,4 +1183,17 @@
 <tr><td>ISGlobal</td><td>Physician And Researcher In The Field Of International Health</td><td>Barcelona</td><td>2026-08-25</td></tr>
 <tr><td>minsait</td><td>Técnico/a Instalador</td><td>Madrid</td><td>2026-08-25</td></tr>
 <tr><td>Levis Media</td><td>Vendedor/a 35h Ls Eci Sanchinarro</td><td>Madrid</td><td>2026-08-25</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Transfer Pricing Intern</td><td>Lisbon +1</td><td>2026-08-26</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Claim Management Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-26</td></tr>
+<tr><td>Bunge Global</td><td>Indirect Tax Intern</td><td>Barcelona</td><td>2026-08-26</td></tr>
+<tr><td>Enagas</td><td>Beca Atracción De Talento / Madrid</td><td>Madrid</td><td>2026-08-26</td></tr>
+<tr><td>Boeing Aerostructures Australia</td><td>Intern - Software Engineering</td><td>Madrid</td><td>2026-08-26</td></tr>
+<tr><td>Boeing Aerostructures Australia</td><td>Intern - Systems Safety Engineering</td><td>Madrid</td><td>2026-08-26</td></tr>
+<tr><td>serveo</td><td>Beca Análisis De Inversiones - Madrid</td><td>Madrid</td><td>2026-08-26</td></tr>
+<tr><td>Nestle SA</td><td>Técnico/a De Mantenimiento Electromecánico (fábrica Nestlé Purina Petcare)</td><td>Barcelona</td><td>2026-08-26</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Lma Technician B1, B2, B1/b2 - Madrid Area</td><td>Madrid</td><td>2026-08-26</td></tr>
+<tr><td>Alstom</td><td>Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Barcelona</td><td>2026-08-26</td></tr>
+<tr><td>VFC Corporation</td><td>Vendedor/a 30h - Pl. Cat (barcelona) - Vans</td><td>Barcelona</td><td>2026-08-26</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vendedor/a 16h Eastpak - Barcelona</td><td>Barcelona</td><td>2026-08-26</td></tr>
+<tr><td>Europreven</td><td>Auxiliar Administrativo/a</td><td>Barcelona</td><td>2026-08-26</td></tr>
 </table>

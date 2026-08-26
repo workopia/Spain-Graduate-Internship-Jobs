@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-25",
- "count": 491,
+ "asOf": "2026-08-26",
+ "count": 494,
  "jobs": {
   "42686": {
    "id": "42686",
@@ -13,6 +13,12 @@
    "company": "Holded",
    "role": "Phone Support Specialist",
    "location": "Barcelona"
+  },
+  "d6f67f8dbc2d9a3223164bed5b164c52": {
+   "id": "d6f67f8dbc2d9a3223164bed5b164c52",
+   "company": "ERM",
+   "role": "Internship - Environmental, Health And Safety Analyst - M&a Team",
+   "location": "Madrid"
   },
   "070484a41f96f3a15a806677fc729e6d": {
    "id": "070484a41f96f3a15a806677fc729e6d",
@@ -80,11 +86,41 @@
    "role": "Npd Intern",
    "location": "Barcelona"
   },
+  "a8aac18d756452c0e559c378c18b346b": {
+   "id": "a8aac18d756452c0e559c378c18b346b",
+   "company": "Bunge",
+   "role": "Indirect Tax Intern",
+   "location": "Barcelona"
+  },
   "aed633d0335d8c95fd54596d8687d595": {
    "id": "aed633d0335d8c95fd54596d8687d595",
    "company": "Lazard",
    "role": "January 2027 M&a Off-cycle Internship – Madrid",
    "location": "Madrid"
+  },
+  "531547d2cdc7c0574bc81281f606115a": {
+   "id": "531547d2cdc7c0574bc81281f606115a",
+   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
+   "role": "Transfer Pricing Intern",
+   "location": "Lisbon +1"
+  },
+  "dcf1f62a895b8285edcfeff4eb0135d0": {
+   "id": "dcf1f62a895b8285edcfeff4eb0135d0",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Prácticas Business Consulting - Rookies Enero 2027",
+   "location": "Barcelona"
+  },
+  "1abcc8465dfd4400ff4323dd5670edeb": {
+   "id": "1abcc8465dfd4400ff4323dd5670edeb",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Prácticas Business & Risk Consulting - Rookies Enero 2027",
+   "location": "Madrid"
+  },
+  "58f614f2750b3f782e17d9f3f41da03b": {
+   "id": "58f614f2750b3f782e17d9f3f41da03b",
+   "company": "Melia",
+   "role": "Prácticas Revenue",
+   "location": "Islas Baleares"
   },
   "4fc60870b697041e54420e8a622f7dc2": {
    "id": "4fc60870b697041e54420e8a622f7dc2",
@@ -356,12 +392,6 @@
    "role": "Sap Ixp Internship - Ambassador Program Intern",
    "location": "Barcelona"
   },
-  "6883b35d0a2268cbf31846bce5e306ab": {
-   "id": "6883b35d0a2268cbf31846bce5e306ab",
-   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
-   "role": "Transfer Pricing Intern",
-   "location": "Lisbon +1"
-  },
   "3c8fab5bcc6ff23f4eee416cef726836": {
    "id": "3c8fab5bcc6ff23f4eee416cef726836",
    "company": "Aleph",
@@ -464,41 +494,17 @@
    "role": "Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)",
    "location": "Tajonar"
   },
-  "648928bcdcb8ec5f5705d52fc38f401d": {
-   "id": "648928bcdcb8ec5f5705d52fc38f401d",
-   "company": "Nordex SE",
-   "role": "Global Sourcing Claim Management Intern (m/f/d)",
-   "location": "Tajonar"
-  },
-  "cec6424437942bcc872c42a717173334": {
-   "id": "cec6424437942bcc872c42a717173334",
-   "company": "Bunge Global",
-   "role": "Indirect Tax Intern",
-   "location": "Barcelona"
-  },
-  "4272df62ac0fa118ebe57d5bbf8e2b4f": {
-   "id": "4272df62ac0fa118ebe57d5bbf8e2b4f",
-   "company": "Enagas",
-   "role": "Beca Atracción De Talento / Madrid",
-   "location": "Madrid"
-  },
-  "ee8d94ae6a4821273ae1cbfc8fd2e78a": {
-   "id": "ee8d94ae6a4821273ae1cbfc8fd2e78a",
-   "company": "Boeing Aerostructures Australia",
-   "role": "Intern - Software Engineering",
-   "location": "Madrid"
-  },
-  "f06de10dfa17d888d33f6bf8976aec2d": {
-   "id": "f06de10dfa17d888d33f6bf8976aec2d",
-   "company": "Boeing Aerostructures Australia",
-   "role": "Intern - Systems Safety Engineering",
-   "location": "Madrid"
-  },
   "6f5b7169f53b7d5d0ebfe3536c8c8d73": {
    "id": "6f5b7169f53b7d5d0ebfe3536c8c8d73",
    "company": "Fever",
    "role": "Graduate Software Engineer",
    "location": "Madrid"
+  },
+  "31ae8ed6e939bd868a2acd94c2476ea5": {
+   "id": "31ae8ed6e939bd868a2acd94c2476ea5",
+   "company": "GE VERNOVA",
+   "role": "Service Technical Support Engineer",
+   "location": "Barcelona"
   },
   "fddb0f1adee0aa3988f89d1c8ef102d8": {
    "id": "fddb0f1adee0aa3988f89d1c8ef102d8",
@@ -980,6 +986,12 @@
    "role": "Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)",
    "location": "Barcelona"
   },
+  "a397777855aaf9c3fb05cb44ae67e18d": {
+   "id": "a397777855aaf9c3fb05cb44ae67e18d",
+   "company": "Minsait",
+   "role": "Ai Engineer",
+   "location": "Madrid"
+  },
   "d9a22bb89162ca2512946570bf28b12c": {
    "id": "d9a22bb89162ca2512946570bf28b12c",
    "company": "Zurich Insurance UK",
@@ -1436,6 +1448,12 @@
    "role": "Real Estate (departamento Técnico) - Consultor",
    "location": "Madrid"
   },
+  "0985f87f44c976438702c14d6504cc2d": {
+   "id": "0985f87f44c976438702c14d6504cc2d",
+   "company": "serveo",
+   "role": "Beca Análisis De Inversiones - Madrid",
+   "location": "Madrid"
+  },
   "63778c875e8d2db156089c7f046f141c": {
    "id": "63778c875e8d2db156089c7f046f141c",
    "company": "Zurich Insurance UK",
@@ -1465,12 +1483,6 @@
    "company": "Scopely",
    "role": "Product Analyst - Star Trek Fleet Command",
    "location": "Barcelona"
-  },
-  "987deaac0ca09c32f70bfe1210ec2fa1": {
-   "id": "987deaac0ca09c32f70bfe1210ec2fa1",
-   "company": "serveo",
-   "role": "Beca Análisis De Inversiones - Madrid",
-   "location": "Madrid"
   },
   "2432610cfe624fdb243d3fcc7872d3ab": {
    "id": "2432610cfe624fdb243d3fcc7872d3ab",
@@ -1754,6 +1766,30 @@
    "role": "Técnico/a De Mantenimiento De Ascensores Sin Experiencia (madrid)",
    "location": "Madrid"
   },
+  "e567804edd6b55026b5cbc17f6237121": {
+   "id": "e567804edd6b55026b5cbc17f6237121",
+   "company": "Danfoss AS",
+   "role": "Service Engineer",
+   "location": "Barcelona"
+  },
+  "62f9dd0479b6bed5e2b31ee5a11010c6": {
+   "id": "62f9dd0479b6bed5e2b31ee5a11010c6",
+   "company": "Alstom",
+   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
+   "location": "Madrid"
+  },
+  "29f938afb1b5501cd25fc99e125127f8": {
+   "id": "29f938afb1b5501cd25fc99e125127f8",
+   "company": "Alstom",
+   "role": "Técnico/a De Mantenimiento (electricista)",
+   "location": "Barcelona"
+  },
+  "75efff2483a214c9c7f41f6ef0347c1a": {
+   "id": "75efff2483a214c9c7f41f6ef0347c1a",
+   "company": "Alstom",
+   "role": "Operario Mantenimiento Ferroviario Taller Santa Catalina",
+   "location": "Madrid"
+  },
   "1215bfe9133543b2a7f2f83477e0548d": {
    "id": "1215bfe9133543b2a7f2f83477e0548d",
    "company": "ALSTOM TRANSPORT SA",
@@ -1862,6 +1898,12 @@
    "role": "Lma Technician B1, B2, B1/b2 - Madrid Area",
    "location": "Madrid"
   },
+  "7e895e4282ed8b4b4f2190e502abca43": {
+   "id": "7e895e4282ed8b4b4f2190e502abca43",
+   "company": "Airbus Defence and Space SAU",
+   "role": "Lma Technician B1, B2, B1/b2 - Madrid Area",
+   "location": "Madrid"
+  },
   "9914c52e1a6b40176ebd91b6b6112c3c": {
    "id": "9914c52e1a6b40176ebd91b6b6112c3c",
    "company": "Melia",
@@ -1910,22 +1952,10 @@
    "role": "Técnico/a De Mantenimiento Ascensores (empresa Afiliada)",
    "location": "Barcelona"
   },
-  "a1f847e809b25057dbfa7dfa2252696e": {
-   "id": "a1f847e809b25057dbfa7dfa2252696e",
-   "company": "Nestle SA",
-   "role": "Técnico/a De Mantenimiento Electromecánico (fábrica Nestlé Purina Petcare)",
-   "location": "Barcelona"
-  },
   "78311794f9046fa81fc11ca7b58ab930": {
    "id": "78311794f9046fa81fc11ca7b58ab930",
    "company": "BizAway",
    "role": "Product Support Specialist",
-   "location": "Barcelona"
-  },
-  "e567804edd6b55026b5cbc17f6237121": {
-   "id": "e567804edd6b55026b5cbc17f6237121",
-   "company": "Danfoss AS",
-   "role": "Service Engineer",
    "location": "Barcelona"
   },
   "28d409023e20cb701d345ab311177f29": {
@@ -1976,22 +2006,10 @@
    "role": "Electromecánico/a De Mantenimiento Industrial",
    "location": "Barcelona"
   },
-  "dbb1081cb5957186d7d8a2d17cf44cb6": {
-   "id": "dbb1081cb5957186d7d8a2d17cf44cb6",
-   "company": "Airbus Defence and Space SAU",
-   "role": "Lma Technician B1, B2, B1/b2 - Madrid Area",
-   "location": "Madrid"
-  },
   "b86003b44389c6b75793a13d00cde938": {
    "id": "b86003b44389c6b75793a13d00cde938",
    "company": "Melia",
    "role": "Técnico/a De Mantenimiento - Meliá Barcelona Sky",
-   "location": "Barcelona"
-  },
-  "a6d39c1220707632311f9b3c5fff7c19": {
-   "id": "a6d39c1220707632311f9b3c5fff7c19",
-   "company": "Alstom",
-   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
    "location": "Barcelona"
   },
   "5864f7185281c9c835817e8e59a526c9": {
@@ -2149,6 +2167,18 @@
    "company": "DABA, SA",
    "role": "Dependiente/a Nespresso Eci Pozuelo (32h/s Tardes)",
    "location": "Madrid"
+  },
+  "7f9fa8e0894e80344349e84fe11e3d33": {
+   "id": "7f9fa8e0894e80344349e84fe11e3d33",
+   "company": "Michael Kors",
+   "role": "Sales Associate",
+   "location": "Barcelona"
+  },
+  "8675cb64c526a71d0f833c81a5b3cce4": {
+   "id": "8675cb64c526a71d0f833c81a5b3cce4",
+   "company": "H&M",
+   "role": "Sales Advisor (20 Horas)",
+   "location": "Barcelona"
   },
   "47b0084dc2a012c715400cf3243ef302": {
    "id": "47b0084dc2a012c715400cf3243ef302",
@@ -2612,17 +2642,11 @@
    "role": "Vendedor/a 20 Horas Semanales",
    "location": "Madrid"
   },
-  "e696c9b2cec316f5c2bc7c727f01b9a9": {
-   "id": "e696c9b2cec316f5c2bc7c727f01b9a9",
-   "company": "VFC Corporation",
-   "role": "Vendedor/a 30h - Pl. Cat (barcelona) - Vans",
-   "location": "Barcelona"
-  },
-  "56e84c28ec1775c79389b403ef36b6dd": {
-   "id": "56e84c28ec1775c79389b403ef36b6dd",
-   "company": "Sustainabilityleads",
-   "role": "Vendedor/a 16h Eastpak - Barcelona",
-   "location": "Barcelona"
+  "8a74c5e6a81badf719691153ecca29ea": {
+   "id": "8a74c5e6a81badf719691153ecca29ea",
+   "company": "Minsait",
+   "role": "Technical Administrative Support",
+   "location": "Madrid"
   },
   "4c20d4038eb5f7d40bc3bb7433ed2790": {
    "id": "4c20d4038eb5f7d40bc3bb7433ed2790",
@@ -2941,12 +2965,6 @@
    "company": "Karriere Als Cs",
    "role": "Auxiliar Administrativa/o",
    "location": "Salamanca"
-  },
-  "3f057517f196bd6553b4f12592f97b62": {
-   "id": "3f057517f196bd6553b4f12592f97b62",
-   "company": "Europreven",
-   "role": "Auxiliar Administrativo/a",
-   "location": "Barcelona"
   }
  }
 }
