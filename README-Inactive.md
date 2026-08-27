@@ -1196,4 +1196,50 @@
 <tr><td>VFC Corporation</td><td>Vendedor/a 30h - Pl. Cat (barcelona) - Vans</td><td>Barcelona</td><td>2026-08-26</td></tr>
 <tr><td>Sustainabilityleads</td><td>Vendedor/a 16h Eastpak - Barcelona</td><td>Barcelona</td><td>2026-08-26</td></tr>
 <tr><td>Europreven</td><td>Auxiliar Administrativo/a</td><td>Barcelona</td><td>2026-08-26</td></tr>
+<tr><td>Ernst & Young</td><td>Prácticas I+d Proyectos Europeos</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Strategy</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Finance</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>DABA, SA</td><td>Prácticas En Servicio De Atención Técnica - Nespresso Professional</td><td>EspañA</td><td>2026-08-27</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Recepción Eurostars Hotels (barcelona)</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>avoltaworld</td><td>Intern Supply Chain</td><td>Spain</td><td>2026-08-27</td></tr>
+<tr><td>Barcelo</td><td>Estudiante En Prácticas Hotel - Occidental Atenea Mar</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>CMA CGM Group</td><td>Prácticas Prevención De Riesgos Laborales</td><td>OntíGola</td><td>2026-08-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Prácticas - Gestión Administrativa Y Soporte A Catman</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>Nestle SA</td><td>Prácticas En Recursos Humanos / Fábrica Nestlé Purina Castellbisbal</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>SIX</td><td>Quantitative Analyst Internship</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>N26 GmbH</td><td>Afc Intern - Spanish Market</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>Bureau Veritas</td><td>¿quieres Hacer Tus Prácticas En Bureau Veritas? ¡únete A Bvacademy!</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>valeo.in</td><td>Test & Validation Internship</td><td>Jaen</td><td>2026-08-27</td></tr>
+<tr><td>Valeo</td><td>Test & Validation Internship</td><td>Jaen</td><td>2026-08-27</td></tr>
+<tr><td>Valeo Service</td><td>Test & Validation Internship</td><td>Jaen</td><td>2026-08-27</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Talent Journey Coordinator Internship</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Customer Success Management (digital)</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Public Sector Industry Team</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Internship - Ambassador Program Intern</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>Aleph</td><td>Global Partnerships Operations Intern</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Consultoría I+d</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Consultoría I+d Energía</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Intern - Talent Journey Coordinator Internship</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Intern - Customer Success Management (digital)</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Intern - Public Sector Industry Team</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Internship - Ambassador Program Intern</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>Thales Group</td><td>Int Trainee</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>EY</td><td>Prácticas Business & Risk Consulting - Rookies Enero 2027</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>EY</td><td>Prácticas Business Consulting - Rookies Enero 2027</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>Nordex SE</td><td>Qhse Administrative Intern (m/f/d)</td><td>Barasoain</td><td>2026-08-27</td></tr>
+<tr><td>Nordex SE</td><td>Project Manager Support Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-27</td></tr>
+<tr><td>Nordex SE</td><td>Pmd Process & Automation Intern (m/f/d)</td><td>Mutilva</td><td>2026-08-27</td></tr>
+<tr><td>Nordex SE</td><td>Global Mobility Intern (m/f/d)</td><td>Barasoain</td><td>2026-08-27</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Special Tools & Equipment Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-27</td></tr>
+<tr><td>Nordex SE</td><td>Industrialization Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-27</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)</td><td>Tajonar</td><td>2026-08-27</td></tr>
+<tr><td>Pluxee</td><td>Software Engineer</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>Concentrix</td><td>Remote Support Engineer (german -speaking) - Hybrid - High Tech Industry Hd01</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>Hydeparkbank</td><td>Business Analyst Intern</td><td>Spain</td><td>2026-08-27</td></tr>
+<tr><td>Ivivamedical</td><td>Clinical Research Associate 2 - Cfsp</td><td>Spain</td><td>2026-08-27</td></tr>
+<tr><td>Levis Media</td><td>Vendedor/a 20h Ls Eci Sanchinarro</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>Vwofdtla</td><td>Vendedor/a 20h Sabadell - Eastpak</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c. La Maquinista - Barcelona / Part Time 12h / Permanente</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>obramat.es</td><td>Vendedor/a Pintura_almacen Badalona</td><td>Barcelona</td><td>2026-08-27</td></tr>
+<tr><td>Merkal Calzados S.L</td><td>Vendedor/a 20 Horas Semanales</td><td>Madrid</td><td>2026-08-27</td></tr>
 </table>
