@@ -1278,4 +1278,9 @@
 <tr><td>Viatris Inc</td><td>Corporate Affairs – Becario De Soporte Administrativo</td><td>Spain</td><td>2026-08-28</td></tr>
 <tr><td>164</td><td>Soporte Adimistrativo</td><td>San Cugat Del ValléS</td><td>2026-08-28</td></tr>
 <tr><td>Karriere Als Cs</td><td>Auxiliar Administrativa/o</td><td>Salamanca</td><td>2026-08-28</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Marriott International</td><td>University Intern Europe - Hotel Arts Barcelona</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Business & Risk Consulting - Rookies Enero 2027</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Swiss Re</td><td>People Operations Intern</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Ball</td><td>Manufacturing Excellence Specialist</td><td>Llinars Del VallèS</td><td>2026-08-28</td></tr>
 </table>

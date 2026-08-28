@@ -1,6 +1,6 @@
 {
  "asOf": "2026-08-28",
- "count": 500,
+ "count": 502,
  "jobs": {
   "42686": {
    "id": "42686",
@@ -25,6 +25,30 @@
    "company": "Yaizateinforma",
    "role": "Beca Young Lions Generali / Beca En Áreas De Proyectos Y Business Intelligence (bi)",
    "location": "Madrid"
+  },
+  "1b9f49f2235f8acd638672b1da8dd6d2": {
+   "id": "1b9f49f2235f8acd638672b1da8dd6d2",
+   "company": "createyourowncareer",
+   "role": "Prácticas- Comunicación",
+   "location": "Barcelona"
+  },
+  "156a71d51cadaf0067943ab2832eb3e8": {
+   "id": "156a71d51cadaf0067943ab2832eb3e8",
+   "company": "createyourowncareer",
+   "role": "Prácticas- Edición Técnica",
+   "location": "Barcelona"
+  },
+  "bd9f758347bae40ee324df1aa6a69c53": {
+   "id": "bd9f758347bae40ee324df1aa6a69c53",
+   "company": "Penguin Random House Grupo Editorial",
+   "role": "Prácticas- Edición",
+   "location": "Barcelona"
+  },
+  "f49142b42f013049e83cd8009d11e794": {
+   "id": "f49142b42f013049e83cd8009d11e794",
+   "company": "createyourowncareer",
+   "role": "Prácticas- Penguin Aula",
+   "location": "Barcelona"
   },
   "10461fb7820f802dbcf0626bfa16244a": {
    "id": "10461fb7820f802dbcf0626bfa16244a",
@@ -350,12 +374,6 @@
    "role": "Emea Upstream Marketing Analyst Intern - Madrid",
    "location": "Madrid"
   },
-  "4603c51e72d4208ff6111ca394679e69": {
-   "id": "4603c51e72d4208ff6111ca394679e69",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas- Edición",
-   "location": "Barcelona"
-  },
   "98892eb5ddbe1400c2ee3b8dc758276c": {
    "id": "98892eb5ddbe1400c2ee3b8dc758276c",
    "company": "Penguin Random House Grupo Editorial",
@@ -366,12 +384,6 @@
    "id": "1b497d3f6d1accc35877452671623291",
    "company": "Penguin Random House Grupo Editorial",
    "role": "Prácticas- Penguin Aula",
-   "location": "Barcelona"
-  },
-  "1a22bc3ba9b02ef54322e5e276258f7f": {
-   "id": "1a22bc3ba9b02ef54322e5e276258f7f",
-   "company": "Marriott International",
-   "role": "University Intern Europe - Hotel Arts Barcelona",
    "location": "Barcelona"
   },
   "070484a41f96f3a15a806677fc729e6d": {
@@ -482,18 +494,6 @@
    "role": "Prácticas Business Consulting - Rookies Enero 2027",
    "location": "Barcelona"
   },
-  "1abcc8465dfd4400ff4323dd5670edeb": {
-   "id": "1abcc8465dfd4400ff4323dd5670edeb",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas Business & Risk Consulting - Rookies Enero 2027",
-   "location": "Madrid"
-  },
-  "4fc60870b697041e54420e8a622f7dc2": {
-   "id": "4fc60870b697041e54420e8a622f7dc2",
-   "company": "Swiss Re",
-   "role": "People Operations Intern",
-   "location": "Madrid"
-  },
   "6f5b7169f53b7d5d0ebfe3536c8c8d73": {
    "id": "6f5b7169f53b7d5d0ebfe3536c8c8d73",
    "company": "Fever",
@@ -504,6 +504,12 @@
    "id": "a160354667d2181c0aa70c8a07960441",
    "company": "N26 GmbH",
    "role": "Backend Engineer - Agentic Platform",
+   "location": "Barcelona"
+  },
+  "2e57a0f001a161f27c41e4e58a00cb69": {
+   "id": "2e57a0f001a161f27c41e4e58a00cb69",
+   "company": "Puratos",
+   "role": "Sap Sd Support Analyst",
    "location": "Barcelona"
   },
   "8f04672576195bb15e77cf092239f126": {
@@ -714,12 +720,6 @@
    "id": "78aa68510aa1303650bf2e6b71bc878f",
    "company": "Kyndryl Holdings",
    "role": "Software Engineer",
-   "location": "Barcelona"
-  },
-  "2e57a0f001a161f27c41e4e58a00cb69": {
-   "id": "2e57a0f001a161f27c41e4e58a00cb69",
-   "company": "Puratos",
-   "role": "Sap Sd Support Analyst",
    "location": "Barcelona"
   },
   "938082df6ef67b34379e89c692d80f20": {
@@ -1466,6 +1466,12 @@
    "role": "Graduate Business Analyst - Hp Additive Manufacturing Solutiions",
    "location": "Spain"
   },
+  "d9262860366b7d263689250d1dad5cef": {
+   "id": "d9262860366b7d263689250d1dad5cef",
+   "company": "Black & Veatch Corporation",
+   "role": "Environmental Permitting And Regulatory Compliance Specialist",
+   "location": "Madrid"
+  },
   "3a91b37893245b3218e7ce39dded4a32": {
    "id": "3a91b37893245b3218e7ce39dded4a32",
    "company": "Movistar Plus",
@@ -1555,12 +1561,6 @@
    "company": "Jobgether",
    "role": "Business And Management Specialist – Freelance Ai Trainer Project",
    "location": "Spain"
-  },
-  "d9262860366b7d263689250d1dad5cef": {
-   "id": "d9262860366b7d263689250d1dad5cef",
-   "company": "Black & Veatch Corporation",
-   "role": "Environmental Permitting And Regulatory Compliance Specialist",
-   "location": "Madrid"
   },
   "3c13e244c4337e92b37cce02b0767a66": {
    "id": "3c13e244c4337e92b37cce02b0767a66",
@@ -1807,6 +1807,18 @@
    "company": "FRESENIUS MEDICAL CARE",
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
+  },
+  "bee7d32006d49d4fde47effe2175c899": {
+   "id": "bee7d32006d49d4fde47effe2175c899",
+   "company": "57",
+   "role": "Técnico/a De Mantenimiento De Escaleras",
+   "location": "Barcelona"
+  },
+  "a9e7907a8f6cad7e32485a3e74b94ce2": {
+   "id": "a9e7907a8f6cad7e32485a3e74b94ce2",
+   "company": "57",
+   "role": "Técnico/a De Mantenimiento De Ascensores",
+   "location": "Madrid"
   },
   "363284631fc4767a5ee26112f030fe00": {
    "id": "363284631fc4767a5ee26112f030fe00",
@@ -2696,6 +2708,18 @@
    "role": "Sales Stylist 30h Lfo La Roca",
    "location": "Barcelona"
   },
+  "f2425c21a52d9308d0a01c4e9ad08e31": {
+   "id": "f2425c21a52d9308d0a01c4e9ad08e31",
+   "company": "Ball",
+   "role": "Manufacturing Excellence Specialist",
+   "location": "Llinars Del VallèS"
+  },
+  "0b28efdf15ab488095f428e8e38478f9": {
+   "id": "0b28efdf15ab488095f428e8e38478f9",
+   "company": "Temporing",
+   "role": "Administrativo/a Logística - Gavà",
+   "location": "Barcelona"
+  },
   "4c20d4038eb5f7d40bc3bb7433ed2790": {
    "id": "4c20d4038eb5f7d40bc3bb7433ed2790",
    "company": "MediamarktSaturn - Webshop Foundation",
@@ -2738,12 +2762,6 @@
    "role": "Manufacturing Excellence Specialist",
    "location": "Barcelona"
   },
-  "4b992c2d266123282eb7eb7b61f208b5": {
-   "id": "4b992c2d266123282eb7eb7b61f208b5",
-   "company": "Ball",
-   "role": "Manufacturing Excellence Specialist",
-   "location": "Llinars Del VallèS"
-  },
   "b4b34312180e864ba552ca0fbc74be2e": {
    "id": "b4b34312180e864ba552ca0fbc74be2e",
    "company": "Ahorramas, S.A",
@@ -2784,12 +2802,6 @@
    "id": "d67b0289d63d9b6cdcdc2aee89961eb2",
    "company": "Grupo Hotusa",
    "role": "Técnico/a Administrativo De Mantenimiento",
-   "location": "Barcelona"
-  },
-  "0b28efdf15ab488095f428e8e38478f9": {
-   "id": "0b28efdf15ab488095f428e8e38478f9",
-   "company": "Temporing",
-   "role": "Administrativo/a Logística - Gavà",
    "location": "Barcelona"
   },
   "d3ad8aa5b1abd06daffe13ff34aa2935": {
