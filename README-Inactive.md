@@ -1242,4 +1242,40 @@
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c. La Maquinista - Barcelona / Part Time 12h / Permanente</td><td>Barcelona</td><td>2026-08-27</td></tr>
 <tr><td>obramat.es</td><td>Vendedor/a Pintura_almacen Badalona</td><td>Barcelona</td><td>2026-08-27</td></tr>
 <tr><td>Merkal Calzados S.L</td><td>Vendedor/a 20 Horas Semanales</td><td>Madrid</td><td>2026-08-27</td></tr>
+<tr><td>Melia</td><td>Prácticas Revenue</td><td>Islas Baleares</td><td>2026-08-28</td></tr>
+<tr><td>Solunion</td><td>Solunion First Steps - Programa De Prácticas</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Suscripción Usp Pymes</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Developer Intern</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Engineering & Visualization Intern</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Digital Associate Internship</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Zictt Business Specialist Internship</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Platform & Analytics Internship</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Network & Partner Operations Intern</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Front Office Systems Intern</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Investment Performance Analyst Intern</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Canal Corredores</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Analyst Intern</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Hr - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-28</td></tr>
+<tr><td>Inspired Education Group</td><td>Internship Opportunities - El Colegio Británico / The British School</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Nestlé</td><td>Spain Youth / Internship It - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-28</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Finance - September 2026</td><td>Esplugues Llobregat</td><td>2026-08-28</td></tr>
+<tr><td>International SOS</td><td>International Security Intern</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Boston Scientific Foundation Inc</td><td>Financial Planning & Analysis Intern</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Signify</td><td>Brand Insights Internship</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY</td><td>Airport Internship</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY</td><td>Nuclear Services Internship</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY</td><td>Industrial Technologies Internship</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>IDOM</td><td>Digital Services Intern, Madrid</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Security Incident Handler</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>ING</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>avoltaworld</td><td>Global Data Scientist Specialist</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Revenue Accountant With English And Spanish (1 Year Contract)</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Técnico/a Patines/pequeño Electrodomestico-sustitucion 1</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Técnico/a Patines/pequeño Electrodomestico-sustitucion</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Dover India</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 25h Lfo La Roca</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Viatris Inc</td><td>Corporate Affairs – Becario De Soporte Administrativo</td><td>Spain</td><td>2026-08-28</td></tr>
+<tr><td>164</td><td>Soporte Adimistrativo</td><td>San Cugat Del ValléS</td><td>2026-08-28</td></tr>
+<tr><td>Karriere Als Cs</td><td>Auxiliar Administrativa/o</td><td>Salamanca</td><td>2026-08-28</td></tr>
 </table>
