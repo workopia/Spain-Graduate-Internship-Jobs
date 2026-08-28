@@ -50,6 +50,30 @@
    "role": "Prácticas- Penguin Aula",
    "location": "Barcelona"
   },
+  "c676641af610386bc2842ea017a02d20": {
+   "id": "c676641af610386bc2842ea017a02d20",
+   "company": "SAP Concur",
+   "role": "Sap Ixp Intern- Demand Management - Curricular Internship",
+   "location": "Madrid"
+  },
+  "6f54657a21b7b3edcc9a4c647cf6719c": {
+   "id": "6f54657a21b7b3edcc9a4c647cf6719c",
+   "company": "SAP Concur",
+   "role": "Sap Ixp Intern (ai & Innovation Focus) - Emea Partner Ecosystem Growth",
+   "location": "Barcelona"
+  },
+  "b7d0c847daceba2cf64c4e010962eb95": {
+   "id": "b7d0c847daceba2cf64c4e010962eb95",
+   "company": "Sandoz",
+   "role": "Communications Trainee",
+   "location": "Madrid"
+  },
+  "637d9a5ebf9480aefff01610ca0cccb9": {
+   "id": "637d9a5ebf9480aefff01610ca0cccb9",
+   "company": "Primark",
+   "role": "Beca Formación Y Desarrollo",
+   "location": "Madrid"
+  },
   "10461fb7820f802dbcf0626bfa16244a": {
    "id": "10461fb7820f802dbcf0626bfa16244a",
    "company": "Delivery Hero (foodpanda)",
@@ -193,6 +217,12 @@
    "company": "ATREVIA",
    "role": "Beca De Rrll Y Administración De Personal - Atrevia Mad",
    "location": "Madrid"
+  },
+  "8f92f0c7cb096ad6e0f294c90799b676": {
+   "id": "8f92f0c7cb096ad6e0f294c90799b676",
+   "company": "Payfit",
+   "role": "Prácticas En Relaciones Laborales- Admin (inicio Septiembre 2026)",
+   "location": "Barcelona"
   },
   "fe79d3c8d563cc2591f2c49767734130": {
    "id": "fe79d3c8d563cc2591f2c49767734130",
@@ -462,36 +492,6 @@
    "id": "39ddefa8e0c944c8279f32c9ce747f66",
    "company": "Coty",
    "role": "Npd Intern",
-   "location": "Barcelona"
-  },
-  "a8aac18d756452c0e559c378c18b346b": {
-   "id": "a8aac18d756452c0e559c378c18b346b",
-   "company": "Bunge",
-   "role": "Indirect Tax Intern",
-   "location": "Barcelona"
-  },
-  "8fc1e064e0218a9ef983067022f13527": {
-   "id": "8fc1e064e0218a9ef983067022f13527",
-   "company": "Marriott International",
-   "role": "F&b Trainee",
-   "location": "Barcelona"
-  },
-  "aed633d0335d8c95fd54596d8687d595": {
-   "id": "aed633d0335d8c95fd54596d8687d595",
-   "company": "Lazard",
-   "role": "January 2027 M&a Off-cycle Internship – Madrid",
-   "location": "Madrid"
-  },
-  "531547d2cdc7c0574bc81281f606115a": {
-   "id": "531547d2cdc7c0574bc81281f606115a",
-   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
-   "role": "Transfer Pricing Intern",
-   "location": "Lisbon +1"
-  },
-  "dcf1f62a895b8285edcfeff4eb0135d0": {
-   "id": "dcf1f62a895b8285edcfeff4eb0135d0",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas Business Consulting - Rookies Enero 2027",
    "location": "Barcelona"
   },
   "6f5b7169f53b7d5d0ebfe3536c8c8d73": {
@@ -1790,12 +1790,6 @@
    "role": "Técnico/a De Consolidación Y Reporting Acciona Energía",
    "location": "Madrid"
   },
-  "fd2b5d9e69bbdc03b9c61e118bc0238d": {
-   "id": "fd2b5d9e69bbdc03b9c61e118bc0238d",
-   "company": "DXC",
-   "role": "Analista Funcional Seguros De Vida",
-   "location": "Spain"
-  },
   "1f713b4f64794491ab8f1f465e6a8619": {
    "id": "1f713b4f64794491ab8f1f465e6a8619",
    "company": "Fsmjobs",
@@ -1818,6 +1812,12 @@
    "id": "a9e7907a8f6cad7e32485a3e74b94ce2",
    "company": "57",
    "role": "Técnico/a De Mantenimiento De Ascensores",
+   "location": "Madrid"
+  },
+  "ce92f3af8e4246f64faa7f5be062c833": {
+   "id": "ce92f3af8e4246f64faa7f5be062c833",
+   "company": "Envista",
+   "role": "Field Service Engineer",
    "location": "Madrid"
   },
   "363284631fc4767a5ee26112f030fe00": {

@@ -1283,4 +1283,10 @@
 <tr><td>Ernst & Young Global Ltd</td><td>Prácticas Business & Risk Consulting - Rookies Enero 2027</td><td>Madrid</td><td>2026-08-28</td></tr>
 <tr><td>Swiss Re</td><td>People Operations Intern</td><td>Madrid</td><td>2026-08-28</td></tr>
 <tr><td>Ball</td><td>Manufacturing Excellence Specialist</td><td>Llinars Del VallèS</td><td>2026-08-28</td></tr>
+<tr><td>Bunge</td><td>Indirect Tax Intern</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Marriott International</td><td>F&b Trainee</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>Lazard</td><td>January 2027 M&a Off-cycle Internship – Madrid</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Transfer Pricing Intern</td><td>Lisbon +1</td><td>2026-08-28</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Business Consulting - Rookies Enero 2027</td><td>Barcelona</td><td>2026-08-28</td></tr>
+<tr><td>DXC</td><td>Analista Funcional Seguros De Vida</td><td>Spain</td><td>2026-08-28</td></tr>
 </table>
