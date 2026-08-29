@@ -1289,4 +1289,42 @@
 <tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Transfer Pricing Intern</td><td>Lisbon +1</td><td>2026-08-28</td></tr>
 <tr><td>Ernst & Young Global Ltd</td><td>Prácticas Business Consulting - Rookies Enero 2027</td><td>Barcelona</td><td>2026-08-28</td></tr>
 <tr><td>DXC</td><td>Analista Funcional Seguros De Vida</td><td>Spain</td><td>2026-08-28</td></tr>
+<tr><td>Inspired Education Group</td><td>Care Assistant Internship</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>Inspired Education Group</td><td>Teaching Assistant Internship</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>Inspired Education Group</td><td>School Intern</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>El Colegio Británico / The British School</td><td>Internship Opportunities - El Colegio Británico / The British School</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>Nordex SE</td><td>Major Correctives Intern (m/f/d)</td><td>Imarcoain</td><td>2026-08-29</td></tr>
+<tr><td>Bdrthermeagroup</td><td>R&d Software Developer Engineer Internship</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Boston Scientific Foundation Inc</td><td>Emea Upstream Marketing Analyst Intern - Madrid</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición Técnica</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Penguin Aula</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Ernst & Young</td><td>Prácticas Consultoría I+d</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Ernst & Young</td><td>Prácticas Impacto Social</td><td>Spain</td><td>2026-08-29</td></tr>
+<tr><td>Ernst & Young</td><td>Prácticas Consultoría I+d Energía</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>Air Liquide Healthcare Iberia</td><td>Internship Operations</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>Air Liquide Healthcare Iberia</td><td>Internship Comunicación</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>35</td><td>Internship Comunicación</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>35</td><td>Internship Operations</td><td>Salamanca</td><td>2026-08-29</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Departamento Explotación - Barcelona</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Coty</td><td>Demand Intern</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Coty</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Coty</td><td>Warehouse Intern</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Coty</td><td>Site Planner Intern</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Coty</td><td>Npd Intern</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Concentrix</td><td>Remote Support Engineer - (italian Speaking) - Hybrid - High Tech - Hd01</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer – Intersystems Caché & Trakcare His</td><td>Spain</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Home Assistant Python Developer For Hardware</td><td>Spain</td><td>2026-08-29</td></tr>
+<tr><td>Thales</td><td>Threat Intelligence Analyst</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>ES</td><td>2026-08-29</td></tr>
+<tr><td>minsait</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Hydeparkbank</td><td>Graduate Business Analyst - Hp Additive Manufacturing Solutiions</td><td>Spain</td><td>2026-08-29</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario(a) De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>Careers Philips</td><td>Field Service Technician</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>Temporing</td><td>Técnico/a Mantenimiento</td><td>Zaragoza</td><td>2026-08-29</td></tr>
+<tr><td>obramat.es</td><td>Reponedor/a Jornanada Parcial_almacen Hospitalet</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor (24h - Contrato Temporal)</td><td>Madrid</td><td>2026-08-29</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c Splau - Cornellà / Part Time 12h / Permanente</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 30h Lfo La Roca</td><td>Barcelona</td><td>2026-08-29</td></tr>
+<tr><td>Printful</td><td>Part-time Administrative Assistant (20h/week)</td><td>Sant Climent De Llobregat</td><td>2026-08-29</td></tr>
+<tr><td>Hitachi Rail</td><td>Administrative Site Support (m/f/d)</td><td>Trapagaran</td><td>2026-08-29</td></tr>
 </table>
