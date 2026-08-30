@@ -1327,4 +1327,42 @@
 <tr><td>Levis Media</td><td>Sales Stylist 30h Lfo La Roca</td><td>Barcelona</td><td>2026-08-29</td></tr>
 <tr><td>Printful</td><td>Part-time Administrative Assistant (20h/week)</td><td>Sant Climent De Llobregat</td><td>2026-08-29</td></tr>
 <tr><td>Hitachi Rail</td><td>Administrative Site Support (m/f/d)</td><td>Trapagaran</td><td>2026-08-29</td></tr>
+<tr><td>ERM</td><td>Internship - Environmental, Health And Safety Analyst - M&a Team</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>Erepharm</td><td>Internship - Environmental, Health And Safety Analyst - M&a Team</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Hr Labor Relations Internship</td><td>Barcelona</td><td>2026-08-30</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Junior Powerapps Developer Intern</td><td>Barcelona</td><td>2026-08-30</td></tr>
+<tr><td>Kenvue</td><td>Trade Customization Intern</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>Barcelo</td><td>Prácticas Clúster Compras Cataluña</td><td>Barcelona</td><td>2026-08-30</td></tr>
+<tr><td>EY</td><td>Prácticas Consultoría I+d</td><td>Barcelona</td><td>2026-08-30</td></tr>
+<tr><td>EY</td><td>Prácticas Impacto Social</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>EY</td><td>Prácticas Consultoría I+d Energía</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>EY</td><td>Prácticas I+d Proyectos Europeos</td><td>Barcelona</td><td>2026-08-30</td></tr>
+<tr><td>Laboral Kutxa</td><td>¿quieres Hacer Prácticas En Laboral Kutxa? Envíanos Tu Currículum...</td><td>Spain</td><td>2026-08-30</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Maintenance Intern</td><td>Salamanca</td><td>2026-08-30</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Electrical Test Intern</td><td>Salamanca</td><td>2026-08-30</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Instructor Intern - Training School</td><td>Almaraz</td><td>2026-08-30</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Radiation Engineering & Analysis Intern</td><td>Salamanca</td><td>2026-08-30</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Ssa Intern</td><td>Salamanca</td><td>2026-08-30</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>Indra group</td><td>Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Desarrollo Software C++</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>E80 Group</td><td>Lgv Cs Programmer - Barcelona</td><td>Barcelona</td><td>2026-08-30</td></tr>
+<tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-08-30</td></tr>
+<tr><td>Indra group</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-08-30</td></tr>
+<tr><td>ING</td><td>Data Analyst</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist</td><td>Spain</td><td>2026-08-30</td></tr>
+<tr><td>DWS Group</td><td>Hr Business Advisory Analyst/business Advisor</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>Alstom</td><td>Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>Indra group</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-08-30</td></tr>
+<tr><td>KONE Oyj</td><td>Técnico/a De Mantenimiento De Ascensorees</td><td>Zaragoza</td><td>2026-08-30</td></tr>
+<tr><td>KONE Romania</td><td>Técnico/a De Mantenimiento De Ascensorees</td><td>Zaragoza</td><td>2026-08-30</td></tr>
+<tr><td>Indigo Telecom Group</td><td>L1 Field Engineer. Madrid, Spain</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>Grupo Hotusa</td><td>Técnico/a De Mantenimiento - Zaragoza</td><td>Zaragoza</td><td>2026-08-30</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Técnico/a De Mantenimiento De Ascensores - Madrid</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>ConfiARTE</td><td>Oficial De Mantenimiento Instrumentista – Planta Industrial</td><td>Salamanca</td><td>2026-08-30</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>OTB S.p.A</td><td>Client Advisor Madrid Boutique</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>OTB S.p.A</td><td>Client Advisor - Outlet Las Rozas</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>OTB S.p.A</td><td>Client Advisor - Madrid Fuencarral</td><td>Madrid</td><td>2026-08-30</td></tr>
+<tr><td>La Casa de las Carcasas</td><td>Sales Assistant - Annec Blau</td><td>Barcelona</td><td>2026-08-30</td></tr>
 </table>
