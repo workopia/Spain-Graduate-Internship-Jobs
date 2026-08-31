@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-30",
- "count": 519,
+ "asOf": "2026-08-31",
+ "count": 518,
  "jobs": {
   "27030": {
    "id": "27030",
@@ -24,6 +24,12 @@
    "id": "f0dfac110872fb0c74128671b56d0e3b",
    "company": "Coty",
    "role": "Demand Intern",
+   "location": "Barcelona"
+  },
+  "21ef97b37310e472b0a760267ed88c2c": {
+   "id": "21ef97b37310e472b0a760267ed88c2c",
+   "company": "Coty",
+   "role": "Material Masterdata Intern",
    "location": "Barcelona"
   },
   "7fb0843cdf437d75fe9fcb5160f90e71": {
@@ -53,6 +59,12 @@
   "ff3cf5d3f7d0737583e6b7d82c0800fc": {
    "id": "ff3cf5d3f7d0737583e6b7d82c0800fc",
    "company": "Sonymusicpub",
+   "role": "Hr Information Systems Internship",
+   "location": "Barcelona"
+  },
+  "fe5d6fbbb5dd7da93989694469bfcc1d": {
+   "id": "fe5d6fbbb5dd7da93989694469bfcc1d",
+   "company": "Sony",
    "role": "Hr Information Systems Internship",
    "location": "Barcelona"
   },
@@ -481,18 +493,6 @@
    "company": "Mercer",
    "role": "Employee Benefits Consulting Internship",
    "location": "Madrid"
-  },
-  "526da83113eb6e138f1a8289b928b51a": {
-   "id": "526da83113eb6e138f1a8289b928b51a",
-   "company": "Mercer",
-   "role": "Beca Seguros",
-   "location": "Madrid"
-  },
-  "169b59fa6344f93b9a803c524f19dfd5": {
-   "id": "169b59fa6344f93b9a803c524f19dfd5",
-   "company": "The Ritz-Carlton",
-   "role": "University Intern Europe - Hotel Arts Barcelona",
-   "location": "Barcelona"
   },
   "6f5b7169f53b7d5d0ebfe3536c8c8d73": {
    "id": "6f5b7169f53b7d5d0ebfe3536c8c8d73",
@@ -1028,6 +1028,12 @@
    "role": "Data Advisory And Insights Specialist",
    "location": "Madrid"
   },
+  "2a8eb82fd69576ad41f8f5151b4c2177": {
+   "id": "2a8eb82fd69576ad41f8f5151b4c2177",
+   "company": "ING Group",
+   "role": "Data Analyst",
+   "location": "Madrid"
+  },
   "6dc3b035036ebbdc4d509e34690f3a56": {
    "id": "6dc3b035036ebbdc4d509e34690f3a56",
    "company": "282",
@@ -1205,12 +1211,6 @@
   "beb103cc33ec5865867e2b7730ec4f1a": {
    "id": "beb103cc33ec5865867e2b7730ec4f1a",
    "company": "bankcarriere.nl",
-   "role": "Data Analyst",
-   "location": "Madrid"
-  },
-  "2a8eb82fd69576ad41f8f5151b4c2177": {
-   "id": "2a8eb82fd69576ad41f8f5151b4c2177",
-   "company": "ING Group",
    "role": "Data Analyst",
    "location": "Madrid"
   },
@@ -1490,27 +1490,21 @@
    "role": "Sales Analyst Trainee",
    "location": "Barcelona"
   },
-  "ec7bcc59f797d489d8917e470cfbe64b": {
-   "id": "ec7bcc59f797d489d8917e470cfbe64b",
-   "company": "Hydeparkbank",
-   "role": "Graduate Business Analyst",
-   "location": "Spain"
-  },
   "37489c462c5847bda9d2bcb9cb0f3509": {
    "id": "37489c462c5847bda9d2bcb9cb0f3509",
    "company": "Indra group",
    "role": "Consultor/a Sap",
    "location": "ES"
   },
-  "aeec2ccb553df2b1891b5187ac0a50e6": {
-   "id": "aeec2ccb553df2b1891b5187ac0a50e6",
-   "company": "Deutsche Bank UK",
+  "86233fd752dfcf2b386b079de65e4beb": {
+   "id": "86233fd752dfcf2b386b079de65e4beb",
+   "company": "DWS Group",
    "role": "Hr Business Advisory Analyst/business Advisor",
    "location": "Madrid"
   },
-  "3ce6df52345bba2353ca18cd12acbb0f": {
-   "id": "3ce6df52345bba2353ca18cd12acbb0f",
-   "company": "DWS Group",
+  "aeec2ccb553df2b1891b5187ac0a50e6": {
+   "id": "aeec2ccb553df2b1891b5187ac0a50e6",
+   "company": "Deutsche Bank UK",
    "role": "Hr Business Advisory Analyst/business Advisor",
    "location": "Madrid"
   },
@@ -1928,6 +1922,12 @@
    "role": "Técnico/a De Mantenimiento De Escaleras",
    "location": "Barcelona"
   },
+  "7decaf8988f0fd21ec0dd8e85625621f": {
+   "id": "7decaf8988f0fd21ec0dd8e85625621f",
+   "company": "KONE Bahrain",
+   "role": "Técnico/a De Mantenimiento De Escaleras",
+   "location": "Barcelona"
+  },
   "a9e7907a8f6cad7e32485a3e74b94ce2": {
    "id": "a9e7907a8f6cad7e32485a3e74b94ce2",
    "company": "57",
@@ -1949,6 +1949,12 @@
   "5544f7f04f66f1c8d414e8546b8c7358": {
    "id": "5544f7f04f66f1c8d414e8546b8c7358",
    "company": "KONE Bulgaria",
+   "role": "Técnico/a De Mantenimiento De Ascensores",
+   "location": "Madrid"
+  },
+  "f059a1cae080e83c39a3c552abe29b67": {
+   "id": "f059a1cae080e83c39a3c552abe29b67",
+   "company": "KONE Bahrain",
    "role": "Técnico/a De Mantenimiento De Ascensores",
    "location": "Madrid"
   },
@@ -2329,18 +2335,6 @@
    "company": "belantis.de",
    "role": "Técnico De Mantenimiento Electromecánico",
    "location": "Malaga"
-  },
-  "5d410f126f1ac7b2661ed2b259e953be": {
-   "id": "5d410f126f1ac7b2661ed2b259e953be",
-   "company": "Kone Corporation",
-   "role": "Técnico/a De Mantenimiento De Ascensorees",
-   "location": "Zaragoza"
-  },
-  "a7bb0abbe7d14c92dd9f6d184c3a35e9": {
-   "id": "a7bb0abbe7d14c92dd9f6d184c3a35e9",
-   "company": "57",
-   "role": "Técnico/a De Mantenimiento De Ascensorees",
-   "location": "Zaragoza"
   },
   "806dda637f10acf90eecee9ed95bdced": {
    "id": "806dda637f10acf90eecee9ed95bdced",

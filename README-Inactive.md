@@ -1365,4 +1365,10 @@
 <tr><td>OTB S.p.A</td><td>Client Advisor - Outlet Las Rozas</td><td>Madrid</td><td>2026-08-30</td></tr>
 <tr><td>OTB S.p.A</td><td>Client Advisor - Madrid Fuencarral</td><td>Madrid</td><td>2026-08-30</td></tr>
 <tr><td>La Casa de las Carcasas</td><td>Sales Assistant - Annec Blau</td><td>Barcelona</td><td>2026-08-30</td></tr>
+<tr><td>Mercer</td><td>Beca Seguros</td><td>Madrid</td><td>2026-08-31</td></tr>
+<tr><td>The Ritz-Carlton</td><td>University Intern Europe - Hotel Arts Barcelona</td><td>Barcelona</td><td>2026-08-31</td></tr>
+<tr><td>Hydeparkbank</td><td>Graduate Business Analyst</td><td>Spain</td><td>2026-08-31</td></tr>
+<tr><td>DWS Group</td><td>Hr Business Advisory Analyst/business Advisor</td><td>Madrid</td><td>2026-08-31</td></tr>
+<tr><td>Kone Corporation</td><td>Técnico/a De Mantenimiento De Ascensorees</td><td>Zaragoza</td><td>2026-08-31</td></tr>
+<tr><td>57</td><td>Técnico/a De Mantenimiento De Ascensorees</td><td>Zaragoza</td><td>2026-08-31</td></tr>
 </table>
