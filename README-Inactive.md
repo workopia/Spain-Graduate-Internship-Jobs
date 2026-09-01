@@ -1371,4 +1371,16 @@
 <tr><td>DWS Group</td><td>Hr Business Advisory Analyst/business Advisor</td><td>Madrid</td><td>2026-08-31</td></tr>
 <tr><td>Kone Corporation</td><td>Técnico/a De Mantenimiento De Ascensorees</td><td>Zaragoza</td><td>2026-08-31</td></tr>
 <tr><td>57</td><td>Técnico/a De Mantenimiento De Ascensorees</td><td>Zaragoza</td><td>2026-08-31</td></tr>
+<tr><td>Bureau Veritas</td><td>Becario/a Departamento De Pesca Sostenible</td><td>Madrid</td><td>2026-09-01</td></tr>
+<tr><td>ATREVIA</td><td>Beca De Rrll Y Administración De Personal - Atrevia Mad</td><td>Madrid</td><td>2026-09-01</td></tr>
+<tr><td>Payfit</td><td>Prácticas En Relaciones Laborales- Admin (inicio Septiembre 2026)</td><td>Barcelona</td><td>2026-09-01</td></tr>
+<tr><td>Melia</td><td>Prácticas Revenue</td><td>Islas Baleares</td><td>2026-09-01</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b Luxury Brands</td><td>Islas Baleares</td><td>2026-09-01</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b</td><td>Islas Baleares</td><td>2026-09-01</td></tr>
+<tr><td>Mercer</td><td>Beca Seguros Salud Y Vida</td><td>Madrid</td><td>2026-09-01</td></tr>
+<tr><td>Mercer</td><td>Employee Benefits Consulting Internship</td><td>Madrid</td><td>2026-09-01</td></tr>
+<tr><td>Telefonica</td><td>Geprom_software Engineer</td><td>Es</td><td>2026-09-01</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer P2p</td><td>Spain</td><td>2026-09-01</td></tr>
+<tr><td>Accenture</td><td>Agentic Ai Engineer</td><td>Barcelona</td><td>2026-09-01</td></tr>
+<tr><td>PIMEC Jobs</td><td>Aux Administrativo/a Comercial Con Francés</td><td>Maresme</td><td>2026-09-01</td></tr>
 </table>

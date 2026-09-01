@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-31",
- "count": 518,
+ "asOf": "2026-09-01",
+ "count": 519,
  "jobs": {
   "27030": {
    "id": "27030",
@@ -19,6 +19,48 @@
    "company": "Holded",
    "role": "Phone Support Specialist",
    "location": "Barcelona"
+  },
+  "57381e21fcd088e1a7c58916dd7d2821": {
+   "id": "57381e21fcd088e1a7c58916dd7d2821",
+   "company": "Coty",
+   "role": "Marketing Consumer Beauty Intern",
+   "location": "Barcelona"
+  },
+  "4a71fe3d00cb8b69297b0f0e7934696e": {
+   "id": "4a71fe3d00cb8b69297b0f0e7934696e",
+   "company": "TD SYNNEX",
+   "role": "Business Enablement Intern",
+   "location": "Barcelona"
+  },
+  "66b2b4dd15bc0641bc904ad67c86788b": {
+   "id": "66b2b4dd15bc0641bc904ad67c86788b",
+   "company": "Barcelo",
+   "role": "Prácticas Crm & Customer Intelligence / Personalization",
+   "location": "Gremi Fusters"
+  },
+  "2eb35b511a9b251e1c25718f3bb18bf0": {
+   "id": "2eb35b511a9b251e1c25718f3bb18bf0",
+   "company": "Inspired Education Group",
+   "role": "Care Assistant Internship",
+   "location": "Madrid"
+  },
+  "3b681b8923f9b6d2a4107f1b6045e2b4": {
+   "id": "3b681b8923f9b6d2a4107f1b6045e2b4",
+   "company": "Inspired Education Group",
+   "role": "Teaching Assistant Internship",
+   "location": "Madrid"
+  },
+  "f649dd1c7bb1d36cb77a114e4b09f175": {
+   "id": "f649dd1c7bb1d36cb77a114e4b09f175",
+   "company": "Boston Scientific Foundation Inc",
+   "role": "Financial Planning & Analysis Intern",
+   "location": "Madrid"
+  },
+  "3d1feb9f173591b15f8adb9142acaf80": {
+   "id": "3d1feb9f173591b15f8adb9142acaf80",
+   "company": "Ecolab Pty Ltd",
+   "role": "Commercial Administration Intern",
+   "location": "Catalonia"
   },
   "f0dfac110872fb0c74128671b56d0e3b": {
    "id": "f0dfac110872fb0c74128671b56d0e3b",
@@ -326,6 +368,12 @@
    "role": "Digitalization & Process Intern",
    "location": "Madrid"
   },
+  "67c0fea7094c2d0a8f78fd533b4f86f9": {
+   "id": "67c0fea7094c2d0a8f78fd533b4f86f9",
+   "company": "Flanks Privacy Policy",
+   "role": "Financial Integrator Intern",
+   "location": "Barcelona"
+  },
   "5a6d3afd385217371bdc12224cda297e": {
    "id": "5a6d3afd385217371bdc12224cda297e",
    "company": "Thales Group",
@@ -446,58 +494,16 @@
    "role": "¿quieres Hacer Tus Prácticas En Bureau Veritas? ¡únete A Bvacademy!",
    "location": "Madrid"
   },
-  "1918d6b1518a9b00a9f7e1cc39780810": {
-   "id": "1918d6b1518a9b00a9f7e1cc39780810",
-   "company": "Bureau Veritas",
-   "role": "Becario/a Departamento De Pesca Sostenible",
-   "location": "Madrid"
-  },
-  "0629331009d9b089cce207ea6be26ef0": {
-   "id": "0629331009d9b089cce207ea6be26ef0",
-   "company": "ATREVIA",
-   "role": "Beca De Rrll Y Administración De Personal - Atrevia Mad",
-   "location": "Madrid"
-  },
-  "8f92f0c7cb096ad6e0f294c90799b676": {
-   "id": "8f92f0c7cb096ad6e0f294c90799b676",
-   "company": "Payfit",
-   "role": "Prácticas En Relaciones Laborales- Admin (inicio Septiembre 2026)",
-   "location": "Barcelona"
-  },
-  "fe79d3c8d563cc2591f2c49767734130": {
-   "id": "fe79d3c8d563cc2591f2c49767734130",
-   "company": "Melia",
-   "role": "Prácticas Revenue",
-   "location": "Islas Baleares"
-  },
-  "9fff814ced8bcb41f8bf459cbd8bf1db": {
-   "id": "9fff814ced8bcb41f8bf459cbd8bf1db",
-   "company": "Melia",
-   "role": "Prácticas F&b Luxury Brands",
-   "location": "Islas Baleares"
-  },
-  "24119dc8094a64eec44931596f30bfef": {
-   "id": "24119dc8094a64eec44931596f30bfef",
-   "company": "Melia",
-   "role": "Prácticas F&b",
-   "location": "Islas Baleares"
-  },
-  "594f316c12acb71ffcebe70a8e36d61d": {
-   "id": "594f316c12acb71ffcebe70a8e36d61d",
-   "company": "Mercer",
-   "role": "Beca Seguros Salud Y Vida",
-   "location": "Madrid"
-  },
-  "f8c6181ef55cbca2d6a52aac6809d955": {
-   "id": "f8c6181ef55cbca2d6a52aac6809d955",
-   "company": "Mercer",
-   "role": "Employee Benefits Consulting Internship",
-   "location": "Madrid"
-  },
   "6f5b7169f53b7d5d0ebfe3536c8c8d73": {
    "id": "6f5b7169f53b7d5d0ebfe3536c8c8d73",
    "company": "Fever",
    "role": "Graduate Software Engineer",
+   "location": "Madrid"
+  },
+  "da5b386bbd1b312a1bc21489a05dbb64": {
+   "id": "da5b386bbd1b312a1bc21489a05dbb64",
+   "company": "Santander UK",
+   "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
    "location": "Madrid"
   },
   "b18846ab379e1625ad0af00af23530e8": {
@@ -535,6 +541,18 @@
    "company": "Atos",
    "role": "Técnico/a Helpdesk Nivel 2",
    "location": "Barcelona"
+  },
+  "19e5942d979dabb65309d28db3073b36": {
+   "id": "19e5942d979dabb65309d28db3073b36",
+   "company": "Jobgether",
+   "role": "Ai Augmented Software Engineer [gn] Data Intelligence Platform",
+   "location": "Spain"
+  },
+  "6702212058a180ff288f972b73b302ce": {
+   "id": "6702212058a180ff288f972b73b302ce",
+   "company": "Jobgether",
+   "role": "Software Engineer (python) — Programmable Networking",
+   "location": "Spain"
   },
   "2a1db2ad5eae4c6408510022151d8923": {
    "id": "2a1db2ad5eae4c6408510022151d8923",
@@ -842,12 +860,6 @@
    "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
    "location": "Madrid"
   },
-  "da5b386bbd1b312a1bc21489a05dbb64": {
-   "id": "da5b386bbd1b312a1bc21489a05dbb64",
-   "company": "Santander UK",
-   "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
-   "location": "Madrid"
-  },
   "e70fdbbe404f00cd0d2081147fc76a47": {
    "id": "e70fdbbe404f00cd0d2081147fc76a47",
    "company": "Nouryon",
@@ -962,18 +974,6 @@
    "role": "Software Engineer 2 (frontend)",
    "location": "Barcelona"
   },
-  "24a8727e5740d18cf8d754736b1cd1a5": {
-   "id": "24a8727e5740d18cf8d754736b1cd1a5",
-   "company": "Telefonica",
-   "role": "Geprom_software Engineer",
-   "location": "Es"
-  },
-  "ddc686593bf7491e92fd6c30458a71cd": {
-   "id": "ddc686593bf7491e92fd6c30458a71cd",
-   "company": "Jobgether",
-   "role": "Software Engineer P2p",
-   "location": "Spain"
-  },
   "9476aeadd9fdfc331cbe374f64e3d4db": {
    "id": "9476aeadd9fdfc331cbe374f64e3d4db",
    "company": "TD SYNNEX",
@@ -985,6 +985,12 @@
    "company": "TD SYNNEX Accessboard",
    "role": "Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)",
    "location": "Barcelona"
+  },
+  "b9c6b466829628bb3d4f15b10d5b3cea": {
+   "id": "b9c6b466829628bb3d4f15b10d5b3cea",
+   "company": "Avangrid",
+   "role": "Especialista Transformación Ia",
+   "location": "Madrid"
   },
   "afc8ea3b24ae9e0a9fbbe8f0d2180114": {
    "id": "afc8ea3b24ae9e0a9fbbe8f0d2180114",
@@ -1400,12 +1406,6 @@
    "role": "Data Scientist",
    "location": "Madrid"
   },
-  "4b6f8e3925bdfe56ee6f07720c35372d": {
-   "id": "4b6f8e3925bdfe56ee6f07720c35372d",
-   "company": "Accenture",
-   "role": "Agentic Ai Engineer",
-   "location": "Barcelona"
-  },
   "dfbe18dd5884bd47b5fab594388f56c9": {
    "id": "dfbe18dd5884bd47b5fab594388f56c9",
    "company": "Bankstcharles",
@@ -1489,6 +1489,12 @@
    "company": "EssilorLuxottica SA",
    "role": "Sales Analyst Trainee",
    "location": "Barcelona"
+  },
+  "90cfd508c5d2f588d4eeea9b00ec0c67": {
+   "id": "90cfd508c5d2f588d4eeea9b00ec0c67",
+   "company": "282",
+   "role": "Mifid Private Banking Control Specialist",
+   "location": "Madrid"
   },
   "37489c462c5847bda9d2bcb9cb0f3509": {
    "id": "37489c462c5847bda9d2bcb9cb0f3509",
@@ -2816,6 +2822,12 @@
    "role": "Sales Advisor / C.c Plaza Norte 2 - St.sebastian Reyes/ Part Time 24h / Interinidad",
    "location": "Madrid"
   },
+  "ceeba7bcb67cfb6c20795ff21bb9a9ea": {
+   "id": "ceeba7bcb67cfb6c20795ff21bb9a9ea",
+   "company": "Mt",
+   "role": "Communication And Administrative Coordinator",
+   "location": "Barcelona"
+  },
   "f2425c21a52d9308d0a01c4e9ad08e31": {
    "id": "f2425c21a52d9308d0a01c4e9ad08e31",
    "company": "Ball",
@@ -3103,12 +3115,6 @@
    "company": "Temporing",
    "role": "Administrativo/a Customer Service - Sant Boi De Llobregat",
    "location": "Barcelona"
-  },
-  "67cd38394bf536f4f11133c2de79178e": {
-   "id": "67cd38394bf536f4f11133c2de79178e",
-   "company": "PIMEC Jobs",
-   "role": "Aux Administrativo/a Comercial Con Francés",
-   "location": "Maresme"
   }
  }
 }
