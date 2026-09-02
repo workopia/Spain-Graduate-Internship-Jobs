@@ -1383,4 +1383,35 @@
 <tr><td>Jobgether</td><td>Software Engineer P2p</td><td>Spain</td><td>2026-09-01</td></tr>
 <tr><td>Accenture</td><td>Agentic Ai Engineer</td><td>Barcelona</td><td>2026-09-01</td></tr>
 <tr><td>PIMEC Jobs</td><td>Aux Administrativo/a Comercial Con Francés</td><td>Maresme</td><td>2026-09-01</td></tr>
+<tr><td>Coty Inc.</td><td>Demand Intern</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>Ferrovial</td><td>Digitalization & Process Intern</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>Flanks Privacy Policy</td><td>Financial Integrator Intern</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>Thales Group</td><td>Finance Intern</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>THALES</td><td>Finance Intern</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>Signify</td><td>Order Management Internship</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>Telefonica</td><td>Tech_25 Becas Telefónica Tech</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Wayra Innovation Services</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Ai Factory</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>Telefonica</td><td>Telefónica_foro_empleo_upm_2025</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>Telefonica</td><td>Tech_10 Becas Finanzas, Datos, Y Consultoria Negocio</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>Philips</td><td>Becario Logística</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>Philjobs</td><td>Becario Logística</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>Coty Inc.</td><td>Visibility & Merchandising Intern</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Customer Success Management (digital)</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Public Sector Industry Team</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Internship - Ambassador Program Intern</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Talent Journey Coordinator Internship</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Global Partner Business Development</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>Avolta</td><td>Intern Supply Chain</td><td>Es</td><td>2026-09-02</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Retribución Ejecutiva</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Infraestructura Reef</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>Bureau Veritas</td><td>¿quieres Hacer Tus Prácticas En Bureau Veritas? ¡únete A Bvacademy!</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>Jobgether</td><td>Software Craftsperson/node.js/react.js/ai</td><td>Spain</td><td>2026-09-02</td></tr>
+<tr><td>N26 GmbH</td><td>Backend Engineer - Lending</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>Element Logic</td><td>Incident Support Specialist</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>EndressHauser AG</td><td>Técnico/a De Soporte Instrumentación Industrial</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>New Relic Inc</td><td>Software Engineer 2 (frontend)</td><td>Barcelona</td><td>2026-09-02</td></tr>
+<tr><td>Airbus Operations SL</td><td>Applications Technician For Industrial Maintenance Area</td><td>Madrid</td><td>2026-09-02</td></tr>
+<tr><td>belantis.de</td><td>Técnico De Mantenimiento Electromecánico</td><td>Malaga</td><td>2026-09-02</td></tr>
+<tr><td>Ball</td><td>Manufacturing Excellence Specialist</td><td>Llinars Del VallèS</td><td>2026-09-02</td></tr>
 </table>
