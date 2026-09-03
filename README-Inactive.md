@@ -1414,4 +1414,32 @@
 <tr><td>Airbus Operations SL</td><td>Applications Technician For Industrial Maintenance Area</td><td>Madrid</td><td>2026-09-02</td></tr>
 <tr><td>belantis.de</td><td>Técnico De Mantenimiento Electromecánico</td><td>Malaga</td><td>2026-09-02</td></tr>
 <tr><td>Ball</td><td>Manufacturing Excellence Specialist</td><td>Llinars Del VallèS</td><td>2026-09-02</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Penguin Aula</td><td>Barcelona</td><td>2026-09-03</td></tr>
+<tr><td>SAP Concur</td><td>Sap Ixp Intern- Demand Management - Curricular Internship</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>SAP Concur</td><td>Sap Ixp Intern (ai & Innovation Focus) - Emea Partner Ecosystem Growth</td><td>Barcelona</td><td>2026-09-03</td></tr>
+<tr><td>Sandoz</td><td>Communications Trainee</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>Primark</td><td>Beca Formación Y Desarrollo</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Brands Ads Global Hq</td><td>Barcelona</td><td>2026-09-03</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Regions Spain</td><td>Cn</td><td>2026-09-03</td></tr>
+<tr><td>Glovo</td><td>Intern Regions Spain</td><td>Barcelona</td><td>2026-09-03</td></tr>
+<tr><td>Bunge</td><td>Indirect Tax Intern</td><td>Barcelona</td><td>2026-09-03</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Revenue - Eurostars Hotel Company</td><td>Barcelona</td><td>2026-09-03</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Área Comercial - Sector Hoteles / Madrid</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Employee Benefits Consulting Internship</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>Ferrovial SE</td><td>Digitalization & Process Intern</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>Amey (Ferrovial)</td><td>Digitalization & Process Intern</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Desarrollo De Aplicaciones En Tiempo Real (c++)</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Desarrollo Software C++</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Desarrollo Software De Radares</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>New Relic Inc</td><td>Software Engineer Ii - Backend</td><td>Barcelona</td><td>2026-09-03</td></tr>
+<tr><td>Indra group</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-09-03</td></tr>
+<tr><td>Indra group</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-09-03</td></tr>
+<tr><td>HARTMANN</td><td>Técnico Eléctrico De Turno (fines De Semana)</td><td>Barcelona</td><td>2026-09-03</td></tr>
+<tr><td>Dover</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Applications Technician For Industrial Maintenance Area</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>H&M</td><td>Sales Advisor (20 Horas)</td><td>Barcelona</td><td>2026-09-03</td></tr>
+<tr><td>beonit</td><td>Vendedor/a De Accesorios De Telefonía</td><td>Barcelona</td><td>2026-09-03</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c Plaza Norte 2 - St.sebastian Reyes/ Part Time 24h / Interinidad</td><td>Madrid</td><td>2026-09-03</td></tr>
+<tr><td>Temporing</td><td>Auxiliar Administrativo/a</td><td>Orozko</td><td>2026-09-03</td></tr>
 </table>
