@@ -1442,4 +1442,68 @@
 <tr><td>beonit</td><td>Vendedor/a De Accesorios De Telefonía</td><td>Barcelona</td><td>2026-09-03</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor / C.c Plaza Norte 2 - St.sebastian Reyes/ Part Time 24h / Interinidad</td><td>Madrid</td><td>2026-09-03</td></tr>
 <tr><td>Temporing</td><td>Auxiliar Administrativo/a</td><td>Orozko</td><td>2026-09-03</td></tr>
+<tr><td>Estée Lauder</td><td>Visual Merchandising Intern</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Regional Compliance Intern</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Inspired Education Group</td><td>Care Assistant Internship</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>Inspired Education Group</td><td>Teaching Assistant Internship</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>Boston Scientific Foundation Inc</td><td>Financial Planning & Analysis Intern</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Commercial Administration Intern</td><td>Catalonia</td><td>2026-09-04</td></tr>
+<tr><td>Coty</td><td>Demand Intern</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Coty</td><td>Material Masterdata Intern</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Circular&value Added Lab</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Finance - September 2026</td><td>Esplugues Llobregat</td><td>2026-09-04</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Operations - September 2026</td><td>Esplugues Llobregat</td><td>2026-09-04</td></tr>
+<tr><td>Nestle SA</td><td>Prácticas En Recursos Humanos / Fábrica Nestlé Purina Castellbisbal</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Sonymusicpub</td><td>Hr Information Systems Internship</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Sony</td><td>Hr Information Systems Internship</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Fever</td><td>Global Operations Intern - Start January 2027</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>Coty Inc.</td><td>Material Masterdata Intern</td><td>Barcelona Hub</td><td>2026-09-04</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Junior Powerapps Developer Intern</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Hr Labor Relations Internship</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>RENAULT ESPAÑA, S.A.</td><td>Becario</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>IHG</td><td>Revenue Internship - Intercontinental Madrid</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>InterContinental Hotels Group (IHG)</td><td>Revenue Internship - Intercontinental Madrid</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Revenue Internship - Intercontinental Madrid</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Intern</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>Inspired Education Group</td><td>Internship Opportunity - Administration & Management</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Nordex SE</td><td>Pmd Process & Automation Intern (m/f/d)</td><td>Mutilva</td><td>2026-09-04</td></tr>
+<tr><td>Nordex SE</td><td>Global Mobility Intern (m/f/d)</td><td>Barasoain</td><td>2026-09-04</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Blades Production Special Tools And Equipment Intern (m/f/d)</td><td>Tajonar</td><td>2026-09-04</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Special Tools & Equipment Intern (m/f/d)</td><td>Tajonar</td><td>2026-09-04</td></tr>
+<tr><td>Nordex SE</td><td>Industrialization Intern (m/f/d)</td><td>Tajonar</td><td>2026-09-04</td></tr>
+<tr><td>Nordex SE</td><td>Major Correctives Intern (m/f/d)</td><td>Imarcoain</td><td>2026-09-04</td></tr>
+<tr><td>Nordex SE</td><td>Project Manager Support Intern (m/f/d)</td><td>Tajonar</td><td>2026-09-04</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Claim Management Intern (m/f/d)</td><td>Tajonar</td><td>2026-09-04</td></tr>
+<tr><td>GFT Technologies Canada Inc</td><td>Hr Operations Intern / Departamento People</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Tokio Marine HCC</td><td>Financial Analyst Intern Native French And/or Dutch (based In Barcelona)</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Worldtrips</td><td>Financial Analyst Intern Native French And/or Dutch (based In Barcelona)</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Yaizateinforma</td><td>Beca Young Lions Generali / Beca En Áreas De Proyectos Y Business Intelligence (bi)</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>Celonis</td><td>(graduated) Intern Academy Operations & Technology</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Comunicación</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas- Edición Técnica</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>MECALUX SA</td><td>Backend Developer</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Accenture</td><td>Analista Identity Security</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Technical Service Representative</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Jobgether</td><td>Go Developer - Ai & Ml</td><td>Spain</td><td>2026-09-04</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - (connect Platform)</td><td>Spain</td><td>2026-09-04</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Infrastructure</td><td>Spain</td><td>2026-09-04</td></tr>
+<tr><td>D-EDGE</td><td>Technical Support Specialist (m/f/nb) Fixed-term Contract</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Backend - Core/api & Process Automation</td><td>Spain</td><td>2026-09-04</td></tr>
+<tr><td>Jobgether</td><td>Dotnetcore Developers</td><td>Spain</td><td>2026-09-04</td></tr>
+<tr><td>Swiss Re</td><td>Ai Engineer</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Sales Analyst Trainee</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>KION North America Corporation</td><td>Workshop Service Engineer</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Workshop Service Engineer</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>fenwick-linde.fr</td><td>Workshop Service Engineer</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets</td><td>Salamanca</td><td>2026-09-04</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Ventas En Mm Service Pro-outlet 20h Sustitución</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>Timberland Com Tr</td><td>Vendedor/a 40h - Timberland - Madrid (preciados)</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>skechers.dk</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>VFC Corporation</td><td>Vendedor/a 40h - Timberland - Madrid (preciados)</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>VF Corporation</td><td>Vendedor/a 40h - Timberland - Madrid (preciados)</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>Kave Home</td><td>Asesor/a Ventas 30h - Barcelona</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>PIMEC Jobs</td><td>Mozo/a Almacén</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>Temporing</td><td>Dependiente/a 30 Horas Semanales</td><td>Barcelona</td><td>2026-09-04</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate Shop In Shop Campo Naciones Womenswear Whs 16h (f/m/x)</td><td>Madrid</td><td>2026-09-04</td></tr>
 </table>
