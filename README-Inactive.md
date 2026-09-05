@@ -1506,4 +1506,37 @@
 <tr><td>PIMEC Jobs</td><td>Mozo/a Almacén</td><td>Barcelona</td><td>2026-09-04</td></tr>
 <tr><td>Temporing</td><td>Dependiente/a 30 Horas Semanales</td><td>Barcelona</td><td>2026-09-04</td></tr>
 <tr><td>HUGO BOSS AG</td><td>Sales Associate Shop In Shop Campo Naciones Womenswear Whs 16h (f/m/x)</td><td>Madrid</td><td>2026-09-04</td></tr>
+<tr><td>SLS Barcelona</td><td>Culinary Intern</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>SIX</td><td>Quantitative Analyst Internship</td><td>Madrid</td><td>2026-09-05</td></tr>
+<tr><td>SIX</td><td>Asset Servicing Internship</td><td>Madrid</td><td>2026-09-05</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Beca Consultoria / Ingenieria Claims Solutions</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Beca Consultoria / Ingenieria Claims Solutions</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>Innovamat Education</td><td>Digital Math Education Intern</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (ai & Innovation Focus) - Emea Partner Ecosystem Growth</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern- Demand Management - Curricular Internship</td><td>Madrid</td><td>2026-09-05</td></tr>
+<tr><td>Boston Scientific</td><td>Financial Planning & Analysis Intern</td><td>Madrid</td><td>2026-09-05</td></tr>
+<tr><td>Industria de Turbo Propulsores, S.A</td><td>Beca Riesgos , Control Interno Y Auditoría Interna (f/m/x)</td><td>Alcobendas</td><td>2026-09-05</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Intern - Customer Success Management (digital)</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Intern - Public Sector Industry Team</td><td>Madrid</td><td>2026-09-05</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Internship - Ambassador Program Intern</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Intern - Talent Journey Coordinator Internship</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>SAP</td><td>Sap Ixp Intern - Global Partner Business Development</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>SAP</td><td>Sap Ixp Intern (ai & Innovation Focus) - Emea Partner Ecosystem Growth</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>SAP</td><td>Sap Ixp Intern- Demand Management - Curricular Internship</td><td>Madrid</td><td>2026-09-05</td></tr>
+<tr><td>Coty Inc.</td><td>Marketing Consumer Beauty Intern</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>Coty Inc.</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>Coty Inc.</td><td>Warehouse Intern</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>Coty Inc.</td><td>Site Planner Intern</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>Coty Inc.</td><td>Npd Intern</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>Coty Inc.</td><td>Demand Intern</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>Softtek</td><td>Software Engineer Frontend Respnsive Pr</td><td>Madrid</td><td>2026-09-05</td></tr>
+<tr><td>Concentrix</td><td>Remote Support Engineer - Barcelona (french-speaking) - Onsite/hybrid After Probation - Hd01</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-09-05</td></tr>
+<tr><td>ING</td><td>Data Analyst</td><td>Madrid</td><td>2026-09-05</td></tr>
+<tr><td>Minsait</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Madrid</td><td>2026-09-05</td></tr>
+<tr><td>BAXTER HEALTHCARE PTY AUS</td><td>Técnico/a De Mantenimiento Electromecánico</td><td>Zaragoza</td><td>2026-09-05</td></tr>
+<tr><td>Schindler Group</td><td>Técnico/a De Mantenimiento De Ascensores - Madrid</td><td>Madrid</td><td>2026-09-05</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo Viladecans</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - 28h Mango Ot Terrassa Parc Valles</td><td>Barcelona</td><td>2026-09-05</td></tr>
 </table>
