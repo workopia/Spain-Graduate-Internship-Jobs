@@ -1539,4 +1539,70 @@
 <tr><td>Schindler Group</td><td>Técnico/a De Mantenimiento De Ascensores - Madrid</td><td>Madrid</td><td>2026-09-05</td></tr>
 <tr><td>adidas AG</td><td>Sales Associate - Fo Viladecans</td><td>Barcelona</td><td>2026-09-05</td></tr>
 <tr><td>Mango</td><td>Vendedor/a - 28h Mango Ot Terrassa Parc Valles</td><td>Barcelona</td><td>2026-09-05</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Global Partner Business Development</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern- Demand Management - Curricular Internship</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (ai & Innovation Focus) - Emea Partner Ecosystem Growth</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Coty</td><td>Hr Operations Intern</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Johnson & Johnson</td><td>Marketing And Medical Affairs Department Internship</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Bosch Group</td><td>Estudiante En Prácticas - Economía Y Organización Ctg/ico</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>ACCIONA</td><td>Beca Dpto. Producción</td><td>San AgustíN De Guadalix</td><td>2026-09-06</td></tr>
+<tr><td>164</td><td>Beca Dpto. Producción</td><td>San AgustíN De Guadalix</td><td>2026-09-06</td></tr>
+<tr><td>ACCIONA</td><td>Beca Fp Practicas Sea (valportillo)</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>ACCIONA</td><td>Fp Dual - Beca Desarrollo De App Multiplataforma - Crm</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>ACCIONA</td><td>Beca Ditec</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>164</td><td>Beca Fp Practicas Sea (valportillo)</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>164</td><td>Fp Dual - Beca Desarrollo De App Multiplataforma - Crm</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>164</td><td>Beca Ditec</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Bureau Veritas</td><td>¿quieres Hacer Tus Prácticas En Bureau Veritas? ¡únete A Bvacademy!</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Bureau Veritas</td><td>Becario/a Departamento De Pesca Sostenible</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>avoltaworld</td><td>Intern Supply Chain</td><td>Spain</td><td>2026-09-06</td></tr>
+<tr><td>RWE AG</td><td>Internship Solar Operations (12 Months) D/f/m</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Melia</td><td>Trainee Reservas - Gran Meliá</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Boston Consulting Group</td><td>Hr Trainee - 12 Months Internship (recently Graduated)</td><td>SEARCH</td><td>2026-09-06</td></tr>
+<tr><td>HERBERT SMITH FREEHILLS</td><td>Prácticas Máster De Acceso</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Credit Operations Intern</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Energy Assessment Intern</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>The Ritz-Carlton</td><td>F&b Trainee - The Barcelona Edition</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Solunion</td><td>Solunion First Steps - Programa De Prácticas</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Instructor Intern - Training School</td><td>Almaraz</td><td>2026-09-06</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Radiation Engineering & Analysis Intern</td><td>Salamanca</td><td>2026-09-06</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Ssa Intern</td><td>Salamanca</td><td>2026-09-06</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Environment, Health And Safety Intern</td><td>Salamanca</td><td>2026-09-06</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Maintenance Intern</td><td>Salamanca</td><td>2026-09-06</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Electrical Test Intern</td><td>Salamanca</td><td>2026-09-06</td></tr>
+<tr><td>ING</td><td>Intern - Global Investment Centre Spain</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Celonis</td><td>Intern Global Customer Advocacy</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Inspired Education Group</td><td>School Intern</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Thales Group</td><td>Intelligence Trainee Madrid</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Valeo</td><td>Prácticas En El Área De Prevención De Riesgos Laborales</td><td>Zaragoza</td><td>2026-09-06</td></tr>
+<tr><td>Abbott</td><td>Field Tehcnical Engineer Internship - Ep - Galicia</td><td>Galicia</td><td>2026-09-06</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Field Tehcnical Engineer Internship - Ep - Galicia</td><td>Galicia</td><td>2026-09-06</td></tr>
+<tr><td>HORSE</td><td>Internship Beca Sap Integration Deployment Support</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Alter Domus</td><td>Finance Intern</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>DIA</td><td>Beca Control Interno Y Gestión De Riesgos</td><td>Sede</td><td>2026-09-06</td></tr>
+<tr><td>ALOHAS</td><td>Off-price Back Office (internship)</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Verisure S.A.</td><td>Group Hr Strategy (c&b) Intern</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Valeo</td><td>Prácticas En El Área De Facilities</td><td>Zaragoza</td><td>2026-09-06</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Administración Economato Madrid</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>DABA, SA</td><td>Crm Intern</td><td>Spain</td><td>2026-09-06</td></tr>
+<tr><td>Coty</td><td>Marketing Consumer Beauty Intern</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>TD SYNNEX</td><td>Business Enablement Intern</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Barcelo</td><td>Prácticas Crm & Customer Intelligence / Personalization</td><td>Gremi Fusters</td><td>2026-09-06</td></tr>
+<tr><td>Aquila Group</td><td>Intern (f/m/d) Asset Management - Renwable Energy</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Food & Beverage: Operations & Administrative Intern</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Swiss Re</td><td>Ai Engineer</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Daon</td><td>Data Scientist (computer Vision)</td><td>Dublin +2</td><td>2026-09-06</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Claims - Análisis De Datos</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Levis Media</td><td>Data Scientist</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Beca Claims - Análisis De Datos</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist: Product & Analytics</td><td>Spain</td><td>2026-09-06</td></tr>
+<tr><td>Ivivamedical</td><td>Data Scientist</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Grupo Hotusa</td><td>Técnico De Mantenimiento Hotel 4*</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>Ahorramas, S.A</td><td>Técnico/a Mantenimiento De Instalaciones Automatizadas</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Baxconnect</td><td>Técnico/a De Mantenimiento Electromecánico</td><td>Zaragoza</td><td>2026-09-06</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>beonit</td><td>Estudiante Con Habilidades Comerciales - Goya</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Pradagroup</td><td>Client Advisor - Mens Department</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>brunellocucinelli.career</td><td>Sales Associate - Las Rozas</td><td>Madrid</td><td>2026-09-06</td></tr>
+<tr><td>Mango</td><td>Mozo/a De Almacen - Lliça D'amunt</td><td>Barcelona</td><td>2026-09-06</td></tr>
 </table>
