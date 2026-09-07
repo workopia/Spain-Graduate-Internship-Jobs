@@ -1605,4 +1605,5 @@
 <tr><td>Pradagroup</td><td>Client Advisor - Mens Department</td><td>Madrid</td><td>2026-09-06</td></tr>
 <tr><td>brunellocucinelli.career</td><td>Sales Associate - Las Rozas</td><td>Madrid</td><td>2026-09-06</td></tr>
 <tr><td>Mango</td><td>Mozo/a De Almacen - Lliça D'amunt</td><td>Barcelona</td><td>2026-09-06</td></tr>
+<tr><td>164</td><td>Técnico/a De Consolidación Y Reporting Acciona Energía</td><td>Madrid</td><td>2026-09-07</td></tr>
 </table>

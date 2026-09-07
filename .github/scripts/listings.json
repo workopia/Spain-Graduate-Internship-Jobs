@@ -9,11 +9,11 @@
   "site_slug": "spain",
   "lang": "es",
   "site_live": false,
-  "as_of": "2026-09-06",
+  "as_of": "2026-09-07",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 4032,
-  "generated_at": "2026-09-06T00:48:15.315Z"
+  "generated_at": "2026-09-07T00:50:21.088Z"
  },
  "categories": [
   {
@@ -5732,23 +5732,6 @@
    "date_posted": "2026-07-09T09:22:56.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/ddb1c7310636581b43aa5e09d27e8dfe",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "33cbd89f90713a1208f6f7f2c320dd48",
-   "source": "Workopia",
-   "company_name": "164",
-   "company_hi_slug": null,
-   "title": "Técnico/a De Consolidación Y Reporting Acciona Energía",
-   "location": "Madrid",
-   "skills": "IFRS, SAP Business Planning ",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-08T06:18:31.233Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/33cbd89f90713a1208f6f7f2c320dd48",
    "category": "finance",
    "tier": "Entry-level"
   },

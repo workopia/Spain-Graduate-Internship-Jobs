@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-06",
- "count": 547,
+ "asOf": "2026-09-07",
+ "count": 546,
  "jobs": {
   "42686": {
    "id": "42686",
@@ -2005,12 +2005,6 @@
    "company": "Keyfactorinc",
    "role": "Accountant",
    "location": "Barcelona"
-  },
-  "33cbd89f90713a1208f6f7f2c320dd48": {
-   "id": "33cbd89f90713a1208f6f7f2c320dd48",
-   "company": "164",
-   "role": "Técnico/a De Consolidación Y Reporting Acciona Energía",
-   "location": "Madrid"
   },
   "1f713b4f64794491ab8f1f465e6a8619": {
    "id": "1f713b4f64794491ab8f1f465e6a8619",
