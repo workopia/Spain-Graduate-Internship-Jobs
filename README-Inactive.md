@@ -1606,4 +1606,38 @@
 <tr><td>brunellocucinelli.career</td><td>Sales Associate - Las Rozas</td><td>Madrid</td><td>2026-09-06</td></tr>
 <tr><td>Mango</td><td>Mozo/a De Almacen - Lliça D'amunt</td><td>Barcelona</td><td>2026-09-06</td></tr>
 <tr><td>164</td><td>Técnico/a De Consolidación Y Reporting Acciona Energía</td><td>Madrid</td><td>2026-09-07</td></tr>
+<tr><td>Valeo SA</td><td>Prácticas En Garantías</td><td>Zaragoza</td><td>2026-09-08</td></tr>
+<tr><td>Valeo Service</td><td>Prácticas En Garantías</td><td>Zaragoza</td><td>2026-09-08</td></tr>
+<tr><td>Pfizer</td><td>Beca En Finanzas - Planta De Producción Farmacéutica</td><td>Salamanca</td><td>2026-09-08</td></tr>
+<tr><td>pfizer.hu</td><td>Beca En Finanzas - Planta De Producción Farmacéutica</td><td>Salamanca</td><td>2026-09-08</td></tr>
+<tr><td>Pfizer Venezuela S.A</td><td>Beca En Finanzas - Planta De Producción Farmacéutica</td><td>Salamanca</td><td>2026-09-08</td></tr>
+<tr><td>pfizer.co.ke</td><td>Beca En Finanzas - Planta De Producción Farmacéutica</td><td>Salamanca</td><td>2026-09-08</td></tr>
+<tr><td>pfizer.ch</td><td>Beca En Finanzas - Planta De Producción Farmacéutica</td><td>Salamanca</td><td>2026-09-08</td></tr>
+<tr><td>Abbott</td><td>Field Service Fp Internship - Madrid - Core Lab</td><td>Madrid</td><td>2026-09-08</td></tr>
+<tr><td>164</td><td>Beca Sistemas De Seguridad</td><td>Madrid</td><td>2026-09-08</td></tr>
+<tr><td>164</td><td>Beca Ingeniería Mantenimiento</td><td>Zaragoza</td><td>2026-09-08</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición Técnica</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Penguin Aula</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Franchise Operations</td><td>Madrid</td><td>2026-09-08</td></tr>
+<tr><td>Bunge</td><td>Indirect Tax Intern</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>The Ritz-Carlton</td><td>F&b Trainee</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Operational Internship- The Madrid Edition</td><td>Madrid</td><td>2026-09-08</td></tr>
+<tr><td>Marriott International</td><td>Operational Internship- The Madrid Edition</td><td>Madrid</td><td>2026-09-08</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Customer Success Management (digital)</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Public Sector Industry Team</td><td>Madrid</td><td>2026-09-08</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Internship - Ambassador Program Intern</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Talent Journey Coordinator Internship</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds</td><td>Madrid</td><td>2026-09-08</td></tr>
+<tr><td>Nouryon</td><td>Technical Service Representative</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>Jobgether</td><td>Game Developer - Voxel-based Engine (java)</td><td>Spain</td><td>2026-09-08</td></tr>
+<tr><td>Amadeus Data Processing GmbH</td><td>Associate Data Analyst</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>Raona</td><td>Ai Product Builder</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>DXC Technology Australia & New Zealand</td><td>Consultor/a De Negocio (industria, Procesos, Cross)</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>Keyfactorinc</td><td>Accountant</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>KONE Romania</td><td>Técnico/a Mantenimiento Ascensores</td><td>Madrid</td><td>2026-09-08</td></tr>
+<tr><td>obramat.es</td><td>Vendedor/a Materiales (it)_almacén Sabadell</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>ANZ</td><td>Asesor/a Comercial (santa Coloma)</td><td>Barcelona</td><td>2026-09-08</td></tr>
+<tr><td>VFC Corporation</td><td>Vendedor/a 10h Montera - Vans</td><td>Madrid</td><td>2026-09-08</td></tr>
+<tr><td>Mango</td><td>Vendedor 25h</td><td>Madrid</td><td>2026-09-08</td></tr>
 </table>

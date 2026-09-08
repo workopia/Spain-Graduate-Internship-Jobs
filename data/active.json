@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-07",
+ "asOf": "2026-09-08",
  "count": 546,
  "jobs": {
   "42686": {
@@ -13,6 +13,126 @@
    "company": "Holded",
    "role": "Phone Support Specialist",
    "location": "Barcelona"
+  },
+  "894309d20c37620e8094cc8018fa28b5": {
+   "id": "894309d20c37620e8094cc8018fa28b5",
+   "company": "Inspired Education Group",
+   "role": "School Intern",
+   "location": "Barcelona"
+  },
+  "7a68e17fb4a24821fa50f50620a4809c": {
+   "id": "7a68e17fb4a24821fa50f50620a4809c",
+   "company": "El Colegio Británico / The British School",
+   "role": "Internship Opportunities - El Colegio Británico / The British School",
+   "location": "Madrid"
+  },
+  "48dfc7c3d9263f7f69d602f98d671d21": {
+   "id": "48dfc7c3d9263f7f69d602f98d671d21",
+   "company": "Inspired Education Group",
+   "role": "Care Assistant Internship",
+   "location": "Madrid"
+  },
+  "0b8d62b0d5add1ce92796f7a43e0cc13": {
+   "id": "0b8d62b0d5add1ce92796f7a43e0cc13",
+   "company": "Inspired Education Group",
+   "role": "Teaching Assistant Internship",
+   "location": "Madrid"
+  },
+  "c9dcde983a05a079437c3d228fcbe4e2": {
+   "id": "c9dcde983a05a079437c3d228fcbe4e2",
+   "company": "Valeo",
+   "role": "Internship: Plastic Injection Tooling Engineer",
+   "location": "Jaen"
+  },
+  "1540f8f72c5a4dcb1b634f216dd52d53": {
+   "id": "1540f8f72c5a4dcb1b634f216dd52d53",
+   "company": "valeo.in",
+   "role": "Prácticas En El Área De Métodos-procesos",
+   "location": "Zaragoza"
+  },
+  "5079f312f4dd3f7bccf489bf585ebddd": {
+   "id": "5079f312f4dd3f7bccf489bf585ebddd",
+   "company": "valeo.in",
+   "role": "Process Engineer Ptm Internship",
+   "location": "Jaen"
+  },
+  "83f068ac119ce9317acb23a7bec7d044": {
+   "id": "83f068ac119ce9317acb23a7bec7d044",
+   "company": "Valeo",
+   "role": "Finance Internship",
+   "location": "Jaen"
+  },
+  "b5c695fe18ac4e72cff67961706c1a9b": {
+   "id": "b5c695fe18ac4e72cff67961706c1a9b",
+   "company": "valeo.in",
+   "role": "Test & Validation Internship",
+   "location": "Jaen"
+  },
+  "055611b1a1c74de666da92a55941aa96": {
+   "id": "055611b1a1c74de666da92a55941aa96",
+   "company": "valeo.in",
+   "role": "Optic Engineer Internship",
+   "location": "Jaen"
+  },
+  "44c355062ffaec506d64735e7b8769c7": {
+   "id": "44c355062ffaec506d64735e7b8769c7",
+   "company": "Valeo",
+   "role": "Project Quality Internship",
+   "location": "Jaen"
+  },
+  "91514b81abe2e6b76f3b3a996226c7d0": {
+   "id": "91514b81abe2e6b76f3b3a996226c7d0",
+   "company": "Valeo",
+   "role": "Quality Engineer Internship",
+   "location": "Jaen"
+  },
+  "f1ba60f18c48409ee90867b4bd0747c5": {
+   "id": "f1ba60f18c48409ee90867b4bd0747c5",
+   "company": "Valeo",
+   "role": "Ai Developer Internship",
+   "location": "Jaen"
+  },
+  "c5de71da2b1c12c3a5617889af0d868c": {
+   "id": "c5de71da2b1c12c3a5617889af0d868c",
+   "company": "Valeo",
+   "role": "Electronic Productivity Buyer Internship",
+   "location": "Jaen"
+  },
+  "cb74727b8546241a65f31f631c773c11": {
+   "id": "cb74727b8546241a65f31f631c773c11",
+   "company": "valeo.in",
+   "role": "Prácticas En El Área De Facilities",
+   "location": "Zaragoza"
+  },
+  "6d985664e8d6b9d446140a89519eaa2f": {
+   "id": "6d985664e8d6b9d446140a89519eaa2f",
+   "company": "valeo.in",
+   "role": "Prácticas En El Área De Prevención De Riesgos Laborales",
+   "location": "Zaragoza"
+  },
+  "c2630e07c9ed29c5d9b59703a12938ea": {
+   "id": "c2630e07c9ed29c5d9b59703a12938ea",
+   "company": "Kimpton Vividora Barcelona",
+   "role": "Guest Experience Internship - Kimpton Vividora Barcelona",
+   "location": "Barcelona"
+  },
+  "b1e50b9a2f2bd0fe4eab000e0758635d": {
+   "id": "b1e50b9a2f2bd0fe4eab000e0758635d",
+   "company": "Procter & Gamble (SK-II)",
+   "role": "Hr Business Partner Intern",
+   "location": "Mequinenza"
+  },
+  "4c9235b7b2798098cac853654e7534ca": {
+   "id": "4c9235b7b2798098cac853654e7534ca",
+   "company": "Procter & Gamble (SK-II)",
+   "role": "Human Resources Internship (m/f/x)",
+   "location": "Madrid"
+  },
+  "b6b955df916c82dac19450d0d8ae50c2": {
+   "id": "b6b955df916c82dac19450d0d8ae50c2",
+   "company": "repsol",
+   "role": "Prácticas Talent Energy",
+   "location": "Madrid"
   },
   "8624f02b1a241f861d57438d4b9f6eac": {
    "id": "8624f02b1a241f861d57438d4b9f6eac",
@@ -104,6 +224,12 @@
    "role": "Beca En Commercial Planning Y Medicina De Precisión Oncología",
    "location": "Madrid"
   },
+  "3089a097f483adc498ba18d8da541ba9": {
+   "id": "3089a097f483adc498ba18d8da541ba9",
+   "company": "Nerdgigs",
+   "role": "Beca En Commercial Planning Y Medicina De Precisión Oncología",
+   "location": "Madrid"
+  },
   "0f0d96072370c2f9646fb67e25e03924": {
    "id": "0f0d96072370c2f9646fb67e25e03924",
    "company": "GE VERNOVA",
@@ -113,6 +239,12 @@
   "7a6bf692c64358ba7cb04815e9c27c67": {
    "id": "7a6bf692c64358ba7cb04815e9c27c67",
    "company": "Junior Achievement",
+   "role": "Hema Emea Ep Trainee",
+   "location": "Madrid"
+  },
+  "43fa2b010379c27f0df9de21687f0859": {
+   "id": "43fa2b010379c27f0df9de21687f0859",
+   "company": "Johnson & Johnson",
    "role": "Hema Emea Ep Trainee",
    "location": "Madrid"
   },
@@ -362,138 +494,6 @@
    "role": "Prácticas En Garantías",
    "location": "Zaragoza"
   },
-  "b65b690420338fe8f79bb3a7a10f50ab": {
-   "id": "b65b690420338fe8f79bb3a7a10f50ab",
-   "company": "Valeo SA",
-   "role": "Prácticas En Garantías",
-   "location": "Zaragoza"
-  },
-  "b5ff8a90de7245fe0b4c60f747791e98": {
-   "id": "b5ff8a90de7245fe0b4c60f747791e98",
-   "company": "Valeo Service",
-   "role": "Prácticas En Garantías",
-   "location": "Zaragoza"
-  },
-  "920d94b9b6ae9796fd7d943186b42a4f": {
-   "id": "920d94b9b6ae9796fd7d943186b42a4f",
-   "company": "Pfizer",
-   "role": "Beca En Finanzas - Planta De Producción Farmacéutica",
-   "location": "Salamanca"
-  },
-  "e26108066f5680ebf0109e06f763e770": {
-   "id": "e26108066f5680ebf0109e06f763e770",
-   "company": "pfizer.hu",
-   "role": "Beca En Finanzas - Planta De Producción Farmacéutica",
-   "location": "Salamanca"
-  },
-  "6e08345e66378eae484ce56107a8b813": {
-   "id": "6e08345e66378eae484ce56107a8b813",
-   "company": "Pfizer Venezuela S.A",
-   "role": "Beca En Finanzas - Planta De Producción Farmacéutica",
-   "location": "Salamanca"
-  },
-  "72d82c7f2aadb31cce31ba4618f327b6": {
-   "id": "72d82c7f2aadb31cce31ba4618f327b6",
-   "company": "pfizer.co.ke",
-   "role": "Beca En Finanzas - Planta De Producción Farmacéutica",
-   "location": "Salamanca"
-  },
-  "b3afa88e8b345a274cc2fcff9f271130": {
-   "id": "b3afa88e8b345a274cc2fcff9f271130",
-   "company": "pfizer.ch",
-   "role": "Beca En Finanzas - Planta De Producción Farmacéutica",
-   "location": "Salamanca"
-  },
-  "42718c9a70b8d00ac06a6781186ba457": {
-   "id": "42718c9a70b8d00ac06a6781186ba457",
-   "company": "Abbott",
-   "role": "Field Service Fp Internship - Madrid - Core Lab",
-   "location": "Madrid"
-  },
-  "3cfbf4ff65b7ebd9594e75a2d869c5e0": {
-   "id": "3cfbf4ff65b7ebd9594e75a2d869c5e0",
-   "company": "164",
-   "role": "Beca Sistemas De Seguridad",
-   "location": "Madrid"
-  },
-  "0fa35bcb2b887b0497d67f45e1608c04": {
-   "id": "0fa35bcb2b887b0497d67f45e1608c04",
-   "company": "164",
-   "role": "Beca Ingeniería Mantenimiento",
-   "location": "Zaragoza"
-  },
-  "4603c51e72d4208ff6111ca394679e69": {
-   "id": "4603c51e72d4208ff6111ca394679e69",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas- Edición",
-   "location": "Barcelona"
-  },
-  "98892eb5ddbe1400c2ee3b8dc758276c": {
-   "id": "98892eb5ddbe1400c2ee3b8dc758276c",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas- Edición Técnica",
-   "location": "Barcelona"
-  },
-  "1b497d3f6d1accc35877452671623291": {
-   "id": "1b497d3f6d1accc35877452671623291",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas- Penguin Aula",
-   "location": "Barcelona"
-  },
-  "4dc4a5076d44535128ddc1fda8a0b82a": {
-   "id": "4dc4a5076d44535128ddc1fda8a0b82a",
-   "company": "Coca-Cola HBC AG",
-   "role": "Coca-cola Ignite Intern - Franchise Operations",
-   "location": "Madrid"
-  },
-  "cec6424437942bcc872c42a717173334": {
-   "id": "cec6424437942bcc872c42a717173334",
-   "company": "Bunge",
-   "role": "Indirect Tax Intern",
-   "location": "Barcelona"
-  },
-  "113b8c5c77c2863222946ccafd4668a4": {
-   "id": "113b8c5c77c2863222946ccafd4668a4",
-   "company": "The Ritz-Carlton",
-   "role": "F&b Trainee",
-   "location": "Barcelona"
-  },
-  "0b14a0407ace10046735a05950cb19ae": {
-   "id": "0b14a0407ace10046735a05950cb19ae",
-   "company": "The Ritz-Carlton",
-   "role": "Operational Internship- The Madrid Edition",
-   "location": "Madrid"
-  },
-  "c1d5a11aea04a43f2aac0ca01dd56cc1": {
-   "id": "c1d5a11aea04a43f2aac0ca01dd56cc1",
-   "company": "Marriott International",
-   "role": "Operational Internship- The Madrid Edition",
-   "location": "Madrid"
-  },
-  "b214dd1d32e846000b68357944c60167": {
-   "id": "b214dd1d32e846000b68357944c60167",
-   "company": "SAP SE",
-   "role": "Sap Ixp Intern - Customer Success Management (digital)",
-   "location": "Barcelona"
-  },
-  "9599efd3312838341a97ffa7ed2db6ce": {
-   "id": "9599efd3312838341a97ffa7ed2db6ce",
-   "company": "SAP SE",
-   "role": "Sap Ixp Intern - Public Sector Industry Team",
-   "location": "Madrid"
-  },
-  "11a3271face3b4ed40bcf9734cf8c05a": {
-   "id": "11a3271face3b4ed40bcf9734cf8c05a",
-   "company": "SAP SE",
-   "role": "Sap Ixp Internship - Ambassador Program Intern",
-   "location": "Barcelona"
-  },
-  "20809bacffcaf4c9afaeac017798564c": {
-   "id": "20809bacffcaf4c9afaeac017798564c",
-   "company": "SAP SE",
-   "role": "Sap Ixp Intern - Talent Journey Coordinator Internship",
-   "location": "Barcelona"
-  },
   "4d79e34ce93f2e0ad4fec397572e9aef": {
    "id": "4d79e34ce93f2e0ad4fec397572e9aef",
    "company": "Stripe",
@@ -504,6 +504,24 @@
    "id": "6f5b7169f53b7d5d0ebfe3536c8c8d73",
    "company": "Fever",
    "role": "Graduate Software Engineer",
+   "location": "Madrid"
+  },
+  "187ed2d8278e9f9c03a6ccb0d2037162": {
+   "id": "187ed2d8278e9f9c03a6ccb0d2037162",
+   "company": "Santander",
+   "role": "I_sgto_software Engineering Specialist",
+   "location": "Madrid"
+  },
+  "9246ee8c74750a77234f2e4be8402b5c": {
+   "id": "9246ee8c74750a77234f2e4be8402b5c",
+   "company": "Santander",
+   "role": "Back-end Software Engineer",
+   "location": "Madrid"
+  },
+  "c074b5da8224cb769db73c690ca8e8b3": {
+   "id": "c074b5da8224cb769db73c690ca8e8b3",
+   "company": "Santander",
+   "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
    "location": "Madrid"
   },
   "8f04672576195bb15e77cf092239f126": {
@@ -962,24 +980,6 @@
    "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
    "location": "Madrid"
   },
-  "f88b0851fa4c021250dfde5a038048c0": {
-   "id": "f88b0851fa4c021250dfde5a038048c0",
-   "company": "SANTANDER CONSUMER BANK S.p.A",
-   "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
-   "location": "Madrid"
-  },
-  "e70fdbbe404f00cd0d2081147fc76a47": {
-   "id": "e70fdbbe404f00cd0d2081147fc76a47",
-   "company": "Nouryon",
-   "role": "Technical Service Representative",
-   "location": "Barcelona"
-  },
-  "3cb20333488c2c8f737ebf8e4805a3b7": {
-   "id": "3cb20333488c2c8f737ebf8e4805a3b7",
-   "company": "Jobgether",
-   "role": "Game Developer - Voxel-based Engine (java)",
-   "location": "Spain"
-  },
   "7809e105f607bd3c9cb344545f31a723": {
    "id": "7809e105f607bd3c9cb344545f31a723",
    "company": "Boston Consulting Group",
@@ -997,6 +997,12 @@
    "company": "TD SYNNEX Accessboard",
    "role": "Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)",
    "location": "Barcelona"
+  },
+  "7a9ae9c13c349b8ffa7ad3a9915b4dd2": {
+   "id": "7a9ae9c13c349b8ffa7ad3a9915b4dd2",
+   "company": "Santander",
+   "role": "I_t&occ_data Analyst Information Centre",
+   "location": "Madrid"
   },
   "b5e0de6df2bf6bfd6962567cd912f90c": {
    "id": "b5e0de6df2bf6bfd6962567cd912f90c",
@@ -1038,6 +1044,12 @@
    "id": "7376a4aa27a5985fc5ae2845f441b213",
    "company": "Salesforce",
    "role": "Ai Builder, Emerging Talent - Hebrew Market",
+   "location": "Madrid"
+  },
+  "20a475c927617c5b48c54172bedf60fe": {
+   "id": "20a475c927617c5b48c54172bedf60fe",
+   "company": "Salesforce Service Cloud",
+   "role": "Ai Builder, Emerging Talent - Arabic Market",
    "location": "Madrid"
   },
   "f61642437e024dd717ad6f7afe78e890": {
@@ -1085,6 +1097,12 @@
   "beb103cc33ec5865867e2b7730ec4f1a": {
    "id": "beb103cc33ec5865867e2b7730ec4f1a",
    "company": "ING",
+   "role": "Data Analyst (business Banking)",
+   "location": "Madrid"
+  },
+  "49e4083433c77b2f9ef54d358def2086": {
+   "id": "49e4083433c77b2f9ef54d358def2086",
+   "company": "Valmont Industries, Inc",
    "role": "Data Analyst (business Banking)",
    "location": "Madrid"
   },
@@ -1328,12 +1346,6 @@
    "role": "Gl Reporting Analyst - Emea",
    "location": "Madrid"
   },
-  "49e4083433c77b2f9ef54d358def2086": {
-   "id": "49e4083433c77b2f9ef54d358def2086",
-   "company": "ING",
-   "role": "Data Analyst",
-   "location": "Madrid"
-  },
   "c61cb186bb0a4fad38dbdbed62772a88": {
    "id": "c61cb186bb0a4fad38dbdbed62772a88",
    "company": "Zurich Insurance UK",
@@ -1466,18 +1478,6 @@
    "role": "Business Data Analyst",
    "location": "Barcelona"
   },
-  "2d889a45d1d5b5da7422583684817ccc": {
-   "id": "2d889a45d1d5b5da7422583684817ccc",
-   "company": "Amadeus Data Processing GmbH",
-   "role": "Associate Data Analyst",
-   "location": "Barcelona"
-  },
-  "e7b7d378b2e0007450e9a6b4ae174077": {
-   "id": "e7b7d378b2e0007450e9a6b4ae174077",
-   "company": "Raona",
-   "role": "Ai Product Builder",
-   "location": "Barcelona"
-  },
   "6a0d3ffe49a15d48bfc1e14303b94f1c": {
    "id": "6a0d3ffe49a15d48bfc1e14303b94f1c",
    "company": "Zurich Insurance UK",
@@ -1583,6 +1583,12 @@
   "d7c21801f7e98a4bbee60955471bbe98": {
    "id": "d7c21801f7e98a4bbee60955471bbe98",
    "company": "Airbus SE",
+   "role": "Space Systems Ibp Management Specialist",
+   "location": "Madrid"
+  },
+  "d5b793d6401483c28ed4a8e08ce0afeb": {
+   "id": "d5b793d6401483c28ed4a8e08ce0afeb",
+   "company": "Airbus Defence and Space SAU",
    "role": "Space Systems Ibp Management Specialist",
    "location": "Madrid"
   },
@@ -1994,18 +2000,6 @@
    "role": "Cost & Financial Analyst (h&m)",
    "location": "Madrid"
   },
-  "0a9d3f8b22a113bd144c0b2fa2f6030a": {
-   "id": "0a9d3f8b22a113bd144c0b2fa2f6030a",
-   "company": "DXC Technology Australia & New Zealand",
-   "role": "Consultor/a De Negocio (industria, Procesos, Cross)",
-   "location": "Barcelona"
-  },
-  "ddb1c7310636581b43aa5e09d27e8dfe": {
-   "id": "ddb1c7310636581b43aa5e09d27e8dfe",
-   "company": "Keyfactorinc",
-   "role": "Accountant",
-   "location": "Barcelona"
-  },
   "1f713b4f64794491ab8f1f465e6a8619": {
    "id": "1f713b4f64794491ab8f1f465e6a8619",
    "company": "Fsmjobs",
@@ -2016,6 +2010,12 @@
    "id": "631a3bfb3716e30a2b19aa75b5e4ff65",
    "company": "FRESENIUS MEDICAL CARE",
    "role": "Nefrólogo/a (hospitalet)",
+   "location": "Barcelona"
+  },
+  "80f07a061a1e75b08cbe11fd7f5b68f5": {
+   "id": "80f07a061a1e75b08cbe11fd7f5b68f5",
+   "company": "Orona S.Coop",
+   "role": "Reparador/a De Ascensores (lleida) 1 1",
    "location": "Barcelona"
   },
   "d15357c0c4bead2298db7f094bc6d038": {
@@ -2492,10 +2492,28 @@
    "role": "Técnico/a Mantenimiento Ascensores",
    "location": "Madrid"
   },
-  "72b4814eaf1c5923c21dd0eb2bc077b4": {
-   "id": "72b4814eaf1c5923c21dd0eb2bc077b4",
-   "company": "KONE Romania",
-   "role": "Técnico/a Mantenimiento Ascensores",
+  "cf6418bd84586ac0cd18debb03357a77": {
+   "id": "cf6418bd84586ac0cd18debb03357a77",
+   "company": "LAIETANA DE LLIBRETERIA SL",
+   "role": "Vendedor/a – Apertura Tienda Palau De La Música Catalana",
+   "location": "Barcelona"
+  },
+  "dd2ec2b69188cf36c4100afdf2ddb61e": {
+   "id": "dd2ec2b69188cf36c4100afdf2ddb61e",
+   "company": "Mango",
+   "role": "Vendedor/a - Madrid Orense Teen",
+   "location": "Madrid"
+  },
+  "ea4113aec29a5ea85f2dc8b2d99499ee": {
+   "id": "ea4113aec29a5ea85f2dc8b2d99499ee",
+   "company": "Repsol",
+   "role": "Vendedor/a -expendedor/a - Bolsa Estaciones De Servicio Zona Cataluña Y Aragón 2026",
+   "location": "Barcelona"
+  },
+  "88f5a178f1790dfe4ada13e0c0e13cba": {
+   "id": "88f5a178f1790dfe4ada13e0c0e13cba",
+   "company": "Repsol",
+   "role": "Vendedor/a -expendedor/a - Bolsa Estaciones De Servicio Zona Centro: Madrid, Castilla La Mancha Y Extremadura 2026",
    "location": "Madrid"
   },
   "4e829a8a2cb30459e37aaa11888c2ef3": {
@@ -2954,28 +2972,10 @@
    "role": "Sales Associate Part Time 20h - Fo Oasiz Torrejon",
    "location": "Madrid"
   },
-  "8f74037e43445a8ddb94b329b9c60fff": {
-   "id": "8f74037e43445a8ddb94b329b9c60fff",
-   "company": "obramat.es",
-   "role": "Vendedor/a Materiales (it)_almacén Sabadell",
-   "location": "Barcelona"
-  },
-  "230cbe908c3d6cf6c0f6691e2285d659": {
-   "id": "230cbe908c3d6cf6c0f6691e2285d659",
-   "company": "ANZ",
-   "role": "Asesor/a Comercial (santa Coloma)",
-   "location": "Barcelona"
-  },
-  "a4e73f09b999c854069cabc5814e56e6": {
-   "id": "a4e73f09b999c854069cabc5814e56e6",
-   "company": "VFC Corporation",
-   "role": "Vendedor/a 10h Montera - Vans",
-   "location": "Madrid"
-  },
-  "d0bc096a5cf84849bd7b2d9508bd8a91": {
-   "id": "d0bc096a5cf84849bd7b2d9508bd8a91",
-   "company": "Mango",
-   "role": "Vendedor 25h",
+  "6548c4113fe25ef3e79f218cde8cccbc": {
+   "id": "6548c4113fe25ef3e79f218cde8cccbc",
+   "company": "Danaher UK",
+   "role": "Logistics & Administrative Coordinator",
    "location": "Madrid"
   },
   "334c8873038da7b79b3cab8813cda133": {
