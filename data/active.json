@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-08",
- "count": 546,
+ "asOf": "2026-09-09",
+ "count": 542,
  "jobs": {
   "42686": {
    "id": "42686",
@@ -110,6 +110,24 @@
    "role": "Prácticas En El Área De Prevención De Riesgos Laborales",
    "location": "Zaragoza"
   },
+  "b7d0c847daceba2cf64c4e010962eb95": {
+   "id": "b7d0c847daceba2cf64c4e010962eb95",
+   "company": "Sandoz",
+   "role": "Communications Trainee",
+   "location": "Madrid"
+  },
+  "f8c6181ef55cbca2d6a52aac6809d955": {
+   "id": "f8c6181ef55cbca2d6a52aac6809d955",
+   "company": "Mercer",
+   "role": "Employee Benefits Consulting Internship",
+   "location": "Madrid"
+  },
+  "ae65021644a040273190932caac5323d": {
+   "id": "ae65021644a040273190932caac5323d",
+   "company": "Coca-Cola HBC AG",
+   "role": "Coca-cola Ignite Intern - Finance",
+   "location": "Madrid"
+  },
   "c2630e07c9ed29c5d9b59703a12938ea": {
    "id": "c2630e07c9ed29c5d9b59703a12938ea",
    "company": "Kimpton Vividora Barcelona",
@@ -122,9 +140,21 @@
    "role": "Hr Business Partner Intern",
    "location": "Mequinenza"
   },
+  "d562c3ff6088688552963c75081135af": {
+   "id": "d562c3ff6088688552963c75081135af",
+   "company": "P D G",
+   "role": "Hr Business Partner Intern",
+   "location": "Mequinenza"
+  },
   "4c9235b7b2798098cac853654e7534ca": {
    "id": "4c9235b7b2798098cac853654e7534ca",
    "company": "Procter & Gamble (SK-II)",
+   "role": "Human Resources Internship (m/f/x)",
+   "location": "Madrid"
+  },
+  "423224a574a4897e53538e91159ad293": {
+   "id": "423224a574a4897e53538e91159ad293",
+   "company": "P D G",
    "role": "Human Resources Internship (m/f/x)",
    "location": "Madrid"
   },
@@ -227,6 +257,12 @@
   "3089a097f483adc498ba18d8da541ba9": {
    "id": "3089a097f483adc498ba18d8da541ba9",
    "company": "Nerdgigs",
+   "role": "Beca En Commercial Planning Y Medicina De Precisión Oncología",
+   "location": "Madrid"
+  },
+  "7e6975719a39f182e3220eeb8b196160": {
+   "id": "7e6975719a39f182e3220eeb8b196160",
+   "company": "29",
    "role": "Beca En Commercial Planning Y Medicina De Precisión Oncología",
    "location": "Madrid"
   },
@@ -458,42 +494,6 @@
    "role": "F&b Trainee",
    "location": "Barcelona"
   },
-  "49c623e13c3e3a9cda1bfa76d6f9c4e3": {
-   "id": "49c623e13c3e3a9cda1bfa76d6f9c4e3",
-   "company": "Mondelēz International",
-   "role": "Taste The Future - Internship Spain - Commercial Functions",
-   "location": "Madrid"
-  },
-  "9e1f903c5ef320cddf2784c8ae70df0a": {
-   "id": "9e1f903c5ef320cddf2784c8ae70df0a",
-   "company": "Nordex SE",
-   "role": "Global Mobility Intern (m/f/d)",
-   "location": "Barasoain"
-  },
-  "8e5fee78f03b249ebc249b67a2a158b1": {
-   "id": "8e5fee78f03b249ebc249b67a2a158b1",
-   "company": "Nordex SE",
-   "role": "Global Sourcing Claim Management Intern (m/f/d)",
-   "location": "Tajonar"
-  },
-  "47d7fb9a509cf33c87569943e69637b3": {
-   "id": "47d7fb9a509cf33c87569943e69637b3",
-   "company": "MEDTRONIC",
-   "role": "Intern: Consulting Integrated Health Solutions",
-   "location": "Madrid"
-  },
-  "d33efd3a58ffa4106a9184e0bf546904": {
-   "id": "d33efd3a58ffa4106a9184e0bf546904",
-   "company": "Thales Group",
-   "role": "Devops Intern",
-   "location": "Madrid"
-  },
-  "314c206e45e58aed2318b8c1cb264cb2": {
-   "id": "314c206e45e58aed2318b8c1cb264cb2",
-   "company": "Valeo",
-   "role": "Prácticas En Garantías",
-   "location": "Zaragoza"
-  },
   "4d79e34ce93f2e0ad4fec397572e9aef": {
    "id": "4d79e34ce93f2e0ad4fec397572e9aef",
    "company": "Stripe",
@@ -522,6 +522,42 @@
    "id": "c074b5da8224cb769db73c690ca8e8b3",
    "company": "Santander",
    "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
+   "location": "Madrid"
+  },
+  "5dc372acfeca86952af1716004ee8035": {
+   "id": "5dc372acfeca86952af1716004ee8035",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Desarrollo Software C++",
+   "location": "Madrid"
+  },
+  "4a567c3a4286554105fc10eba5315fb7": {
+   "id": "4a567c3a4286554105fc10eba5315fb7",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Software Aviónico Y Estándares",
+   "location": "Madrid"
+  },
+  "b18846ab379e1625ad0af00af23530e8": {
+   "id": "b18846ab379e1625ad0af00af23530e8",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
+   "location": "Madrid"
+  },
+  "4a80778b59f58f87717eb4003f611963": {
+   "id": "4a80778b59f58f87717eb4003f611963",
+   "company": "Indra group",
+   "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
+   "location": "Madrid"
+  },
+  "43679b2cb3de01c55b13e03b5e1667d4": {
+   "id": "43679b2cb3de01c55b13e03b5e1667d4",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Desarrollo De Aplicaciones En Tiempo Real (c++)",
+   "location": "Madrid"
+  },
+  "9526da259ae2d42cac7ced37c2b83134": {
+   "id": "9526da259ae2d42cac7ced37c2b83134",
+   "company": "Atos SE",
+   "role": "Analista Iam (identity & Access Management)",
    "location": "Madrid"
   },
   "8f04672576195bb15e77cf092239f126": {
@@ -632,28 +668,10 @@
    "role": "Simulation Software Engineer – Eurofighter Flight Simulator",
    "location": "Madrid"
   },
-  "38ae9a0c58d1ea90bf624e00b90d7b05": {
-   "id": "38ae9a0c58d1ea90bf624e00b90d7b05",
-   "company": "Indra group",
-   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
-   "location": "Madrid"
-  },
   "e909546b928e5360a1ccaff8d81f9570": {
    "id": "e909546b928e5360a1ccaff8d81f9570",
    "company": "Indra group",
    "role": "Ingeniero/a De Software Embebido C++ Y Ada",
-   "location": "Madrid"
-  },
-  "102dca839e58ff87f61215b187a68ab9": {
-   "id": "102dca839e58ff87f61215b187a68ab9",
-   "company": "Indra group",
-   "role": "Ingeniero/a De Desarrollo Software C++",
-   "location": "Madrid"
-  },
-  "4962bf91e5a55e77f4abd31ce07fc5be": {
-   "id": "4962bf91e5a55e77f4abd31ce07fc5be",
-   "company": "Indra group",
-   "role": "Ingeniero/a De Desarrollo De Aplicaciones En Tiempo Real (c++)",
    "location": "Madrid"
   },
   "ed95d6dd72ee1272f63115d9abacf88b": {
@@ -702,12 +720,6 @@
    "id": "da5b386bbd1b312a1bc21489a05dbb64",
    "company": "Santander UK",
    "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
-   "location": "Madrid"
-  },
-  "4a80778b59f58f87717eb4003f611963": {
-   "id": "4a80778b59f58f87717eb4003f611963",
-   "company": "Indra group",
-   "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
    "location": "Madrid"
   },
   "da832cd5dacbbaf60724c82deab51cb1": {
@@ -920,12 +932,6 @@
    "role": "Ingeniero/a Software Junior C/c++ - Sector Defensa",
    "location": "Madrid"
   },
-  "9526da259ae2d42cac7ced37c2b83134": {
-   "id": "9526da259ae2d42cac7ced37c2b83134",
-   "company": "Atos SE",
-   "role": "Analista Iam (identity & Access Management)",
-   "location": "Madrid"
-  },
   "e8e2eea25680b2da0cf4efcdaf8094ad": {
    "id": "e8e2eea25680b2da0cf4efcdaf8094ad",
    "company": "Recruiter4you",
@@ -974,12 +980,6 @@
    "role": "Software Development Engineer Iii",
    "location": "Spain"
   },
-  "5b45d03befb2a8cb918c2c396014f256": {
-   "id": "5b45d03befb2a8cb918c2c396014f256",
-   "company": "Betechwithsantander",
-   "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
-   "location": "Madrid"
-  },
   "7809e105f607bd3c9cb344545f31a723": {
    "id": "7809e105f607bd3c9cb344545f31a723",
    "company": "Boston Consulting Group",
@@ -1003,6 +1003,12 @@
    "company": "Santander",
    "role": "I_t&occ_data Analyst Information Centre",
    "location": "Madrid"
+  },
+  "59ab37b61012b0e55ba120fe0d9ce085": {
+   "id": "59ab37b61012b0e55ba120fe0d9ce085",
+   "company": "Indra group",
+   "role": "Data Scientist/data Engineer Junior",
+   "location": "Es"
   },
   "b5e0de6df2bf6bfd6962567cd912f90c": {
    "id": "b5e0de6df2bf6bfd6962567cd912f90c",
@@ -1075,12 +1081,6 @@
    "company": "minsait",
    "role": "Data Analyst (sql & Sas) - Orientado A Negocio",
    "location": "Barcelona"
-  },
-  "289c736421e4a764d259d900f292e901": {
-   "id": "289c736421e4a764d259d900f292e901",
-   "company": "Indra Group",
-   "role": "Data Scientist/data Engineer Junior",
-   "location": "Es"
   },
   "a397777855aaf9c3fb05cb44ae67e18d": {
    "id": "a397777855aaf9c3fb05cb44ae67e18d",
@@ -1478,8 +1478,8 @@
    "role": "Business Data Analyst",
    "location": "Barcelona"
   },
-  "6a0d3ffe49a15d48bfc1e14303b94f1c": {
-   "id": "6a0d3ffe49a15d48bfc1e14303b94f1c",
+  "560e1fb2f0dcc5370b97f7948aa9f2f9": {
+   "id": "560e1fb2f0dcc5370b97f7948aa9f2f9",
    "company": "Zurich Insurance UK",
    "role": "Business Analyst Intern",
    "location": "Barcelona"
@@ -1574,6 +1574,24 @@
    "role": "Sales Analyst Trainee",
    "location": "Barcelona"
   },
+  "2375fb5bc139ff588e8036af3e9e3593": {
+   "id": "2375fb5bc139ff588e8036af3e9e3593",
+   "company": "DWS Group",
+   "role": "Hr Business Advisory Analyst/business Advisor",
+   "location": "Madrid"
+  },
+  "20c02616808d50944aeb98a94fa20783": {
+   "id": "20c02616808d50944aeb98a94fa20783",
+   "company": "Sulzer",
+   "role": "Financial Analyst Services",
+   "location": "Madrid"
+  },
+  "37489c462c5847bda9d2bcb9cb0f3509": {
+   "id": "37489c462c5847bda9d2bcb9cb0f3509",
+   "company": "Indra group",
+   "role": "Consultor/a Sap",
+   "location": "ES"
+  },
   "e9c78f962b826b437702622840709460": {
    "id": "e9c78f962b826b437702622840709460",
    "company": "Airbus Defence and Space",
@@ -1662,18 +1680,6 @@
    "id": "949817d89c3751b00e50bf8e7b47394a",
    "company": "Bunge North America",
    "role": "Assistant Trading Business Analyst",
-   "location": "Madrid"
-  },
-  "37489c462c5847bda9d2bcb9cb0f3509": {
-   "id": "37489c462c5847bda9d2bcb9cb0f3509",
-   "company": "Indra group",
-   "role": "Consultor/a Sap",
-   "location": "ES"
-  },
-  "86233fd752dfcf2b386b079de65e4beb": {
-   "id": "86233fd752dfcf2b386b079de65e4beb",
-   "company": "DWS Group",
-   "role": "Hr Business Advisory Analyst/business Advisor",
    "location": "Madrid"
   },
   "aeec2ccb553df2b1891b5187ac0a50e6": {
@@ -1952,12 +1958,6 @@
    "role": "Hr Business Advisory Analyst/business Advisor",
    "location": "Madrid"
   },
-  "2375fb5bc139ff588e8036af3e9e3593": {
-   "id": "2375fb5bc139ff588e8036af3e9e3593",
-   "company": "Bdbk010",
-   "role": "Hr Business Advisory Analyst/business Advisor",
-   "location": "Madrid"
-  },
   "df0403012ccff2bcc49034f2ee8c4b75": {
    "id": "df0403012ccff2bcc49034f2ee8c4b75",
    "company": "Zurich Insurance Company Ltd",
@@ -1994,12 +1994,6 @@
    "role": "Analista Funcional (temporal)",
    "location": "Madrid"
   },
-  "8aa1894bc7525684d11b45d10656a7fa": {
-   "id": "8aa1894bc7525684d11b45d10656a7fa",
-   "company": "Otisjob",
-   "role": "Cost & Financial Analyst (h&m)",
-   "location": "Madrid"
-  },
   "1f713b4f64794491ab8f1f465e6a8619": {
    "id": "1f713b4f64794491ab8f1f465e6a8619",
    "company": "Fsmjobs",
@@ -2011,6 +2005,24 @@
    "company": "FRESENIUS MEDICAL CARE",
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
+  },
+  "e572d6f3e88d2f848200db8edc8877a1": {
+   "id": "e572d6f3e88d2f848200db8edc8877a1",
+   "company": "Sulzer",
+   "role": "Field Service Coordinator",
+   "location": "Madrid"
+  },
+  "9b2099d4b8c440b8d9f8c9db8c53eaa5": {
+   "id": "9b2099d4b8c440b8d9f8c9db8c53eaa5",
+   "company": "Valmet",
+   "role": "Técnico De Rodillos",
+   "location": "Zaragoza"
+  },
+  "3be7e2a0801b68a24e7ff0f9f2eb8175": {
+   "id": "3be7e2a0801b68a24e7ff0f9f2eb8175",
+   "company": "Indra group",
+   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
+   "location": "Salamanca"
   },
   "80f07a061a1e75b08cbe11fd7f5b68f5": {
    "id": "80f07a061a1e75b08cbe11fd7f5b68f5",
@@ -2149,12 +2161,6 @@
    "company": "Dover",
    "role": "Technical Service Engineer - Madrid Area",
    "location": "Madrid"
-  },
-  "b46da245aa1cce79995b7b6cdc4dc38e": {
-   "id": "b46da245aa1cce79995b7b6cdc4dc38e",
-   "company": "Indra group",
-   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
-   "location": "Salamanca"
   },
   "7c75dc24e7bd6ad822e5ec4da1b557e6": {
    "id": "7c75dc24e7bd6ad822e5ec4da1b557e6",
@@ -2480,23 +2486,23 @@
    "role": "Industrial Maintenance Technician (temp Agency)",
    "location": "Madrid"
   },
-  "a51d628769b6f4a9bbdeeee660836c82": {
-   "id": "a51d628769b6f4a9bbdeeee660836c82",
-   "company": "Kone Corporation",
-   "role": "Técnico/a Mantenimiento Ascensores",
-   "location": "Madrid"
-  },
-  "20d53bedff24eaecfd5581e28d68f650": {
-   "id": "20d53bedff24eaecfd5581e28d68f650",
-   "company": "57",
-   "role": "Técnico/a Mantenimiento Ascensores",
-   "location": "Madrid"
-  },
   "cf6418bd84586ac0cd18debb03357a77": {
    "id": "cf6418bd84586ac0cd18debb03357a77",
    "company": "LAIETANA DE LLIBRETERIA SL",
    "role": "Vendedor/a – Apertura Tienda Palau De La Música Catalana",
    "location": "Barcelona"
+  },
+  "941ea1663725e176dffbbd0dd1cc12d6": {
+   "id": "941ea1663725e176dffbbd0dd1cc12d6",
+   "company": "SIXTH",
+   "role": "Rental Sales Agent (m/f/d) - Madrid Alcobendas - Contrato De Interinidad",
+   "location": "Salamanca"
+  },
+  "245d3ec4fa1e20a00d7682b99ce94503": {
+   "id": "245d3ec4fa1e20a00d7682b99ce94503",
+   "company": "Levis Media",
+   "role": "Sales Stylist 25 Horas Levis Callao",
+   "location": "Madrid"
   },
   "dd2ec2b69188cf36c4100afdf2ddb61e": {
    "id": "dd2ec2b69188cf36c4100afdf2ddb61e",
@@ -2545,6 +2551,18 @@
    "company": "adidas AG",
    "role": "Sales Associate - Fo Viladecans",
    "location": "Barcelona"
+  },
+  "3f032c155e64388ee332a285be1c1e2f": {
+   "id": "3f032c155e64388ee332a285be1c1e2f",
+   "company": "Puig",
+   "role": "Seasonal Beauty Expert - El Corte Ingles Madrid",
+   "location": "Madrid"
+  },
+  "8ca118c15210edaee163b4c90376683c": {
+   "id": "8ca118c15210edaee163b4c90376683c",
+   "company": "Puig",
+   "role": "Seasonal Beauty Expert - El Corte Ingles Pozuelo",
+   "location": "Madrid"
   },
   "c74feb7d71d7543acc08fb8dce7fb85b": {
    "id": "c74feb7d71d7543acc08fb8dce7fb85b",
@@ -2948,35 +2966,17 @@
    "role": "Vendedor/a 40h The North Face - Barcelona",
    "location": "Barcelona"
   },
-  "f0f1d5002d73a27f7714f906d8c93c8c": {
-   "id": "f0f1d5002d73a27f7714f906d8c93c8c",
-   "company": "Mango",
-   "role": "Vendedor/a - Madrid B.valverde Home",
-   "location": "Madrid"
-  },
-  "15f1e1d9e45abeeeae51be01f09c8dae": {
-   "id": "15f1e1d9e45abeeeae51be01f09c8dae",
-   "company": "PcComponentes",
-   "role": "Atención Al Cliente Tiendas De Madrid - Pccomponentes",
-   "location": "Madrid"
-  },
-  "afd171d0851f785643eae6161eca2774": {
-   "id": "afd171d0851f785643eae6161eca2774",
-   "company": "obramat.es",
-   "role": "Almacen Majadahonda_vendedor/a Madera",
-   "location": "Madrid"
-  },
-  "155b78ead15dc9a4312782aba7823444": {
-   "id": "155b78ead15dc9a4312782aba7823444",
-   "company": "adidas AG",
-   "role": "Sales Associate Part Time 20h - Fo Oasiz Torrejon",
-   "location": "Madrid"
-  },
   "6548c4113fe25ef3e79f218cde8cccbc": {
    "id": "6548c4113fe25ef3e79f218cde8cccbc",
    "company": "Danaher UK",
    "role": "Logistics & Administrative Coordinator",
    "location": "Madrid"
+  },
+  "4b992c2d266123282eb7eb7b61f208b5": {
+   "id": "4b992c2d266123282eb7eb7b61f208b5",
+   "company": "Ball",
+   "role": "Manufacturing Excellence Specialist",
+   "location": "Llinars Del VallèS"
   },
   "334c8873038da7b79b3cab8813cda133": {
    "id": "334c8873038da7b79b3cab8813cda133",
@@ -3013,12 +3013,6 @@
    "company": "Temporing",
    "role": "Auxiliar Administrativo/a",
    "location": "Biar"
-  },
-  "ff133ee8701794f92a814c57813b38f5": {
-   "id": "ff133ee8701794f92a814c57813b38f5",
-   "company": "Ball",
-   "role": "Manufacturing Excellence Specialist",
-   "location": "Barcelona"
   },
   "ceeba7bcb67cfb6c20795ff21bb9a9ea": {
    "id": "ceeba7bcb67cfb6c20795ff21bb9a9ea",
@@ -3259,24 +3253,6 @@
    "company": "OCA Global Corporate Services S.A",
    "role": "Administrativo/a Toledo",
    "location": "Madrid"
-  },
-  "624e37dc387e50e9c284346b66a2a4f6": {
-   "id": "624e37dc387e50e9c284346b66a2a4f6",
-   "company": "VHIO",
-   "role": "2026-050-01 Administrativo/a De Ensayos Clínicos",
-   "location": "Barcelona"
-  },
-  "3fcaecddec1749c80b40d8d6fa34fb79": {
-   "id": "3fcaecddec1749c80b40d8d6fa34fb79",
-   "company": "Smith & Nephew",
-   "role": "Aet Business Development Specialist (sports Medicine)",
-   "location": "Madrid"
-  },
-  "8a1c7ca32058cd2b1f7160a9a346013f": {
-   "id": "8a1c7ca32058cd2b1f7160a9a346013f",
-   "company": "Veepee Ad",
-   "role": "Event & Internal Communications Specialist - Fixed Term (w/m/x )",
-   "location": "Barcelona"
   }
  }
 }

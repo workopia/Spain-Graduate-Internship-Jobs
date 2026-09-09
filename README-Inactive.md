@@ -1640,4 +1640,29 @@
 <tr><td>ANZ</td><td>Asesor/a Comercial (santa Coloma)</td><td>Barcelona</td><td>2026-09-08</td></tr>
 <tr><td>VFC Corporation</td><td>Vendedor/a 10h Montera - Vans</td><td>Madrid</td><td>2026-09-08</td></tr>
 <tr><td>Mango</td><td>Vendedor 25h</td><td>Madrid</td><td>2026-09-08</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - Internship Spain - Commercial Functions</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Nordex SE</td><td>Global Mobility Intern (m/f/d)</td><td>Barasoain</td><td>2026-09-09</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Claim Management Intern (m/f/d)</td><td>Tajonar</td><td>2026-09-09</td></tr>
+<tr><td>MEDTRONIC</td><td>Intern: Consulting Integrated Health Solutions</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Thales Group</td><td>Devops Intern</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Valeo</td><td>Prácticas En Garantías</td><td>Zaragoza</td><td>2026-09-09</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Desarrollo Software C++</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Desarrollo De Aplicaciones En Tiempo Real (c++)</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Betechwithsantander</td><td>Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-09-09</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-09-09</td></tr>
+<tr><td>DWS Group</td><td>Hr Business Advisory Analyst/business Advisor</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Otisjob</td><td>Cost & Financial Analyst (h&m)</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Indra group</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-09-09</td></tr>
+<tr><td>Kone Corporation</td><td>Técnico/a Mantenimiento Ascensores</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>57</td><td>Técnico/a Mantenimiento Ascensores</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Madrid B.valverde Home</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>PcComponentes</td><td>Atención Al Cliente Tiendas De Madrid - Pccomponentes</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>obramat.es</td><td>Almacen Majadahonda_vendedor/a Madera</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Part Time 20h - Fo Oasiz Torrejon</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Ball</td><td>Manufacturing Excellence Specialist</td><td>Barcelona</td><td>2026-09-09</td></tr>
+<tr><td>VHIO</td><td>2026-050-01 Administrativo/a De Ensayos Clínicos</td><td>Barcelona</td><td>2026-09-09</td></tr>
+<tr><td>Smith & Nephew</td><td>Aet Business Development Specialist (sports Medicine)</td><td>Madrid</td><td>2026-09-09</td></tr>
+<tr><td>Veepee Ad</td><td>Event & Internal Communications Specialist - Fixed Term (w/m/x )</td><td>Barcelona</td><td>2026-09-09</td></tr>
 </table>
