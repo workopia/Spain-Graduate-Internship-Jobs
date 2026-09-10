@@ -1665,4 +1665,81 @@
 <tr><td>VHIO</td><td>2026-050-01 Administrativo/a De Ensayos Clínicos</td><td>Barcelona</td><td>2026-09-09</td></tr>
 <tr><td>Smith & Nephew</td><td>Aet Business Development Specialist (sports Medicine)</td><td>Madrid</td><td>2026-09-09</td></tr>
 <tr><td>Veepee Ad</td><td>Event & Internal Communications Specialist - Fixed Term (w/m/x )</td><td>Barcelona</td><td>2026-09-09</td></tr>
+<tr><td>39med</td><td>Beca En Commercial Planning Y Medicina De Precisión Oncología</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>microsatsystems.biz</td><td>Beca En Commercial Planning Y Medicina De Precisión Oncología</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Nerdgigs</td><td>Beca En Commercial Planning Y Medicina De Precisión Oncología</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>29</td><td>Beca En Commercial Planning Y Medicina De Precisión Oncología</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>GE VERNOVA</td><td>Supply Chain Intern</td><td>Zamudio</td><td>2026-09-10</td></tr>
+<tr><td>Junior Achievement</td><td>Hema Emea Ep Trainee</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Johnson & Johnson</td><td>Hema Emea Ep Trainee</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Groups And Events Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Accenture</td><td>Dixcover - Programa Prácticas Fp Accenture</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Aquila Group</td><td>Intern (m/f/d) Fund Management And Reporting</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Cisco</td><td>Sales Legal Intern</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>workday.gea</td><td>Indirect Procurement Trainee</td><td>Salamanca</td><td>2026-09-10</td></tr>
+<tr><td>GEA</td><td>Indirect Procurement Trainee</td><td>Salamanca</td><td>2026-09-10</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b Luxury Brands</td><td>Islas Baleares</td><td>2026-09-10</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b</td><td>Islas Baleares</td><td>2026-09-10</td></tr>
+<tr><td>Melia</td><td>Alumno En Prácticas Departamento De Guest Experience - Sol Tenerife (arona - Tenerife)</td><td>Las AméRicas</td><td>2026-09-10</td></tr>
+<tr><td>Melia</td><td>Prácticas Revenue</td><td>Islas Baleares</td><td>2026-09-10</td></tr>
+<tr><td>Melia</td><td>Trainee Reservas - Gran Meliá</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>SO/ Sotogrande Spa & Golf Resort</td><td>Prácticas Recursos Humanos - So/ Sotogrande</td><td>Sotogrande</td><td>2026-09-10</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>2026/2027 Winter&spring Internship Opportunities- Four Seasons Hotel Madrid</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Coty</td><td>Demand Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Coty</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Coty</td><td>Warehouse Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Coty</td><td>Site Planner Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Coty</td><td>Npd Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Coty Inc</td><td>Visibility & Merchandising Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Nestle Purina</td><td>Prácticas En Recursos Humanos / Fábrica Nestlé Purina Castellbisbal</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Network & Partner Operations Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Front Office Systems Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Investment Performance Analyst Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Canal Corredores</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Analyst Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Junior Powerapps Developer Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Hr Labor Relations Internship</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Beca Suscripción Usp Pymes</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Developer Intern</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Digital Associate Internship</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Engineering & Visualization Intern</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Koninklijke Philips</td><td>Internship: Finance Intern</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Koninklijke Philips</td><td>Becario Logística</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Operational Internship- The Madrid Edition</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>F&b Trainee</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Simulation Software Engineer – Eurofighter Flight Simulator</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Julius Baer</td><td>Backend Engineer (java/springboot) With Solid Oracle Db 19+ 100% (f/m/d)</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Grafana Labs</td><td>Software Engineer - Platform Productivity / Spain / Remote</td><td>Spain</td><td>2026-09-10</td></tr>
+<tr><td>Avnet</td><td>Backend Developer (m/f/d)</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Santander</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Santander Auto Software</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer – Ai-assisted Full-stack Developement</td><td>Spain</td><td>2026-09-10</td></tr>
+<tr><td>Jobgether</td><td>Software Development Engineer Iii</td><td>Spain</td><td>2026-09-10</td></tr>
+<tr><td>My Medical Sales Jobs</td><td>Data Analytics Analyst - Sas</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Ivivamedical</td><td>Data Analytics Analyst - Sas</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>IQVIA UK</td><td>Data Analytics Analyst - Sas</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Business Data Analyst</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Houseoftechcommunity</td><td>Business Data Analyst</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Roche Holding AG</td><td>Technical Ciam Business Analyst - Rdt Identity & Access Management (warsaw Or Madrid)</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Ferroviario Fuencarral</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>BizAway</td><td>Product Support Specialist</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Temporing</td><td>Técnico/a De Mantenimiento Electromecánico</td><td>Zaragoza</td><td>2026-09-10</td></tr>
+<tr><td>Vertiv</td><td>Field Service Engineer - Bilbao</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>KONE Corporation</td><td>Técnico/a De Mantenimiento Puertas - Malaga</td><td>Malaga</td><td>2026-09-10</td></tr>
+<tr><td>Orona S.Coop</td><td>Técnico/a De Mantenimiento De Ascensores (barcelona)</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Orona S.Coop</td><td>Reparador/a De Ascensores (madrid)</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Temporing</td><td>Electromecánico/a De Mantenimiento Industrial</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Ferroviario Valladolid</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Industrial Maintenance Technician (temp Agency)</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>obramat.es</td><td>Almacen Alcorcon_vendedor/a Madera</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>OBRAMAT</td><td>Gestión De Pedidos - Almacen Badalona</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Mango</td><td>Jornada De Selección Mozo/a De Almacén 6 De Agosto De 09-17h En La Central De Mango</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a Interinidad</td><td>Madrid</td><td>2026-09-10</td></tr>
+<tr><td>VFC Corporation</td><td>Vendedor/a 40h Grandes Almacenes - Barcelona</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>VF Corporation</td><td>Vendedor/a 40h Grandes Almacenes - Barcelona</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>VFC Corporation</td><td>Vendedor/a 40h The North Face - Barcelona</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Secretary / Assistant</td><td>Getafe Area</td><td>2026-09-10</td></tr>
+<tr><td>Tokio Marine HCC</td><td>Intern Tri Administrative Assistant</td><td>Barcelona</td><td>2026-09-10</td></tr>
 </table>
