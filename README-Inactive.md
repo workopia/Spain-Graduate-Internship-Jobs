@@ -1742,4 +1742,89 @@
 <tr><td>VFC Corporation</td><td>Vendedor/a 40h The North Face - Barcelona</td><td>Barcelona</td><td>2026-09-10</td></tr>
 <tr><td>Airbus Defence and Space SAU</td><td>Secretary / Assistant</td><td>Getafe Area</td><td>2026-09-10</td></tr>
 <tr><td>Tokio Marine HCC</td><td>Intern Tri Administrative Assistant</td><td>Barcelona</td><td>2026-09-10</td></tr>
+<tr><td>Lyreco Group</td><td>Marketing Assistant En Prácticas</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Nadara</td><td>Power Markets Intern (renewables)</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Nadara</td><td>Hse Intern</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>Evergreen Digital Campus</td><td>Albacete</td><td>2026-09-11</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>#beca Ahe - Environment, Health And Safety (ehs)</td><td>Albacete</td><td>2026-09-11</td></tr>
+<tr><td>Valeo</td><td>Proyect Buyer Internship</td><td>Jaen</td><td>2026-09-11</td></tr>
+<tr><td>114</td><td>Project Buyer Internship</td><td>Zaragoza</td><td>2026-09-11</td></tr>
+<tr><td>Worldtrips</td><td>Financial Analyst Intern Native French And/or Dutch (based In Barcelona)</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - Qa Intern - Orbigo, Spain</td><td>Orbigo</td><td>2026-09-11</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - People Lead Intern - Madrid, Spain</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - Hse Intern - Orbigo, Spain</td><td>Orbigo</td><td>2026-09-11</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - Bd&e Intern - Viana, Spain</td><td>Viana</td><td>2026-09-11</td></tr>
+<tr><td>ICON plc</td><td>Intern</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Betterfly</td><td>Client Success Intern - España</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Inspired Education Group</td><td>School Intern</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>El Colegio Británico / The British School</td><td>Internship Opportunities - El Colegio Británico / The British School</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Inspired Education Group</td><td>Care Assistant Internship</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Inspired Education Group</td><td>Teaching Assistant Internship</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Valeo</td><td>Internship: Plastic Injection Tooling Engineer</td><td>Jaen</td><td>2026-09-11</td></tr>
+<tr><td>valeo.in</td><td>Prácticas En El Área De Métodos-procesos</td><td>Zaragoza</td><td>2026-09-11</td></tr>
+<tr><td>valeo.in</td><td>Process Engineer Ptm Internship</td><td>Jaen</td><td>2026-09-11</td></tr>
+<tr><td>Valeo</td><td>Finance Internship</td><td>Jaen</td><td>2026-09-11</td></tr>
+<tr><td>valeo.in</td><td>Test & Validation Internship</td><td>Jaen</td><td>2026-09-11</td></tr>
+<tr><td>valeo.in</td><td>Optic Engineer Internship</td><td>Jaen</td><td>2026-09-11</td></tr>
+<tr><td>Valeo</td><td>Project Quality Internship</td><td>Jaen</td><td>2026-09-11</td></tr>
+<tr><td>Valeo</td><td>Quality Engineer Internship</td><td>Jaen</td><td>2026-09-11</td></tr>
+<tr><td>Valeo</td><td>Ai Developer Internship</td><td>Jaen</td><td>2026-09-11</td></tr>
+<tr><td>Valeo</td><td>Electronic Productivity Buyer Internship</td><td>Jaen</td><td>2026-09-11</td></tr>
+<tr><td>valeo.in</td><td>Prácticas En El Área De Facilities</td><td>Zaragoza</td><td>2026-09-11</td></tr>
+<tr><td>valeo.in</td><td>Prácticas En El Área De Prevención De Riesgos Laborales</td><td>Zaragoza</td><td>2026-09-11</td></tr>
+<tr><td>Sandoz</td><td>Communications Trainee</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Mercer</td><td>Employee Benefits Consulting Internship</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Finance</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Kimpton Vividora Barcelona</td><td>Guest Experience Internship - Kimpton Vividora Barcelona</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>Hr Business Partner Intern</td><td>Mequinenza</td><td>2026-09-11</td></tr>
+<tr><td>P D G</td><td>Hr Business Partner Intern</td><td>Mequinenza</td><td>2026-09-11</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>Human Resources Internship (m/f/x)</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>P D G</td><td>Human Resources Internship (m/f/x)</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>repsol</td><td>Prácticas Talent Energy</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Recepción Eurostars Hotels (barcelona)</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Revenue - Eurostars Hotel Company</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Área Comercial - Sector Hoteles / Madrid</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Telefonica</td><td>Practicas Curriculares/extracurriculares</td><td>Spain</td><td>2026-09-11</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Use Cases Home Advanced Conectivity (hac)</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Telefonica</td><td>Telefónica_foro_empleo_upm_2025</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Ai Factory</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Telefonica</td><td>Tech_10 Becas Finanzas, Datos, Y Consultoria Negocio</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Telefonica</td><td>Tech_2 Beca Talento</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Circular&value Added Lab</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Dirección De Reporting</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Coty Inc.</td><td>Hr Operations Intern</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Enagas</td><td>Beca Prevención De Riesgos Laborales / Barcelona</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Kyndryl Holdings</td><td>Software Engineer</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>minsait</td><td>Ingeniero/a Software Junior C/c++ - Sector Defensa</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Recruiter4you</td><td>Technical Ai Programmer (unreal Engine 5) – Fully Remote</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Analyst / Data Engineer (commercial Insurance)</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Springer Nature</td><td>Junior Commercial Data Analyst</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>ING</td><td>Mifid Private Banking Control Specialist</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>164</td><td>Técnico Contable</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Verisure S.A.</td><td>Beca Curricular - Business Analyst</td><td>Spain</td><td>2026-09-11</td></tr>
+<tr><td>Springernature</td><td>Finance Analyst Iberia & We</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Sopra Steria UK</td><td>Consultor/a Sap Co</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Ahorramas, S.A</td><td>Analista Funcional (temporal)</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Melia</td><td>Tecnico/a De Mantenimiento - Meliá Sitges</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Etam</td><td>Vendedor.a Zielo 20h/sem (incorporación Inmediata)</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a - [plantilla Jes]</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>DABA, SA</td><td>Dependiente/a Nespresso Eci Pozuelo (32h/s Tardes)</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>beonit</td><td>Estudiante Universitario Con Habilidades Comerciales (16h/s) - Barcelona</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate (part Time 20h) - Ocs Serrano</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Skechers U.S.A., Inc</td><td>Vended@r 16h Skechers Getafe</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Condis Supermercats S.A</td><td>Bolsa De Talento Almacen</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Puma</td><td>Vendedorxs A 20h Semanales (outlet Oasiz Madrid)</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Merkal Calzados S.L</td><td>Vendedor/a 15 Horas Semanales</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Boutique Sales Associate</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Mango</td><td>Jornada De Selección Mozo/a De Almacén 24 De Agosto De 09-17h En La Central De Mango</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Skechers</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Saint Laurent</td><td>Saint Laurent Client Advisor - Madrid Pop Up</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>NUDE PROJECT</td><td>Visual Sales Assistant 24h - Madrid Flagship</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Madrid Orense</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>La Casa de las Carcasas</td><td>Sales Assistant - Cc Splau</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Avisbudgetgroup</td><td>Rental Sales Associate</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Budget Stay</td><td>Rental Sales Associate</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Temporing</td><td>Carretillero/a Preparador/a De Pedidos</td><td>Barcelona</td><td>2026-09-11</td></tr>
+<tr><td>Merkal Calzados S.L</td><td>Vendedores/as 20 Horas Semanales</td><td>Madrid</td><td>2026-09-11</td></tr>
 </table>
