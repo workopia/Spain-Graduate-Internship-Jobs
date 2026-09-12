@@ -1827,4 +1827,30 @@
 <tr><td>Budget Stay</td><td>Rental Sales Associate</td><td>Madrid</td><td>2026-09-11</td></tr>
 <tr><td>Temporing</td><td>Carretillero/a Preparador/a De Pedidos</td><td>Barcelona</td><td>2026-09-11</td></tr>
 <tr><td>Merkal Calzados S.L</td><td>Vendedores/as 20 Horas Semanales</td><td>Madrid</td><td>2026-09-11</td></tr>
+<tr><td>Roche Holding AG</td><td>In-house Service/repair Technician Intern</td><td>Sant Cugat Del Vall</td><td>2026-09-12</td></tr>
+<tr><td>Roche Holding AG</td><td>Cyber Security Compliance Intern</td><td>Sant Cugat Del Vall</td><td>2026-09-12</td></tr>
+<tr><td>Roche Holding AG</td><td>Cybersecurity Analyst Intern</td><td>Sant Cugat Del Vall</td><td>2026-09-12</td></tr>
+<tr><td>Pfizer Com Ec</td><td>Beca En Finanzas - Planta De Producción Farmacéutica</td><td>Salamanca</td><td>2026-09-12</td></tr>
+<tr><td>THALES</td><td>Project Management Office (pmo) & Communication Intern</td><td>Barcelona</td><td>2026-09-12</td></tr>
+<tr><td>THALES</td><td>Human Resources Intern (hybrid)</td><td>Madrid</td><td>2026-09-12</td></tr>
+<tr><td>THALES</td><td>Legal & Contract General Intern (hybrid)</td><td>Madrid</td><td>2026-09-12</td></tr>
+<tr><td>THALES</td><td>Quality & Hse Generalist Intern</td><td>Madrid</td><td>2026-09-12</td></tr>
+<tr><td>THALES</td><td>Configuration Administrator Intern</td><td>Madrid</td><td>2026-09-12</td></tr>
+<tr><td>THALES</td><td>Navaids & Avionics Intern</td><td>Madrid</td><td>2026-09-12</td></tr>
+<tr><td>THALES</td><td>Finance Intern</td><td>Barcelona</td><td>2026-09-12</td></tr>
+<tr><td>THALES</td><td>Pmo Intern (hybrid)</td><td>Madrid</td><td>2026-09-12</td></tr>
+<tr><td>ADOBE</td><td>Software Development Engineer</td><td>Barcelona</td><td>2026-09-12</td></tr>
+<tr><td>TD SYNNEX</td><td>Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)</td><td>Barcelona</td><td>2026-09-12</td></tr>
+<tr><td>Product Madness Inc</td><td>Data Scientist</td><td>Barcelona</td><td>2026-09-12</td></tr>
+<tr><td>Springerhealthcare</td><td>Junior Commercial Data Analyst</td><td>Madrid</td><td>2026-09-12</td></tr>
+<tr><td>Ivivamedical</td><td>Business Analyst</td><td>Spain</td><td>2026-09-12</td></tr>
+<tr><td>minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-09-12</td></tr>
+<tr><td>Airbus</td><td>Lma Technician B1, B2, B1/b2 - Madrid Area</td><td>Madrid</td><td>2026-09-12</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Lma Technician B1, B2, B1/b2 - Madrid Area</td><td>Madrid</td><td>2026-09-12</td></tr>
+<tr><td>230</td><td>Sales Associate</td><td>Barcelona</td><td>2026-09-12</td></tr>
+<tr><td>Trek Bicycle</td><td>Sales Associate</td><td>Barcelona</td><td>2026-09-12</td></tr>
+<tr><td>Trek</td><td>Sales Associate</td><td>Barcelona</td><td>2026-09-12</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 10h La Roca</td><td>Barcelona</td><td>2026-09-12</td></tr>
+<tr><td>Levi's</td><td>Sales Stylist 20h - Levi's Eci Madrid Preciados</td><td>Madrid</td><td>2026-09-12</td></tr>
+<tr><td>OBRAMAT</td><td>Almacén Rivas_ Vendedor/a Retail 40h</td><td>Madrid</td><td>2026-09-12</td></tr>
 </table>
