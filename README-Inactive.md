@@ -1853,4 +1853,72 @@
 <tr><td>Levis Media</td><td>Sales Stylist 10h La Roca</td><td>Barcelona</td><td>2026-09-12</td></tr>
 <tr><td>Levi's</td><td>Sales Stylist 20h - Levi's Eci Madrid Preciados</td><td>Madrid</td><td>2026-09-12</td></tr>
 <tr><td>OBRAMAT</td><td>Almacén Rivas_ Vendedor/a Retail 40h</td><td>Madrid</td><td>2026-09-12</td></tr>
+<tr><td>Mango</td><td>Intern Customer Experience</td><td>Palau</td><td>2026-09-13</td></tr>
+<tr><td>MANGO</td><td>Accounts Payable, Intern</td><td>Palau</td><td>2026-09-13</td></tr>
+<tr><td>MANGO</td><td>Quantitative Researcher Intern</td><td>Palau</td><td>2026-09-13</td></tr>
+<tr><td>MANGO</td><td>Intern Pricing Analitycs</td><td>Palau</td><td>2026-09-13</td></tr>
+<tr><td>MANGO</td><td>Accounting Controller Intern</td><td>Palau</td><td>2026-09-13</td></tr>
+<tr><td>MANGO</td><td>Transformation Office Intern</td><td>Palau</td><td>2026-09-13</td></tr>
+<tr><td>Mango</td><td>Intern Public Relations</td><td>Palau</td><td>2026-09-13</td></tr>
+<tr><td>RWE AG</td><td>Internship Solar Operations (12 Months) D/f/m</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>Herbert Smith Freehills Kramer</td><td>Becario/a De Documentación Y Gestión Del Conocimiento (krl Intern)</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Herbert Smith Freehills Kramer</td><td>Prácticas Máster De Acceso</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Philips UK</td><td>Internship: Finance Intern</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Philips UK</td><td>Internship: Demand Planner Intern</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Philips UK</td><td>Becario Logística</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Mondelēz International</td><td>Mondelez Internship - Il6s Trainee (m/f/d) - 12 Months Internship - Viana - February 2026</td><td>Viana</td><td>2026-09-13</td></tr>
+<tr><td>Mondelēz International</td><td>Mondelez Internship - Il6s Trainee (m/f/d) - 12 Months Internship - Viana - January 2026</td><td>Viana</td><td>2026-09-13</td></tr>
+<tr><td>Mondelēz International</td><td>Mechanical/ Industrial Engineer Trainee(m/f/d)– 12 Months Internship - Montornes (spain) August/september 2024</td><td>Montornes</td><td>2026-09-13</td></tr>
+<tr><td>Mondelēz International</td><td>Internship Mondelez –technician Safety Intern (m/f/d) - 12 Months Internship - Viana - February 2026</td><td>Viana</td><td>2026-09-13</td></tr>
+<tr><td>Levis Media</td><td>Visual Merchandising & Brand Experience Intern</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY</td><td>Digital Services Intern, Madrid</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Johnson & Johnson</td><td>Marketing And Medical Affairs Department Internship</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Johnson & Johnson</td><td>Medical Affairs Internship</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>164</td><td>Beca Industrialización</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>EY</td><td>Prácticas Comunicación Externa</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>ING Hubs Spain</td><td>Communication, Marketing & Employer Branding Intern</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>CMA CGM Group</td><td>Prácticas Prevención De Riesgos Laborales</td><td>OntíGola</td><td>2026-09-13</td></tr>
+<tr><td>Boeing Co</td><td>Intern - Systems Safety Engineering</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Boeing Co</td><td>Intern - Software Engineering</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Signify</td><td>Seo And Ai Visibility Intern</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Signify</td><td>Production Internship</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Signify</td><td>B2b Online Sales - Ecommerce And Marketplaces Internship</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Signify</td><td>Technical Designer Internship</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Signify</td><td>Brand Insights Internship</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Signify</td><td>Order Management Internship</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Coty</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>BBVA</td><td>🚀 Becas Bbva Áreas Jurídicas Madrid 2026</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>BBVA</td><td>🚀 Becas Bbva Áreas De Rrhh Madrid 2026</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>NUDE PROJECT</td><td>Customer Experience Intern</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>Air Liquide Healthcare Iberia</td><td>Internship Comunicación</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Coty Inc.</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>GE Vernova</td><td>Human Resources Intern</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>Splunk</td><td>Sales Legal Intern</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>ABB UK</td><td>Internship: Customer Operations Department: Customer Service And Order Management</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>Angelini S.p.a</td><td>Trainee Market Access</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Desarrollo Software C++</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Software Aviónico Y Estándares</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Platform - Madrid, Spain</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Platform - Barcelona, Spain</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>Elastic</td><td>Software Engineer Ii (networking) - Platform Infra</td><td>Spain</td><td>2026-09-13</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer P2p - Search Team</td><td>Spain</td><td>2026-09-13</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-09-13</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Oliver Wyman – Ai Engineer (m/f/d) – Quotient Ai Specialist – Madrid / London</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>494</td><td>Data Scientist</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>Aristocrat Technologies</td><td>Data Scientist</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>Volvo Car Corporation AB</td><td>Purchase-to-pay (ptp) Accountant With French</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Indra group</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-09-13</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Maintenance Technician - W Barcelona</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Lma Technician B1, B2, B1/b2 - Madrid Area</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Airbus SE</td><td>Lma Technician B1, B2, B1/b2 - Madrid Area</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a 30h</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate Shop In Shop Princesa Bow Wholesale 35h (f/m/x)</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>H&M</td><td>Sales Advisor (20 Horas)</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - 12h Portal Man</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate – Contrato Indefinido, 30hs, Eci Plaza Cat Barcelona</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>VANS</td><td>Vendedor/a 10h Vans - Pozuelo (madrid)</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Trek Bikes</td><td>Sales Associate</td><td>Barcelona</td><td>2026-09-13</td></tr>
+<tr><td>Ball</td><td>Manufacturing Excellence Specialist</td><td>Llinars Del VallèS</td><td>2026-09-13</td></tr>
+<tr><td>OCA Global Corporate Services S.A</td><td>Administrativo/a Toledo</td><td>Madrid</td><td>2026-09-13</td></tr>
 </table>
