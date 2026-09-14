@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-13",
- "count": 557,
+ "asOf": "2026-09-14",
+ "count": 556,
  "jobs": {
   "42686": {
    "id": "42686",
@@ -12,6 +12,78 @@
    "id": "2053833",
    "company": "Holded",
    "role": "Phone Support Specialist",
+   "location": "Barcelona"
+  },
+  "1cdb705bf993c747533bc59a77badf99": {
+   "id": "1cdb705bf993c747533bc59a77badf99",
+   "company": "Selectra S.A.R.L",
+   "role": "Internship - Inbound Sales Agent - Dutch Speaking",
+   "location": "Madrid"
+  },
+  "6d61ccaf91af37cc7ca1e7a0e6678548": {
+   "id": "6d61ccaf91af37cc7ca1e7a0e6678548",
+   "company": "MedAire",
+   "role": "International Security Intern",
+   "location": "Madrid"
+  },
+  "b4b1c42114c8311a077046208bbba20c": {
+   "id": "b4b1c42114c8311a077046208bbba20c",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Junior Powerapps Developer Intern",
+   "location": "Barcelona"
+  },
+  "3b3913473de8bcb76201a0f4bb5bbb4a": {
+   "id": "3b3913473de8bcb76201a0f4bb5bbb4a",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Hr Labor Relations Internship",
+   "location": "Barcelona"
+  },
+  "331c9d12e481886eb82976ddf29ca8aa": {
+   "id": "331c9d12e481886eb82976ddf29ca8aa",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Ai Developer Intern",
+   "location": "Barcelona"
+  },
+  "b7dd420cd45398f2dd1a5ab096682874": {
+   "id": "b7dd420cd45398f2dd1a5ab096682874",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Regional Compliance Intern",
+   "location": "Barcelona"
+  },
+  "d3a305eb4e69fe0476a6faebcec09f80": {
+   "id": "d3a305eb4e69fe0476a6faebcec09f80",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Data Engineering & Visualization Intern",
+   "location": "Barcelona"
+  },
+  "b64825b2a53990c4b3b56055efd450b3": {
+   "id": "b64825b2a53990c4b3b56055efd450b3",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Multinational Wording Operations Intern",
+   "location": "Barcelona"
+  },
+  "fc4b6450f0e9f47bf40c1245ddc7bfce": {
+   "id": "fc4b6450f0e9f47bf40c1245ddc7bfce",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Network & Partner Operations Intern",
+   "location": "Barcelona"
+  },
+  "0dc3e854f11a86c648c70aca50baac2c": {
+   "id": "0dc3e854f11a86c648c70aca50baac2c",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Hr Internship",
+   "location": "Barcelona"
+  },
+  "0844a304adce8cc06b0ec9616fe9913a": {
+   "id": "0844a304adce8cc06b0ec9616fe9913a",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Front Office Systems Intern",
+   "location": "Barcelona"
+  },
+  "27617f20f733d5e2b8df24a5829f3659": {
+   "id": "27617f20f733d5e2b8df24a5829f3659",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Investment Performance Analyst Intern",
    "location": "Barcelona"
   },
   "0f7850e06152ca6cfa18003862b16da5": {
@@ -242,6 +314,12 @@
    "role": "Beca Innovación",
    "location": "Madrid"
   },
+  "2052b8a5403ffa3c347aa448dabcac4e": {
+   "id": "2052b8a5403ffa3c347aa448dabcac4e",
+   "company": "164",
+   "role": "Beca Innovación",
+   "location": "Madrid"
+  },
   "625f13e9441aef87fdba27de66b28858": {
    "id": "625f13e9441aef87fdba27de66b28858",
    "company": "Exclusive Networks Group",
@@ -416,84 +494,6 @@
    "role": "Marketing Activations Intern",
    "location": "Barcelona"
   },
-  "dd7f83962846fcb205c52d7bb0e86a56": {
-   "id": "dd7f83962846fcb205c52d7bb0e86a56",
-   "company": "Gartner UK",
-   "role": "Client Success Associate Internship, Summer 2026 (2027 Graduates) - Swedish Speaker",
-   "location": "Egham +1"
-  },
-  "a71e657905fa95899513e24e0e2be3ba": {
-   "id": "a71e657905fa95899513e24e0e2be3ba",
-   "company": "PTC",
-   "role": "Sales Compliance Intern",
-   "location": "Barcelona"
-  },
-  "cfb20df455780639118716ca58729e70": {
-   "id": "cfb20df455780639118716ca58729e70",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Customer Experience Agent Intern",
-   "location": "Barcelona"
-  },
-  "4399507d30eca73e82e2042a9f586d6f": {
-   "id": "4399507d30eca73e82e2042a9f586d6f",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas - Renovación Y Analítica Editorial",
-   "location": "Barcelona"
-  },
-  "d29be68e4b28716b62723152b58f26f4": {
-   "id": "d29be68e4b28716b62723152b58f26f4",
-   "company": "Boston Consulting Group",
-   "role": "Visiting Associate, Internship, Spain",
-   "location": "Spain"
-  },
-  "46baaf620892bf39474b7a714ca1c55d": {
-   "id": "46baaf620892bf39474b7a714ca1c55d",
-   "company": "Hogan Lovells",
-   "role": "Prácticas Full-time Penal",
-   "location": "Madrid"
-  },
-  "74c6fe46521d98a07caccf04685d0b55": {
-   "id": "74c6fe46521d98a07caccf04685d0b55",
-   "company": "Abbott Diabetes Care",
-   "role": "Commercial Excellence Intern",
-   "location": "Madrid"
-  },
-  "e420e9a4b5e99003b1770abd91cca27b": {
-   "id": "e420e9a4b5e99003b1770abd91cca27b",
-   "company": "Abbott Diabetes Care",
-   "role": "Field Service Engineer Internship - Mechanical, Industrial, Electronics Or Automation Engineer (madrid)",
-   "location": "Madrid"
-  },
-  "4b9fc2c38bfac378cea47bbf13d36b30": {
-   "id": "4b9fc2c38bfac378cea47bbf13d36b30",
-   "company": "Abbott Diabetes Care",
-   "role": "Field Tehcnical Engineer Internship - Ep - Galicia",
-   "location": "Galicia"
-  },
-  "1dca02cd4f28557337758fd219e24483": {
-   "id": "1dca02cd4f28557337758fd219e24483",
-   "company": "Abbott Diabetes Care",
-   "role": "Government Affairs Intern - Madrid",
-   "location": "Madrid"
-  },
-  "065a83e9a529319d00bc924e55839310": {
-   "id": "065a83e9a529319d00bc924e55839310",
-   "company": "Mango",
-   "role": "Fashion Design Intern Talent Pool",
-   "location": "Palau"
-  },
-  "800644080d7e60ac3278cf4af39acaeb": {
-   "id": "800644080d7e60ac3278cf4af39acaeb",
-   "company": "Mango",
-   "role": "Design Intern - Man",
-   "location": "Palau"
-  },
-  "cf539fbc4cbf034ccd1f3e6f44b58c4b": {
-   "id": "cf539fbc4cbf034ccd1f3e6f44b58c4b",
-   "company": "Mango",
-   "role": "Sourcing Assistant Intern",
-   "location": "Palau"
-  },
   "4d79e34ce93f2e0ad4fec397572e9aef": {
    "id": "4d79e34ce93f2e0ad4fec397572e9aef",
    "company": "Stripe",
@@ -528,6 +528,12 @@
    "id": "17b76da6e71c8ac6966c2d17446eb687",
    "company": "Sopra Steria",
    "role": "Desarrollador/a Ios",
+   "location": "Madrid"
+  },
+  "0f1764f1f3622e01a139e654d0ea5296": {
+   "id": "0f1764f1f3622e01a139e654d0ea5296",
+   "company": "Ernst & Young",
+   "role": "Desarrollador/a Abap",
    "location": "Madrid"
   },
   "6ba9fe92dd117cb3cdf61311e9561036": {
@@ -974,15 +980,15 @@
    "role": "Software Engineer - Platform Metal / Spain / Remote",
    "location": "Spain"
   },
-  "5ff3537bb06fccab0b1041cdec3a650f": {
-   "id": "5ff3537bb06fccab0b1041cdec3a650f",
-   "company": "NN Group",
-   "role": "Cloud Solution Developer (api Developer)",
-   "location": "Madrid"
-  },
   "04581d3a0480f9422346c66f1b4d80fd": {
    "id": "04581d3a0480f9422346c66f1b4d80fd",
    "company": "TD SYNNEX",
+   "role": "Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)",
+   "location": "Barcelona"
+  },
+  "c4b1b896fd8a118344c15ded864765c2": {
+   "id": "c4b1b896fd8a118344c15ded864765c2",
+   "company": "TD SYNNEX Accessboard",
    "role": "Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)",
    "location": "Barcelona"
   },
@@ -992,10 +998,10 @@
    "role": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
    "location": "Madrid"
   },
-  "e06e36bc62052af6eabe9c119aad565a": {
-   "id": "e06e36bc62052af6eabe9c119aad565a",
-   "company": "TD SYNNEX Accessboard",
-   "role": "Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)",
+  "9afebdf140d10c3c7f35bcc02f836c7d": {
+   "id": "9afebdf140d10c3c7f35bcc02f836c7d",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Data Analyst / Data Engineer (commercial Insurance)",
    "location": "Barcelona"
   },
   "d49167b62c14190f05715ca43bf419c9": {
@@ -1007,6 +1013,12 @@
   "da84d8dc6284ad5fc1b31299a6c7151e": {
    "id": "da84d8dc6284ad5fc1b31299a6c7151e",
    "company": "Concentrix",
+   "role": "Report Analyst - English Speaking - Onsite - Mx01",
+   "location": "Barcelona"
+  },
+  "fbdd133da933d865dd1d6264595ef5fa": {
+   "id": "fbdd133da933d865dd1d6264595ef5fa",
+   "company": "Concentrix CVG",
    "role": "Report Analyst - English Speaking - Onsite - Mx01",
    "location": "Barcelona"
   },
@@ -1028,9 +1040,21 @@
    "role": "Data Analyst, Associate",
    "location": "Madrid"
   },
+  "2ae6b13f62c14a94aa28ceebab344194": {
+   "id": "2ae6b13f62c14a94aa28ceebab344194",
+   "company": "Roche",
+   "role": "Data Scientist - Enterprise Search",
+   "location": "Madrid"
+  },
   "9219830eadf98d78ab42d6f9aa8814ae": {
    "id": "9219830eadf98d78ab42d6f9aa8814ae",
    "company": "Ivivamedical",
+   "role": "Data Analyst (sas / Sql Programming) - German Speaker (spain Remote)",
+   "location": "Madrid"
+  },
+  "d305cdad7e3635896418034e5094b558": {
+   "id": "d305cdad7e3635896418034e5094b558",
+   "company": "IQVIA Holdings",
    "role": "Data Analyst (sas / Sql Programming) - German Speaker (spain Remote)",
    "location": "Madrid"
   },
@@ -1382,12 +1406,6 @@
    "role": "Ai Software Engineer / Spain",
    "location": "Madrid"
   },
-  "9afebdf140d10c3c7f35bcc02f836c7d": {
-   "id": "9afebdf140d10c3c7f35bcc02f836c7d",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Data Analyst / Data Engineer (commercial Insurance)",
-   "location": "Barcelona"
-  },
   "252189eedfef9d21b38cf8f1f6dd6970": {
    "id": "252189eedfef9d21b38cf8f1f6dd6970",
    "company": "Kyndryl",
@@ -1460,23 +1478,11 @@
    "role": "Ai Builder, Emerging Talent - Greek Market",
    "location": "Madrid"
   },
-  "170734de737188797b97afd175ab5976": {
-   "id": "170734de737188797b97afd175ab5976",
-   "company": "Salesforce UK",
-   "role": "Ai Builder, Emerging Talent - Greek Market",
-   "location": "Madrid"
-  },
-  "82db0b5ae1daaa9d1783734810e50c39": {
-   "id": "82db0b5ae1daaa9d1783734810e50c39",
-   "company": "swisssalesjobs.ch",
-   "role": "Ai Builder, Emerging Talent - Greek Market",
-   "location": "Madrid"
-  },
-  "c10f2e6389b200fef007c311fc899788": {
-   "id": "c10f2e6389b200fef007c311fc899788",
-   "company": "Marsh & McLennan Companies Inc",
-   "role": "Oliver Wyman – Ai Engineer (m/f/d) – Quotient Ai Specialist – Madrid / London",
-   "location": "Madrid"
+  "5084aeedb7cff32a071e0dfecd3a04c6": {
+   "id": "5084aeedb7cff32a071e0dfecd3a04c6",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Business Analyst Intern",
+   "location": "Barcelona"
   },
   "3611ab36fbba4d8b48a77c6bb4297a49": {
    "id": "3611ab36fbba4d8b48a77c6bb4297a49",
@@ -1538,12 +1544,6 @@
    "role": "Servicenow Business Analyst Intern",
    "location": "Barcelona"
   },
-  "5084aeedb7cff32a071e0dfecd3a04c6": {
-   "id": "5084aeedb7cff32a071e0dfecd3a04c6",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Business Analyst Intern",
-   "location": "Barcelona"
-  },
   "181b8bb902af852b5d40abe6d96c27a5": {
    "id": "181b8bb902af852b5d40abe6d96c27a5",
    "company": "William Blair",
@@ -1580,9 +1580,33 @@
    "role": "Sales Analyst Trainee",
    "location": "Barcelona"
   },
+  "80e46470d03414e34dbeb3dbe766a148": {
+   "id": "80e46470d03414e34dbeb3dbe766a148",
+   "company": "GXO Logistics, Inc.",
+   "role": "Opex Bi Analyst/ Continuous Improvement Analyst",
+   "location": "Marchamalo"
+  },
+  "e77cf7fd4e5d866378a257352e0c7283": {
+   "id": "e77cf7fd4e5d866378a257352e0c7283",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Business Analyst",
+   "location": "Barcelona"
+  },
+  "090369c09d8ec8742afd03f1a2998f48": {
+   "id": "090369c09d8ec8742afd03f1a2998f48",
+   "company": "The LEGO Group",
+   "role": "Analytics & Insights (a&i) Partner",
+   "location": "Madrid"
+  },
   "c169fb4961fb8441f6d4892b6b535c6b": {
    "id": "c169fb4961fb8441f6d4892b6b535c6b",
    "company": "Concentrix",
+   "role": "Business Analyst (english-speaking) - Hybrid Ht05",
+   "location": "Barcelona"
+  },
+  "ae5368a50ba5fc3b289af198faac08c2": {
+   "id": "ae5368a50ba5fc3b289af198faac08c2",
+   "company": "Concentrix CVG",
    "role": "Business Analyst (english-speaking) - Hybrid Ht05",
    "location": "Barcelona"
   },
@@ -1592,15 +1616,33 @@
    "role": "Network Business Analyst",
    "location": "Madrid"
   },
+  "c22f3759e9598e5e001e616fd1022b60": {
+   "id": "c22f3759e9598e5e001e616fd1022b60",
+   "company": "IQVIA Holdings",
+   "role": "Network Business Analyst",
+   "location": "Madrid"
+  },
   "1af8abb06cd4db8abd3e5b227792953c": {
    "id": "1af8abb06cd4db8abd3e5b227792953c",
    "company": "Houseoftechcommunity",
    "role": "Business Data Analyst",
    "location": "Barcelona"
   },
+  "af76b01dd04fe8d69a45f9eca109f42a": {
+   "id": "af76b01dd04fe8d69a45f9eca109f42a",
+   "company": "TD SYNNEX Accessboard",
+   "role": "Business Data Analyst",
+   "location": "Barcelona"
+  },
   "9ffe0a71c364264fa8e5a144c247a960": {
    "id": "9ffe0a71c364264fa8e5a144c247a960",
    "company": "TD SYNNEX",
+   "role": "Business Process Automation Analyst",
+   "location": "Barcelona"
+  },
+  "566bf2a4416ad007235682ee41dfd39b": {
+   "id": "566bf2a4416ad007235682ee41dfd39b",
+   "company": "TD SYNNEX Accessboard",
    "role": "Business Process Automation Analyst",
    "location": "Barcelona"
   },
@@ -1958,12 +2000,6 @@
    "role": "Transactional Revenue Intelligence & Systems Analyst",
    "location": "Spain"
   },
-  "566bf2a4416ad007235682ee41dfd39b": {
-   "id": "566bf2a4416ad007235682ee41dfd39b",
-   "company": "TD SYNNEX Accessboard",
-   "role": "Business Process Automation Analyst",
-   "location": "Barcelona"
-  },
   "91e87692c05bddd12f39f0dbea43e0ad": {
    "id": "91e87692c05bddd12f39f0dbea43e0ad",
    "company": "TRYremote",
@@ -2024,42 +2060,6 @@
    "role": "Un/a Contable Para Incorporación Directa Por Empresa",
    "location": "Barcelona"
   },
-  "f47a385a951d82ecba5e5e53894945ec": {
-   "id": "f47a385a951d82ecba5e5e53894945ec",
-   "company": "Jobgether",
-   "role": "Compliance Analyst",
-   "location": "Spain"
-  },
-  "983333621dcabef5dad8b7c8fa254b77": {
-   "id": "983333621dcabef5dad8b7c8fa254b77",
-   "company": "DXC Technology Australia & New Zealand",
-   "role": "Analista Funcional Seguros De Vida",
-   "location": "Any City"
-  },
-  "1e5a19d74f6c19df159eb61dbb58992d": {
-   "id": "1e5a19d74f6c19df159eb61dbb58992d",
-   "company": "Jobgether",
-   "role": "Product Analyst",
-   "location": "Spain"
-  },
-  "ed7e1d6c68f93ff7e8f548ce90163ad8": {
-   "id": "ed7e1d6c68f93ff7e8f548ce90163ad8",
-   "company": "ACCIONA",
-   "role": "Técnico Contable",
-   "location": "Madrid"
-  },
-  "d8c8535b7cb3900f50bf78154715dc19": {
-   "id": "d8c8535b7cb3900f50bf78154715dc19",
-   "company": "Dbcargofrance",
-   "role": "Hr Business Advisory Analyst/business Advisor",
-   "location": "Madrid"
-  },
-  "df0403012ccff2bcc49034f2ee8c4b75": {
-   "id": "df0403012ccff2bcc49034f2ee8c4b75",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Consultor/a Grandes Empresas Catalunya",
-   "location": "Barcelona"
-  },
   "3c465745cfb285e57a7b6d2a42eb9873": {
    "id": "3c465745cfb285e57a7b6d2a42eb9873",
    "company": "EasySalud",
@@ -2083,6 +2083,12 @@
    "company": "FRESENIUS MEDICAL CARE",
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
+  },
+  "1ee700ac148227e90b964e605a4acb09": {
+   "id": "1ee700ac148227e90b964e605a4acb09",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Watchmaker Level 2",
+   "location": "Madrid"
   },
   "15bf49cd157eb0c8a3be6a4e93004ce7": {
    "id": "15bf49cd157eb0c8a3be6a4e93004ce7",
@@ -2558,10 +2564,52 @@
    "role": "Maintenance Technician - W Barcelona",
    "location": "Barcelona"
   },
-  "ceabe0f7020300b730688e00e46a9862": {
-   "id": "ceabe0f7020300b730688e00e46a9862",
-   "company": "W Brisbane",
-   "role": "Maintenance Technician - W Barcelona",
+  "c81fa4f0f651b39166b4e4378bddd1a0": {
+   "id": "c81fa4f0f651b39166b4e4378bddd1a0",
+   "company": "Levis",
+   "role": "Sales Stylist 25h Lfo La Roca",
+   "location": "Barcelona"
+  },
+  "103d8406a5644a87c6c6527b3e3ede8b": {
+   "id": "103d8406a5644a87c6c6527b3e3ede8b",
+   "company": "adidas AG",
+   "role": "Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h",
+   "location": "Salamanca"
+  },
+  "df011fb3a3e30fcf202eb1fd23db0fcc": {
+   "id": "df011fb3a3e30fcf202eb1fd23db0fcc",
+   "company": "HUGO BOSS AG",
+   "role": "Sales Associate Shop In Shop Princesa Bow Wholesale 35h (f/m/x)",
+   "location": "Madrid"
+  },
+  "3d707f4e18debce4fe19fb9562001a5d": {
+   "id": "3d707f4e18debce4fe19fb9562001a5d",
+   "company": "Mango",
+   "role": "Vendedor/a 25h La Vaguada Madrid",
+   "location": "Madrid"
+  },
+  "5e5c442002f5fe216d2f01473138f276": {
+   "id": "5e5c442002f5fe216d2f01473138f276",
+   "company": "Mango",
+   "role": "Vendedor/a 25h Rotativos Serrano",
+   "location": "Madrid"
+  },
+  "cfc347554f5ceba03eacc8bb02358b29": {
+   "id": "cfc347554f5ceba03eacc8bb02358b29",
+   "company": "Mango",
+   "role": "Vendedor/a Mango Home Plaza Norte Ii 20h",
+   "location": "Salamanca"
+  },
+  "a5f697edc13f672f1a6c0f944147224b": {
+   "id": "a5f697edc13f672f1a6c0f944147224b",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Boutique Sales Associate",
+   "location": "Barcelona"
+  },
+  "0d4db8fa0b79b20a338e0d2b68b31576": {
+   "id": "0d4db8fa0b79b20a338e0d2b68b31576",
+   "company": "Cartier",
+   "role": "Boutique Assistant - Temporary Contract (12 Months)",
    "location": "Barcelona"
   },
   "a0a979990d2ce5aa7733de504952bc32": {
@@ -2579,6 +2627,12 @@
   "0982c897e8f371793f39ebc218b06dec": {
    "id": "0982c897e8f371793f39ebc218b06dec",
    "company": "Skechers",
+   "role": "Vendedor/a Tienda 20h - Viladecans",
+   "location": "Barcelona"
+  },
+  "68cee7e69153d9434dbcc268b48123d2": {
+   "id": "68cee7e69153d9434dbcc268b48123d2",
+   "company": "skechers.dk",
    "role": "Vendedor/a Tienda 20h - Viladecans",
    "location": "Barcelona"
   },
@@ -2605,6 +2659,18 @@
    "company": "MANGO",
    "role": "Vendedor/a Black Friday - Madrid Este",
    "location": "Madrid"
+  },
+  "7bb003b54af745c6404d00c0e94afadb": {
+   "id": "7bb003b54af745c6404d00c0e94afadb",
+   "company": "Levis Media",
+   "role": "Sales Stylist 15h (fin De Semana) Levis Eci Pozuelo",
+   "location": "Madrid"
+  },
+  "91bfa60bf3a161cf4e8cad75463a677b": {
+   "id": "91bfa60bf3a161cf4e8cad75463a677b",
+   "company": "TK Maxx",
+   "role": "Dependiente/a 25 Horas (indefinido)",
+   "location": "Barcelona"
   },
   "80dea074ad7ad14e68ae2d1e1ca332b7": {
    "id": "80dea074ad7ad14e68ae2d1e1ca332b7",
@@ -2978,72 +3044,6 @@
    "role": "Vendedor/a Fontaneria (temporal Experto)_almacen Salamanca",
    "location": "Salamanca"
   },
-  "0eadeb32551524e03c0150a4af12a6fa": {
-   "id": "0eadeb32551524e03c0150a4af12a6fa",
-   "company": "beonit",
-   "role": "Vendedor/a De Accesorios De Telefonía",
-   "location": "Madrid"
-  },
-  "d1b6bc03a276e8a3daae36c76d3ed478": {
-   "id": "d1b6bc03a276e8a3daae36c76d3ed478",
-   "company": "Mango",
-   "role": "Vendedor/a - La Vaguada",
-   "location": "Madrid"
-  },
-  "a3fa07e42ce8d1580200db84d571f3a7": {
-   "id": "a3fa07e42ce8d1580200db84d571f3a7",
-   "company": "Mango",
-   "role": "Vendedor/a - Madrid La Vaguada",
-   "location": "Madrid"
-  },
-  "963f7c79446a0025f8cfc2c8faccee21": {
-   "id": "963f7c79446a0025f8cfc2c8faccee21",
-   "company": "Mango",
-   "role": "Vendedor/a 25h - Mango Home Moraleja Green",
-   "location": "Salamanca"
-  },
-  "54b8aac2ce0b706fe3791b7089c5be64": {
-   "id": "54b8aac2ce0b706fe3791b7089c5be64",
-   "company": "adidas AG",
-   "role": "Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets",
-   "location": "Salamanca"
-  },
-  "987cdf6bd398dc99ce1b0e652af2d494": {
-   "id": "987cdf6bd398dc99ce1b0e652af2d494",
-   "company": "adidas AG",
-   "role": "Sales Associate Part Time 20h - Fo La Roca",
-   "location": "Barcelona"
-  },
-  "16bcb7a5f8914ed019d1847e39792ce0": {
-   "id": "16bcb7a5f8914ed019d1847e39792ce0",
-   "company": "adidas AG",
-   "role": "Sales Associate (part Time) - Adidas Fo Rivas-vaciamadrid",
-   "location": "Madrid"
-  },
-  "5105f0921563d827621bb8d754a0e873": {
-   "id": "5105f0921563d827621bb8d754a0e873",
-   "company": "adidas AG",
-   "role": "Sales Associate Fo San Sebastian De Los Reyes",
-   "location": "Madrid"
-  },
-  "dda60886198099f314778f07603b66cc": {
-   "id": "dda60886198099f314778f07603b66cc",
-   "company": "adidas AG",
-   "role": "Sales Associate",
-   "location": "Barcelona"
-  },
-  "cf79fd8ad332db88be9649ed0c678ba6": {
-   "id": "cf79fd8ad332db88be9649ed0c678ba6",
-   "company": "adidas AG",
-   "role": "Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h",
-   "location": "Salamanca"
-  },
-  "30f1197bd9c6eddde8cd52190dda9326": {
-   "id": "30f1197bd9c6eddde8cd52190dda9326",
-   "company": "adidas AG",
-   "role": "Sales Associate (part Time) - Fo Las Rozas.",
-   "location": "Madrid"
-  },
   "ff133ee8701794f92a814c57813b38f5": {
    "id": "ff133ee8701794f92a814c57813b38f5",
    "company": "Ball",
@@ -3337,12 +3337,6 @@
    "company": "Temporing",
    "role": "Auxiliares Administrativos/as Para La Zona Oriental De Cantabria",
    "location": "Cantabria"
-  },
-  "2af836be63d3abfd5652e7ed7330c32e": {
-   "id": "2af836be63d3abfd5652e7ed7330c32e",
-   "company": "Jobgether",
-   "role": "Accelerator Program - Content Specialist",
-   "location": "Spain"
   }
  }
 }

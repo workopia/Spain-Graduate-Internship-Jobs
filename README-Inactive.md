@@ -1921,4 +1921,41 @@
 <tr><td>Trek Bikes</td><td>Sales Associate</td><td>Barcelona</td><td>2026-09-13</td></tr>
 <tr><td>Ball</td><td>Manufacturing Excellence Specialist</td><td>Llinars Del VallèS</td><td>2026-09-13</td></tr>
 <tr><td>OCA Global Corporate Services S.A</td><td>Administrativo/a Toledo</td><td>Madrid</td><td>2026-09-13</td></tr>
+<tr><td>Gartner UK</td><td>Client Success Associate Internship, Summer 2026 (2027 Graduates) - Swedish Speaker</td><td>Egham +1</td><td>2026-09-14</td></tr>
+<tr><td>PTC</td><td>Sales Compliance Intern</td><td>Barcelona</td><td>2026-09-14</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Customer Experience Agent Intern</td><td>Barcelona</td><td>2026-09-14</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas - Renovación Y Analítica Editorial</td><td>Barcelona</td><td>2026-09-14</td></tr>
+<tr><td>Boston Consulting Group</td><td>Visiting Associate, Internship, Spain</td><td>Spain</td><td>2026-09-14</td></tr>
+<tr><td>Hogan Lovells</td><td>Prácticas Full-time Penal</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Commercial Excellence Intern</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Field Service Engineer Internship - Mechanical, Industrial, Electronics Or Automation Engineer (madrid)</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Field Tehcnical Engineer Internship - Ep - Galicia</td><td>Galicia</td><td>2026-09-14</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Government Affairs Intern - Madrid</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Fashion Design Intern Talent Pool</td><td>Palau</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Design Intern - Man</td><td>Palau</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Sourcing Assistant Intern</td><td>Palau</td><td>2026-09-14</td></tr>
+<tr><td>NN Group</td><td>Cloud Solution Developer (api Developer)</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)</td><td>Barcelona</td><td>2026-09-14</td></tr>
+<tr><td>Salesforce UK</td><td>Ai Builder, Emerging Talent - Greek Market</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>swisssalesjobs.ch</td><td>Ai Builder, Emerging Talent - Greek Market</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Oliver Wyman – Ai Engineer (m/f/d) – Quotient Ai Specialist – Madrid / London</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Compliance Analyst</td><td>Spain</td><td>2026-09-14</td></tr>
+<tr><td>DXC Technology Australia & New Zealand</td><td>Analista Funcional Seguros De Vida</td><td>Any City</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Product Analyst</td><td>Spain</td><td>2026-09-14</td></tr>
+<tr><td>ACCIONA</td><td>Técnico Contable</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Dbcargofrance</td><td>Hr Business Advisory Analyst/business Advisor</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Consultor/a Grandes Empresas Catalunya</td><td>Barcelona</td><td>2026-09-14</td></tr>
+<tr><td>W Brisbane</td><td>Maintenance Technician - W Barcelona</td><td>Barcelona</td><td>2026-09-14</td></tr>
+<tr><td>beonit</td><td>Vendedor/a De Accesorios De Telefonía</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - La Vaguada</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Madrid La Vaguada</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Vendedor/a 25h - Mango Home Moraleja Green</td><td>Salamanca</td><td>2026-09-14</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets</td><td>Salamanca</td><td>2026-09-14</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Part Time 20h - Fo La Roca</td><td>Barcelona</td><td>2026-09-14</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate (part Time) - Adidas Fo Rivas-vaciamadrid</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Fo San Sebastian De Los Reyes</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate</td><td>Barcelona</td><td>2026-09-14</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h</td><td>Salamanca</td><td>2026-09-14</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate (part Time) - Fo Las Rozas.</td><td>Madrid</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Accelerator Program - Content Specialist</td><td>Spain</td><td>2026-09-14</td></tr>
 </table>
