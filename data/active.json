@@ -560,6 +560,12 @@
    "role": "Cics Mainframe Systems Programmer",
    "location": "Madrid"
   },
+  "8d0036f8924e4a014f52eb37668a6107": {
+   "id": "8d0036f8924e4a014f52eb37668a6107",
+   "company": "Indra",
+   "role": "Ingeniero/a De Desarrollo Software C++",
+   "location": "Madrid"
+  },
   "7d8dc764deea00d48475fd3d2468b53b": {
    "id": "7d8dc764deea00d48475fd3d2468b53b",
    "company": "avnet.eu",
@@ -593,6 +599,12 @@
   "5ad302b229612dfe12c2c43f1656a177": {
    "id": "5ad302b229612dfe12c2c43f1656a177",
    "company": "Abbott Diabetes Care",
+   "role": "Go Software Engineer - Cloud",
+   "location": "Barcelona"
+  },
+  "4f323d7128d555b5b0d34e1c80f47227": {
+   "id": "4f323d7128d555b5b0d34e1c80f47227",
+   "company": "jobs.abbott",
    "role": "Go Software Engineer - Cloud",
    "location": "Barcelona"
   },
@@ -732,12 +744,6 @@
    "id": "7340e8c90a9c19da8d39d4336faf3c0c",
    "company": "minsait",
    "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
-   "location": "Madrid"
-  },
-  "8d0036f8924e4a014f52eb37668a6107": {
-   "id": "8d0036f8924e4a014f52eb37668a6107",
-   "company": "Indra",
-   "role": "Ingeniero/a De Desarrollo Software C++",
    "location": "Madrid"
   },
   "3a2b3a268a46fea45fd37eae7a31cb7c": {
@@ -972,12 +978,6 @@
    "id": "500c9ea5754c393c00b2d702aa9e6f69",
    "company": "Indra group",
    "role": "Ingeniero/a Software Junior C/c++ - Sector Defensa",
-   "location": "Madrid"
-  },
-  "ea2fa17bdd8737d8f12add4bf499cebc": {
-   "id": "ea2fa17bdd8737d8f12add4bf499cebc",
-   "company": "Fracttal Tech S.L",
-   "role": "Python Developer, Madrid España",
    "location": "Madrid"
   },
   "04581d3a0480f9422346c66f1b4d80fd": {
@@ -1886,12 +1886,6 @@
    "role": "Business Planning Analyst",
    "location": "Barcelona Area"
   },
-  "d9262860366b7d263689250d1dad5cef": {
-   "id": "d9262860366b7d263689250d1dad5cef",
-   "company": "Black & Veatch Corporation",
-   "role": "Environmental Permitting And Regulatory Compliance Specialist",
-   "location": "Madrid"
-  },
   "3a91b37893245b3218e7ce39dded4a32": {
    "id": "3a91b37893245b3218e7ce39dded4a32",
    "company": "Movistar Plus",
@@ -2060,6 +2054,12 @@
    "role": "Contract Business Analyst",
    "location": "Spain"
   },
+  "83f906da949c75517b20ff86fe95458b": {
+   "id": "83f906da949c75517b20ff86fe95458b",
+   "company": "TP ICAP",
+   "role": "Compliance Advisory Officer",
+   "location": "Madrid"
+  },
   "3c465745cfb285e57a7b6d2a42eb9873": {
    "id": "3c465745cfb285e57a7b6d2a42eb9873",
    "company": "EasySalud",
@@ -2204,9 +2204,21 @@
    "role": "Conviértete En Técnico/a De Ascensores",
    "location": "Madrid"
   },
+  "89f5842f81acdb2426c029fcc8b2930d": {
+   "id": "89f5842f81acdb2426c029fcc8b2930d",
+   "company": "KONE ELEVATORS PTY",
+   "role": "Conviértete En Técnico/a De Ascensores",
+   "location": "Madrid"
+  },
   "aac1dcd802b4a8b59d531c175c919580": {
    "id": "aac1dcd802b4a8b59d531c175c919580",
    "company": "SANDVIK",
+   "role": "Técnico/a De Servicio De Campo – Maquinaria De Construcción Equipos De Minería",
+   "location": "Madrid"
+  },
+  "43c7a6510d61655508f2f590f802b1d1": {
+   "id": "43c7a6510d61655508f2f590f802b1d1",
+   "company": "DSI Underground",
    "role": "Técnico/a De Servicio De Campo – Maquinaria De Construcción Equipos De Minería",
    "location": "Madrid"
   },
@@ -2552,18 +2564,6 @@
    "role": "Operario Mantenimiento Ferroviario Taller Santa Catalina",
    "location": "Madrid"
   },
-  "15c523f27294f5467afbfbe49197191c": {
-   "id": "15c523f27294f5467afbfbe49197191c",
-   "company": "Schindler Elevator Ltd",
-   "role": "Técnico/a De Mantenimiento Ascensores (empresa Afiliada)",
-   "location": "Barcelona"
-  },
-  "a1b8825f2038fe906009cfa56efac612": {
-   "id": "a1b8825f2038fe906009cfa56efac612",
-   "company": "Orona S.Coop",
-   "role": "Técnico/a De Reparación De Puertas Automáticas (madrid)",
-   "location": "Madrid"
-  },
   "c81fa4f0f651b39166b4e4378bddd1a0": {
    "id": "c81fa4f0f651b39166b4e4378bddd1a0",
    "company": "Levis",
@@ -2768,12 +2768,6 @@
    "role": "Sales Associate",
    "location": "Barcelona"
   },
-  "c1752e2121bd090b70c59c21b046c08b": {
-   "id": "c1752e2121bd090b70c59c21b046c08b",
-   "company": "Ametller Origen",
-   "role": "Venedor/a 30h Alella_ Contracte Indefinit",
-   "location": "Barcelona"
-  },
   "c878ba517c31911171a39544661956fb": {
    "id": "c878ba517c31911171a39544661956fb",
    "company": "Ametller Origen",
@@ -2803,6 +2797,12 @@
    "company": "SIXIT",
    "role": "Rental Sales Agent (m/f/d) - Madrid Pozuelo",
    "location": "Madrid"
+  },
+  "e1c8654f9fe12d7be409466e739a3b28": {
+   "id": "e1c8654f9fe12d7be409466e739a3b28",
+   "company": "Ebury",
+   "role": "Sales Development Representative / Fx Sales Associate",
+   "location": "Barcelona"
   },
   "81529589feeacaa2358ecc5ca0f12a14": {
    "id": "81529589feeacaa2358ecc5ca0f12a14",

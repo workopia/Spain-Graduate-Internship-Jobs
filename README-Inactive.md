@@ -1991,4 +1991,9 @@
 <tr><td>TK Maxx</td><td>Dependiente/a De Tienda (contrato Permanente)</td><td>Madrid</td><td>2026-09-15</td></tr>
 <tr><td>OBRAMAT</td><td>Vendedor/a Fontaneria (temporal Experto)_almacen Salamanca</td><td>Salamanca</td><td>2026-09-15</td></tr>
 <tr><td>Temporing</td><td>Auxiliares Administrativos/as Para La Zona Oriental De Cantabria</td><td>Cantabria</td><td>2026-09-15</td></tr>
+<tr><td>Fracttal Tech S.L</td><td>Python Developer, Madrid España</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>Black & Veatch Corporation</td><td>Environmental Permitting And Regulatory Compliance Specialist</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Técnico/a De Mantenimiento Ascensores (empresa Afiliada)</td><td>Barcelona</td><td>2026-09-15</td></tr>
+<tr><td>Orona S.Coop</td><td>Técnico/a De Reparación De Puertas Automáticas (madrid)</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>Ametller Origen</td><td>Venedor/a 30h Alella_ Contracte Indefinit</td><td>Barcelona</td><td>2026-09-15</td></tr>
 </table>
