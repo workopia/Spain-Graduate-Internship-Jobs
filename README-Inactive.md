@@ -1958,4 +1958,37 @@
 <tr><td>adidas AG</td><td>Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h</td><td>Salamanca</td><td>2026-09-14</td></tr>
 <tr><td>adidas AG</td><td>Sales Associate (part Time) - Fo Las Rozas.</td><td>Madrid</td><td>2026-09-14</td></tr>
 <tr><td>Jobgether</td><td>Accelerator Program - Content Specialist</td><td>Spain</td><td>2026-09-14</td></tr>
+<tr><td>Holded</td><td>Phone Support Specialist</td><td>Barcelona</td><td>2026-09-15</td></tr>
+<tr><td>CUSHMAN & WAKEFIELD</td><td>Eic Intern</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>CUSHMAN & WAKEFIELD</td><td>Intern</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>The Procter & Gamble Company</td><td>Product Supply Internship - Barcelona (m/f/x)</td><td>Barcelona</td><td>2026-09-15</td></tr>
+<tr><td>Kenvue</td><td>Regulatory Affairs Intern</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>Barcelo</td><td>Cocinero/a Practicas -hotel Occidental Puerto Banus</td><td>Occidental Puerto Banus</td><td>2026-09-15</td></tr>
+<tr><td>Barcelo</td><td>Prácticas Cocina - Hotel Allegro Isora</td><td>Allegro Isora</td><td>2026-09-15</td></tr>
+<tr><td>Barcelo</td><td>Prácticas Service Cloud & Cti</td><td>Gremi Fusters</td><td>2026-09-15</td></tr>
+<tr><td>Barcelo</td><td>Barceló Hotel Management Internship Program 2027</td><td>Mallorca</td><td>2026-09-15</td></tr>
+<tr><td>Gameloft Australia</td><td>Marketing Activations Intern</td><td>Barcelona</td><td>2026-09-15</td></tr>
+<tr><td>Grafana Labs</td><td>Software Engineer - Platform Metal / Spain / Remote</td><td>Spain</td><td>2026-09-15</td></tr>
+<tr><td>Amadeus</td><td>Bi Data Acquisition Analyst</td><td>Barcelona</td><td>2026-09-15</td></tr>
+<tr><td>Accenture Australia</td><td>Ai/ml Computational Scientist</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>Halfspace ApS</td><td>Ai/ml Computational Scientist</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>kellanova</td><td>Field Sales Data Analyst</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>Salesforce Service Cloud</td><td>Ai Builder, Emerging Talent - Greek Market</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Online Business Analyst</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>TP ICAP</td><td>Compliance Advisory Officer</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>Temporing</td><td>Un/a Contable Para Incorporación Directa Por Empresa</td><td>Barcelona</td><td>2026-09-15</td></tr>
+<tr><td>Dover</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>TÜV SÜD</td><td>Técnico/a Especialista En Ascensores En Madrid (f/m/d)</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Maintenance Technician - W Barcelona</td><td>Barcelona</td><td>2026-09-15</td></tr>
+<tr><td>Marriott International</td><td>Maintenance Technician - W Barcelona</td><td>Barcelona</td><td>2026-09-15</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>Puig</td><td>Seasonal Beauty Expert - El Corte Ingles Pozuelo</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>BOARDRIDERS</td><td>Embajador/a (vendedor/a) - 40h - Eci Diagonal - Barcelona - Boardriders</td><td>Barcelona</td><td>2026-09-15</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 20h</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>Levis Media</td><td>Vendedor/a 16hrs Eci Ls Sanchinarro</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor (20 Horas)</td><td>Barcelona</td><td>2026-09-15</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Dependiente/a De Tienda (contrato Permanente)</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>TK Maxx</td><td>Dependiente/a De Tienda (contrato Permanente)</td><td>Madrid</td><td>2026-09-15</td></tr>
+<tr><td>OBRAMAT</td><td>Vendedor/a Fontaneria (temporal Experto)_almacen Salamanca</td><td>Salamanca</td><td>2026-09-15</td></tr>
+<tr><td>Temporing</td><td>Auxiliares Administrativos/as Para La Zona Oriental De Cantabria</td><td>Cantabria</td><td>2026-09-15</td></tr>
 </table>
