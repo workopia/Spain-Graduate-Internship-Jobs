@@ -1,11 +1,101 @@
 {
- "asOf": "2026-09-15",
+ "asOf": "2026-09-16",
  "count": 556,
  "jobs": {
   "42686": {
    "id": "42686",
    "company": "Arcadis",
    "role": "Tender & Business Development Specialist (f/m/d)",
+   "location": "Madrid"
+  },
+  "4d7d9b5970b98b83fa46fbfed4dbf221": {
+   "id": "4d7d9b5970b98b83fa46fbfed4dbf221",
+   "company": "Roche",
+   "role": "Field Service & Applications Intern In Madrid - Programa On En Roche 2026",
+   "location": "Madrid"
+  },
+  "9772174c0a0de7ccf925c8f8f6f34f63": {
+   "id": "9772174c0a0de7ccf925c8f8f6f34f63",
+   "company": "Premium AEROTEC GmbH",
+   "role": "Xplorer 2027 Real Time Filtering For Photogrammetry",
+   "location": "Getafe Area"
+  },
+  "c35c2df2b85aa30d9f724c6979397f3e": {
+   "id": "c35c2df2b85aa30d9f724c6979397f3e",
+   "company": "Premium AEROTEC GmbH",
+   "role": "#xplorer 2027 Manufacturing Data Integration",
+   "location": "Getafe Area"
+  },
+  "14f0c8984173a71a1ba4405140511486": {
+   "id": "14f0c8984173a71a1ba4405140511486",
+   "company": "Airbus Defence and Space SAU",
+   "role": "#xplorer 2027 Reshaping Mro To The Future Combat Aircraft",
+   "location": "Getafe Area"
+  },
+  "459ccf15cab95f54c13121eef55ef3ff": {
+   "id": "459ccf15cab95f54c13121eef55ef3ff",
+   "company": "Premium AEROTEC GmbH",
+   "role": "#xplorer 2027 Quality Assurance Illescas Plant",
+   "location": "Madrid"
+  },
+  "7cb08a35802030c4d1376d02b61c7fc1": {
+   "id": "7cb08a35802030c4d1376d02b61c7fc1",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Estudiante En Prácticas – Departamento De Logística Log/ipn",
+   "location": "Madrid"
+  },
+  "fcce79ca91c74de3c5469fb1de678190": {
+   "id": "fcce79ca91c74de3c5469fb1de678190",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Nutrition, Health Sciences & Food Research - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "6c2f184ad254adeca8e18657fd8ae437": {
+   "id": "6c2f184ad254adeca8e18657fd8ae437",
+   "company": "AccorHotels",
+   "role": "Quality Assistant Intern",
+   "location": "Barcelona"
+  },
+  "ef175f5aba093702d60ebe5076b2ecc5": {
+   "id": "ef175f5aba093702d60ebe5076b2ecc5",
+   "company": "AccorHotels",
+   "role": "Crm Intern",
+   "location": "Barcelona"
+  },
+  "bcb4a8d4bfdd7b481bfe0e23cb509527": {
+   "id": "bcb4a8d4bfdd7b481bfe0e23cb509527",
+   "company": "Generali",
+   "role": "Beca Claims",
+   "location": "Barcelona"
+  },
+  "4ca10f165005eb1074af8369b718047d": {
+   "id": "4ca10f165005eb1074af8369b718047d",
+   "company": "Kenvue (Rogaine brand)",
+   "role": "Packaging & Promotions Intern",
+   "location": "Madrid"
+  },
+  "21f756e2fd19ab2c41a1cfb498355ae3": {
+   "id": "21f756e2fd19ab2c41a1cfb498355ae3",
+   "company": "Gameloft",
+   "role": "Game Cinematic Artist Intern",
+   "location": "Barcelona"
+  },
+  "54eec5f0e8e2c231154870329e5142ee": {
+   "id": "54eec5f0e8e2c231154870329e5142ee",
+   "company": "Coty",
+   "role": "Drp Intern",
+   "location": "Barcelona"
+  },
+  "bef0a8ad99f3612814f6ab8d098a99d5": {
+   "id": "bef0a8ad99f3612814f6ab8d098a99d5",
+   "company": "Coty Inc.",
+   "role": "Drp Intern",
+   "location": "Barcelona"
+  },
+  "0779fda6d5aed46a161ce9368ff38a4a": {
+   "id": "0779fda6d5aed46a161ce9368ff38a4a",
+   "company": "Teads",
+   "role": "Campaign Manager Intern",
    "location": "Madrid"
   },
   "48ad9d5fe0ed588c116ad3c14c614bd8": {
@@ -397,96 +487,6 @@
    "company": "Four Seasons Hotels & Resorts",
    "role": "2026/2027 Winter&spring Internship Opportunities- Four Seasons Hotel Madrid",
    "location": "Madrid"
-  },
-  "e1869cbd4c2ba91fb06dad9d1489df15": {
-   "id": "e1869cbd4c2ba91fb06dad9d1489df15",
-   "company": "Linklaters",
-   "role": "Prácticas Máster De Acceso A La Abogacía 2027",
-   "location": "Madrid"
-  },
-  "c7b10280f747259c3e4cb543a199f62f": {
-   "id": "c7b10280f747259c3e4cb543a199f62f",
-   "company": "TD SYNNEX",
-   "role": "Business Enablement Intern",
-   "location": "Barcelona"
-  },
-  "66db98a04b8e92b55fb21bc3c35b9100": {
-   "id": "66db98a04b8e92b55fb21bc3c35b9100",
-   "company": "The Procter & Gamble Company",
-   "role": "Product Supply Internship (m/f/x)",
-   "location": "Madrid"
-  },
-  "1dfe0196c490577b1291277bf998acb6": {
-   "id": "1dfe0196c490577b1291277bf998acb6",
-   "company": "Getlegalmexico",
-   "role": "Product Supply Internship (m/f/x)",
-   "location": "Madrid"
-  },
-  "c7daf65a727b863dbc2a1a8524ece146": {
-   "id": "c7daf65a727b863dbc2a1a8524ece146",
-   "company": "GFT Technologies Canada Inc",
-   "role": "Hr Operations Intern / Departamento People",
-   "location": "Barcelona"
-  },
-  "be8b0a8596100ba1c32ae5655a3ce38b": {
-   "id": "be8b0a8596100ba1c32ae5655a3ce38b",
-   "company": "serveo",
-   "role": "Beca Reporting Y Consolidación Calidad Y Sostenibilidad Ii - Madrid 1 1",
-   "location": "Madrid"
-  },
-  "7a32b906c6ae3fffc8f2d48f1846328f": {
-   "id": "7a32b906c6ae3fffc8f2d48f1846328f",
-   "company": "serveo",
-   "role": "Beca Bidding Conservación Infraestructuras - Madrid",
-   "location": "Madrid"
-  },
-  "a631c67ebafd36b0ed5ed159ceb2d840": {
-   "id": "a631c67ebafd36b0ed5ed159ceb2d840",
-   "company": "serveo",
-   "role": "Beca Seguridad Y Salud Laboral - Madrid",
-   "location": "Madrid"
-  },
-  "8442253583a0cbf0d16e1ff2298c3575": {
-   "id": "8442253583a0cbf0d16e1ff2298c3575",
-   "company": "Philips",
-   "role": "Internship: Customer Support Engineer Intern",
-   "location": "Madrid"
-  },
-  "057f344e4e3d2575c487297ca4e291e3": {
-   "id": "057f344e4e3d2575c487297ca4e291e3",
-   "company": "Zurich Insurance UK",
-   "role": "Hr Internship",
-   "location": "Barcelona"
-  },
-  "1c13afdb4cfc6d7e1727b64096b6fd41": {
-   "id": "1c13afdb4cfc6d7e1727b64096b6fd41",
-   "company": "Zurich Insurance UK",
-   "role": "Front Office Systems Intern",
-   "location": "Barcelona"
-  },
-  "bd84b936dd35f9bd606fdee24e1a5731": {
-   "id": "bd84b936dd35f9bd606fdee24e1a5731",
-   "company": "Etam",
-   "role": "Prácticas Departamento Digital",
-   "location": "Madrid"
-  },
-  "08a9e1c95a40332b67d3f3c4f5580c86": {
-   "id": "08a9e1c95a40332b67d3f3c4f5580c86",
-   "company": "Etam",
-   "role": "Prácticas Departamento Comercial",
-   "location": "Madrid"
-  },
-  "64744c630c753d42db911023a5e01d94": {
-   "id": "64744c630c753d42db911023a5e01d94",
-   "company": "Sofitel Brisbane Central",
-   "role": "Quality Assistant Intern",
-   "location": "Barcelona"
-  },
-  "aa8584bf2ecf08fcd2196ad1fffd8950": {
-   "id": "aa8584bf2ecf08fcd2196ad1fffd8950",
-   "company": "Sofitel Brisbane Central",
-   "role": "Customer Experience Agent Intern",
-   "location": "Barcelona"
   },
   "4d79e34ce93f2e0ad4fec397572e9aef": {
    "id": "4d79e34ce93f2e0ad4fec397572e9aef",
@@ -1004,6 +1004,12 @@
    "role": "Beca Control De Gestión Y Data Analytics",
    "location": "Madrid"
   },
+  "09999fee2dcc55440f5a91da8dc7a2b3": {
+   "id": "09999fee2dcc55440f5a91da8dc7a2b3",
+   "company": "IOM",
+   "role": "Analista De Datos",
+   "location": "Madrid"
+  },
   "9afebdf140d10c3c7f35bcc02f836c7d": {
    "id": "9afebdf140d10c3c7f35bcc02f836c7d",
    "company": "Zurich Insurance Company Ltd",
@@ -1472,12 +1478,6 @@
    "role": "Performance &amp; Revenue Analyst",
    "location": "Madrid"
   },
-  "3dd692168e7ae6597d16c784f04c5bdf": {
-   "id": "3dd692168e7ae6597d16c784f04c5bdf",
-   "company": "TP ICAP",
-   "role": "Data Scientist, Parameta Solutions (madrid)",
-   "location": "Madrid"
-  },
   "5084aeedb7cff32a071e0dfecd3a04c6": {
    "id": "5084aeedb7cff32a071e0dfecd3a04c6",
    "company": "Zurich Insurance Company Ltd",
@@ -1579,6 +1579,24 @@
    "company": "Luxottica Retail Australia Pty Ltd",
    "role": "Sales Analyst Trainee",
    "location": "Barcelona"
+  },
+  "331f8161305c138d7bd62a5a91af11df": {
+   "id": "331f8161305c138d7bd62a5a91af11df",
+   "company": "MAPFRE",
+   "role": "Técnico/a De Cumplimiento Normativo (temporal - Media Jornada)",
+   "location": "Madrid"
+  },
+  "f8e54eb8f1d4e485950c9dccd6bacdd5": {
+   "id": "f8e54eb8f1d4e485950c9dccd6bacdd5",
+   "company": "MSX International Ltd",
+   "role": "Consultor/a – Servicios De Movilidad (automoción)",
+   "location": "Madrid"
+  },
+  "ad604bc5a324db7757090cb8e4694f2d": {
+   "id": "ad604bc5a324db7757090cb8e4694f2d",
+   "company": "Alephholding",
+   "role": "Sales Strategy & Business Operations Analyst",
+   "location": "Madrid"
   },
   "4a77b66f66a65e7509623f7315706df4": {
    "id": "4a77b66f66a65e7509623f7315706df4",
@@ -1688,6 +1706,12 @@
    "role": "Biofuels Compliance And Regulatory Reporting Analyst Med",
    "location": "Madrid"
   },
+  "ceee7cf3b0ba261f061f168cb0c8bbf4": {
+   "id": "ceee7cf3b0ba261f061f168cb0c8bbf4",
+   "company": "BP Retail UK",
+   "role": "Biofuels Compliance And Regulatory Reporting Analyst Med",
+   "location": "Madrid"
+  },
   "0ae8c808d249be0270722ff397913133": {
    "id": "0ae8c808d249be0270722ff397913133",
    "company": "PwC Sweden",
@@ -1703,6 +1727,12 @@
   "ab5b4eceaf5a5bdff1d8dff6efc0225c": {
    "id": "ab5b4eceaf5a5bdff1d8dff6efc0225c",
    "company": "164",
+   "role": "Técnico Contable",
+   "location": "Madrid"
+  },
+  "61282aeeda44728228fe956368235791": {
+   "id": "61282aeeda44728228fe956368235791",
+   "company": "ACCIONA Energía",
    "role": "Técnico Contable",
    "location": "Madrid"
   },
@@ -1740,12 +1770,6 @@
    "id": "b257bbda2e11b6363b67285b5d9ad49c",
    "company": "Legocareersvirginia",
    "role": "Analytics & Insights (a&i) Partner",
-   "location": "Madrid"
-  },
-  "4548897c105243050fa8be8f882debfa": {
-   "id": "4548897c105243050fa8be8f882debfa",
-   "company": "BP Retail UK",
-   "role": "Biofuels Compliance And Regulatory Reporting Analyst Med",
    "location": "Madrid"
   },
   "9b9cf188319e6b63f1e07b283e280241": {
@@ -2035,30 +2059,6 @@
    "company": "Amex GBT (Travel HR Portal)",
    "role": "Junior Meetings & Events Business Analyst",
    "location": "Barcelona"
-  },
-  "b20ad048e873a9f750cf638b33902aa0": {
-   "id": "b20ad048e873a9f750cf638b33902aa0",
-   "company": "Travel Kuz",
-   "role": "Junior Meetings & Events Business Analyst",
-   "location": "Barcelona"
-  },
-  "fad604c77c2bf95e2cdfd380e5e2398d": {
-   "id": "fad604c77c2bf95e2cdfd380e5e2398d",
-   "company": "traumkandidaten.de",
-   "role": "Junior Meetings & Events Business Analyst",
-   "location": "Barcelona"
-  },
-  "1bf9cb48900371072a4a7febae3c3a73": {
-   "id": "1bf9cb48900371072a4a7febae3c3a73",
-   "company": "Jobgether",
-   "role": "Contract Business Analyst",
-   "location": "Spain"
-  },
-  "83f906da949c75517b20ff86fe95458b": {
-   "id": "83f906da949c75517b20ff86fe95458b",
-   "company": "TP ICAP",
-   "role": "Compliance Advisory Officer",
-   "location": "Madrid"
   },
   "3c465745cfb285e57a7b6d2a42eb9873": {
    "id": "3c465745cfb285e57a7b6d2a42eb9873",
@@ -2564,6 +2564,30 @@
    "role": "Operario Mantenimiento Ferroviario Taller Santa Catalina",
    "location": "Madrid"
   },
+  "d39637eda1a5dc7f52ad9c6c7005f520": {
+   "id": "d39637eda1a5dc7f52ad9c6c7005f520",
+   "company": "Michael Kors",
+   "role": "Concession Sales Associate",
+   "location": "Madrid"
+  },
+  "bdcadace59fec318a64e960e1f5de726": {
+   "id": "bdcadace59fec318a64e960e1f5de726",
+   "company": "Chanel",
+   "role": "Fashion Advisor Rtw",
+   "location": "Madrid"
+  },
+  "a3fa07e42ce8d1580200db84d571f3a7": {
+   "id": "a3fa07e42ce8d1580200db84d571f3a7",
+   "company": "Mango",
+   "role": "Vendedor/a - Madrid La Vaguada",
+   "location": "Madrid"
+  },
+  "861ba577d505d3a161048eff44b162ac": {
+   "id": "861ba577d505d3a161048eff44b162ac",
+   "company": "Levis Media",
+   "role": "Sales Stylist 10h La Roca",
+   "location": "Barcelona"
+  },
   "c81fa4f0f651b39166b4e4378bddd1a0": {
    "id": "c81fa4f0f651b39166b4e4378bddd1a0",
    "company": "Levis",
@@ -3018,30 +3042,6 @@
    "id": "4e829a8a2cb30459e37aaa11888c2ef3",
    "company": "Michael Kors",
    "role": "Concession Sales Associate 14h",
-   "location": "Madrid"
-  },
-  "02e182bc2ef5954f31386fecde2de0e6": {
-   "id": "02e182bc2ef5954f31386fecde2de0e6",
-   "company": "beonit",
-   "role": "Estudiante Con Habilidades Comerciales (12h/s) - La Vaguada",
-   "location": "Madrid"
-  },
-  "2d4aec7b58dfd4f4ddecafbf03fe01b6": {
-   "id": "2d4aec7b58dfd4f4ddecafbf03fe01b6",
-   "company": "Merkal Calzados S.L",
-   "role": "Vendedor/a 20 Horas Semanales",
-   "location": "Madrid"
-  },
-  "a1e9f38e37d6d6bfc5f67134d2bc4821": {
-   "id": "a1e9f38e37d6d6bfc5f67134d2bc4821",
-   "company": "adidas AG",
-   "role": "Sales Associate - Fo Viladecans",
-   "location": "Barcelona"
-  },
-  "3f032c155e64388ee332a285be1c1e2f": {
-   "id": "3f032c155e64388ee332a285be1c1e2f",
-   "company": "Puig",
-   "role": "Seasonal Beauty Expert - El Corte Ingles Madrid",
    "location": "Madrid"
   },
   "95438dbe2f2680810e438ac84acabec7": {

@@ -1996,4 +1996,29 @@
 <tr><td>Schindler Elevator Ltd</td><td>Técnico/a De Mantenimiento Ascensores (empresa Afiliada)</td><td>Barcelona</td><td>2026-09-15</td></tr>
 <tr><td>Orona S.Coop</td><td>Técnico/a De Reparación De Puertas Automáticas (madrid)</td><td>Madrid</td><td>2026-09-15</td></tr>
 <tr><td>Ametller Origen</td><td>Venedor/a 30h Alella_ Contracte Indefinit</td><td>Barcelona</td><td>2026-09-15</td></tr>
+<tr><td>Linklaters</td><td>Prácticas Máster De Acceso A La Abogacía 2027</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>TD SYNNEX</td><td>Business Enablement Intern</td><td>Barcelona</td><td>2026-09-16</td></tr>
+<tr><td>The Procter & Gamble Company</td><td>Product Supply Internship (m/f/x)</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>Getlegalmexico</td><td>Product Supply Internship (m/f/x)</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>GFT Technologies Canada Inc</td><td>Hr Operations Intern / Departamento People</td><td>Barcelona</td><td>2026-09-16</td></tr>
+<tr><td>serveo</td><td>Beca Reporting Y Consolidación Calidad Y Sostenibilidad Ii - Madrid 1 1</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>serveo</td><td>Beca Bidding Conservación Infraestructuras - Madrid</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>serveo</td><td>Beca Seguridad Y Salud Laboral - Madrid</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>Philips</td><td>Internship: Customer Support Engineer Intern</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Hr Internship</td><td>Barcelona</td><td>2026-09-16</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Front Office Systems Intern</td><td>Barcelona</td><td>2026-09-16</td></tr>
+<tr><td>Etam</td><td>Prácticas Departamento Digital</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>Etam</td><td>Prácticas Departamento Comercial</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>Sofitel Brisbane Central</td><td>Quality Assistant Intern</td><td>Barcelona</td><td>2026-09-16</td></tr>
+<tr><td>Sofitel Brisbane Central</td><td>Customer Experience Agent Intern</td><td>Barcelona</td><td>2026-09-16</td></tr>
+<tr><td>TP ICAP</td><td>Data Scientist, Parameta Solutions (madrid)</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>BP Retail UK</td><td>Biofuels Compliance And Regulatory Reporting Analyst Med</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>Travel Kuz</td><td>Junior Meetings & Events Business Analyst</td><td>Barcelona</td><td>2026-09-16</td></tr>
+<tr><td>traumkandidaten.de</td><td>Junior Meetings & Events Business Analyst</td><td>Barcelona</td><td>2026-09-16</td></tr>
+<tr><td>Jobgether</td><td>Contract Business Analyst</td><td>Spain</td><td>2026-09-16</td></tr>
+<tr><td>TP ICAP</td><td>Compliance Advisory Officer</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>beonit</td><td>Estudiante Con Habilidades Comerciales (12h/s) - La Vaguada</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>Merkal Calzados S.L</td><td>Vendedor/a 20 Horas Semanales</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo Viladecans</td><td>Barcelona</td><td>2026-09-16</td></tr>
+<tr><td>Puig</td><td>Seasonal Beauty Expert - El Corte Ingles Madrid</td><td>Madrid</td><td>2026-09-16</td></tr>
 </table>
