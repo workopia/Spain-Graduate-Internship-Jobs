@@ -2021,4 +2021,38 @@
 <tr><td>Merkal Calzados S.L</td><td>Vendedor/a 20 Horas Semanales</td><td>Madrid</td><td>2026-09-16</td></tr>
 <tr><td>adidas AG</td><td>Sales Associate - Fo Viladecans</td><td>Barcelona</td><td>2026-09-16</td></tr>
 <tr><td>Puig</td><td>Seasonal Beauty Expert - El Corte Ingles Madrid</td><td>Madrid</td><td>2026-09-16</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Beca Consultoria / Ingenieria Claims Solutions</td><td>Barcelona</td><td>2026-09-17</td></tr>
+<tr><td>Xcenda</td><td>Human Resources Intern - Supply Chain</td><td>Barcelona</td><td>2026-09-17</td></tr>
+<tr><td>Acciona SA</td><td>Beca Innovación</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>164</td><td>Beca Innovación</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Exclusive Networks Group</td><td>Legal Intern South</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Philjobs</td><td>Internship: Solutions Project Manager</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Enagas</td><td>Beca Economía - Ade / Madrid</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>MANGO</td><td>Becario/intern Stores</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>2026/2027 Winter&spring Internship Opportunities- Four Seasons Hotel Madrid</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Julius Baer</td><td>Backend Engineer (java/springboot) With Solid Oracle Db 19+ 100% (f/m/d)</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>N26 GmbH</td><td>It Support Specialist</td><td>Barcelona</td><td>2026-09-17</td></tr>
+<tr><td>Jobgether</td><td>Founding Engineer</td><td>Spain</td><td>2026-09-17</td></tr>
+<tr><td>VIE-INDIA</td><td>Modelling And Simulation Junior Software Engineer</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a Software Junior C/c++ - Sector Defensa</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Iberdrola</td><td>Técnico/a De Análisis De Datos - Ia</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Roche</td><td>Data Advisory And Insights Specialist</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Cuyna</td><td>Performance &amp; Revenue Analyst</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Roche</td><td>Technical Ciam Business Analyst - Rdt Identity & Access Management (warsaw Or Madrid)</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Consultor/a Seguros Previsión Social Empresas</td><td>Barcelona</td><td>2026-09-17</td></tr>
+<tr><td>Roche</td><td>Technical Business Analyst - Rdt Identity & Access Management</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>DXC Technology Australia & New Zealand</td><td>It Analista Funcional Sector Asegurador</td><td>Barcelona</td><td>2026-09-17</td></tr>
+<tr><td>Amex GBT (Travel HR Portal)</td><td>Junior Meetings & Events Business Analyst</td><td>Barcelona</td><td>2026-09-17</td></tr>
+<tr><td>Hitachi Rail GTS Spain S.A.U.</td><td>Maintenance Engineer</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Airbus SE</td><td>Machines Maintenance Operator</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Machines Maintenance Operator</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Meliá</td><td>Ayudante Servicios Técnicos (piscinero/a) - Sol Puerto Marina</td><td>Malaga</td><td>2026-09-17</td></tr>
+<tr><td>Dover India</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Airbus Operations SL</td><td>Industrial Maintenance Technician</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Industrial Maintenance Technician</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Airbus</td><td>Industrial Maintenance Technician</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Alstom</td><td>Operario Mantenimiento Ferroviario Taller Santa Catalina</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Michael Kors</td><td>Concession Sales Associate 14h</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Tokio Marine HCC</td><td>Intern Tri Administrative Assistant</td><td>Barcelona</td><td>2026-09-17</td></tr>
+<tr><td>Bertrandt Group</td><td>Técnico/a Junior De Administración</td><td>Madrid</td><td>2026-09-17</td></tr>
 </table>
