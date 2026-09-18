@@ -2055,4 +2055,68 @@
 <tr><td>Michael Kors</td><td>Concession Sales Associate 14h</td><td>Madrid</td><td>2026-09-17</td></tr>
 <tr><td>Tokio Marine HCC</td><td>Intern Tri Administrative Assistant</td><td>Barcelona</td><td>2026-09-17</td></tr>
 <tr><td>Bertrandt Group</td><td>Técnico/a Junior De Administración</td><td>Madrid</td><td>2026-09-17</td></tr>
+<tr><td>Coty Inc.</td><td>Drp Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Hr Labor Relations Internship</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Ai Developer Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Regional Compliance Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Data Engineering & Visualization Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Multinational Wording Operations Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Network & Partner Operations Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Hr Internship</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Front Office Systems Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Investment Performance Analyst Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Retribución Ejecutiva</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Infraestructura Reef</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Mapfre Economics</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (ai & Innovation Focus) - Emea Partner Ecosystem Growth</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>RWE AG</td><td>Internship Solar Operations (12 Months) D/f/m</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Ferrovial SE</td><td>It Cost Control, Budget & Analytics Internship</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Thales Group</td><td>Project Management Office (pmo) & Communication Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Thales Group</td><td>Human Resources Intern (hybrid)</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Thales Group</td><td>Legal & Contract General Intern (hybrid)</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Thales Group</td><td>Quality & Hse Generalist Intern</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Thales Group</td><td>Configuration Administrator Intern</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Thales Group</td><td>Navaids & Avionics Intern</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Thales Group</td><td>Finance Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Thales Group</td><td>Intelligence Trainee Madrid</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Thales Group</td><td>Devops Intern</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Thales Group</td><td>Pmo Intern (hybrid)</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Administración Economato Madrid</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Área Comercial - Sector Hoteles / Madrid</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Revenue - Eurostars Hotel Company</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Coty</td><td>Npd Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Coty Inc</td><td>Visibility & Merchandising Intern</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b</td><td>Islas Baleares</td><td>2026-09-18</td></tr>
+<tr><td>Scuffers</td><td>Community Manager Intern</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Beca Surety</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Employee Benefits Consulting Internship</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Software Aviónico Y Estándares</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Desarrollo Software C++</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>GE VERNOVA</td><td>Service Technical Support Engineer</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Accenture Australia</td><td>Cyber Intelligence Analyst L1</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>Spain</td><td>2026-09-18</td></tr>
+<tr><td>Swiss Re</td><td>Ai Engineer</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Wpp</td><td>Gl Reporting Analyst - Emea</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Scientist</td><td>Localidad</td><td>2026-09-18</td></tr>
+<tr><td>Acciona</td><td>Beca Analista Financiero</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>164</td><td>Beca Analista Financiero</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Ernst & Young</td><td>Consultor/a Contabilidad Y Fiscalidad - Barcelona</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Soho House & Co Inc.</td><td>Accountant (6-month Contract)</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Sohohouseco</td><td>Accountant (6-month Contract)</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Governance Business Analyst</td><td>Localidad</td><td>2026-09-18</td></tr>
+<tr><td>Jobgether</td><td>Transactional Revenue Intelligence & Systems Analyst</td><td>Spain</td><td>2026-09-18</td></tr>
+<tr><td>TRYremote</td><td>Accountant</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Indra group</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-09-18</td></tr>
+<tr><td>Alstom</td><td>Operario(a) De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>KONE Bulgaria</td><td>Técnico/a De Mantenimiento De Ascensores</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>KONE Bahrain</td><td>Técnico/a De Mantenimiento De Ascensores</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Envista</td><td>Field Service Engineer</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Reovista</td><td>Field Service Engineer</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Envistaforensic</td><td>Field Service Engineer</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Tetra Pak</td><td>Maintenance Engineer</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Nike Inc</td><td>Nike Retail Store Associate (athlete)- 15h - Nike Store Madrid San Sebastian De Los Reyes</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 25 Horas Levis Callao</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Madrid Orense Teen</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Repsol</td><td>Vendedor/a -expendedor/a - Bolsa Estaciones De Servicio Zona Cataluña Y Aragón 2026</td><td>Barcelona</td><td>2026-09-18</td></tr>
+<tr><td>Repsol</td><td>Vendedor/a -expendedor/a - Bolsa Estaciones De Servicio Zona Centro: Madrid, Castilla La Mancha Y Extremadura 2026</td><td>Madrid</td><td>2026-09-18</td></tr>
 </table>
