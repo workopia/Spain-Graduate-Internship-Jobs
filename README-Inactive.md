@@ -2119,4 +2119,29 @@
 <tr><td>Mango</td><td>Vendedor/a - Madrid Orense Teen</td><td>Madrid</td><td>2026-09-18</td></tr>
 <tr><td>Repsol</td><td>Vendedor/a -expendedor/a - Bolsa Estaciones De Servicio Zona Cataluña Y Aragón 2026</td><td>Barcelona</td><td>2026-09-18</td></tr>
 <tr><td>Repsol</td><td>Vendedor/a -expendedor/a - Bolsa Estaciones De Servicio Zona Centro: Madrid, Castilla La Mancha Y Extremadura 2026</td><td>Madrid</td><td>2026-09-18</td></tr>
+<tr><td>Coty Inc</td><td>Customer Operations Intern (with French)</td><td>Barcelona</td><td>2026-09-19</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Abogacía Fiscal - 2026</td><td>Barcelona</td><td>2026-09-19</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Abogacía Fiscal - 2027</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>Teads</td><td>Campaign Manager Intern</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Estudiante En Prácticas- Departamento De Servicios Jurídicos De Empresa (c/lsr-ib)</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>Mediaset España</td><td>Beca Protección De Datos</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>Nestlé</td><td>Spain Youth / Internship Finance - September 2026</td><td>Esplugues Llobregat</td><td>2026-09-19</td></tr>
+<tr><td>Nestlé</td><td>Spain Youth / Internship Kitchen - September 2026</td><td>Esplugues Llobregat</td><td>2026-09-19</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Comunicación</td><td>8021</td><td>2026-09-19</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Penguin Aula</td><td>8021</td><td>2026-09-19</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición Técnica</td><td>8021</td><td>2026-09-19</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición</td><td>8021</td><td>2026-09-19</td></tr>
+<tr><td>Bunge</td><td>Indirect Tax Intern</td><td>Barcelona</td><td>2026-09-19</td></tr>
+<tr><td>Selectra S.A.R.L</td><td>Internship - Inbound Sales Agent - Dutch Speaking</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>MedAire</td><td>International Security Intern</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Junior Powerapps Developer Intern</td><td>Barcelona</td><td>2026-09-19</td></tr>
+<tr><td>Jet Aviation</td><td>Crestron / Av Control Systems Programmer</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>Accenture</td><td>Cyber Intelligence Analyst L1</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>Accenture Australia</td><td>Ai Native Product Engineer & Orchestrator</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>Halfspace ApS</td><td>Ai Native Product Engineer & Orchestrator</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>Jobgether</td><td>Business And Management Specialist – Freelance Ai Trainer Project</td><td>Spain</td><td>2026-09-19</td></tr>
+<tr><td>KONE Oyj</td><td>Técnico/a De Mantenimiento De Escaleras</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Madrid</td><td>2026-09-19</td></tr>
+<tr><td>SIXTH</td><td>Rental Sales Agent (m/f/d) - Madrid Alcobendas - Contrato De Interinidad</td><td>Salamanca</td><td>2026-09-19</td></tr>
+<tr><td>Ball</td><td>Manufacturing Excellence Specialist</td><td>Llinars Del VallèS</td><td>2026-09-19</td></tr>
 </table>
