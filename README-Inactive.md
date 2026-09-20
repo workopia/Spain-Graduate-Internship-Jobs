@@ -2144,4 +2144,47 @@
 <tr><td>JYSK</td><td>Vendedor/a</td><td>Madrid</td><td>2026-09-19</td></tr>
 <tr><td>SIXTH</td><td>Rental Sales Agent (m/f/d) - Madrid Alcobendas - Contrato De Interinidad</td><td>Salamanca</td><td>2026-09-19</td></tr>
 <tr><td>Ball</td><td>Manufacturing Excellence Specialist</td><td>Llinars Del VallèS</td><td>2026-09-19</td></tr>
+<tr><td>Coty</td><td>Demand Intern</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Coty</td><td>Warehouse Intern</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Coty Inc</td><td>Drp Intern</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Food & Beverage Internship</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Ametller Origen</td><td>Pràctiques Al Departament De Qualitat</td><td>Subirats</td><td>2026-09-20</td></tr>
+<tr><td>Ametller Origen</td><td>Pràctiques A Compres Alimentació</td><td>Olerdola</td><td>2026-09-20</td></tr>
+<tr><td>Sacyr Group</td><td>Beca Adquisición De Talento</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Ferrovial SE</td><td>Programa De Prácticas Bim - Nacional</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>MANGO</td><td>Intern Project Management Comunicación</td><td>Palau</td><td>2026-09-20</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Internship - Data & Analytics - Spain</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Roche</td><td>Field Service & Applications Intern In Madrid - Programa On En Roche 2026</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Xplorer 2027 Real Time Filtering For Photogrammetry</td><td>Getafe Area</td><td>2026-09-20</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>#xplorer 2027 Manufacturing Data Integration</td><td>Getafe Area</td><td>2026-09-20</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#xplorer 2027 Reshaping Mro To The Future Combat Aircraft</td><td>Getafe Area</td><td>2026-09-20</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>#xplorer 2027 Quality Assurance Illescas Plant</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Estudiante En Prácticas – Departamento De Logística Log/ipn</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Demand Planning Global Hq</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Nutrition, Health Sciences & Food Research - September 2026</td><td>Esplugues Llobregat</td><td>2026-09-20</td></tr>
+<tr><td>AccorHotels</td><td>Quality Assistant Intern</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>AccorHotels</td><td>Crm Intern</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Generali</td><td>Beca Claims</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Kenvue (Rogaine brand)</td><td>Packaging & Promotions Intern</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Gameloft</td><td>Game Cinematic Artist Intern</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Coty</td><td>Drp Intern</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b Luxury Brands</td><td>Islas Baleares</td><td>2026-09-20</td></tr>
+<tr><td>Meliá</td><td>Trainee G&e - Meliá Madrid Serrano</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Auditoría Barcelona - Enero 2027</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Abogacía Legal - 2027</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Experienced Software Engineer - Corporate Stock Valuation (m/f/d)</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Auctane</td><td>Software Engineer .net - Spain</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Halfspace ApS</td><td>Ai Software Engineer / Spain</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Kyndryl</td><td>Ai Engineer</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Alephholding</td><td>Hr Systems Analyst (workday)</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Alter Domus</td><td>Financial Crime Officer - Ethical Governance</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Scopely</td><td>Product Analyst - Star Trek Fleet Command</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Black & Veatch</td><td>Environmental Permitting And Regulatory Compliance Specialist</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>57</td><td>Técnico/a De Mantenimiento De Ascensores</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>KONE Oyj</td><td>Técnico/a De Mantenimiento De Ascensores</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a - 30h Turno Tarde</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>Henry Schein</td><td>Asesor/a Telefónico/a Dental</td><td>Madrid</td><td>2026-09-20</td></tr>
+<tr><td>obramat.es</td><td>Vendedor/a Fontanerías - Almacen Badalona</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Temporing</td><td>Mozo/a De Almacén - Montmeló</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>LAIETANA DE LLIBRETERIA SL</td><td>Vendedor/a – Apertura Tienda Palau De La Música Catalana</td><td>Barcelona</td><td>2026-09-20</td></tr>
 </table>
