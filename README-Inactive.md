@@ -2187,4 +2187,39 @@
 <tr><td>obramat.es</td><td>Vendedor/a Fontanerías - Almacen Badalona</td><td>Barcelona</td><td>2026-09-20</td></tr>
 <tr><td>Temporing</td><td>Mozo/a De Almacén - Montmeló</td><td>Barcelona</td><td>2026-09-20</td></tr>
 <tr><td>LAIETANA DE LLIBRETERIA SL</td><td>Vendedor/a – Apertura Tienda Palau De La Música Catalana</td><td>Barcelona</td><td>2026-09-20</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Claim Management Intern (m/f/d)</td><td>Tajonar</td><td>2026-09-21</td></tr>
+<tr><td>Nordex SE</td><td>Global Mobility Intern (m/f/d)</td><td>Barasoain</td><td>2026-09-21</td></tr>
+<tr><td>Abbott</td><td>Sales & Therapy Specialist Intern - Madrid</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Circular&value Added Lab</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Use Cases Home Advanced Conectivity (hac)</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Innnovación Cdo Seguridad Y Quantum</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Telefonica</td><td>Beca Fondos Vc E Inversiones Pre-m&a</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Primark</td><td>Beca Er Intern</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>VeryChic</td><td>Customer Experience Agent Intern</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>VeryChic</td><td>Quality Assistant Intern</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>VeryChic</td><td>Connectivity Assistant Intern</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>VeryChic</td><td>Production Des Ventes Intern</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>Crowdfarming</td><td>German Customer Service Intern</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>VeryChic</td><td>Crm Intern</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>VeryChic</td><td>Digital Content Assistant Intern</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Intern - Talent Journey Coordinator Internship</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>SAP</td><td>Sap Ixp Intern (ai & Innovation Focus) - Emea Partner Ecosystem Growth</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>SAP</td><td>Sap Ixp Intern- Demand Management - Curricular Internship</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Intern - Public Sector Industry Team</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Internship - Ambassador Program Intern</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>Coty Inc</td><td>Hr Operations Intern</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>Coty</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>Coty</td><td>Site Planner Intern</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>N26 GmbH</td><td>Backend Engineer - Agentic Platform</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>Puratos</td><td>Sap Sd Support Analyst</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Analyst / Data Engineer (commercial Insurance)</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>Hudl</td><td>Support Specialist, Data (multilingual)</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>Syngenta Group</td><td>Ai Engineer Java</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Syngenta Group</td><td>Ai Engineer Python</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Accenture Australia</td><td>Ai Software Engineer / Spain</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>KONE Bahrain</td><td>Técnico/a De Mantenimiento De Escaleras</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>DABA, SA</td><td>Dependiente/a Nespresso Eci Pozuelo (fines De Semana))</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a Interinidad</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate</td><td>Barcelona</td><td>2026-09-21</td></tr>
 </table>
