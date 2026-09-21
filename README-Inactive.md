@@ -2224,4 +2224,6 @@
 <tr><td>Michael Kors</td><td>Sales Associate</td><td>Barcelona</td><td>2026-09-21</td></tr>
 <tr><td>Bureau Veritas</td><td>Auxiliar Administrativo/a - Trámites</td><td>Asturias</td><td>2026-09-21</td></tr>
 <tr><td>Bureau Veritas</td><td>Auxiliar Administrativo/a - Tramitaciones</td><td>Asturias</td><td>2026-09-21</td></tr>
+<tr><td>Salesforce</td><td>Ai Builder, Emerging Talent - Polish Market</td><td>Madrid</td><td>2026-09-21</td></tr>
+<tr><td>Temporing</td><td>Aux. Administrativo/a - Gavà</td><td>Barcelona</td><td>2026-09-21</td></tr>
 </table>

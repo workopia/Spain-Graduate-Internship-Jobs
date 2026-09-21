@@ -12,8 +12,8 @@
   "as_of": "2026-09-21",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 4900,
-  "generated_at": "2026-09-21T10:29:03.847Z"
+  "country_live_total": 4892,
+  "generated_at": "2026-09-21T14:17:40.527Z"
  },
  "categories": [
   {
@@ -2932,23 +2932,6 @@
   },
   {
    "salary_display": null,
-   "id": "3c571d6526f8de65dee10500bde43bd0",
-   "source": "Workopia",
-   "company_name": "Salesforce",
-   "company_hi_slug": "salesforce",
-   "title": "Ai Builder, Emerging Talent - Polish Market",
-   "location": "Madrid",
-   "skills": "Builder mindset, AI-powered development",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-20T09:34:42.862Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/3c571d6526f8de65dee10500bde43bd0",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
    "id": "5f78460e5d4998c7cc819157517e3137",
    "source": "Workopia",
    "company_name": "Bertrandt Group",
@@ -4253,6 +4236,23 @@
    "date_posted": "2026-08-18T18:34:56.070Z",
    "active": true,
    "url": "https://workopia.io/jobs/da6d5fe6e9b9edc0849042602b62a7f2",
+   "category": "data",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "a8eed5a7197c6c4d1abf61c29908935d",
+   "source": "Workopia",
+   "company_name": "Hudl",
+   "company_hi_slug": "hudl",
+   "title": "Support Specialist, Data (multilingual)",
+   "location": "Barcelona",
+   "skills": "Data fluent, Client-focused communi",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-17T09:54:51.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a8eed5a7197c6c4d1abf61c29908935d",
    "category": "data",
    "tier": "Entry-level"
   },
@@ -9557,23 +9557,6 @@
    "date_posted": "2026-07-26T02:37:14.858Z",
    "active": true,
    "url": "https://workopia.io/jobs/42686",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "13987752276bb7179ec8770c38505dae",
-   "source": "Workopia",
-   "company_name": "Temporing",
-   "company_hi_slug": "temporing",
-   "title": "Aux. Administrativo/a - Gavà",
-   "location": "Barcelona",
-   "skills": "Administrative support, Document management",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-23T10:50:56.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/13987752276bb7179ec8770c38505dae",
    "category": "admin",
    "tier": "Entry-level"
   }

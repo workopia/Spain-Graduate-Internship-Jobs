@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-21",
- "count": 559,
+ "count": 558,
  "jobs": {
   "42686": {
    "id": "42686",
@@ -1016,12 +1016,6 @@
    "role": "Ai Builder, Emerging Talent - Spanish Market",
    "location": "Madrid"
   },
-  "3c571d6526f8de65dee10500bde43bd0": {
-   "id": "3c571d6526f8de65dee10500bde43bd0",
-   "company": "Salesforce",
-   "role": "Ai Builder, Emerging Talent - Polish Market",
-   "location": "Madrid"
-  },
   "5f78460e5d4998c7cc819157517e3137": {
    "id": "5f78460e5d4998c7cc819157517e3137",
    "company": "Bertrandt Group",
@@ -1483,6 +1477,12 @@
    "company": "Kellogg",
    "role": "Field Sales Data Analyst",
    "location": "Madrid"
+  },
+  "a8eed5a7197c6c4d1abf61c29908935d": {
+   "id": "a8eed5a7197c6c4d1abf61c29908935d",
+   "company": "Hudl",
+   "role": "Support Specialist, Data (multilingual)",
+   "location": "Barcelona"
   },
   "6a0d3ffe49a15d48bfc1e14303b94f1c": {
    "id": "6a0d3ffe49a15d48bfc1e14303b94f1c",
@@ -3349,12 +3349,6 @@
    "company": "Johnson Controls Inc",
    "role": "Billing & Order Entry Admin",
    "location": "Madrid"
-  },
-  "13987752276bb7179ec8770c38505dae": {
-   "id": "13987752276bb7179ec8770c38505dae",
-   "company": "Temporing",
-   "role": "Aux. Administrativo/a - Gavà",
-   "location": "Barcelona"
   }
  }
 }
