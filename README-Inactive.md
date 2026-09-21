@@ -2222,4 +2222,6 @@
 <tr><td>DABA, SA</td><td>Dependiente/a Nespresso Eci Pozuelo (fines De Semana))</td><td>Madrid</td><td>2026-09-21</td></tr>
 <tr><td>JYSK</td><td>Vendedor/a Interinidad</td><td>Madrid</td><td>2026-09-21</td></tr>
 <tr><td>Michael Kors</td><td>Sales Associate</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>Bureau Veritas</td><td>Auxiliar Administrativo/a - Trámites</td><td>Asturias</td><td>2026-09-21</td></tr>
+<tr><td>Bureau Veritas</td><td>Auxiliar Administrativo/a - Tramitaciones</td><td>Asturias</td><td>2026-09-21</td></tr>
 </table>

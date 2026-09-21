@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-21",
- "count": 561,
+ "count": 559,
  "jobs": {
   "42686": {
    "id": "42686",
@@ -3355,18 +3355,6 @@
    "company": "Temporing",
    "role": "Aux. Administrativo/a - Gavà",
    "location": "Barcelona"
-  },
-  "56ff00fefed842c97baf3ee318cbcee2": {
-   "id": "56ff00fefed842c97baf3ee318cbcee2",
-   "company": "Bureau Veritas",
-   "role": "Auxiliar Administrativo/a - Trámites",
-   "location": "Asturias"
-  },
-  "0f7f79b8701f7878bef24abd1cc1f051": {
-   "id": "0f7f79b8701f7878bef24abd1cc1f051",
-   "company": "Bureau Veritas",
-   "role": "Auxiliar Administrativo/a - Tramitaciones",
-   "location": "Asturias"
   }
  }
 }

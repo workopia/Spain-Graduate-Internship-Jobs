@@ -12,8 +12,8 @@
   "as_of": "2026-09-21",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 4904,
-  "generated_at": "2026-09-21T01:07:56.954Z"
+  "country_live_total": 4902,
+  "generated_at": "2026-09-21T06:58:03.579Z"
  },
  "categories": [
   {
@@ -9574,40 +9574,6 @@
    "date_posted": "2026-07-23T10:50:56.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/13987752276bb7179ec8770c38505dae",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "56ff00fefed842c97baf3ee318cbcee2",
-   "source": "Workopia",
-   "company_name": "Bureau Veritas",
-   "company_hi_slug": "bureau-veritas",
-   "title": "Auxiliar Administrativo/a - Trámites",
-   "location": "Asturias",
-   "skills": "Office administration, Document management",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-23T03:43:00.625Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/56ff00fefed842c97baf3ee318cbcee2",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "0f7f79b8701f7878bef24abd1cc1f051",
-   "source": "Workopia",
-   "company_name": "Bureau Veritas",
-   "company_hi_slug": "bureau-veritas",
-   "title": "Auxiliar Administrativo/a - Tramitaciones",
-   "location": "Asturias",
-   "skills": "Office administration, Document management",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-23T03:43:00.337Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/0f7f79b8701f7878bef24abd1cc1f051",
    "category": "admin",
    "tier": "Entry-level"
   }
