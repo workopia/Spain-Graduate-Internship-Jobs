@@ -2226,4 +2226,59 @@
 <tr><td>Bureau Veritas</td><td>Auxiliar Administrativo/a - Tramitaciones</td><td>Asturias</td><td>2026-09-21</td></tr>
 <tr><td>Salesforce</td><td>Ai Builder, Emerging Talent - Polish Market</td><td>Madrid</td><td>2026-09-21</td></tr>
 <tr><td>Temporing</td><td>Aux. Administrativo/a - Gavà</td><td>Barcelona</td><td>2026-09-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Junior Powerapps Developer Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Hr Labor Relations Internship</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Regional Compliance Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Developer Intern</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Engineering & Visualization Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Multinational Wording Operations Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Network & Partner Operations Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Hr Internship</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Front Office Systems Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Investment Performance Analyst Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Analyst Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Commercial Controlling Trainee</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Coty</td><td>Npd Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Ferrovial SE</td><td>Risk Analysis Internship</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Kitchen Internship</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Finance Internship</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Gameloft Australia</td><td>Marketing Activations Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Primark</td><td>Beca Relaciones Laborales</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Wppproduction</td><td>Trainee Colorista (davinci)</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Criteo</td><td>Account Strategist (intern)</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Criteo</td><td>Business Development & Lead Generation Intern - Independent Agency Team (france, Uk & Dach)</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Criteo</td><td>Account Strategist France Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Finance</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>GE Vernova</td><td>Risk Modeling Analysis Intern</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Ai Analyst Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>W Brisbane</td><td>Reservas Trainee</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>65</td><td>Hardware Developer Internship</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Minsait</td><td>Expotic</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>AIRBUS</td><td>#xplorer 2027 Integration Tests And Analysis Internship</td><td>Getafe Area</td><td>2026-09-22</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#xplorer 2027 Military Certification Basis</td><td>Getafe Area</td><td>2026-09-22</td></tr>
+<tr><td>AIRBUS</td><td>#xplorer2027 Industrial Innovation</td><td>Getafe Area</td><td>2026-09-22</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#xplorer 2027 Materiel Services Lta</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Airbus Operations SL</td><td>#explorer 2027 Performance & Improvement Internship Illescas Plant</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Serveo</td><td>Beca Gestión Rrhh Ii - Madrid 1 1</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Nordex SE</td><td>Qhse Administrative Intern (m/f/d)</td><td>Barasoain</td><td>2026-09-22</td></tr>
+<tr><td>Amazingauctane</td><td>Software Engineer .net - Spain</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Jobgether</td><td>Ai Augmented Software Engineer [gn] Data Intelligence Platform</td><td>Spain</td><td>2026-09-22</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer (python) — Programmable Networking</td><td>Spain</td><td>2026-09-22</td></tr>
+<tr><td>Amazingauctane</td><td>Software Engineer - Frontend</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Analyst / Data Engineer (commercial Insurance)</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Avolta</td><td>Global Data Scientist Specialist</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Kellogg</td><td>Field Sales Data Analyst</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Hudl</td><td>Support Specialist, Data (multilingual)</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Servicenow Business Analyst Intern</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Job&Talent US</td><td>Us - Accountant (spain - Remote)</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>PwC Sweden</td><td>Real Estate (departamento Técnico) - Consultor</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Aleph</td><td>Hr Systems Analyst (workday)</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Mango</td><td>Mozo/a De Almacén 16h (fines De Semana)lliça</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - 15h Barcelona Outlet</td><td>Barcelona</td><td>2026-09-22</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Madrid Plaza Rio Woman</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Levis Media</td><td>Vendedor/a 20h Ls Eci Sanchinarro</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>Levis Media</td><td>Vacante 16h Sales Stylist Ls Eci Castellana</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>obramat.es</td><td>Almacén Usera _ Vendedor/a Cerámica (30 Hs Indefinido)</td><td>Madrid</td><td>2026-09-22</td></tr>
+<tr><td>obramat.es</td><td>Almacén Usera _ Vendedor/a Electricidad</td><td>Madrid</td><td>2026-09-22</td></tr>
 </table>
