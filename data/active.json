@@ -218,6 +218,12 @@
    "role": "Npd Intern",
    "location": "Barcelona"
   },
+  "267133c7e5c2d125515b97d2b7bfe8a4": {
+   "id": "267133c7e5c2d125515b97d2b7bfe8a4",
+   "company": "Ernst & Young",
+   "role": "Prácticas I+d Proyectos Europeos",
+   "location": "Barcelona"
+  },
   "6a8afa7f7012f0abcdbcef65d07ee4e6": {
    "id": "6a8afa7f7012f0abcdbcef65d07ee4e6",
    "company": "Laboral Kutxa",
@@ -480,12 +486,6 @@
    "id": "6d9b23ce1a2dab9572f9fabc5a608113",
    "company": "Airbus Operations SL",
    "role": "#xplorer 2027 Illescas And The Carbon Fiber Paradox",
-   "location": "Madrid"
-  },
-  "dcbdb660159d551ba3bc0916b2df4d54": {
-   "id": "dcbdb660159d551ba3bc0916b2df4d54",
-   "company": "Medtronic Diabetes",
-   "role": "Sales Analyst Intern",
    "location": "Madrid"
   },
   "4d79e34ce93f2e0ad4fec397572e9aef": {
@@ -2096,6 +2096,12 @@
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
   },
+  "a988b758f4d9f4db5662a62f463c6d5b": {
+   "id": "a988b758f4d9f4db5662a62f463c6d5b",
+   "company": "Ahorramas, S.A",
+   "role": "Electromecánico/a - Turno Noche - Plataformas Logísticas Velilla De San Antonio (madrid)",
+   "location": "Salamanca"
+  },
   "d15357c0c4bead2298db7f094bc6d038": {
    "id": "d15357c0c4bead2298db7f094bc6d038",
    "company": "Grupo Hotusa",
@@ -2220,12 +2226,6 @@
    "id": "b77304b5575e409841d65e1eca14691b",
    "company": "Alstom",
    "role": "Operario/a De Mantenimiento Ferroviario Fuencarral Temporal",
-   "location": "Salamanca"
-  },
-  "50dcabe77656fa7f8023153580a1bbcf": {
-   "id": "50dcabe77656fa7f8023153580a1bbcf",
-   "company": "Ahorramas, S.A",
-   "role": "Electromecánico/a - Turno Noche - Plataformas Logísticas Velilla De San Antonio (madrid)",
    "location": "Salamanca"
   },
   "7c75dc24e7bd6ad822e5ec4da1b557e6": {

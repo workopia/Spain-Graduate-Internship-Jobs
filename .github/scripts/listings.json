@@ -12,8 +12,8 @@
   "as_of": "2026-09-22",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 4940,
-  "generated_at": "2026-09-22T01:06:36.867Z"
+  "country_live_total": 4938,
+  "generated_at": "2026-09-22T06:56:26.262Z"
  },
  "categories": [
   {
@@ -666,6 +666,23 @@
    "date_posted": "2026-09-20T19:58:14.682Z",
    "active": true,
    "url": "https://workopia.io/jobs/39ddefa8e0c944c8279f32c9ce747f66",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "267133c7e5c2d125515b97d2b7bfe8a4",
+   "source": "Workopia",
+   "company_name": "Ernst & Young",
+   "company_hi_slug": "ernst-young",
+   "title": "Prácticas I+d Proyectos Europeos",
+   "location": "Barcelona",
+   "skills": "Analysis of innovative, Elaboration of technic",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-20T19:12:34.249Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/267133c7e5c2d125515b97d2b7bfe8a4",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-09-17T19:24:42.165Z",
    "active": true,
    "url": "https://workopia.io/jobs/6d9b23ce1a2dab9572f9fabc5a608113",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": "€1,000/mo",
-   "id": "dcbdb660159d551ba3bc0916b2df4d54",
-   "source": "Workopia",
-   "company_name": "Medtronic Diabetes",
-   "company_hi_slug": "medtronic-diabetes",
-   "title": "Sales Analyst Intern",
-   "location": "Madrid",
-   "skills": "Sales reporting and an, Commercial systems sup",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-17T18:44:43.004Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/dcbdb660159d551ba3bc0916b2df4d54",
    "category": "grad",
    "tier": "Intern"
   },
@@ -5992,6 +5992,23 @@
   },
   {
    "salary_display": null,
+   "id": "a988b758f4d9f4db5662a62f463c6d5b",
+   "source": "Workopia",
+   "company_name": "Ahorramas, S.A",
+   "company_hi_slug": "ahorramas-s-a",
+   "title": "Electromecánico/a - Turno Noche - Plataformas Logísticas Velilla De San Antonio (madrid)",
+   "location": "Salamanca",
+   "skills": "Corrective maintenance, Preventive maintenance",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-20T17:24:20.302Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a988b758f4d9f4db5662a62f463c6d5b",
+   "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "d15357c0c4bead2298db7f094bc6d038",
    "source": "Workopia",
    "company_name": "Grupo Hotusa",
@@ -6344,23 +6361,6 @@
    "date_posted": "2026-09-12T12:57:27.572Z",
    "active": true,
    "url": "https://workopia.io/jobs/b77304b5575e409841d65e1eca14691b",
-   "category": "trades",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "50dcabe77656fa7f8023153580a1bbcf",
-   "source": "Workopia",
-   "company_name": "Ahorramas, S.A",
-   "company_hi_slug": "ahorramas-s-a",
-   "title": "Electromecánico/a - Turno Noche - Plataformas Logísticas Velilla De San Antonio (madrid)",
-   "location": "Salamanca",
-   "skills": "Maintenance of automat, Corrective maintenance",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-12T04:05:11.712Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/50dcabe77656fa7f8023153580a1bbcf",
    "category": "trades",
    "tier": "Entry-level"
   },
