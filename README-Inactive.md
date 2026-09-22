@@ -2283,4 +2283,5 @@
 <tr><td>obramat.es</td><td>Almacén Usera _ Vendedor/a Electricidad</td><td>Madrid</td><td>2026-09-22</td></tr>
 <tr><td>Medtronic Diabetes</td><td>Sales Analyst Intern</td><td>Madrid</td><td>2026-09-22</td></tr>
 <tr><td>Ahorramas, S.A</td><td>Electromecánico/a - Turno Noche - Plataformas Logísticas Velilla De San Antonio (madrid)</td><td>Salamanca</td><td>2026-09-22</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>#beca Ahe - Web & Mobile Engineering</td><td>Albacete</td><td>2026-09-22</td></tr>
 </table>

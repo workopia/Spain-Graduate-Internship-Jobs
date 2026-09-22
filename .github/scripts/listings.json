@@ -12,8 +12,8 @@
   "as_of": "2026-09-22",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 4930,
-  "generated_at": "2026-09-22T10:25:09.984Z"
+  "country_live_total": 4924,
+  "generated_at": "2026-09-22T13:15:06.630Z"
  },
  "categories": [
   {
@@ -241,23 +241,6 @@
    "date_posted": "2026-09-21T11:23:44.522Z",
    "active": true,
    "url": "https://workopia.io/jobs/a35f6da35e3371029900c244c9bff2d9",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "b9796706ecca948202e2274eef4e8eba",
-   "source": "Workopia",
-   "company_name": "ATR (Airbus/Leonardo)",
-   "company_hi_slug": "atr-airbus-leonardo",
-   "title": "#beca Ahe - Web & Mobile Engineering",
-   "location": "Albacete",
-   "skills": "JavaScript/TypeScript , Java (Spring Boot)",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-21T10:59:19.224Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/b9796706ecca948202e2274eef4e8eba",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1431,6 +1414,23 @@
    "date_posted": "2026-09-17T19:24:42.165Z",
    "active": true,
    "url": "https://workopia.io/jobs/6d9b23ce1a2dab9572f9fabc5a608113",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": "€1,000/mo",
+   "id": "dcbdb660159d551ba3bc0916b2df4d54",
+   "source": "Workopia",
+   "company_name": "Medtronic Diabetes",
+   "company_hi_slug": "medtronic-diabetes",
+   "title": "Sales Analyst Intern",
+   "location": "Madrid",
+   "skills": "Sales reporting and an, Commercial systems sup",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-17T18:44:43.004Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/dcbdb660159d551ba3bc0916b2df4d54",
    "category": "grad",
    "tier": "Intern"
   },
@@ -3850,6 +3850,23 @@
   },
   {
    "salary_display": null,
+   "id": "34bd19f6b8480d21214da10d7f4625b6",
+   "source": "Workopia",
+   "company_name": "224",
+   "company_hi_slug": null,
+   "title": "Data Analyst (business Banking)",
+   "location": "Madrid",
+   "skills": "Design and execute dat, Build target groups an",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-03T16:53:56.467Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/34bd19f6b8480d21214da10d7f4625b6",
+   "category": "data",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "a4c8cd0f61515b328f2703de8a620045",
    "source": "Workopia",
    "company_name": "BBVA",
@@ -4083,23 +4100,6 @@
    "date_posted": "2026-08-27T16:21:43.214Z",
    "active": true,
    "url": "https://workopia.io/jobs/6dc3b035036ebbdc4d509e34690f3a56",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "34bd19f6b8480d21214da10d7f4625b6",
-   "source": "Workopia",
-   "company_name": "224",
-   "company_hi_slug": null,
-   "title": "Data Analyst",
-   "location": "Madrid",
-   "skills": "Power BI, MicroStrategy",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-27T16:21:43.214Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/34bd19f6b8480d21214da10d7f4625b6",
    "category": "data",
    "tier": "Entry-level"
   },

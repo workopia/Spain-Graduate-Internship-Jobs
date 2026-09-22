@@ -68,12 +68,6 @@
    "role": "Internship: General Sales Support Intern",
    "location": "Madrid"
   },
-  "b9796706ecca948202e2274eef4e8eba": {
-   "id": "b9796706ecca948202e2274eef4e8eba",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "#beca Ahe - Web & Mobile Engineering",
-   "location": "Albacete"
-  },
   "97ab3d70aa8275b21315bec0e8099680": {
    "id": "97ab3d70aa8275b21315bec0e8099680",
    "company": "Celonis",
@@ -486,6 +480,12 @@
    "id": "6d9b23ce1a2dab9572f9fabc5a608113",
    "company": "Airbus Operations SL",
    "role": "#xplorer 2027 Illescas And The Carbon Fiber Paradox",
+   "location": "Madrid"
+  },
+  "dcbdb660159d551ba3bc0916b2df4d54": {
+   "id": "dcbdb660159d551ba3bc0916b2df4d54",
+   "company": "Medtronic Diabetes",
+   "role": "Sales Analyst Intern",
    "location": "Madrid"
   },
   "4d79e34ce93f2e0ad4fec397572e9aef": {
@@ -1340,6 +1340,12 @@
    "role": "Data Analyst (business Banking)",
    "location": "Madrid"
   },
+  "34bd19f6b8480d21214da10d7f4625b6": {
+   "id": "34bd19f6b8480d21214da10d7f4625b6",
+   "company": "224",
+   "role": "Data Analyst (business Banking)",
+   "location": "Madrid"
+  },
   "a4c8cd0f61515b328f2703de8a620045": {
    "id": "a4c8cd0f61515b328f2703de8a620045",
    "company": "BBVA",
@@ -1421,12 +1427,6 @@
   "6dc3b035036ebbdc4d509e34690f3a56": {
    "id": "6dc3b035036ebbdc4d509e34690f3a56",
    "company": "282",
-   "role": "Data Analyst",
-   "location": "Madrid"
-  },
-  "34bd19f6b8480d21214da10d7f4625b6": {
-   "id": "34bd19f6b8480d21214da10d7f4625b6",
-   "company": "224",
    "role": "Data Analyst",
    "location": "Madrid"
   },
