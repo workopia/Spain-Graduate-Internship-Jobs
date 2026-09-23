@@ -1,11 +1,47 @@
 {
- "asOf": "2026-09-22",
- "count": 560,
+ "asOf": "2026-09-23",
+ "count": 561,
  "jobs": {
   "42686": {
    "id": "42686",
    "company": "Arcadis",
    "role": "Tender & Business Development Specialist (f/m/d)",
+   "location": "Madrid"
+  },
+  "9a44d37e86b8a4d519788964953e3e51": {
+   "id": "9a44d37e86b8a4d519788964953e3e51",
+   "company": "AIRBUS",
+   "role": "#xplorer 2027 Optimization Of Load Introduction Analysis In Structural Tests",
+   "location": "Getafe Area"
+  },
+  "376cfe9518b4d568b8453a610964d62c": {
+   "id": "376cfe9518b4d568b8453a610964d62c",
+   "company": "AIRBUS",
+   "role": "#xplorer 2027 A330 Mrtt Flight Line & Delivery Center Quality",
+   "location": "Madrid"
+  },
+  "4af99ae4922aaa9ab061f4c4ab832cd1": {
+   "id": "4af99ae4922aaa9ab061f4c4ab832cd1",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Prácticas Consultoría I+d",
+   "location": "Barcelona"
+  },
+  "10e77fb903326037405dc89e8fc4423c": {
+   "id": "10e77fb903326037405dc89e8fc4423c",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Prácticas I+d Proyectos Europeos",
+   "location": "Spain"
+  },
+  "e347fa2c7ca3b5a985d027742fc9fb07": {
+   "id": "e347fa2c7ca3b5a985d027742fc9fb07",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Ey-parthenon - Off-cycle Strategy & Transactions",
+   "location": "Barcelona"
+  },
+  "be93c80eba5ca02eeab4915f46f72ac7": {
+   "id": "be93c80eba5ca02eeab4915f46f72ac7",
+   "company": "Qualentum",
+   "role": "Beca Proeduca - Ia",
    "location": "Madrid"
   },
   "cac243ea5bb6b464c97167a070217a33": {
@@ -254,12 +290,6 @@
    "role": "Prácticas Business & Risk Consulting - Rookies Enero 2027",
    "location": "Madrid"
   },
-  "4018fc07b838b959258332f113fe6996": {
-   "id": "4018fc07b838b959258332f113fe6996",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas Consultoría I+d",
-   "location": "Barcelona"
-  },
   "a92315187a2aba8c6750b95313644db6": {
    "id": "a92315187a2aba8c6750b95313644db6",
    "company": "Verisure S.A.",
@@ -458,36 +488,6 @@
    "role": "Npd Intern",
    "location": "Barcelona"
   },
-  "b9220b337b1c82884c98532cb7ca8620": {
-   "id": "b9220b337b1c82884c98532cb7ca8620",
-   "company": "Coty Inc.",
-   "role": "Customer Operations Intern (with French)",
-   "location": "Barcelona"
-  },
-  "b3a27890c2cb84dd39a1877a93422537": {
-   "id": "b3a27890c2cb84dd39a1877a93422537",
-   "company": "EY",
-   "role": "Prácticas Technology Consulting - Enero 2027",
-   "location": "Madrid"
-  },
-  "0327d5ce109fba2bce090490be38582a": {
-   "id": "0327d5ce109fba2bce090490be38582a",
-   "company": "MEDTRONIC",
-   "role": "Sales Analyst Intern",
-   "location": "Madrid"
-  },
-  "6d9b23ce1a2dab9572f9fabc5a608113": {
-   "id": "6d9b23ce1a2dab9572f9fabc5a608113",
-   "company": "Airbus Operations SL",
-   "role": "#xplorer 2027 Illescas And The Carbon Fiber Paradox",
-   "location": "Madrid"
-  },
-  "dcbdb660159d551ba3bc0916b2df4d54": {
-   "id": "dcbdb660159d551ba3bc0916b2df4d54",
-   "company": "Medtronic Diabetes",
-   "role": "Sales Analyst Intern",
-   "location": "Madrid"
-  },
   "4d79e34ce93f2e0ad4fec397572e9aef": {
    "id": "4d79e34ce93f2e0ad4fec397572e9aef",
    "company": "Stripe",
@@ -511,6 +511,12 @@
    "company": "Halfspace ApS",
    "role": "Ai - Software Engineer",
    "location": "Madrid"
+  },
+  "716fab667c4aac305d5adccf3e8580ab": {
+   "id": "716fab667c4aac305d5adccf3e8580ab",
+   "company": "Jobgether",
+   "role": "Founding Engineer",
+   "location": "Spain"
   },
   "2e57a0f001a161f27c41e4e58a00cb69": {
    "id": "2e57a0f001a161f27c41e4e58a00cb69",
@@ -553,6 +559,24 @@
    "company": "IQVIA Holdings",
    "role": "Statistical Programmer",
    "location": "Madrid"
+  },
+  "605ad70906b8782a8b2ac8f79dd83647": {
+   "id": "605ad70906b8782a8b2ac8f79dd83647",
+   "company": "Jobgether",
+   "role": "Php Engineer",
+   "location": "Spain"
+  },
+  "a0b1263fcf42ed0d3673e54754c06b15": {
+   "id": "a0b1263fcf42ed0d3673e54754c06b15",
+   "company": "Jobgether",
+   "role": "Founding Software Engineer - New Product",
+   "location": "Spain"
+  },
+  "efa86354367ff9ebddfdf2cde37e73b2": {
+   "id": "efa86354367ff9ebddfdf2cde37e73b2",
+   "company": "Jobgether",
+   "role": "Delphi Developer For A Sustainability Saas",
+   "location": "Spain"
   },
   "2a69ef800a948da50300cee67f4db47e": {
    "id": "2a69ef800a948da50300cee67f4db47e",
@@ -956,30 +980,6 @@
    "role": "Software Engineer",
    "location": "Madrid"
   },
-  "938082df6ef67b34379e89c692d80f20": {
-   "id": "938082df6ef67b34379e89c692d80f20",
-   "company": "Data visualisation Berlin",
-   "role": "Backend Engineer",
-   "location": "Barcelona"
-  },
-  "de2a2c0cab3785d1e473dca8f4a96f2e": {
-   "id": "de2a2c0cab3785d1e473dca8f4a96f2e",
-   "company": "Jobgether",
-   "role": "Software Engineer - Advisory Suite",
-   "location": "Spain"
-  },
-  "da5b386bbd1b312a1bc21489a05dbb64": {
-   "id": "da5b386bbd1b312a1bc21489a05dbb64",
-   "company": "Santander UK",
-   "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
-   "location": "Madrid"
-  },
-  "c738b8628972fc411b25c07cd282049f": {
-   "id": "c738b8628972fc411b25c07cd282049f",
-   "company": "Atos",
-   "role": "Técnico/a Helpdesk Nivel 2",
-   "location": "Barcelona"
-  },
   "2291df6b5af7521781e5dd31e5c73e89": {
    "id": "2291df6b5af7521781e5dd31e5c73e89",
    "company": "SAP SE",
@@ -1002,6 +1002,12 @@
    "id": "7809e105f607bd3c9cb344545f31a723",
    "company": "Boston Consulting Group",
    "role": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
+   "location": "Madrid"
+  },
+  "108b7e847f02d80f04d063d66a335a36": {
+   "id": "108b7e847f02d80f04d063d66a335a36",
+   "company": "Qualentum",
+   "role": "Beca Proeduca - Data Analytics",
    "location": "Madrid"
   },
   "88a146b56a128ce85af2547648c19ac6": {
@@ -1045,6 +1051,12 @@
    "company": "Bertrandt Group",
    "role": "Data Scientist - Mantenimiento Predictivo E Ia Para Sistemas Aeronáuticos",
    "location": "28906"
+  },
+  "0066f24ce6deb0b7235f25b72dbb9592": {
+   "id": "0066f24ce6deb0b7235f25b72dbb9592",
+   "company": "Jobgether",
+   "role": "Mid Data Scientist",
+   "location": "Spain"
   },
   "e050596724b14b27856a2db45ee8dcf5": {
    "id": "e050596724b14b27856a2db45ee8dcf5",
@@ -1472,16 +1484,10 @@
    "role": "Specialist Data Analyst",
    "location": "Madrid"
   },
-  "8e36b29835e6807aee84527044f85155": {
-   "id": "8e36b29835e6807aee84527044f85155",
-   "company": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
-   "role": "Data Scientist - Optimization Focus (beca)",
-   "location": "Madrid"
-  },
-  "d87b3349825000fc66de816310b4379b": {
-   "id": "d87b3349825000fc66de816310b4379b",
-   "company": "Ebury",
-   "role": "Associate Engineer",
+  "d604c30365be22c2e7466899299a1215": {
+   "id": "d604c30365be22c2e7466899299a1215",
+   "company": "Mizuho / Greenhill",
+   "role": "Mizuho / Greenhill - 2027 M&a Internship - Madrid",
    "location": "Madrid"
   },
   "560e1fb2f0dcc5370b97f7948aa9f2f9": {
@@ -1634,6 +1640,12 @@
    "role": "Consultor/a Sap Bw Con Inglés Alto",
    "location": "Madrid"
   },
+  "1e5a19d74f6c19df159eb61dbb58992d": {
+   "id": "1e5a19d74f6c19df159eb61dbb58992d",
+   "company": "Jobgether",
+   "role": "Product Analyst",
+   "location": "Spain"
+  },
   "89d79a2e787ac98ffc21d39d42c2fd85": {
    "id": "89d79a2e787ac98ffc21d39d42c2fd85",
    "company": "Marsh & McLennan Companies Inc",
@@ -1663,6 +1675,12 @@
    "company": "OCA Global",
    "role": "Business Analyst Salesforce Jr.",
    "location": "Barcelona"
+  },
+  "81ae478bcaafc55ea1a4ec8738414c2e": {
+   "id": "81ae478bcaafc55ea1a4ec8738414c2e",
+   "company": "Jobgether",
+   "role": "Business/process Analyst",
+   "location": "Spain"
   },
   "331f8161305c138d7bd62a5a91af11df": {
    "id": "331f8161305c138d7bd62a5a91af11df",
@@ -2060,18 +2078,6 @@
    "role": "Técnico/a Contable (nivel Alto Francés)",
    "location": "Madrid"
   },
-  "bda62834f52ab4d59cbcd17906e3ad88": {
-   "id": "bda62834f52ab4d59cbcd17906e3ad88",
-   "company": "164",
-   "role": "Analista Ofertas Financiero O Financiera",
-   "location": "Madrid"
-  },
-  "f73826d25acf1b223254f0d6be911094": {
-   "id": "f73826d25acf1b223254f0d6be911094",
-   "company": "Jobandtalent",
-   "role": "Us - Accountant (spain - Remote)",
-   "location": "Madrid"
-  },
   "3c465745cfb285e57a7b6d2a42eb9873": {
    "id": "3c465745cfb285e57a7b6d2a42eb9873",
    "company": "EasySalud",
@@ -2095,6 +2101,12 @@
    "company": "FRESENIUS MEDICAL CARE",
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
+  },
+  "dd81ceb61359ddd1c3ac6974aaf65099": {
+   "id": "dd81ceb61359ddd1c3ac6974aaf65099",
+   "company": "confiarte.eu",
+   "role": "Técnico/a De Mantenimiento Data Center (especialista En Electricidad Y Climatización) / Getafe (madrid)",
+   "location": "Madrid"
   },
   "a988b758f4d9f4db5662a62f463c6d5b": {
    "id": "a988b758f4d9f4db5662a62f463c6d5b",
@@ -2570,11 +2582,11 @@
    "role": "Técnico/a De Mantenimiento De Escaleras",
    "location": "Barcelona"
   },
-  "4826d9a9dcf8468feca7d0e51d4ac1f3": {
-   "id": "4826d9a9dcf8468feca7d0e51d4ac1f3",
-   "company": "KONE Bulgaria",
-   "role": "Técnico/a De Mantenimiento De Escaleras",
-   "location": "Barcelona"
+  "e8fabffae1a6599f080d597dc7bc7a20": {
+   "id": "e8fabffae1a6599f080d597dc7bc7a20",
+   "company": "DABA, SA",
+   "role": "Dependiente/a Nespresso Eci Pozuelo (media Jornada Tardes)",
+   "location": "Madrid"
   },
   "119f2990f06bce2c866ceee7c1c1b8bc": {
    "id": "119f2990f06bce2c866ceee7c1c1b8bc",
@@ -3048,12 +3060,6 @@
    "id": "807fd0579e6e2a9000d949b34a9973b7",
    "company": "MANGO",
    "role": "Vendedor/a 16h Fin De Semana Tienda Mango Gran Via Hortaleza, Madrid",
-   "location": "Madrid"
-  },
-  "806dda637f10acf90eecee9ed95bdced": {
-   "id": "806dda637f10acf90eecee9ed95bdced",
-   "company": "Mango",
-   "role": "Vendedor/a - Fuenlabrada Loranca",
    "location": "Madrid"
   },
   "5751ccbc53b48dbeb117d9fa20463513": {

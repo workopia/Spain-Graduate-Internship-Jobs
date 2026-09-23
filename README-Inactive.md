@@ -2284,4 +2284,20 @@
 <tr><td>Medtronic Diabetes</td><td>Sales Analyst Intern</td><td>Madrid</td><td>2026-09-22</td></tr>
 <tr><td>Ahorramas, S.A</td><td>Electromecánico/a - Turno Noche - Plataformas Logísticas Velilla De San Antonio (madrid)</td><td>Salamanca</td><td>2026-09-22</td></tr>
 <tr><td>ATR (Airbus/Leonardo)</td><td>#beca Ahe - Web & Mobile Engineering</td><td>Albacete</td><td>2026-09-22</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Consultoría I+d</td><td>Barcelona</td><td>2026-09-23</td></tr>
+<tr><td>Coty Inc.</td><td>Customer Operations Intern (with French)</td><td>Barcelona</td><td>2026-09-23</td></tr>
+<tr><td>EY</td><td>Prácticas Technology Consulting - Enero 2027</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>MEDTRONIC</td><td>Sales Analyst Intern</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>Airbus Operations SL</td><td>#xplorer 2027 Illescas And The Carbon Fiber Paradox</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>Medtronic Diabetes</td><td>Sales Analyst Intern</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>Data visualisation Berlin</td><td>Backend Engineer</td><td>Barcelona</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Advisory Suite</td><td>Spain</td><td>2026-09-23</td></tr>
+<tr><td>Santander UK</td><td>Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>Atos</td><td>Técnico/a Helpdesk Nivel 2</td><td>Barcelona</td><td>2026-09-23</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Data Scientist - Optimization Focus (beca)</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>Ebury</td><td>Associate Engineer</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>164</td><td>Analista Ofertas Financiero O Financiera</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>Jobandtalent</td><td>Us - Accountant (spain - Remote)</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>KONE Bulgaria</td><td>Técnico/a De Mantenimiento De Escaleras</td><td>Barcelona</td><td>2026-09-23</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Fuenlabrada Loranca</td><td>Madrid</td><td>2026-09-23</td></tr>
 </table>
