@@ -68,6 +68,18 @@
    "role": "Trainee Guest Experience- Innside Madrid Valdebebas",
    "location": "Madrid"
   },
+  "a2a4f6bd54996b5d8f8d336edc651724": {
+   "id": "a2a4f6bd54996b5d8f8d336edc651724",
+   "company": "Laboratory Animal Management Association",
+   "role": "Beca Marketing Pulmón",
+   "location": "Madrid"
+  },
+  "b3690a0e451575e360dabef28a089e69": {
+   "id": "b3690a0e451575e360dabef28a089e69",
+   "company": "Solunion",
+   "role": "Solunion First Steps - Programa De Prácticas",
+   "location": "Madrid"
+  },
   "cac243ea5bb6b464c97167a070217a33": {
    "id": "cac243ea5bb6b464c97167a070217a33",
    "company": "AIRBUS",
@@ -475,18 +487,6 @@
    "company": "Motorflug Baden Baden GmbH",
    "role": "#xplorer 2027 Comms Systems Connectivity Analysis",
    "location": "Getafe Area"
-  },
-  "a1cb8e5adfa3abe8302d9ef4368b3ffd": {
-   "id": "a1cb8e5adfa3abe8302d9ef4368b3ffd",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Guest Services & Quality Intern",
-   "location": "Barcelona"
-  },
-  "641a122a8f07ef7a41a5a09095ce336e": {
-   "id": "641a122a8f07ef7a41a5a09095ce336e",
-   "company": "Flanks",
-   "role": "Custodian Relationship Intern",
-   "location": "Barcelona"
   },
   "4d79e34ce93f2e0ad4fec397572e9aef": {
    "id": "4d79e34ce93f2e0ad4fec397572e9aef",
@@ -2588,6 +2588,18 @@
    "role": "Dependiente/a Nespresso Eci Pozuelo (media Jornada Tardes)",
    "location": "Madrid"
   },
+  "fce4be2f17986cf14c4c5b4692ccc5a5": {
+   "id": "fce4be2f17986cf14c4c5b4692ccc5a5",
+   "company": "NAPAPIJRI",
+   "role": "Vendedor/a 30h Napapijri - Princesa (cobertura It)",
+   "location": "Madrid"
+  },
+  "5e3505aa3fa36e486ebe4aeb8b9064dd": {
+   "id": "5e3505aa3fa36e486ebe4aeb8b9064dd",
+   "company": "VANS",
+   "role": "Vendedor/a 15h Vans - Las Rozas",
+   "location": "Madrid"
+  },
   "119f2990f06bce2c866ceee7c1c1b8bc": {
    "id": "119f2990f06bce2c866ceee7c1c1b8bc",
    "company": "Michael Kors",
@@ -3049,18 +3061,6 @@
    "company": "Mango",
    "role": "Mozo/a De Almacen - Lliça D'amunt",
    "location": "Barcelona"
-  },
-  "f3ede5c6001b985e45121633a9f01b06": {
-   "id": "f3ede5c6001b985e45121633a9f01b06",
-   "company": "Mango",
-   "role": "Vendedor/a - Madrid Preciados",
-   "location": "Madrid"
-  },
-  "807fd0579e6e2a9000d949b34a9973b7": {
-   "id": "807fd0579e6e2a9000d949b34a9973b7",
-   "company": "MANGO",
-   "role": "Vendedor/a 16h Fin De Semana Tienda Mango Gran Via Hortaleza, Madrid",
-   "location": "Madrid"
   },
   "5751ccbc53b48dbeb117d9fa20463513": {
    "id": "5751ccbc53b48dbeb117d9fa20463513",

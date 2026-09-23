@@ -2306,4 +2306,8 @@
 <tr><td>Coty Inc.</td><td>Npd Intern</td><td>Barcelona</td><td>2026-09-23</td></tr>
 <tr><td>SIX</td><td>Software Engineer</td><td>Madrid</td><td>2026-09-23</td></tr>
 <tr><td>Brambles</td><td>Specialist Data Analyst</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Guest Services & Quality Intern</td><td>Barcelona</td><td>2026-09-23</td></tr>
+<tr><td>Flanks</td><td>Custodian Relationship Intern</td><td>Barcelona</td><td>2026-09-23</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Madrid Preciados</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>MANGO</td><td>Vendedor/a 16h Fin De Semana Tienda Mango Gran Via Hortaleza, Madrid</td><td>Madrid</td><td>2026-09-23</td></tr>
 </table>
