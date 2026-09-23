@@ -2300,4 +2300,10 @@
 <tr><td>Jobandtalent</td><td>Us - Accountant (spain - Remote)</td><td>Madrid</td><td>2026-09-23</td></tr>
 <tr><td>KONE Bulgaria</td><td>Técnico/a De Mantenimiento De Escaleras</td><td>Barcelona</td><td>2026-09-23</td></tr>
 <tr><td>Mango</td><td>Vendedor/a - Fuenlabrada Loranca</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>ATREVIA</td><td>Beca Periodismo - Atrevia Madrid</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Global Acceleration Office Internship</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>Coty Inc.</td><td>Warehouse Intern</td><td>Barcelona</td><td>2026-09-23</td></tr>
+<tr><td>Coty Inc.</td><td>Npd Intern</td><td>Barcelona</td><td>2026-09-23</td></tr>
+<tr><td>SIX</td><td>Software Engineer</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>Brambles</td><td>Specialist Data Analyst</td><td>Madrid</td><td>2026-09-23</td></tr>
 </table>
