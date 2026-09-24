@@ -2339,4 +2339,115 @@
 <tr><td>Mango</td><td>Vendedor/a 20h Serrano</td><td>Madrid</td><td>2026-09-24</td></tr>
 <tr><td>Mango</td><td>Vendedor/a - Salamanca Man</td><td>Salamanca</td><td>2026-09-24</td></tr>
 <tr><td>Mango</td><td>Mozo/a De Almacen - Lliça D'amunt</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Arcadis</td><td>Tender & Business Development Specialist (f/m/d)</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Kenvue</td><td>Commercial Quality Intern</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Siegfried</td><td>Talent Acquisition Intern (international Recruitment)</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Ametller Origen</td><td>Pràctiques A Selecció I Formació</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Acciona</td><td>Beca Desarrollo Aplicaciones .net</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>ferromallas.es</td><td>Ai Engineer Internship</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Recepción Eurostars Hotels (barcelona)</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Revenue - Eurostars Hotel Company</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Stripe</td><td>Software Engineer, New Grad - Frontend</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Fever</td><td>Graduate Software Engineer</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Ernst & Young</td><td>Desarrollador/a Abap</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Jti Macdonald Corp</td><td>Ai Native Software Engineer</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>NTT Communications</td><td>Cics Mainframe Systems Programmer</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>NTT AUSTRALIA PTY</td><td>Cics Mainframe Systems Programmer</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>avnet.eu</td><td>Backend Developer (m/f/d)</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Amazingauctane</td><td>Software Engineer .net</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Auctane</td><td>Software Engineer .net</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Pluxee</td><td>Software Engineer</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Novartis</td><td>Associate Clinical Programmer - Clinical Data Operations</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Novartis UK</td><td>Associate Clinical Programmer - Clinical Data Operations</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Simulation Software Engineer – Eurofighter Flight Simulator</td><td>Getafe Area</td><td>2026-09-24</td></tr>
+<tr><td>Airbus UpNext Spain</td><td>Airbus Upnext Spain – Uas Embedded Autonomy Software Developer (m/f)</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Modelling And Simulation Junior Software Engineer</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Amazingauctane</td><td>Software Engineer - Fullstack</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Auctane</td><td>Software Engineer - Fullstack</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Santander</td><td>I_sgto_software Engineering Specialist</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Santander</td><td>Back-end Software Engineer</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Desarrollo De Aplicaciones En Tiempo Real (c++)</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Minsait</td><td>Ingeniero/a De Software - Gestión Y Monitorización De Redes Qkd</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>New Relic Inc</td><td>Software Engineer Ii</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>New Relic Inc</td><td>Software Engineer Ii - Backend</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>N26 GmbH</td><td>Backend Engineer - Memberships</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>N26 GmbH</td><td>Backend Engineer</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>AIRBUS GEOTECH, S.A</td><td>Haps Software Engineer.</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Amazingauctane</td><td>Associate Software Engineer - Spain</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Abbott</td><td>Go Software Engineer - Cloud</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>IISBMS</td><td>Simulation Software Engineer – Eurofighter Flight Simulator</td><td>Getafe Area</td><td>2026-09-24</td></tr>
+<tr><td>Airbus SE</td><td>Simulation Software Engineer – Eurofighter Flight Simulator</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Software - Gestión Y Monitorización De Redes Qkd</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Concentrix</td><td>Report Analyst - English Speaking - Onsite - Mx01</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Concentrix CVG</td><td>Report Analyst - English Speaking - Onsite - Mx01</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Boston Consulting Group</td><td>Forward Deployed Ai Engineer, Spain - Bcg X</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>BBVA</td><td>Analista De Datos Y Procesos Para Riesgos Individuos</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Roche Holding AG</td><td>Data Advisory And Insights Specialist</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Avanade</td><td>Artificial Intelligence Engineer (genai Engineer)</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Salesforce Sites</td><td>Ai Builder, Emerging Talent - Arabic Market</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Salesforce Sites</td><td>Ai Builder, Emerging Talent - Hebrew Market</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Salesforce</td><td>Ai Builder, Emerging Talent - Arabic Market</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Salesforce</td><td>Ai Builder, Emerging Talent - Hebrew Market</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Salesforce Service Cloud</td><td>Ai Builder, Emerging Talent - Arabic Market</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Minsait</td><td>Ai Engineer</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>BBVA</td><td>Data Scientist Expert</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Bureau Veritas</td><td>Analista De Datos Y Soporte Funcional</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Salesforce UK</td><td>Ai Builder, Emerging Talent - English Speaking Market</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Salesforce</td><td>Ai Builder, Emerging Talent - English Speaking Market</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Indra group</td><td>Ai Engineer</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>EWOR GmbH</td><td>Ai Ai/ml Engineer (100 % Remote) (m/f/d)</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Avangrid</td><td>Especialista Transformación Ia</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Neoenergia</td><td>Especialista Transformación Ia</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Iberdrola</td><td>Especialista Transformación Ia</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>ING Group</td><td>Data Analyst</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>282</td><td>Data Analyst</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Telefonica</td><td>Agentic Ai Practicioner (i)</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>MAPFRE</td><td>Data Analyst De Negocio</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Kyndryl</td><td>Software Engineer (ai Solutions)</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Kyndryl Holdings</td><td>Software Engineer (ai Solutions)</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>CHEP, A Brambles Company</td><td>Specialist Data Analyst</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>William Blair</td><td>Madrid Investment Banking Intern - October 2026</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Trainee Business Analyst (retención)</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Sales Analyst Trainee</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>The LEGO Group</td><td>Analytics & Insights (a&i) Partner</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Concentrix</td><td>Business Analyst (english-speaking) - Hybrid Ht05</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Concentrix CVG</td><td>Business Analyst (english-speaking) - Hybrid Ht05</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Ivivamedical</td><td>Network Business Analyst</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>IQVIA Holdings</td><td>Network Business Analyst</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Business Process Automation Analyst</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>PwC Sweden</td><td>Trabaja Con Nosotros - Profesionales Con Experiencia</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>PwC</td><td>Consultor/a Sap Successfactors</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Legocareersvirginia</td><td>Analytics & Insights (a&i) Partner</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>DXC Technology</td><td>Consultor/a De Negocio (industria, Procesos, Cross)</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>DXC Technology</td><td>Consultor/a De Procesos (negocio + It)</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>DXC Technology</td><td>It Analista Funcional Sector Asegurador</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Techsyndicate Inc</td><td>Consult Partner Banking & Insurance</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Airbus Defence and Space</td><td>Space Systems Ibp Management Specialist</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Airbus SE</td><td>Space Systems Ibp Management Specialist</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Space Systems Ibp Management Specialist</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>282</td><td>Mifid Private Banking Control Specialist</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>ING Group</td><td>Mifid Private Banking Control Specialist</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Bunge North America</td><td>Assistant Trading Business Analyst</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Hr Business Advisory Analyst/business Advisor</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>PORTIS</td><td>Técnico (h/m) De Puertas Automáticas Portis Getafe</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>APM Terminals</td><td>Mechanical Technician</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Hitachi Rail GTS Spain S.A.U.</td><td>Técnico/a De Mantenimiento Ferroviario Multidisciplinar</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Sulzer</td><td>Field Service Coordinator</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Valmet</td><td>Técnico De Rodillos</td><td>Zaragoza</td><td>2026-09-24</td></tr>
+<tr><td>Meliá</td><td>Técnico De Mantenimiento - Meliá Castilla</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Ferroviario Fuencarral Temporal</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario De Mantenimiento Pinto (temporal)</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Orona S.Coop</td><td>Técnico/a De Mantenimiento De Ascensores Sin Experiencia (madrid)</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>KION</td><td>Técnico Electromecánico Con Inglés ( Sede Zona Franca)</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>TK Maxx</td><td>Dependiente/a 25 Horas (indefinido)</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Acciona SA</td><td>Vendedor/a Flagship</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Eastpak</td><td>Vendedor/a 16h Eastpak - Barcelona</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>NAPAPIJRI</td><td>Vendedor/a 24h Napapijri - La Roca</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Mango</td><td>Vendedor/a Madrid Campaña Black Friday Y Navidad</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Mango</td><td>Programa De Prácticas Vendedor/a Barcelona</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Secretary / Assistant</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Secretary / Assistant</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>ferromallas.es</td><td>Administrativo/a De Producción</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Billing & Order Entry Admin</td><td>Madrid</td><td>2026-09-24</td></tr>
 </table>
