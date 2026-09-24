@@ -2310,4 +2310,33 @@
 <tr><td>Flanks</td><td>Custodian Relationship Intern</td><td>Barcelona</td><td>2026-09-23</td></tr>
 <tr><td>Mango</td><td>Vendedor/a - Madrid Preciados</td><td>Madrid</td><td>2026-09-23</td></tr>
 <tr><td>MANGO</td><td>Vendedor/a 16h Fin De Semana Tienda Mango Gran Via Hortaleza, Madrid</td><td>Madrid</td><td>2026-09-23</td></tr>
+<tr><td>Coty Inc</td><td>Visibility & Merchandising Intern</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Palladium Hotel Group</td><td>Prácticas - Mice Corporativo - Oficinas Centrales Madrid</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Administración Economato Madrid</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Área Comercial - Sector Hoteles / Madrid</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Comercial Internacional</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Comercial</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Coty</td><td>Demand Intern</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Coty</td><td>Warehouse Intern</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Coty</td><td>Customer Operations Intern (with French)</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Smadex</td><td>Machine Learning Intern</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Takeda Pharmaceuticals U.S.A. Inc</td><td>Public Affairs Intern</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#xplorer 2027 Air To Air Refuelling Systems</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Motorflug Baden Baden GmbH</td><td>#xplorer 2027 Comms Systems Connectivity Analysis</td><td>Getafe Area</td><td>2026-09-24</td></tr>
+<tr><td>minsait</td><td>Ingeniero/a De Software C/c++ Para Desarrollo, Integración Y Bancos De Pruebas</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Minsait</td><td>Ingeniero/a De Software Aviónico Y Estándares</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>ACCIONA</td><td>Tecnico Asistencia Tecnica</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-09-24</td></tr>
+<tr><td>Minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-09-24</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario(a) De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>HARTMANN</td><td>Técnico Eléctrico De Turno (fines De Semana)</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Alstom</td><td>Operario De Mantenimiento Pinto (temporal)</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Orona S.Coop</td><td>Técnico/a De Mantenimiento De Ascensores (huesca)</td><td>Zaragoza</td><td>2026-09-24</td></tr>
+<tr><td>57</td><td>Técnico/a De Mantenimiento De Escaleras</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>KONE International</td><td>Técnico/a De Mantenimiento De Escaleras</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Condis Supermercats S.A</td><td>Bolsa De Talento Almacen</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Barcelona</td><td>2026-09-24</td></tr>
+<tr><td>Mango</td><td>Vendedor/a 20h Serrano</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Salamanca Man</td><td>Salamanca</td><td>2026-09-24</td></tr>
+<tr><td>Mango</td><td>Mozo/a De Almacen - Lliça D'amunt</td><td>Barcelona</td><td>2026-09-24</td></tr>
 </table>
