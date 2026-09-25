@@ -2484,4 +2484,5 @@
 <tr><td>serveo</td><td>Beca Bidding Conservación Infraestructuras - Madrid</td><td>Madrid</td><td>2026-09-25</td></tr>
 <tr><td>Zurich Insurance UK</td><td>Multinational Wording Operations Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
 <tr><td>Zurich Insurance UK</td><td>Network & Partner Operations Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Raona</td><td>Ai Product Builder</td><td>Barcelona</td><td>2026-09-25</td></tr>
 </table>

@@ -13,7 +13,7 @@
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 4951,
-  "generated_at": "2026-09-25T10:26:09.168Z"
+  "generated_at": "2026-09-25T13:27:30.130Z"
  },
  "categories": [
   {
@@ -3726,23 +3726,6 @@
    "date_posted": "2026-08-10T08:51:00.534Z",
    "active": true,
    "url": "https://workopia.io/jobs/c61cb186bb0a4fad38dbdbed62772a88",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "e7b7d378b2e0007450e9a6b4ae174077",
-   "source": "Workopia",
-   "company_name": "Raona",
-   "company_hi_slug": "raona",
-   "title": "Ai Product Builder",
-   "location": "Barcelona",
-   "skills": "Product ownership, AI solution design",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-27T12:26:10.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/e7b7d378b2e0007450e9a6b4ae174077",
    "category": "data",
    "tier": "Entry-level"
   },

@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-25",
- "count": 521,
+ "count": 520,
  "jobs": {
   "88817": {
    "id": "88817",
@@ -1291,12 +1291,6 @@
    "company": "Zurich Insurance UK",
    "role": "Data Scientist",
    "location": "Localidad"
-  },
-  "e7b7d378b2e0007450e9a6b4ae174077": {
-   "id": "e7b7d378b2e0007450e9a6b4ae174077",
-   "company": "Raona",
-   "role": "Ai Product Builder",
-   "location": "Barcelona"
   },
   "19fcb8e80e4ed2ecac27077e5d242b21": {
    "id": "19fcb8e80e4ed2ecac27077e5d242b21",
