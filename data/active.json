@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-25",
- "count": 517,
+ "count": 521,
  "jobs": {
   "88817": {
    "id": "88817",
@@ -92,11 +92,35 @@
    "role": "Benefits Intern - Spanish Speaker",
    "location": "Madrid"
   },
-  "25868b9a2d6df5b4d2c2b5acfac66c59": {
-   "id": "25868b9a2d6df5b4d2c2b5acfac66c59",
-   "company": "Coty Inc.",
+  "512c332516c0587753df5077810324c5": {
+   "id": "512c332516c0587753df5077810324c5",
+   "company": "Roche",
+   "role": "Implementation Intern - Programa On En Roche 2026",
+   "location": "Madrid"
+  },
+  "8db210811d7cf73d1b75285cbecfd282": {
+   "id": "8db210811d7cf73d1b75285cbecfd282",
+   "company": "BBVA",
+   "role": "Beca Off-cycle M&a Cib",
+   "location": "Madrid"
+  },
+  "d37d555a3feacafffa718be63c100324": {
+   "id": "d37d555a3feacafffa718be63c100324",
+   "company": "Coty Inc",
    "role": "Visibility & Merchandising Intern",
    "location": "Barcelona"
+  },
+  "fb5e3736113b739ebf741e6f35526270": {
+   "id": "fb5e3736113b739ebf741e6f35526270",
+   "company": "Airbus Defence and Space SAU",
+   "role": "#xplorer 2027 Mission System Sw Internship",
+   "location": "Madrid"
+  },
+  "495cd06fc2352d2a08c8b9796663fc3a": {
+   "id": "495cd06fc2352d2a08c8b9796663fc3a",
+   "company": "THALES",
+   "role": "Threat Hunting & Incident Response Intern",
+   "location": "Madrid"
   },
   "f25399bb4b9ac39c3f42387a7bde15e3": {
    "id": "f25399bb4b9ac39c3f42387a7bde15e3",
@@ -163,6 +187,12 @@
    "company": "Nestle Ltd",
    "role": "Spain Youth / Internship Finance - September 2026",
    "location": "Esplugues Llobregat"
+  },
+  "f53fab7e2780bb5d95e88e672a9cc20f": {
+   "id": "f53fab7e2780bb5d95e88e672a9cc20f",
+   "company": "Hilton Worldwide",
+   "role": "Front Office Intern",
+   "location": "Madrid"
   },
   "fe4fe63ae78da6727fd41e92a77fe039": {
    "id": "fe4fe63ae78da6727fd41e92a77fe039",
@@ -452,36 +482,6 @@
    "role": "Network & Partner Operations Intern",
    "location": "Barcelona"
   },
-  "057f344e4e3d2575c487297ca4e291e3": {
-   "id": "057f344e4e3d2575c487297ca4e291e3",
-   "company": "Zurich Insurance UK",
-   "role": "Hr Internship",
-   "location": "Barcelona"
-  },
-  "1c13afdb4cfc6d7e1727b64096b6fd41": {
-   "id": "1c13afdb4cfc6d7e1727b64096b6fd41",
-   "company": "Zurich Insurance UK",
-   "role": "Front Office Systems Intern",
-   "location": "Barcelona"
-  },
-  "e07c4549aefb20b013cd58d0a109bce9": {
-   "id": "e07c4549aefb20b013cd58d0a109bce9",
-   "company": "Zurich Insurance UK",
-   "role": "Investment Performance Analyst Intern",
-   "location": "Barcelona"
-  },
-  "fb75dc8b92525b74ca76590c7076bb62": {
-   "id": "fb75dc8b92525b74ca76590c7076bb62",
-   "company": "Zurich Insurance UK",
-   "role": "Ai Analyst Intern",
-   "location": "Barcelona"
-  },
-  "513671c469596be392debb5efa6f3cb2": {
-   "id": "513671c469596be392debb5efa6f3cb2",
-   "company": "RWE AG",
-   "role": "Internship Solar Operations (12 Months) D/f/m",
-   "location": "Barcelona"
-  },
   "0cdbc9babab96efafcabfa1f3004b375": {
    "id": "0cdbc9babab96efafcabfa1f3004b375",
    "company": "New Relic Inc",
@@ -529,6 +529,12 @@
    "company": "minsait",
    "role": "Ingeniero/a De Software C/c++ Para Desarrollo, Integración Y Bancos De Pruebas",
    "location": "Madrid"
+  },
+  "a1a38da74f4473dfa386db1f2a599efe": {
+   "id": "a1a38da74f4473dfa386db1f2a599efe",
+   "company": "Jobgether",
+   "role": "Software Engineer - Crypto",
+   "location": "Spain"
   },
   "baea95e3d5c29ea51bae67d6ae4b1dce": {
    "id": "baea95e3d5c29ea51bae67d6ae4b1dce",
@@ -944,6 +950,12 @@
    "role": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
    "location": "Madrid"
   },
+  "f0db32f47ea572289d4a12f690534d9a": {
+   "id": "f0db32f47ea572289d4a12f690534d9a",
+   "company": "SIX",
+   "role": "Data Analyst",
+   "location": "Madrid"
+  },
   "289c736421e4a764d259d900f292e901": {
    "id": "289c736421e4a764d259d900f292e901",
    "company": "Indra Group",
@@ -955,6 +967,12 @@
    "company": "Glovo",
    "role": "Data Analyst I Courier Rto Global Hq",
    "location": "Barcelona"
+  },
+  "c40d4b85d5c7bc33dd9224f2b86681a0": {
+   "id": "c40d4b85d5c7bc33dd9224f2b86681a0",
+   "company": "OpenAI",
+   "role": "Applied Ai Engineer, Codex",
+   "location": "Madrid"
   },
   "108b7e847f02d80f04d063d66a335a36": {
    "id": "108b7e847f02d80f04d063d66a335a36",
@@ -1279,6 +1297,12 @@
    "company": "Raona",
    "role": "Ai Product Builder",
    "location": "Barcelona"
+  },
+  "19fcb8e80e4ed2ecac27077e5d242b21": {
+   "id": "19fcb8e80e4ed2ecac27077e5d242b21",
+   "company": "Citi Handlowy",
+   "role": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
+   "location": "Madrid"
   },
   "d604c30365be22c2e7466899299a1215": {
    "id": "d604c30365be22c2e7466899299a1215",
@@ -2348,6 +2372,12 @@
    "role": "Mozo/a De Almacen",
    "location": "Barcelona"
   },
+  "f0d6f9b2aefe3406a369685f4c19680b": {
+   "id": "f0d6f9b2aefe3406a369685f4c19680b",
+   "company": "skechers.dk",
+   "role": "Vendedor/a-jornada Parcial 16h - Skechers Getafe",
+   "location": "Madrid"
+  },
   "49a1e20bbcbeb9914752aa2838794298": {
    "id": "49a1e20bbcbeb9914752aa2838794298",
    "company": "Coach (Tapestry, Inc.)",
@@ -2797,12 +2827,6 @@
    "company": "Mango",
    "role": "Programa De Prácticas Vendedor/a Madrid",
    "location": "Madrid"
-  },
-  "cc4f74300ff72bc7ef715b36d9017178": {
-   "id": "cc4f74300ff72bc7ef715b36d9017178",
-   "company": "Mango",
-   "role": "Vendedor/a - Aeropuerto T1",
-   "location": "Barcelona"
   },
   "bb7a781d25a6cbdb272a16328506b1be": {
    "id": "bb7a781d25a6cbdb272a16328506b1be",

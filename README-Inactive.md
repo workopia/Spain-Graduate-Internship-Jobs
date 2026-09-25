@@ -2473,4 +2473,11 @@
 <tr><td>Mango</td><td>Mozo/a De Almacén 16h (fines De Semana)lliça</td><td>Barcelona</td><td>2026-09-25</td></tr>
 <tr><td>Temporing</td><td>Mozo/a De Almacén - Montmeló</td><td>Barcelona</td><td>2026-09-25</td></tr>
 <tr><td>SIXTH</td><td>Rental Sales Agent (m/f/d) - Madrid Alcobendas - Contrato De Interinidad</td><td>Salamanca</td><td>2026-09-25</td></tr>
+<tr><td>Coty Inc.</td><td>Visibility & Merchandising Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Hr Internship</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Front Office Systems Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Investment Performance Analyst Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Analyst Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>RWE AG</td><td>Internship Solar Operations (12 Months) D/f/m</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Aeropuerto T1</td><td>Barcelona</td><td>2026-09-25</td></tr>
 </table>
