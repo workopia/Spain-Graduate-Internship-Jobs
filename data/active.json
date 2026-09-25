@@ -1,12 +1,96 @@
 {
- "asOf": "2026-09-24",
- "count": 512,
+ "asOf": "2026-09-25",
+ "count": 517,
  "jobs": {
   "88817": {
    "id": "88817",
    "company": "Henkel",
    "role": "Intern Business Planning",
    "location": "Barcelona"
+  },
+  "423324df40ad7190e0f4f178fe0e3c7e": {
+   "id": "423324df40ad7190e0f4f178fe0e3c7e",
+   "company": "Mediaset España",
+   "role": "Beca Telecomunicaciones",
+   "location": "Madrid"
+  },
+  "26339cf66178180fcf5d9b6746272f84": {
+   "id": "26339cf66178180fcf5d9b6746272f84",
+   "company": "GE Healthcare",
+   "role": "Intern - Service Analytics",
+   "location": "Madrid"
+  },
+  "9a0801f0978cab5442380574c8beea20": {
+   "id": "9a0801f0978cab5442380574c8beea20",
+   "company": "Zurich Insurance UK",
+   "role": "Product Operations Intern",
+   "location": "Barcelona"
+  },
+  "2c8d3c6d163b7391d80f5fc70b7aac7b": {
+   "id": "2c8d3c6d163b7391d80f5fc70b7aac7b",
+   "company": "Airbus",
+   "role": "#xplorer 2027 Cfrp Sizing And Design Methods To Rear Fuselage And Empennage Airframe",
+   "location": "Getafe Area"
+  },
+  "443611b4bb8e40a1ec2d134a1395463f": {
+   "id": "443611b4bb8e40a1ec2d134a1395463f",
+   "company": "Novantaphotonics Jp",
+   "role": "Mechatronics Engineer Internship",
+   "location": "Barcelona"
+  },
+  "3bd4859b0e020ae3f35fdc56dbfabbad": {
+   "id": "3bd4859b0e020ae3f35fdc56dbfabbad",
+   "company": "M&G plc",
+   "role": "Internship - M&g Real Estate Madrid - 12 M Ftc",
+   "location": "Madrid"
+  },
+  "ae873f88961cd856174d96eeac4fc8b5": {
+   "id": "ae873f88961cd856174d96eeac4fc8b5",
+   "company": "Schindler Group",
+   "role": "Beca Ingeniería Y Gestión Comercial (zaragoza)",
+   "location": "Zaragoza"
+  },
+  "064829792ae348a8e7a80cecf6415958": {
+   "id": "064829792ae348a8e7a80cecf6415958",
+   "company": "Schindler Group",
+   "role": "Beca Apoyo Comercial (barcelona)",
+   "location": "Barcelona"
+  },
+  "5dec42a12b77ed754d093278b6389e23": {
+   "id": "5dec42a12b77ed754d093278b6389e23",
+   "company": "Nordex SE",
+   "role": "Global Mobility Intern (m/f/d)",
+   "location": "Barasoain"
+  },
+  "648928bcdcb8ec5f5705d52fc38f401d": {
+   "id": "648928bcdcb8ec5f5705d52fc38f401d",
+   "company": "Nordex SE",
+   "role": "Global Sourcing Claim Management Intern (m/f/d)",
+   "location": "Tajonar"
+  },
+  "e90f44e05dfbf86394722ccea433c851": {
+   "id": "e90f44e05dfbf86394722ccea433c851",
+   "company": "Nordex SE",
+   "role": "Qhse Administrative Intern (m/f/d)",
+   "location": "Barasoain"
+  },
+  "b3741ec93072f4a3920e0a35d17ed09b": {
+   "id": "b3741ec93072f4a3920e0a35d17ed09b",
+   "company": "Nordex SE",
+   "role": "Ai Finance Intern",
+   "location": "Mutilva"
+  },
+  "36ce9ea7d213e4240d814d6cc5f7c6ef": {
+   "id": "36ce9ea7d213e4240d814d6cc5f7c6ef",
+   "company": "Accenture",
+   "role": "Mavericks Madrid Fy27",
+   "location": "Madrid"
+  },
+  "d337c97d116da11eafa6f09da380e780": {
+   "id": "d337c97d116da11eafa6f09da380e780",
+   "company": "WTW (Willis Towers Watson)",
+   "role": "Benefits Intern - Spanish Speaker",
+   "location": "Madrid"
   },
   "25868b9a2d6df5b4d2c2b5acfac66c59": {
    "id": "25868b9a2d6df5b4d2c2b5acfac66c59",
@@ -25,6 +109,12 @@
    "company": "Palladium Hotel Group",
    "role": "Prácticas - Mice Corporativo - Oficinas Centrales Madrid",
    "location": "Madrid"
+  },
+  "d97c37b5240332f1274c9abc90e8ed00": {
+   "id": "d97c37b5240332f1274c9abc90e8ed00",
+   "company": "Delivery Hero (foodpanda)",
+   "role": "Comms & Ai Intern",
+   "location": "Barcelona"
   },
   "ec579c726dd50fe7516797e5e53147cb": {
    "id": "ec579c726dd50fe7516797e5e53147cb",
@@ -392,94 +482,22 @@
    "role": "Internship Solar Operations (12 Months) D/f/m",
    "location": "Barcelona"
   },
-  "39ddefa8e0c944c8279f32c9ce747f66": {
-   "id": "39ddefa8e0c944c8279f32c9ce747f66",
-   "company": "Coty",
-   "role": "Npd Intern",
+  "0cdbc9babab96efafcabfa1f3004b375": {
+   "id": "0cdbc9babab96efafcabfa1f3004b375",
+   "company": "New Relic Inc",
+   "role": "Software Engineer Ii",
    "location": "Barcelona"
   },
-  "267133c7e5c2d125515b97d2b7bfe8a4": {
-   "id": "267133c7e5c2d125515b97d2b7bfe8a4",
-   "company": "Ernst & Young",
-   "role": "Prácticas I+d Proyectos Europeos",
+  "91fdb67daba539dd0a19345fb30d5541": {
+   "id": "91fdb67daba539dd0a19345fb30d5541",
+   "company": "Glovo",
+   "role": "Software Engineer I",
    "location": "Barcelona"
   },
-  "6a8afa7f7012f0abcdbcef65d07ee4e6": {
-   "id": "6a8afa7f7012f0abcdbcef65d07ee4e6",
-   "company": "Laboral Kutxa",
-   "role": "¿quieres Hacer Prácticas En Laboral Kutxa? Envíanos Tu Currículum...",
-   "location": "Spain"
-  },
-  "92239f6ec20fb62eefea639065f49cf5": {
-   "id": "92239f6ec20fb62eefea639065f49cf5",
-   "company": "DABA, SA",
-   "role": "Prácticas En Servicio De Atención Técnica - Nespresso Professional",
-   "location": "EspañA"
-  },
-  "f313ed081e1af23f9329d808dbc47067": {
-   "id": "f313ed081e1af23f9329d808dbc47067",
-   "company": "DABA, SA",
-   "role": "Crm Intern",
-   "location": "EspañA"
-  },
-  "dcf1f62a895b8285edcfeff4eb0135d0": {
-   "id": "dcf1f62a895b8285edcfeff4eb0135d0",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas Business Consulting - Rookies Enero 2027",
-   "location": "Barcelona"
-  },
-  "1abcc8465dfd4400ff4323dd5670edeb": {
-   "id": "1abcc8465dfd4400ff4323dd5670edeb",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas Business & Risk Consulting - Rookies Enero 2027",
-   "location": "Madrid"
-  },
-  "a92315187a2aba8c6750b95313644db6": {
-   "id": "a92315187a2aba8c6750b95313644db6",
-   "company": "Verisure S.A.",
-   "role": "Group Brand & Innovation Intern",
-   "location": "Madrid"
-  },
-  "a0642cf1469f1cb9e5997a44879b0b68": {
-   "id": "a0642cf1469f1cb9e5997a44879b0b68",
-   "company": "Verisure S.A.",
-   "role": "Group Tech Hrbp Intern",
-   "location": "Madrid"
-  },
-  "a07d669d2beace21257d6786d83dda59": {
-   "id": "a07d669d2beace21257d6786d83dda59",
-   "company": "Verisure S.A.",
-   "role": "Transformation Office Intern",
-   "location": "Madrid"
-  },
-  "3579663bb574677f587981f3dd414009": {
-   "id": "3579663bb574677f587981f3dd414009",
-   "company": "Verisure S.A.",
-   "role": "Hr Technology & Ai Intern",
-   "location": "Madrid"
-  },
-  "619b9b0a6a4d73eb65427368871c1291": {
-   "id": "619b9b0a6a4d73eb65427368871c1291",
-   "company": "Signify",
-   "role": "Order Management Internship",
-   "location": "Madrid"
-  },
-  "e9915be0e705eee1371d6f0dcdd466a1": {
-   "id": "e9915be0e705eee1371d6f0dcdd466a1",
-   "company": "Criteo",
-   "role": "Bi Analyst Intern",
-   "location": "Barcelona"
-  },
-  "48941b0268a7756a3c38e50640388e9a": {
-   "id": "48941b0268a7756a3c38e50640388e9a",
-   "company": "Avanade",
-   "role": "Avanade Campus: Prácticas En Cybersecurity Hub Con Tecnologías Microsoft - Octubre 2026",
-   "location": "Barcelona"
-  },
-  "50367cf0e0cbcd598313ccbc5d53a406": {
-   "id": "50367cf0e0cbcd598313ccbc5d53a406",
-   "company": "Nestlé Purina",
-   "role": "Prácticas En Recursos Humanos / Fábrica Nestlé Purina Castellbisbal",
+  "6ef95eefac3d56610d9abda01bd82725": {
+   "id": "6ef95eefac3d56610d9abda01bd82725",
+   "company": "ISGlobal",
+   "role": "Software Engineer Epi-flare",
    "location": "Barcelona"
   },
   "3a2b3a268a46fea45fd37eae7a31cb7c": {
@@ -902,12 +920,6 @@
    "role": "Game Developer - Voxel-based Engine (java)",
    "location": "Spain"
   },
-  "0001038": {
-   "id": "0001038",
-   "company": "Softtek",
-   "role": "Software Engineer Frontend Respnsive Pr",
-   "location": "Madrid"
-  },
   "2291df6b5af7521781e5dd31e5c73e89": {
    "id": "2291df6b5af7521781e5dd31e5c73e89",
    "company": "SAP SE",
@@ -937,6 +949,12 @@
    "company": "Indra Group",
    "role": "Data Scientist/data Engineer Junior",
    "location": "Es"
+  },
+  "ce9aa2228016bae310e45f63e7b472a6": {
+   "id": "ce9aa2228016bae310e45f63e7b472a6",
+   "company": "Glovo",
+   "role": "Data Analyst I Courier Rto Global Hq",
+   "location": "Barcelona"
   },
   "108b7e847f02d80f04d063d66a335a36": {
    "id": "108b7e847f02d80f04d063d66a335a36",
@@ -1363,6 +1381,12 @@
    "company": "Ubisoft",
    "role": "Accountant Trainee",
    "location": "Barcelona"
+  },
+  "635a798fadea645084ca139f84108ec2": {
+   "id": "635a798fadea645084ca139f84108ec2",
+   "company": "ACCIONA Energía",
+   "role": "Técnico/a De Consolidación Y Reporting Acciona Energía",
+   "location": "Madrid"
   },
   "893395266988": {
    "id": "893395266988",
@@ -1826,6 +1850,36 @@
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
   },
+  "a0be2bfc5bf07835305d0cd7958ef1c9": {
+   "id": "a0be2bfc5bf07835305d0cd7958ef1c9",
+   "company": "HITACHI ENERGY SPAIN, S.A.U.",
+   "role": "Service Engineer / Substation Automation & Scada",
+   "location": "Madrid"
+  },
+  "9adbf8e9696b1ea043dd2097646494d1": {
+   "id": "9adbf8e9696b1ea043dd2097646494d1",
+   "company": "Schindler Group",
+   "role": "Técnico/a De Mantenimiento - Barcelona",
+   "location": "Barcelona"
+  },
+  "546c42b8c7154cc9e85c0f15d88ae84a": {
+   "id": "546c42b8c7154cc9e85c0f15d88ae84a",
+   "company": "Schindler Group",
+   "role": "Técnico/a De Mantenimiento Ascensores- Zaragoza",
+   "location": "Zaragoza"
+  },
+  "783715e6690dd980ce4da24f456aed43": {
+   "id": "783715e6690dd980ce4da24f456aed43",
+   "company": "Schindler Group",
+   "role": "Técnico/a De Mantenimiento Ascensores (empresa Afiliada)",
+   "location": "Barcelona"
+  },
+  "b77304b5575e409841d65e1eca14691b": {
+   "id": "b77304b5575e409841d65e1eca14691b",
+   "company": "Alstom",
+   "role": "Operario/a De Mantenimiento Ferroviario Fuencarral Temporal",
+   "location": "Madrid"
+  },
   "9d90ac982a1f061362aadd7b2ad04859": {
    "id": "9d90ac982a1f061362aadd7b2ad04859",
    "company": "minsait",
@@ -2000,12 +2054,6 @@
    "role": "Técnico/a De Mantenimiento De Ascensores (barcelona)",
    "location": "Barcelona"
   },
-  "b77304b5575e409841d65e1eca14691b": {
-   "id": "b77304b5575e409841d65e1eca14691b",
-   "company": "Alstom",
-   "role": "Operario/a De Mantenimiento Ferroviario Fuencarral Temporal",
-   "location": "Salamanca"
-  },
   "7c75dc24e7bd6ad822e5ec4da1b557e6": {
    "id": "7c75dc24e7bd6ad822e5ec4da1b557e6",
    "company": "Indra group",
@@ -2017,24 +2065,6 @@
    "company": "Trouw Nutrition",
    "role": "Maintenance Technician",
    "location": "Madrid"
-  },
-  "9adbf8e9696b1ea043dd2097646494d1": {
-   "id": "9adbf8e9696b1ea043dd2097646494d1",
-   "company": "Schindler Group",
-   "role": "Técnico/a De Mantenimiento - Barcelona",
-   "location": "Barcelona"
-  },
-  "546c42b8c7154cc9e85c0f15d88ae84a": {
-   "id": "546c42b8c7154cc9e85c0f15d88ae84a",
-   "company": "Schindler Group",
-   "role": "Técnico/a De Mantenimiento Ascensores- Zaragoza",
-   "location": "Zaragoza"
-  },
-  "783715e6690dd980ce4da24f456aed43": {
-   "id": "783715e6690dd980ce4da24f456aed43",
-   "company": "Schindler Group",
-   "role": "Técnico/a De Mantenimiento Ascensores (empresa Afiliada)",
-   "location": "Barcelona"
   },
   "1f61949292ae1cf901cf9290f4965ec7": {
    "id": "1f61949292ae1cf901cf9290f4965ec7",
@@ -2294,11 +2324,29 @@
    "role": "Product Support Specialist",
    "location": "Barcelona"
   },
-  "28d409023e20cb701d345ab311177f29": {
-   "id": "28d409023e20cb701d345ab311177f29",
-   "company": "Temporing",
-   "role": "Técnico/a De Mantenimiento Electromecánico",
-   "location": "Zaragoza"
+  "99b76ffb76cc52c4f1aafe57007d9c87": {
+   "id": "99b76ffb76cc52c4f1aafe57007d9c87",
+   "company": "Coach",
+   "role": "Temporary Sales Associate",
+   "location": "Barcelona"
+  },
+  "53fe1a28be1812c5a01df0e8fe043fe1": {
+   "id": "53fe1a28be1812c5a01df0e8fe043fe1",
+   "company": "skechers.dk",
+   "role": "Vendedor/a - Part Time 18h (turno De Tarde) - Parque Oeste (alcorcón)",
+   "location": "Madrid"
+  },
+  "81a3fecd1ea265e0311c88e9216d55de": {
+   "id": "81a3fecd1ea265e0311c88e9216d55de",
+   "company": "Levis Media",
+   "role": "Sales Stylist 20 Horas Ls Callao",
+   "location": "Madrid"
+  },
+  "a72e0a8fcf0d2bce408977363c295418": {
+   "id": "a72e0a8fcf0d2bce408977363c295418",
+   "company": "MAISONS DU MONDE FRANCE",
+   "role": "Mozo/a De Almacen",
+   "location": "Barcelona"
   },
   "49a1e20bbcbeb9914752aa2838794298": {
    "id": "49a1e20bbcbeb9914752aa2838794298",
@@ -2311,6 +2359,18 @@
    "company": "NIKE",
    "role": "Nike Store Associate (athlete) - Parc Valles, Bcn - Contrato Duración Determinada",
    "location": "Barcelona"
+  },
+  "c6ecd14ad100e1480d4e67e2ba359438": {
+   "id": "c6ecd14ad100e1480d4e67e2ba359438",
+   "company": "Etam",
+   "role": "Vendedor.a Nassica 20h/sem",
+   "location": "Madrid"
+  },
+  "b07f8ec0e460427bda8649619c4c8d6d": {
+   "id": "b07f8ec0e460427bda8649619c4c8d6d",
+   "company": "Salomon",
+   "role": "Asesor-a De Ventas / Sales Associates W/m - 20h Fijo Discontinuo - Eci Sanchinarro",
+   "location": "Madrid"
   },
   "8675cb64c526a71d0f833c81a5b3cce4": {
    "id": "8675cb64c526a71d0f833c81a5b3cce4",
@@ -2744,41 +2804,11 @@
    "role": "Vendedor/a - Aeropuerto T1",
    "location": "Barcelona"
   },
-  "b85177f4265ab13c0937498d2f3bd03b": {
-   "id": "b85177f4265ab13c0937498d2f3bd03b",
-   "company": "Mango",
-   "role": "Vendedor/a 16h Orense Madrid",
-   "location": "Madrid"
-  },
-  "64f781676fe2fba851ffe85b223a6b87": {
-   "id": "64f781676fe2fba851ffe85b223a6b87",
-   "company": "Mango",
-   "role": "Vendedor/a - Salamanca Man",
-   "location": "Salamanca"
-  },
-  "9a96f2f0efc2c0b77c5a516df86405d8": {
-   "id": "9a96f2f0efc2c0b77c5a516df86405d8",
-   "company": "Mango",
-   "role": "Mozo/a De Almacen - Lliça D'amunt",
-   "location": "Barcelona"
-  },
-  "c258c7450644812a88348467849a3b25": {
-   "id": "c258c7450644812a88348467849a3b25",
-   "company": "Mango",
-   "role": "Mozo/a De Almacén 16h (fines De Semana)lliça",
-   "location": "Barcelona"
-  },
-  "064596c5bec1c6fc18e06378a01acc7c": {
-   "id": "064596c5bec1c6fc18e06378a01acc7c",
-   "company": "Temporing",
-   "role": "Mozo/a De Almacén - Montmeló",
-   "location": "Barcelona"
-  },
-  "941ea1663725e176dffbbd0dd1cc12d6": {
-   "id": "941ea1663725e176dffbbd0dd1cc12d6",
-   "company": "SIXTH",
-   "role": "Rental Sales Agent (m/f/d) - Madrid Alcobendas - Contrato De Interinidad",
-   "location": "Salamanca"
+  "bb7a781d25a6cbdb272a16328506b1be": {
+   "id": "bb7a781d25a6cbdb272a16328506b1be",
+   "company": "FERROVIAL CONSTRUCCIÓN, S.A.",
+   "role": "Administrativo/a De Producción",
+   "location": "Zamora"
   },
   "05df866e37be59c48f537adbd4186733": {
    "id": "05df866e37be59c48f537adbd4186733",

@@ -2450,4 +2450,27 @@
 <tr><td>Satair (an Airbus Services Company)</td><td>Secretary / Assistant</td><td>Madrid</td><td>2026-09-24</td></tr>
 <tr><td>ferromallas.es</td><td>Administrativo/a De Producción</td><td>Madrid</td><td>2026-09-24</td></tr>
 <tr><td>Johnson Controls Inc</td><td>Billing & Order Entry Admin</td><td>Madrid</td><td>2026-09-24</td></tr>
+<tr><td>Coty</td><td>Npd Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Ernst & Young</td><td>Prácticas I+d Proyectos Europeos</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Laboral Kutxa</td><td>¿quieres Hacer Prácticas En Laboral Kutxa? Envíanos Tu Currículum...</td><td>Spain</td><td>2026-09-25</td></tr>
+<tr><td>DABA, SA</td><td>Prácticas En Servicio De Atención Técnica - Nespresso Professional</td><td>EspañA</td><td>2026-09-25</td></tr>
+<tr><td>DABA, SA</td><td>Crm Intern</td><td>EspañA</td><td>2026-09-25</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Business Consulting - Rookies Enero 2027</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Business & Risk Consulting - Rookies Enero 2027</td><td>Madrid</td><td>2026-09-25</td></tr>
+<tr><td>Verisure S.A.</td><td>Group Brand & Innovation Intern</td><td>Madrid</td><td>2026-09-25</td></tr>
+<tr><td>Verisure S.A.</td><td>Group Tech Hrbp Intern</td><td>Madrid</td><td>2026-09-25</td></tr>
+<tr><td>Verisure S.A.</td><td>Transformation Office Intern</td><td>Madrid</td><td>2026-09-25</td></tr>
+<tr><td>Verisure S.A.</td><td>Hr Technology & Ai Intern</td><td>Madrid</td><td>2026-09-25</td></tr>
+<tr><td>Signify</td><td>Order Management Internship</td><td>Madrid</td><td>2026-09-25</td></tr>
+<tr><td>Criteo</td><td>Bi Analyst Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Avanade</td><td>Avanade Campus: Prácticas En Cybersecurity Hub Con Tecnologías Microsoft - Octubre 2026</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Nestlé Purina</td><td>Prácticas En Recursos Humanos / Fábrica Nestlé Purina Castellbisbal</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Softtek</td><td>Software Engineer Frontend Respnsive Pr</td><td>Madrid</td><td>2026-09-25</td></tr>
+<tr><td>Temporing</td><td>Técnico/a De Mantenimiento Electromecánico</td><td>Zaragoza</td><td>2026-09-25</td></tr>
+<tr><td>Mango</td><td>Vendedor/a 16h Orense Madrid</td><td>Madrid</td><td>2026-09-25</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Salamanca Man</td><td>Salamanca</td><td>2026-09-25</td></tr>
+<tr><td>Mango</td><td>Mozo/a De Almacen - Lliça D'amunt</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Mango</td><td>Mozo/a De Almacén 16h (fines De Semana)lliça</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Temporing</td><td>Mozo/a De Almacén - Montmeló</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>SIXTH</td><td>Rental Sales Agent (m/f/d) - Madrid Alcobendas - Contrato De Interinidad</td><td>Salamanca</td><td>2026-09-25</td></tr>
 </table>
