@@ -2480,4 +2480,8 @@
 <tr><td>Zurich Insurance UK</td><td>Ai Analyst Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
 <tr><td>RWE AG</td><td>Internship Solar Operations (12 Months) D/f/m</td><td>Barcelona</td><td>2026-09-25</td></tr>
 <tr><td>Mango</td><td>Vendedor/a - Aeropuerto T1</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>serveo</td><td>Beca Seguridad Y Salud Laboral - Madrid</td><td>Madrid</td><td>2026-09-25</td></tr>
+<tr><td>serveo</td><td>Beca Bidding Conservación Infraestructuras - Madrid</td><td>Madrid</td><td>2026-09-25</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Multinational Wording Operations Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Network & Partner Operations Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
 </table>
