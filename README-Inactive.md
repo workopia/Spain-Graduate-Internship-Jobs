@@ -2503,4 +2503,6 @@
 <tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-09-26</td></tr>
 <tr><td>Penguin Random House Grupo Editorial</td><td>Business Analyst Comercial</td><td>8021</td><td>2026-09-26</td></tr>
 <tr><td>BizAway</td><td>Product Support Specialist</td><td>Barcelona</td><td>2026-09-26</td></tr>
+<tr><td>Celonis</td><td>Customer Advocacy & Customer Marketing Graduated Internship (12 Months)</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>ACCIONA</td><td>Técnico Contable</td><td>Madrid</td><td>2026-09-26</td></tr>
 </table>

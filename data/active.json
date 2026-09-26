@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-26",
- "count": 529,
+ "count": 528,
  "jobs": {
   "88817": {
    "id": "88817",
@@ -97,6 +97,12 @@
    "company": "Coty Inc",
    "role": "Drp Intern",
    "location": "Barcelona"
+  },
+  "4afbed3f2642278832cfb8e05f9d7911": {
+   "id": "4afbed3f2642278832cfb8e05f9d7911",
+   "company": "Melia",
+   "role": "Trainee Reservas - Gran Meliá",
+   "location": "Madrid"
   },
   "7a32b906c6ae3fffc8f2d48f1846328f": {
    "id": "7a32b906c6ae3fffc8f2d48f1846328f",
@@ -474,12 +480,6 @@
    "id": "a35f6da35e3371029900c244c9bff2d9",
    "company": "Koninklijke Philips",
    "role": "Internship: General Sales Support Intern",
-   "location": "Madrid"
-  },
-  "97ab3d70aa8275b21315bec0e8099680": {
-   "id": "97ab3d70aa8275b21315bec0e8099680",
-   "company": "Celonis",
-   "role": "Customer Advocacy & Customer Marketing Graduated Internship (12 Months)",
    "location": "Madrid"
   },
   "8b1a50072f59253148cba56fa61a2d52": {
@@ -1891,12 +1891,6 @@
    "company": "DXC Technology Australia & New Zealand",
    "role": "Analista Funcional Seguros De Vida",
    "location": "Any City"
-  },
-  "ed7e1d6c68f93ff7e8f548ce90163ad8": {
-   "id": "ed7e1d6c68f93ff7e8f548ce90163ad8",
-   "company": "ACCIONA",
-   "role": "Técnico Contable",
-   "location": "Madrid"
   },
   "3c465745cfb285e57a7b6d2a42eb9873": {
    "id": "3c465745cfb285e57a7b6d2a42eb9873",

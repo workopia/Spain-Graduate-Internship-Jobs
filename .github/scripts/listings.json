@@ -12,8 +12,8 @@
   "as_of": "2026-09-26",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 4972,
-  "generated_at": "2026-09-26T07:00:11.708Z"
+  "country_live_total": 4975,
+  "generated_at": "2026-09-26T10:30:24.822Z"
  },
  "categories": [
   {
@@ -326,6 +326,23 @@
    "date_posted": "2026-09-25T10:49:25.186Z",
    "active": true,
    "url": "https://workopia.io/jobs/370f75f57823ecba49962bd0a5c20812",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "4afbed3f2642278832cfb8e05f9d7911",
+   "source": "Workopia",
+   "company_name": "Melia",
+   "company_hi_slug": "melia",
+   "title": "Trainee Reservas - Gran Meliá",
+   "location": "Madrid",
+   "skills": "Creative and analytica, Organized and proactiv",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-25T06:08:46.739Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/4afbed3f2642278832cfb8e05f9d7911",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-09-21T11:23:44.522Z",
    "active": true,
    "url": "https://workopia.io/jobs/a35f6da35e3371029900c244c9bff2d9",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "97ab3d70aa8275b21315bec0e8099680",
-   "source": "Workopia",
-   "company_name": "Celonis",
-   "company_hi_slug": "celonis",
-   "title": "Customer Advocacy & Customer Marketing Graduated Internship (12 Months)",
-   "location": "Madrid",
-   "skills": "customer relationship , marketing assets devel",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-21T10:48:18.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/97ab3d70aa8275b21315bec0e8099680",
    "category": "grad",
    "tier": "Intern"
   },
@@ -5426,23 +5426,6 @@
    "date_posted": "2026-07-28T15:33:08.183Z",
    "active": true,
    "url": "https://workopia.io/jobs/983333621dcabef5dad8b7c8fa254b77",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "ed7e1d6c68f93ff7e8f548ce90163ad8",
-   "source": "Workopia",
-   "company_name": "ACCIONA",
-   "company_hi_slug": "acciona",
-   "title": "Técnico Contable",
-   "location": "Madrid",
-   "skills": "Contabilización de ope, Revisión analítica de ",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-28T10:19:53.617Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/ed7e1d6c68f93ff7e8f548ce90163ad8",
    "category": "finance",
    "tier": "Entry-level"
   },
