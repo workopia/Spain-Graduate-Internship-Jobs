@@ -1,11 +1,101 @@
 {
  "asOf": "2026-09-26",
- "count": 520,
+ "count": 529,
  "jobs": {
   "88817": {
    "id": "88817",
    "company": "Henkel",
    "role": "Intern Business Planning",
+   "location": "Barcelona"
+  },
+  "08fe09006f091a5cbeba979dda3c3bb4": {
+   "id": "08fe09006f091a5cbeba979dda3c3bb4",
+   "company": "Air Liquide Healthcare Iberia",
+   "role": "Beca Fisioterapia En Trd",
+   "location": "Spain"
+  },
+  "685c13589fb8b7fcd216c6ce165c34aa": {
+   "id": "685c13589fb8b7fcd216c6ce165c34aa",
+   "company": "SLS Barcelona",
+   "role": "Reservations Department Internship",
+   "location": "Barcelona"
+  },
+  "add060a19fa7b06b28ad55177b9c16f2": {
+   "id": "add060a19fa7b06b28ad55177b9c16f2",
+   "company": "Penguin Random House Grupo Editorial",
+   "role": "Prácticas - Renovación Y Analítica Editorial",
+   "location": "Barcelona"
+  },
+  "e198dbf4835aca364c35bbb370523960": {
+   "id": "e198dbf4835aca364c35bbb370523960",
+   "company": "Penguin Random House Grupo Editorial",
+   "role": "Prácticas- Comunicación",
+   "location": "Barcelona"
+  },
+  "1de9e7ad02b2a83f7bef9288cce83502": {
+   "id": "1de9e7ad02b2a83f7bef9288cce83502",
+   "company": "Penguin Random House Grupo Editorial",
+   "role": "Prácticas- Edición Técnica (madrid)",
+   "location": "Madrid"
+  },
+  "d4c98875eb72c3d4c5d353ef626256fc": {
+   "id": "d4c98875eb72c3d4c5d353ef626256fc",
+   "company": "Penguin Random House Grupo Editorial",
+   "role": "Prácticas- Edición (madrid)",
+   "location": "Madrid"
+  },
+  "76e04722ea821d6f8c1497f344f3e73b": {
+   "id": "76e04722ea821d6f8c1497f344f3e73b",
+   "company": "Penguin Random House Grupo Editorial",
+   "role": "Prácticas- Edición Técnica",
+   "location": "Barcelona"
+  },
+  "d9f3085dee0c7d08b4c3b14473c78790": {
+   "id": "d9f3085dee0c7d08b4c3b14473c78790",
+   "company": "Penguin Random House Grupo Editorial",
+   "role": "Prácticas- Edición",
+   "location": "Barcelona"
+  },
+  "205fd423f414f5e2c678933a547b8a8f": {
+   "id": "205fd423f414f5e2c678933a547b8a8f",
+   "company": "Penguin Random House Grupo Editorial",
+   "role": "Prácticas- Penguin Aula",
+   "location": "Barcelona"
+  },
+  "55967fdac3d64221a8fcbb5321c537fd": {
+   "id": "55967fdac3d64221a8fcbb5321c537fd",
+   "company": "Coty",
+   "role": "Demand Intern",
+   "location": "Barcelona"
+  },
+  "d7c8706bc130434f64e14cc0b92b488c": {
+   "id": "d7c8706bc130434f64e14cc0b92b488c",
+   "company": "Coty Inc",
+   "role": "Hr Operations Intern",
+   "location": "Barcelona"
+  },
+  "cdc33c36341f024c950c1131d8b78037": {
+   "id": "cdc33c36341f024c950c1131d8b78037",
+   "company": "Coty",
+   "role": "Commercial Internship Program Iberia",
+   "location": "Barcelona"
+  },
+  "856623b4d178c168599fbd7b8b252673": {
+   "id": "856623b4d178c168599fbd7b8b252673",
+   "company": "Coty",
+   "role": "Warehouse Intern",
+   "location": "Barcelona"
+  },
+  "e7fb7b16157df226344974246e428b0b": {
+   "id": "e7fb7b16157df226344974246e428b0b",
+   "company": "Coty Inc",
+   "role": "Customer Operations Intern (with French)",
+   "location": "Barcelona"
+  },
+  "370f75f57823ecba49962bd0a5c20812": {
+   "id": "370f75f57823ecba49962bd0a5c20812",
+   "company": "Coty Inc",
+   "role": "Drp Intern",
    "location": "Barcelona"
   },
   "7a32b906c6ae3fffc8f2d48f1846328f": {
@@ -174,12 +264,6 @@
    "id": "d6759e559e9ff3bf02f4664001953df9",
    "company": "VeryChic",
    "role": "Crm Intern",
-   "location": "Barcelona"
-  },
-  "78d02eddb65a6e12691bba7f34b74484": {
-   "id": "78d02eddb65a6e12691bba7f34b74484",
-   "company": "SLS Barcelona",
-   "role": "Reservations Department Internship",
    "location": "Barcelona"
   },
   "b4b1c42114c8311a077046208bbba20c": {
@@ -398,89 +482,59 @@
    "role": "Customer Advocacy & Customer Marketing Graduated Internship (12 Months)",
    "location": "Madrid"
   },
-  "c611435bae91e80a39c6eec7dadcda76": {
-   "id": "c611435bae91e80a39c6eec7dadcda76",
-   "company": "Hogan Lovells Cadwalader",
-   "role": "Prácticas Máster De Acceso A La Abogacía 2027",
+  "8b1a50072f59253148cba56fa61a2d52": {
+   "id": "8b1a50072f59253148cba56fa61a2d52",
+   "company": "minsait",
+   "role": "Distributed Critical Software Engineer (ada/c++) / Hybrid Madrid",
    "location": "Madrid"
   },
-  "89c4d6e763d636c9d02abe3911273389": {
-   "id": "89c4d6e763d636c9d02abe3911273389",
-   "company": "Mediaset España",
-   "role": "Beca Control Central",
-   "location": "Madrid"
-  },
-  "0653bee210e72acc6b6f4ee5804be427": {
-   "id": "0653bee210e72acc6b6f4ee5804be427",
-   "company": "Accenture",
-   "role": "Beca Business Fy27",
-   "location": "Madrid"
-  },
-  "6df2457b09de744191d6309a178df7c2": {
-   "id": "6df2457b09de744191d6309a178df7c2",
-   "company": "Valmont Industries, Inc",
-   "role": "Challenger Intern",
-   "location": "Madrid"
-  },
-  "48dfc7c3d9263f7f69d602f98d671d21": {
-   "id": "48dfc7c3d9263f7f69d602f98d671d21",
-   "company": "Inspired Education Group",
-   "role": "Care Assistant Internship",
-   "location": "Madrid"
-  },
-  "0b8d62b0d5add1ce92796f7a43e0cc13": {
-   "id": "0b8d62b0d5add1ce92796f7a43e0cc13",
-   "company": "Inspired Education Group",
-   "role": "Teaching Assistant Internship",
-   "location": "Madrid"
-  },
-  "894309d20c37620e8094cc8018fa28b5": {
-   "id": "894309d20c37620e8094cc8018fa28b5",
-   "company": "Inspired Education Group",
-   "role": "School Intern",
+  "0bf0cdf57849f05fedbae1876f29b507": {
+   "id": "0bf0cdf57849f05fedbae1876f29b507",
+   "company": "minsait",
+   "role": "Ingeniero/a Front Vue.js Intermediate / Ciberdefensa / Barcelona (híbrido)",
    "location": "Barcelona"
   },
-  "7a68e17fb4a24821fa50f50620a4809c": {
-   "id": "7a68e17fb4a24821fa50f50620a4809c",
-   "company": "El Colegio Británico / The British School",
-   "role": "Internship Opportunities - El Colegio Británico / The British School",
+  "b18846ab379e1625ad0af00af23530e8": {
+   "id": "b18846ab379e1625ad0af00af23530e8",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
    "location": "Madrid"
   },
-  "a1d0b2f5ffcc54cf3e6e5f7ad91babb9": {
-   "id": "a1d0b2f5ffcc54cf3e6e5f7ad91babb9",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Commercial Controlling Trainee",
+  "4a80778b59f58f87717eb4003f611963": {
+   "id": "4a80778b59f58f87717eb4003f611963",
+   "company": "Indra group",
+   "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
    "location": "Madrid"
   },
-  "18ced58eec8a63152994d8cbd423bf67": {
-   "id": "18ced58eec8a63152994d8cbd423bf67",
-   "company": "Zurich Insurance UK",
-   "role": "Hr Labor Relations Internship",
+  "5dc372acfeca86952af1716004ee8035": {
+   "id": "5dc372acfeca86952af1716004ee8035",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Desarrollo Software C++",
+   "location": "Madrid"
+  },
+  "b476f2f2c5b85c59bdd199673beb8926": {
+   "id": "b476f2f2c5b85c59bdd199673beb8926",
+   "company": "Indra group",
+   "role": "Distributed Critical Software Engineer (ada/c++) / Hybrid Madrid",
+   "location": "Madrid"
+  },
+  "4f9f811ec510224f86de6ce4a4b006ac": {
+   "id": "4f9f811ec510224f86de6ce4a4b006ac",
+   "company": "Indra group",
+   "role": "Ingeniero/a Front Vue.js Intermediate / Ciberdefensa / Barcelona (híbrido)",
    "location": "Barcelona"
   },
-  "245e8f64bb79a14b20155e0b77557792": {
-   "id": "245e8f64bb79a14b20155e0b77557792",
-   "company": "Zurich Insurance UK",
-   "role": "Junior Powerapps Developer Intern",
-   "location": "Barcelona"
+  "4a567c3a4286554105fc10eba5315fb7": {
+   "id": "4a567c3a4286554105fc10eba5315fb7",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Software Aviónico Y Estándares",
+   "location": "Madrid"
   },
-  "a40079c0f32f316bf2e234a57dee3661": {
-   "id": "a40079c0f32f316bf2e234a57dee3661",
-   "company": "Zurich Insurance UK",
-   "role": "Regional Compliance Intern",
-   "location": "Barcelona"
-  },
-  "93beec948606f515f977f8460abb6f60": {
-   "id": "93beec948606f515f977f8460abb6f60",
-   "company": "Zurich Insurance UK",
-   "role": "Ai Developer Intern",
-   "location": "Barcelona"
-  },
-  "2f68080d78cb2cece7da0ea30d5214e1": {
-   "id": "2f68080d78cb2cece7da0ea30d5214e1",
-   "company": "Zurich Insurance UK",
-   "role": "Data Engineering & Visualization Intern",
-   "location": "Barcelona"
+  "9526da259ae2d42cac7ced37c2b83134": {
+   "id": "9526da259ae2d42cac7ced37c2b83134",
+   "company": "Atos SE",
+   "role": "Analista Iam (identity & Access Management)",
+   "location": "Madrid"
   },
   "0cdbc9babab96efafcabfa1f3004b375": {
    "id": "0cdbc9babab96efafcabfa1f3004b375",
@@ -656,30 +710,6 @@
    "role": "Beca Desarrollo Software Ai Gigafactory",
    "location": "Madrid"
   },
-  "4a567c3a4286554105fc10eba5315fb7": {
-   "id": "4a567c3a4286554105fc10eba5315fb7",
-   "company": "Indra group",
-   "role": "Ingeniero/a De Software Aviónico Y Estándares",
-   "location": "Madrid"
-  },
-  "b18846ab379e1625ad0af00af23530e8": {
-   "id": "b18846ab379e1625ad0af00af23530e8",
-   "company": "Indra group",
-   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
-   "location": "Madrid"
-  },
-  "4a80778b59f58f87717eb4003f611963": {
-   "id": "4a80778b59f58f87717eb4003f611963",
-   "company": "Indra group",
-   "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
-   "location": "Madrid"
-  },
-  "5dc372acfeca86952af1716004ee8035": {
-   "id": "5dc372acfeca86952af1716004ee8035",
-   "company": "Indra group",
-   "role": "Ingeniero/a De Desarrollo Software C++",
-   "location": "Madrid"
-  },
   "5962548649a37f92c5c78c043adaea12": {
    "id": "5962548649a37f92c5c78c043adaea12",
    "company": "GE Vernova",
@@ -786,12 +816,6 @@
    "id": "46d48f614bc50c47a3f3113ae12f4963",
    "company": "GRUPO SANTANDER",
    "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
-   "location": "Madrid"
-  },
-  "9526da259ae2d42cac7ced37c2b83134": {
-   "id": "9526da259ae2d42cac7ced37c2b83134",
-   "company": "Atos SE",
-   "role": "Analista Iam (identity & Access Management)",
    "location": "Madrid"
   },
   "111889f5279489a464e54bb9a04cb32e": {
@@ -950,17 +974,35 @@
    "role": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
    "location": "Madrid"
   },
+  "a16446f65184e26059147c214e1c311c": {
+   "id": "a16446f65184e26059147c214e1c311c",
+   "company": "MAPFRE",
+   "role": "Beca En Gestión Del Dato (personas Y Organización)",
+   "location": "Madrid"
+  },
+  "59ab37b61012b0e55ba120fe0d9ce085": {
+   "id": "59ab37b61012b0e55ba120fe0d9ce085",
+   "company": "Indra group",
+   "role": "Data Scientist/data Engineer Junior",
+   "location": "Es"
+  },
+  "ca1790f3538d5b8582b2adf4e2622304": {
+   "id": "ca1790f3538d5b8582b2adf4e2622304",
+   "company": "Intrum Justitia AB",
+   "role": "It Ai & Voice Agent Enginee",
+   "location": "Madrid"
+  },
   "f0db32f47ea572289d4a12f690534d9a": {
    "id": "f0db32f47ea572289d4a12f690534d9a",
    "company": "SIX",
    "role": "Data Analyst",
    "location": "Madrid"
   },
-  "289c736421e4a764d259d900f292e901": {
-   "id": "289c736421e4a764d259d900f292e901",
-   "company": "Indra Group",
-   "role": "Data Scientist/data Engineer Junior",
-   "location": "Es"
+  "a8a64a7dc0ee444c0ac1a4f7c12ed9f4": {
+   "id": "a8a64a7dc0ee444c0ac1a4f7c12ed9f4",
+   "company": "Veeva",
+   "role": "Data Scientist - Analytics Business Consulting",
+   "location": "Barcelona"
   },
   "ce9aa2228016bae310e45f63e7b472a6": {
    "id": "ce9aa2228016bae310e45f63e7b472a6",
@@ -1400,6 +1442,30 @@
    "role": "Accountant Trainee",
    "location": "Barcelona"
   },
+  "37489c462c5847bda9d2bcb9cb0f3509": {
+   "id": "37489c462c5847bda9d2bcb9cb0f3509",
+   "company": "Indra group",
+   "role": "Consultor/a Sap",
+   "location": "ES"
+  },
+  "2fc11d50f8f74828eb5913a705e27f9d": {
+   "id": "2fc11d50f8f74828eb5913a705e27f9d",
+   "company": "Penguin Random House Grupo Editorial",
+   "role": "Business Analyst Comercial",
+   "location": "Barcelona"
+  },
+  "0fec44933aef63393f62e1fffd29a94d": {
+   "id": "0fec44933aef63393f62e1fffd29a94d",
+   "company": "Arvato",
+   "role": "Business Analyst (h/m)",
+   "location": "Madrid"
+  },
+  "a5a74133b5aee44b8f6a4c1a4df7d55a": {
+   "id": "a5a74133b5aee44b8f6a4c1a4df7d55a",
+   "company": "Fever",
+   "role": "Product Specialist Analyst (german Speaker)",
+   "location": "Madrid"
+  },
   "635a798fadea645084ca139f84108ec2": {
    "id": "635a798fadea645084ca139f84108ec2",
    "company": "ACCIONA Energía",
@@ -1466,12 +1532,6 @@
    "role": "Analista De Producciones Movistar Plus",
    "location": "Madrid"
   },
-  "37489c462c5847bda9d2bcb9cb0f3509": {
-   "id": "37489c462c5847bda9d2bcb9cb0f3509",
-   "company": "Indra group",
-   "role": "Consultor/a Sap",
-   "location": "ES"
-  },
   "580b1a0b0157e0144712a8fce586e3f5": {
    "id": "580b1a0b0157e0144712a8fce586e3f5",
    "company": "Sedgwick Australia Pty Ltd",
@@ -1519,12 +1579,6 @@
    "company": "Penguin Random House Grupo Editorial",
    "role": "Online Business Analyst",
    "location": "28010"
-  },
-  "88f64845d09352cf03664767a31651fd": {
-   "id": "88f64845d09352cf03664767a31651fd",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Business Analyst Comercial",
-   "location": "8021"
   },
   "edb2bc939dc9c7eb5c96b2ca23b78646": {
    "id": "edb2bc939dc9c7eb5c96b2ca23b78646",
@@ -1868,6 +1922,18 @@
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
   },
+  "3be7e2a0801b68a24e7ff0f9f2eb8175": {
+   "id": "3be7e2a0801b68a24e7ff0f9f2eb8175",
+   "company": "Indra group",
+   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
+   "location": "Salamanca"
+  },
+  "90459acb1ae7ee5dcb934e6a572e21e3": {
+   "id": "90459acb1ae7ee5dcb934e6a572e21e3",
+   "company": "Arvato",
+   "role": "Técnico/a De Mantenimiento Electromecánico (h/m)",
+   "location": "Madrid"
+  },
   "a0be2bfc5bf07835305d0cd7958ef1c9": {
    "id": "a0be2bfc5bf07835305d0cd7958ef1c9",
    "company": "HITACHI ENERGY SPAIN, S.A.U.",
@@ -2041,12 +2107,6 @@
    "company": "MBDA",
    "role": "Field Support Engineer (spain)",
    "location": "Madrid"
-  },
-  "3be7e2a0801b68a24e7ff0f9f2eb8175": {
-   "id": "3be7e2a0801b68a24e7ff0f9f2eb8175",
-   "company": "Indra group",
-   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
-   "location": "Salamanca"
   },
   "e567804edd6b55026b5cbc17f6237121": {
    "id": "e567804edd6b55026b5cbc17f6237121",
@@ -2335,12 +2395,6 @@
    "company": "TÜV SÜD",
    "role": "Técnico/a Especialista En Ascensores En Madrid (f/m/d)",
    "location": "Madrid"
-  },
-  "78311794f9046fa81fc11ca7b58ab930": {
-   "id": "78311794f9046fa81fc11ca7b58ab930",
-   "company": "BizAway",
-   "role": "Product Support Specialist",
-   "location": "Barcelona"
   },
   "99b76ffb76cc52c4f1aafe57007d9c87": {
    "id": "99b76ffb76cc52c4f1aafe57007d9c87",

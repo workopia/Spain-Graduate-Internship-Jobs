@@ -2485,4 +2485,22 @@
 <tr><td>Zurich Insurance UK</td><td>Multinational Wording Operations Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
 <tr><td>Zurich Insurance UK</td><td>Network & Partner Operations Intern</td><td>Barcelona</td><td>2026-09-25</td></tr>
 <tr><td>Raona</td><td>Ai Product Builder</td><td>Barcelona</td><td>2026-09-25</td></tr>
+<tr><td>SLS Barcelona</td><td>Reservations Department Internship</td><td>Barcelona</td><td>2026-09-26</td></tr>
+<tr><td>Hogan Lovells Cadwalader</td><td>Prácticas Máster De Acceso A La Abogacía 2027</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>Mediaset España</td><td>Beca Control Central</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>Accenture</td><td>Beca Business Fy27</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Challenger Intern</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>Inspired Education Group</td><td>Care Assistant Internship</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>Inspired Education Group</td><td>Teaching Assistant Internship</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>Inspired Education Group</td><td>School Intern</td><td>Barcelona</td><td>2026-09-26</td></tr>
+<tr><td>El Colegio Británico / The British School</td><td>Internship Opportunities - El Colegio Británico / The British School</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Commercial Controlling Trainee</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Hr Labor Relations Internship</td><td>Barcelona</td><td>2026-09-26</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Junior Powerapps Developer Intern</td><td>Barcelona</td><td>2026-09-26</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Regional Compliance Intern</td><td>Barcelona</td><td>2026-09-26</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Developer Intern</td><td>Barcelona</td><td>2026-09-26</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Engineering & Visualization Intern</td><td>Barcelona</td><td>2026-09-26</td></tr>
+<tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-09-26</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Business Analyst Comercial</td><td>8021</td><td>2026-09-26</td></tr>
+<tr><td>BizAway</td><td>Product Support Specialist</td><td>Barcelona</td><td>2026-09-26</td></tr>
 </table>
