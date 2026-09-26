@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-26",
- "count": 528,
+ "count": 526,
  "jobs": {
   "88817": {
    "id": "88817",
@@ -3157,18 +3157,6 @@
    "company": "Jobgether",
    "role": "Software Verification & Qa Specialist",
    "location": "Spain"
-  },
-  "def6038d49e64bf6037e58854adbf068": {
-   "id": "def6038d49e64bf6037e58854adbf068",
-   "company": "Amey (Ferrovial)",
-   "role": "Administrativo/a De Producción",
-   "location": "Madrid"
-  },
-  "541e3c5ff70505c0df2c0829291ce50e": {
-   "id": "541e3c5ff70505c0df2c0829291ce50e",
-   "company": "Ferrovial SE",
-   "role": "Administrativo/a De Producción",
-   "location": "Madrid"
   }
  }
 }

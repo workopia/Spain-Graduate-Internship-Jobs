@@ -2505,4 +2505,6 @@
 <tr><td>BizAway</td><td>Product Support Specialist</td><td>Barcelona</td><td>2026-09-26</td></tr>
 <tr><td>Celonis</td><td>Customer Advocacy & Customer Marketing Graduated Internship (12 Months)</td><td>Madrid</td><td>2026-09-26</td></tr>
 <tr><td>ACCIONA</td><td>Técnico Contable</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>Amey (Ferrovial)</td><td>Administrativo/a De Producción</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>Ferrovial SE</td><td>Administrativo/a De Producción</td><td>Madrid</td><td>2026-09-26</td></tr>
 </table>
