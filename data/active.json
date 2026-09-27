@@ -1,11 +1,53 @@
 {
- "asOf": "2026-09-26",
- "count": 526,
+ "asOf": "2026-09-27",
+ "count": 530,
  "jobs": {
   "88817": {
    "id": "88817",
    "company": "Henkel",
    "role": "Intern Business Planning",
+   "location": "Barcelona"
+  },
+  "7d0d73ad62527ee252cde393ea8de557": {
+   "id": "7d0d73ad62527ee252cde393ea8de557",
+   "company": "Nordex SE",
+   "role": "Service After Sales Intern (m/f/d)",
+   "location": "Imarcoain"
+  },
+  "583f81ce292dad309388f7efce928e13": {
+   "id": "583f81ce292dad309388f7efce928e13",
+   "company": "MANGO",
+   "role": "Intern Key Account Manager Partners Online",
+   "location": "Palau"
+  },
+  "ef1a006962f58cc5a26366e54e068150": {
+   "id": "ef1a006962f58cc5a26366e54e068150",
+   "company": "Philips Healthcare",
+   "role": "Internship: Finance Intern",
+   "location": "Madrid"
+  },
+  "8ed4446449a0c8bc298284ff5e14fe3c": {
+   "id": "8ed4446449a0c8bc298284ff5e14fe3c",
+   "company": "Philips Healthcare",
+   "role": "Becario Logística",
+   "location": "Madrid"
+  },
+  "757efcd7de8cde630ff3ba2ebc371a77": {
+   "id": "757efcd7de8cde630ff3ba2ebc371a77",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman - Internship - Data & Analytics - Spain",
+   "location": "Madrid"
+  },
+  "577bc0eb3ed6e27d1ff6de4fcbe5c2d8": {
+   "id": "577bc0eb3ed6e27d1ff6de4fcbe5c2d8",
+   "company": "NERA Economic Consulting",
+   "role": "Beca Consultoria / Ingenieria Claims Solutions",
+   "location": "Barcelona"
+  },
+  "5eb4affef03388ff6ce823b6aac5fc70": {
+   "id": "5eb4affef03388ff6ce823b6aac5fc70",
+   "company": "Monolithic Power Systems",
+   "role": "Digital Verification Intern",
    "location": "Barcelona"
   },
   "08fe09006f091a5cbeba979dda3c3bb4": {
@@ -440,47 +482,17 @@
    "role": "#xplorer 2027 Protospace (rapid Prototyping)",
    "location": "Getafe Area"
   },
-  "237c200b1710d68704c0b4ab9f36c786": {
-   "id": "237c200b1710d68704c0b4ab9f36c786",
-   "company": "Johnson & Johnson",
-   "role": "Market Access Intern",
-   "location": "Madrid"
-  },
-  "beb64cfa9d6326b3a0f3b1fbc15e8a34": {
-   "id": "beb64cfa9d6326b3a0f3b1fbc15e8a34",
-   "company": "Acciona",
-   "role": "Beca En Rrhh Bestinver",
-   "location": "Madrid"
-  },
-  "3c58a129bfb168d971078b9d0931b2f1": {
-   "id": "3c58a129bfb168d971078b9d0931b2f1",
-   "company": "Serveo",
-   "role": "Beca Sostenibilidad Social, Diversidad E Inclusión - Madrid 1 1",
-   "location": "Madrid"
-  },
-  "64c087beaeed0bc2264654fb90bf167f": {
-   "id": "64c087beaeed0bc2264654fb90bf167f",
-   "company": "Serveo",
-   "role": "Beca Gestión Rrhh Ii - Madrid 1 1",
-   "location": "Madrid"
-  },
-  "65faf8ed6e7d977e69cfd98afb680cfe": {
-   "id": "65faf8ed6e7d977e69cfd98afb680cfe",
-   "company": "Indra Group",
-   "role": "Expotic 1",
-   "location": "Madrid"
-  },
-  "ea4d8d6dc767e2adf965ee05178d5016": {
-   "id": "ea4d8d6dc767e2adf965ee05178d5016",
-   "company": "Edelman",
-   "role": "Intern, Communication",
+  "a8ff18e435c6937ccc575cb39a76efd2": {
+   "id": "a8ff18e435c6937ccc575cb39a76efd2",
+   "company": "Monolithic Power Systems",
+   "role": "Software Engineer - New Grad",
    "location": "Barcelona"
   },
-  "a35f6da35e3371029900c244c9bff2d9": {
-   "id": "a35f6da35e3371029900c244c9bff2d9",
-   "company": "Koninklijke Philips",
-   "role": "Internship: General Sales Support Intern",
-   "location": "Madrid"
+  "7257995e6171da55b3175d4463e91128": {
+   "id": "7257995e6171da55b3175d4463e91128",
+   "company": "Stripe Payments",
+   "role": "Software Engineer, New Grad - Frontend",
+   "location": "Barcelona"
   },
   "8b1a50072f59253148cba56fa61a2d52": {
    "id": "8b1a50072f59253148cba56fa61a2d52",
@@ -1334,6 +1346,24 @@
    "role": "Data Scientist",
    "location": "Localidad"
   },
+  "88b1be528122d802bf0b61a4dbac0ec5": {
+   "id": "88b1be528122d802bf0b61a4dbac0ec5",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman -2027 Off-cycle Intern Consultant (m/f/d) - Spanish Or Portuguese Speaker – Iberia",
+   "location": "Madrid"
+  },
+  "d942a05487966826b9de0dc903c9c3d6": {
+   "id": "d942a05487966826b9de0dc903c9c3d6",
+   "company": "Oliver Wyman",
+   "role": "2027 Oliver Wyman – Intern Consultant - Portuguese Speaker (m/f/d) – Madrid",
+   "location": "Madrid"
+  },
+  "f40bb55f88847c5531a38bd4d903b059": {
+   "id": "f40bb55f88847c5531a38bd4d903b059",
+   "company": "Oliver Wyman",
+   "role": "2027 Oliver Wyman – Intern Consultant - Spanish Speaker (m/f/d) – Madrid",
+   "location": "Madrid"
+  },
   "19fcb8e80e4ed2ecac27077e5d242b21": {
    "id": "19fcb8e80e4ed2ecac27077e5d242b21",
    "company": "Citi Handlowy",
@@ -1374,24 +1404,6 @@
    "id": "3611ab36fbba4d8b48a77c6bb4297a49",
    "company": "Thales Group",
    "role": "Financial Analyst Intern",
-   "location": "Madrid"
-  },
-  "d39b749257e2c98821a035ebee8f0519": {
-   "id": "d39b749257e2c98821a035ebee8f0519",
-   "company": "Oliver Wyman",
-   "role": "2027 Oliver Wyman – Intern Consultant - Spanish Speaker (m/f/d) – Madrid",
-   "location": "Madrid"
-  },
-  "dadb57f0f2ec9ec0a234611c6074de59": {
-   "id": "dadb57f0f2ec9ec0a234611c6074de59",
-   "company": "Oliver Wyman",
-   "role": "2027 Oliver Wyman – Intern Consultant - Portuguese Speaker (m/f/d) – Madrid",
-   "location": "Madrid"
-  },
-  "d441b5fa9a158a382d6121295e9d4e27": {
-   "id": "d441b5fa9a158a382d6121295e9d4e27",
-   "company": "Oliver Wyman",
-   "role": "Oliver Wyman -2027 Off-cycle Intern Consultant (m/f/d) - Spanish Or Portuguese Speaker – Iberia",
    "location": "Madrid"
   },
   "333b23129b7646a29376d470dc826b6f": {
@@ -1441,6 +1453,18 @@
    "company": "Ubisoft",
    "role": "Accountant Trainee",
    "location": "Barcelona"
+  },
+  "d8ecadf4fae80d4e54f2624e7f96a57b": {
+   "id": "d8ecadf4fae80d4e54f2624e7f96a57b",
+   "company": "NERA Economic Consulting",
+   "role": "Revenue Accountant With English And Spanish",
+   "location": "Madrid"
+  },
+  "03f385577a9232ce079596293130d7c6": {
+   "id": "03f385577a9232ce079596293130d7c6",
+   "company": "DXC Technology",
+   "role": "Analista Funcional Seguros De Vida",
+   "location": "Any City"
   },
   "37489c462c5847bda9d2bcb9cb0f3509": {
    "id": "37489c462c5847bda9d2bcb9cb0f3509",
@@ -1886,11 +1910,11 @@
    "role": "Compliance Analyst",
    "location": "Spain"
   },
-  "983333621dcabef5dad8b7c8fa254b77": {
-   "id": "983333621dcabef5dad8b7c8fa254b77",
-   "company": "DXC Technology Australia & New Zealand",
-   "role": "Analista Funcional Seguros De Vida",
-   "location": "Any City"
+  "fe4facdc272599509ea02cd772036b40": {
+   "id": "fe4facdc272599509ea02cd772036b40",
+   "company": "EUROPREVEN",
+   "role": "Médico/a De Vigilancia De La Salud",
+   "location": "Barcelona"
   },
   "3c465745cfb285e57a7b6d2a42eb9873": {
    "id": "3c465745cfb285e57a7b6d2a42eb9873",
@@ -1926,6 +1950,12 @@
    "id": "90459acb1ae7ee5dcb934e6a572e21e3",
    "company": "Arvato",
    "role": "Técnico/a De Mantenimiento Electromecánico (h/m)",
+   "location": "Madrid"
+  },
+  "adb5f26b8e0d8121a8e547f81d9166c7": {
+   "id": "adb5f26b8e0d8121a8e547f81d9166c7",
+   "company": "Konecranes",
+   "role": "Service Technician",
    "location": "Madrid"
   },
   "a0be2bfc5bf07835305d0cd7958ef1c9": {
@@ -2384,11 +2414,35 @@
    "role": "Técnico/a De Mantenimiento Ascensores (empresa Afiliada)",
    "location": "Barcelona"
   },
-  "451d9e8d8d78d1fd7d6b1dc8d74e1111": {
-   "id": "451d9e8d8d78d1fd7d6b1dc8d74e1111",
-   "company": "TÜV SÜD",
-   "role": "Técnico/a Especialista En Ascensores En Madrid (f/m/d)",
+  "103d8406a5644a87c6c6527b3e3ede8b": {
+   "id": "103d8406a5644a87c6c6527b3e3ede8b",
+   "company": "adidas AG",
+   "role": "Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h",
+   "location": "Salamanca"
+  },
+  "a8901fc8e40fc4c0a8917b3fe65c49a5": {
+   "id": "a8901fc8e40fc4c0a8917b3fe65c49a5",
+   "company": "adidas AG",
+   "role": "Sales Associate (part Time) - Bc Gran Via",
    "location": "Madrid"
+  },
+  "ef6ae96eff6be818e8be44ac911a371b": {
+   "id": "ef6ae96eff6be818e8be44ac911a371b",
+   "company": "adidas AG",
+   "role": "Sales Associate Castellana 20 Horas Tarde Navidades",
+   "location": "Madrid"
+  },
+  "54b8aac2ce0b706fe3791b7089c5be64": {
+   "id": "54b8aac2ce0b706fe3791b7089c5be64",
+   "company": "adidas AG",
+   "role": "Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets",
+   "location": "Salamanca"
+  },
+  "68337fc00ce41b093611ec2a25dd3671": {
+   "id": "68337fc00ce41b093611ec2a25dd3671",
+   "company": "JYSK",
+   "role": "Jes - Vendedor/a - 30 H",
+   "location": "Barcelona"
   },
   "99b76ffb76cc52c4f1aafe57007d9c87": {
    "id": "99b76ffb76cc52c4f1aafe57007d9c87",
@@ -2534,12 +2588,6 @@
    "role": "Dependiente/a Nespresso Eci Pozuelo (fines De Semana))",
    "location": "Madrid"
   },
-  "4d5ff3d925015eaa9353153293cc4791": {
-   "id": "4d5ff3d925015eaa9353153293cc4791",
-   "company": "JYSK",
-   "role": "Jes - Vendedor/a - 30 H",
-   "location": "Madrid"
-  },
   "bbe455c045491472ea2555e2d8fdc8e2": {
    "id": "bbe455c045491472ea2555e2d8fdc8e2",
    "company": "Michael Kors",
@@ -2647,12 +2695,6 @@
    "company": "Levis",
    "role": "Sales Stylist 25h Lfo La Roca",
    "location": "Barcelona"
-  },
-  "103d8406a5644a87c6c6527b3e3ede8b": {
-   "id": "103d8406a5644a87c6c6527b3e3ede8b",
-   "company": "adidas AG",
-   "role": "Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h",
-   "location": "Salamanca"
   },
   "df011fb3a3e30fcf202eb1fd23db0fcc": {
    "id": "df011fb3a3e30fcf202eb1fd23db0fcc",
@@ -2850,24 +2892,6 @@
    "id": "17d0494797e8fe1cf6f0c4147e692976",
    "company": "Mango",
    "role": "Dependiente/a Zona Sur De Madrid",
-   "location": "Madrid"
-  },
-  "8f620ddae5d5cc6778f76a92e3b63f1a": {
-   "id": "8f620ddae5d5cc6778f76a92e3b63f1a",
-   "company": "Mango",
-   "role": "Dependiente/a Salamanca Toro 11-13 St 16h Fines De Semana",
-   "location": "Salamanca"
-  },
-  "5d158afade0fe34dfc9e96b0a17e2da1": {
-   "id": "5d158afade0fe34dfc9e96b0a17e2da1",
-   "company": "Mango",
-   "role": "Dependiente/a Salamanca Toro 11-13 St 25h Tardes",
-   "location": "Salamanca"
-  },
-  "ab3c8cc0b3d5ce87c30f14631c0d83fb": {
-   "id": "ab3c8cc0b3d5ce87c30f14631c0d83fb",
-   "company": "Mango",
-   "role": "Programa De Prácticas Vendedor/a Madrid",
    "location": "Madrid"
   },
   "bb7a781d25a6cbdb272a16328506b1be": {

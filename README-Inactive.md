@@ -2507,4 +2507,20 @@
 <tr><td>ACCIONA</td><td>Técnico Contable</td><td>Madrid</td><td>2026-09-26</td></tr>
 <tr><td>Amey (Ferrovial)</td><td>Administrativo/a De Producción</td><td>Madrid</td><td>2026-09-26</td></tr>
 <tr><td>Ferrovial SE</td><td>Administrativo/a De Producción</td><td>Madrid</td><td>2026-09-26</td></tr>
+<tr><td>Johnson & Johnson</td><td>Market Access Intern</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Acciona</td><td>Beca En Rrhh Bestinver</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Serveo</td><td>Beca Sostenibilidad Social, Diversidad E Inclusión - Madrid 1 1</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Serveo</td><td>Beca Gestión Rrhh Ii - Madrid 1 1</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Indra Group</td><td>Expotic 1</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Edelman</td><td>Intern, Communication</td><td>Barcelona</td><td>2026-09-27</td></tr>
+<tr><td>Koninklijke Philips</td><td>Internship: General Sales Support Intern</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Oliver Wyman</td><td>2027 Oliver Wyman – Intern Consultant - Spanish Speaker (m/f/d) – Madrid</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Oliver Wyman</td><td>2027 Oliver Wyman – Intern Consultant - Portuguese Speaker (m/f/d) – Madrid</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman -2027 Off-cycle Intern Consultant (m/f/d) - Spanish Or Portuguese Speaker – Iberia</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>DXC Technology Australia & New Zealand</td><td>Analista Funcional Seguros De Vida</td><td>Any City</td><td>2026-09-27</td></tr>
+<tr><td>TÜV SÜD</td><td>Técnico/a Especialista En Ascensores En Madrid (f/m/d)</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>JYSK</td><td>Jes - Vendedor/a - 30 H</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Mango</td><td>Dependiente/a Salamanca Toro 11-13 St 16h Fines De Semana</td><td>Salamanca</td><td>2026-09-27</td></tr>
+<tr><td>Mango</td><td>Dependiente/a Salamanca Toro 11-13 St 25h Tardes</td><td>Salamanca</td><td>2026-09-27</td></tr>
+<tr><td>Mango</td><td>Programa De Prácticas Vendedor/a Madrid</td><td>Madrid</td><td>2026-09-27</td></tr>
 </table>
