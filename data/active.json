@@ -1,13 +1,7 @@
 {
  "asOf": "2026-09-27",
- "count": 530,
+ "count": 531,
  "jobs": {
-  "88817": {
-   "id": "88817",
-   "company": "Henkel",
-   "role": "Intern Business Planning",
-   "location": "Barcelona"
-  },
   "7d0d73ad62527ee252cde393ea8de557": {
    "id": "7d0d73ad62527ee252cde393ea8de557",
    "company": "Nordex SE",
@@ -48,6 +42,66 @@
    "id": "5eb4affef03388ff6ce823b6aac5fc70",
    "company": "Monolithic Power Systems",
    "role": "Digital Verification Intern",
+   "location": "Barcelona"
+  },
+  "d5ac8c5b0061a8e89ce2a38771bd88a6": {
+   "id": "d5ac8c5b0061a8e89ce2a38771bd88a6",
+   "company": "IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY",
+   "role": "Digital Services Intern, Madrid",
+   "location": "Madrid"
+  },
+  "a8aac18d756452c0e559c378c18b346b": {
+   "id": "a8aac18d756452c0e559c378c18b346b",
+   "company": "Bunge",
+   "role": "Indirect Tax Intern",
+   "location": "Barcelona"
+  },
+  "b7dd420cd45398f2dd1a5ab096682874": {
+   "id": "b7dd420cd45398f2dd1a5ab096682874",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Regional Compliance Intern",
+   "location": "Barcelona"
+  },
+  "331c9d12e481886eb82976ddf29ca8aa": {
+   "id": "331c9d12e481886eb82976ddf29ca8aa",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Ai Developer Intern",
+   "location": "Barcelona"
+  },
+  "d3a305eb4e69fe0476a6faebcec09f80": {
+   "id": "d3a305eb4e69fe0476a6faebcec09f80",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Data Engineering & Visualization Intern",
+   "location": "Barcelona"
+  },
+  "b64825b2a53990c4b3b56055efd450b3": {
+   "id": "b64825b2a53990c4b3b56055efd450b3",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Multinational Wording Operations Intern",
+   "location": "Barcelona"
+  },
+  "fc4b6450f0e9f47bf40c1245ddc7bfce": {
+   "id": "fc4b6450f0e9f47bf40c1245ddc7bfce",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Network & Partner Operations Intern",
+   "location": "Barcelona"
+  },
+  "0844a304adce8cc06b0ec9616fe9913a": {
+   "id": "0844a304adce8cc06b0ec9616fe9913a",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Front Office Systems Intern",
+   "location": "Barcelona"
+  },
+  "27617f20f733d5e2b8df24a5829f3659": {
+   "id": "27617f20f733d5e2b8df24a5829f3659",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Investment Performance Analyst Intern",
+   "location": "Barcelona"
+  },
+  "83a97355aeffd99f17921f670f6f8c31": {
+   "id": "83a97355aeffd99f17921f670f6f8c31",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Product Operations Intern",
    "location": "Barcelona"
   },
   "08fe09006f091a5cbeba979dda3c3bb4": {
@@ -144,6 +198,12 @@
    "id": "4afbed3f2642278832cfb8e05f9d7911",
    "company": "Melia",
    "role": "Trainee Reservas - Gran Meliá",
+   "location": "Madrid"
+  },
+  "98292209a1b3b8e2938bad53db19b9d3": {
+   "id": "98292209a1b3b8e2938bad53db19b9d3",
+   "company": "Hilton Worldwide",
+   "role": "Food And Beverage Intern",
    "location": "Madrid"
   },
   "7a32b906c6ae3fffc8f2d48f1846328f": {
@@ -422,66 +482,6 @@
    "role": "Prácticas Consultoría I+d",
    "location": "Barcelona"
   },
-  "10e77fb903326037405dc89e8fc4423c": {
-   "id": "10e77fb903326037405dc89e8fc4423c",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas I+d Proyectos Europeos",
-   "location": "Spain"
-  },
-  "e347fa2c7ca3b5a985d027742fc9fb07": {
-   "id": "e347fa2c7ca3b5a985d027742fc9fb07",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Ey-parthenon - Off-cycle Strategy & Transactions",
-   "location": "Barcelona"
-  },
-  "be93c80eba5ca02eeab4915f46f72ac7": {
-   "id": "be93c80eba5ca02eeab4915f46f72ac7",
-   "company": "Qualentum",
-   "role": "Beca Proeduca - Ia",
-   "location": "Madrid"
-  },
-  "49930660541c3268e80dfae0ee37f338": {
-   "id": "49930660541c3268e80dfae0ee37f338",
-   "company": "Ferrovial",
-   "role": "Internal Audit Internship",
-   "location": "Madrid"
-  },
-  "35ef5a59748729dd8535e6f0142b845e": {
-   "id": "35ef5a59748729dd8535e6f0142b845e",
-   "company": "EY",
-   "role": "Ey-parthenon - Off-cycle Strategy & Transactions",
-   "location": "Barcelona"
-  },
-  "3f6c7462c3b27c834ccec50491fb3ff9": {
-   "id": "3f6c7462c3b27c834ccec50491fb3ff9",
-   "company": "Valeo",
-   "role": "Warranty Engineer Internship",
-   "location": "Jaen"
-  },
-  "4209828a0c5b7f90e6dfcf3596f3173b": {
-   "id": "4209828a0c5b7f90e6dfcf3596f3173b",
-   "company": "Meliá",
-   "role": "Trainee Guest Experience- Innside Madrid Valdebebas",
-   "location": "Madrid"
-  },
-  "a2a4f6bd54996b5d8f8d336edc651724": {
-   "id": "a2a4f6bd54996b5d8f8d336edc651724",
-   "company": "Laboratory Animal Management Association",
-   "role": "Beca Marketing Pulmón",
-   "location": "Madrid"
-  },
-  "b3690a0e451575e360dabef28a089e69": {
-   "id": "b3690a0e451575e360dabef28a089e69",
-   "company": "Solunion",
-   "role": "Solunion First Steps - Programa De Prácticas",
-   "location": "Madrid"
-  },
-  "cac243ea5bb6b464c97167a070217a33": {
-   "id": "cac243ea5bb6b464c97167a070217a33",
-   "company": "AIRBUS",
-   "role": "#xplorer 2027 Protospace (rapid Prototyping)",
-   "location": "Getafe Area"
-  },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
    "company": "Monolithic Power Systems",
@@ -494,17 +494,47 @@
    "role": "Software Engineer, New Grad - Frontend",
    "location": "Barcelona"
   },
-  "8b1a50072f59253148cba56fa61a2d52": {
-   "id": "8b1a50072f59253148cba56fa61a2d52",
-   "company": "minsait",
+  "9ca9af0cc8b9155b7ad2e73cef67753b": {
+   "id": "9ca9af0cc8b9155b7ad2e73cef67753b",
+   "company": "Minsait",
+   "role": "Desarrollador/a C++ Para Simulación De Drones Y Entornos Virtuales",
+   "location": "Madrid"
+  },
+  "dfa92f59240e5fd3dc74b798a9b30650": {
+   "id": "dfa92f59240e5fd3dc74b798a9b30650",
+   "company": "Minsait",
+   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
+   "location": "Madrid"
+  },
+  "4f7cf864491004b12208e12093984d12": {
+   "id": "4f7cf864491004b12208e12093984d12",
+   "company": "Minsait",
+   "role": "Ingeniero/a De Software Embebido C++ Y Ada",
+   "location": "Madrid"
+  },
+  "6ba9fe92dd117cb3cdf61311e9561036": {
+   "id": "6ba9fe92dd117cb3cdf61311e9561036",
+   "company": "Minsait",
+   "role": "Ingeniero/a De Desarrollo Software C++",
+   "location": "Madrid"
+  },
+  "46642e85c00dd5396842067b852771c5": {
+   "id": "46642e85c00dd5396842067b852771c5",
+   "company": "Minsait",
    "role": "Distributed Critical Software Engineer (ada/c++) / Hybrid Madrid",
    "location": "Madrid"
   },
-  "0bf0cdf57849f05fedbae1876f29b507": {
-   "id": "0bf0cdf57849f05fedbae1876f29b507",
-   "company": "minsait",
+  "79e18458e58873cbc34cedf4da88d7ee": {
+   "id": "79e18458e58873cbc34cedf4da88d7ee",
+   "company": "Minsait",
    "role": "Ingeniero/a Front Vue.js Intermediate / Ciberdefensa / Barcelona (híbrido)",
    "location": "Barcelona"
+  },
+  "d8459dac0a10828e3aa88eeb9fcb0429": {
+   "id": "d8459dac0a10828e3aa88eeb9fcb0429",
+   "company": "Minsait",
+   "role": "Ingeniero/a De Software Aviónico Y Estándares",
+   "location": "Madrid"
   },
   "b18846ab379e1625ad0af00af23530e8": {
    "id": "b18846ab379e1625ad0af00af23530e8",
@@ -541,6 +571,12 @@
    "company": "Indra group",
    "role": "Ingeniero/a De Software Aviónico Y Estándares",
    "location": "Madrid"
+  },
+  "9dd9dfced6c2add4382a834c7e82944b": {
+   "id": "9dd9dfced6c2add4382a834c7e82944b",
+   "company": "Jobgether",
+   "role": "Software Engineer - Python And K8s",
+   "location": "Spain"
   },
   "9526da259ae2d42cac7ced37c2b83134": {
    "id": "9526da259ae2d42cac7ced37c2b83134",
@@ -582,12 +618,6 @@
    "id": "8d0036f8924e4a014f52eb37668a6107",
    "company": "Indra",
    "role": "Ingeniero/a De Desarrollo Software C++",
-   "location": "Madrid"
-  },
-  "4dbe084582c94fe4d1b842c03c392323": {
-   "id": "4dbe084582c94fe4d1b842c03c392323",
-   "company": "minsait",
-   "role": "Ingeniero/a De Software Aviónico Y Estándares",
    "location": "Madrid"
   },
   "ff300513470d9e8212e3b59dfdfd2a70": {
@@ -690,30 +720,6 @@
    "id": "2a69ef800a948da50300cee67f4db47e",
    "company": "HITACHI ENERGY SPAIN, S.A.U.",
    "role": ".net Backend Developper",
-   "location": "Madrid"
-  },
-  "9ca9af0cc8b9155b7ad2e73cef67753b": {
-   "id": "9ca9af0cc8b9155b7ad2e73cef67753b",
-   "company": "Minsait",
-   "role": "Desarrollador/a C++ Para Simulación De Drones Y Entornos Virtuales",
-   "location": "Madrid"
-  },
-  "dfa92f59240e5fd3dc74b798a9b30650": {
-   "id": "dfa92f59240e5fd3dc74b798a9b30650",
-   "company": "Minsait",
-   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
-   "location": "Madrid"
-  },
-  "4f7cf864491004b12208e12093984d12": {
-   "id": "4f7cf864491004b12208e12093984d12",
-   "company": "Minsait",
-   "role": "Ingeniero/a De Software Embebido C++ Y Ada",
-   "location": "Madrid"
-  },
-  "6ba9fe92dd117cb3cdf61311e9561036": {
-   "id": "6ba9fe92dd117cb3cdf61311e9561036",
-   "company": "Minsait",
-   "role": "Ingeniero/a De Desarrollo Software C++",
    "location": "Madrid"
   },
   "8f04672576195bb15e77cf092239f126": {
@@ -986,6 +992,18 @@
    "role": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
    "location": "Madrid"
   },
+  "e366b0aa9641e9c095682f61556cd25b": {
+   "id": "e366b0aa9641e9c095682f61556cd25b",
+   "company": "Minsait",
+   "role": "Data Scientist/data Engineer Junior",
+   "location": "Spain"
+  },
+  "9afebdf140d10c3c7f35bcc02f836c7d": {
+   "id": "9afebdf140d10c3c7f35bcc02f836c7d",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Data Analyst / Data Engineer (commercial Insurance)",
+   "location": "Barcelona"
+  },
   "a16446f65184e26059147c214e1c311c": {
    "id": "a16446f65184e26059147c214e1c311c",
    "company": "MAPFRE",
@@ -1094,12 +1112,6 @@
    "role": "Ai Engineer - Marketing Systems",
    "location": "Barcelona"
   },
-  "e366b0aa9641e9c095682f61556cd25b": {
-   "id": "e366b0aa9641e9c095682f61556cd25b",
-   "company": "Minsait",
-   "role": "Data Scientist/data Engineer Junior",
-   "location": "Spain"
-  },
   "13608df484c8c3c8a87c7726828dfda0": {
    "id": "13608df484c8c3c8a87c7726828dfda0",
    "company": "Swiss Re",
@@ -1123,12 +1135,6 @@
    "company": "IOM",
    "role": "Analista De Datos",
    "location": "Madrid"
-  },
-  "9afebdf140d10c3c7f35bcc02f836c7d": {
-   "id": "9afebdf140d10c3c7f35bcc02f836c7d",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Data Analyst / Data Engineer (commercial Insurance)",
-   "location": "Barcelona"
   },
   "4753343c958c38e7d55743630d3048bc": {
    "id": "4753343c958c38e7d55743630d3048bc",
@@ -1364,6 +1370,18 @@
    "role": "2027 Oliver Wyman – Intern Consultant - Spanish Speaker (m/f/d) – Madrid",
    "location": "Madrid"
   },
+  "859038089917": {
+   "id": "859038089917",
+   "company": "Citi",
+   "role": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
+   "location": "Madrid"
+  },
+  "5084aeedb7cff32a071e0dfecd3a04c6": {
+   "id": "5084aeedb7cff32a071e0dfecd3a04c6",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Business Analyst Intern",
+   "location": "Barcelona"
+  },
   "19fcb8e80e4ed2ecac27077e5d242b21": {
    "id": "19fcb8e80e4ed2ecac27077e5d242b21",
    "company": "Citi Handlowy",
@@ -1392,12 +1410,6 @@
    "id": "714b47decd42b01956a8b78e6cd38fbf",
    "company": "Zurich Insurance Company Ltd",
    "role": "Servicenow Business Analyst Intern",
-   "location": "Barcelona"
-  },
-  "5084aeedb7cff32a071e0dfecd3a04c6": {
-   "id": "5084aeedb7cff32a071e0dfecd3a04c6",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Business Analyst Intern",
    "location": "Barcelona"
   },
   "3611ab36fbba4d8b48a77c6bb4297a49": {
@@ -1940,6 +1952,24 @@
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
   },
+  "f0046077f292006c0590e6c69a251567": {
+   "id": "f0046077f292006c0590e6c69a251567",
+   "company": "Valmet",
+   "role": "Técnico Mecánico De Taller Y Mantenimiento Industrial",
+   "location": "Zaragoza"
+  },
+  "25a1c1af32097f3b73d5ab3087a3a536": {
+   "id": "25a1c1af32097f3b73d5ab3087a3a536",
+   "company": "Minsait",
+   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
+   "location": "Salamanca"
+  },
+  "da01187f7c7a1982833c7d6c7d123814": {
+   "id": "da01187f7c7a1982833c7d6c7d123814",
+   "company": "Minsait",
+   "role": "Junior Electronic Maintenance Technician",
+   "location": "Madrid"
+  },
   "3be7e2a0801b68a24e7ff0f9f2eb8175": {
    "id": "3be7e2a0801b68a24e7ff0f9f2eb8175",
    "company": "Indra group",
@@ -1987,12 +2017,6 @@
    "company": "Alstom",
    "role": "Operario/a De Mantenimiento Ferroviario Fuencarral Temporal",
    "location": "Madrid"
-  },
-  "9d90ac982a1f061362aadd7b2ad04859": {
-   "id": "9d90ac982a1f061362aadd7b2ad04859",
-   "company": "minsait",
-   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
-   "location": "Salamanca"
   },
   "a88e584cd716cc44c51072f17b3a9912": {
    "id": "a88e584cd716cc44c51072f17b3a9912",
@@ -2118,12 +2142,6 @@
    "id": "72f455f74d34faf0d3eef8dbbe7f7eb3",
    "company": "Vertiv",
    "role": "Customer Engineer Thermal",
-   "location": "Madrid"
-  },
-  "da01187f7c7a1982833c7d6c7d123814": {
-   "id": "da01187f7c7a1982833c7d6c7d123814",
-   "company": "Minsait",
-   "role": "Junior Electronic Maintenance Technician",
    "location": "Madrid"
   },
   "1f9b0c556b5c8b83922ebcb7cff1e313": {
@@ -2408,17 +2426,17 @@
    "role": "Technical Service Engineer - Madrid Area",
    "location": "Madrid"
   },
-  "15c523f27294f5467afbfbe49197191c": {
-   "id": "15c523f27294f5467afbfbe49197191c",
-   "company": "Schindler Elevator Ltd",
-   "role": "Técnico/a De Mantenimiento Ascensores (empresa Afiliada)",
-   "location": "Barcelona"
-  },
   "103d8406a5644a87c6c6527b3e3ede8b": {
    "id": "103d8406a5644a87c6c6527b3e3ede8b",
    "company": "adidas AG",
    "role": "Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h",
    "location": "Salamanca"
+  },
+  "25cb9a402cc5f222e8ebbf5487bed033": {
+   "id": "25cb9a402cc5f222e8ebbf5487bed033",
+   "company": "adidas AG",
+   "role": "Vendedor/a Campaña Navidad/rebajas 20h/semana Adidas Cc Eci Pozuelo",
+   "location": "Madrid"
   },
   "a8901fc8e40fc4c0a8917b3fe65c49a5": {
    "id": "a8901fc8e40fc4c0a8917b3fe65c49a5",
@@ -2888,10 +2906,10 @@
    "role": "Sales Development Representative / Fx Sales Associate",
    "location": "Barcelona"
   },
-  "17d0494797e8fe1cf6f0c4147e692976": {
-   "id": "17d0494797e8fe1cf6f0c4147e692976",
-   "company": "Mango",
-   "role": "Dependiente/a Zona Sur De Madrid",
+  "8a74c5e6a81badf719691153ecca29ea": {
+   "id": "8a74c5e6a81badf719691153ecca29ea",
+   "company": "Minsait",
+   "role": "Technical Administrative Support",
    "location": "Madrid"
   },
   "bb7a781d25a6cbdb272a16328506b1be": {
@@ -2917,12 +2935,6 @@
    "company": "Ball",
    "role": "Manufacturing Excellence Specialist",
    "location": "Llinars Del VallèS"
-  },
-  "8a74c5e6a81badf719691153ecca29ea": {
-   "id": "8a74c5e6a81badf719691153ecca29ea",
-   "company": "Minsait",
-   "role": "Technical Administrative Support",
-   "location": "Madrid"
   },
   "985429a1534f289342bfcc8a157f2918": {
    "id": "985429a1534f289342bfcc8a157f2918",
@@ -3175,12 +3187,6 @@
    "company": "OCA Global Corporate Services S.A",
    "role": "Administrativo/a Gestión Cae",
    "location": "Madrid"
-  },
-  "0b28b64112c5ad7e65097d30e7c5a588": {
-   "id": "0b28b64112c5ad7e65097d30e7c5a588",
-   "company": "Jobgether",
-   "role": "Software Verification & Qa Specialist",
-   "location": "Spain"
   }
  }
 }

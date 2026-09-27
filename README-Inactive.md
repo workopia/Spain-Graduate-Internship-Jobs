@@ -2523,4 +2523,22 @@
 <tr><td>Mango</td><td>Dependiente/a Salamanca Toro 11-13 St 16h Fines De Semana</td><td>Salamanca</td><td>2026-09-27</td></tr>
 <tr><td>Mango</td><td>Dependiente/a Salamanca Toro 11-13 St 25h Tardes</td><td>Salamanca</td><td>2026-09-27</td></tr>
 <tr><td>Mango</td><td>Programa De Prácticas Vendedor/a Madrid</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Henkel</td><td>Intern Business Planning</td><td>Barcelona</td><td>2026-09-27</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas I+d Proyectos Europeos</td><td>Spain</td><td>2026-09-27</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon - Off-cycle Strategy & Transactions</td><td>Barcelona</td><td>2026-09-27</td></tr>
+<tr><td>Qualentum</td><td>Beca Proeduca - Ia</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Ferrovial</td><td>Internal Audit Internship</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>EY</td><td>Ey-parthenon - Off-cycle Strategy & Transactions</td><td>Barcelona</td><td>2026-09-27</td></tr>
+<tr><td>Valeo</td><td>Warranty Engineer Internship</td><td>Jaen</td><td>2026-09-27</td></tr>
+<tr><td>Meliá</td><td>Trainee Guest Experience- Innside Madrid Valdebebas</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Laboratory Animal Management Association</td><td>Beca Marketing Pulmón</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Solunion</td><td>Solunion First Steps - Programa De Prácticas</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>AIRBUS</td><td>#xplorer 2027 Protospace (rapid Prototyping)</td><td>Getafe Area</td><td>2026-09-27</td></tr>
+<tr><td>minsait</td><td>Distributed Critical Software Engineer (ada/c++) / Hybrid Madrid</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>minsait</td><td>Ingeniero/a Front Vue.js Intermediate / Ciberdefensa / Barcelona (híbrido)</td><td>Barcelona</td><td>2026-09-27</td></tr>
+<tr><td>minsait</td><td>Ingeniero/a De Software Aviónico Y Estándares</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-09-27</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Técnico/a De Mantenimiento Ascensores (empresa Afiliada)</td><td>Barcelona</td><td>2026-09-27</td></tr>
+<tr><td>Mango</td><td>Dependiente/a Zona Sur De Madrid</td><td>Madrid</td><td>2026-09-27</td></tr>
+<tr><td>Jobgether</td><td>Software Verification & Qa Specialist</td><td>Spain</td><td>2026-09-27</td></tr>
 </table>
