@@ -2541,4 +2541,5 @@
 <tr><td>Schindler Elevator Ltd</td><td>Técnico/a De Mantenimiento Ascensores (empresa Afiliada)</td><td>Barcelona</td><td>2026-09-27</td></tr>
 <tr><td>Mango</td><td>Dependiente/a Zona Sur De Madrid</td><td>Madrid</td><td>2026-09-27</td></tr>
 <tr><td>Jobgether</td><td>Software Verification & Qa Specialist</td><td>Spain</td><td>2026-09-27</td></tr>
+<tr><td>OCA Global Corporate Services S.A</td><td>Administrativo/a Gestión Cae</td><td>Madrid</td><td>2026-09-27</td></tr>
 </table>

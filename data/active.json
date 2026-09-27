@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-27",
- "count": 531,
+ "count": 530,
  "jobs": {
   "7d0d73ad62527ee252cde393ea8de557": {
    "id": "7d0d73ad62527ee252cde393ea8de557",
@@ -3181,12 +3181,6 @@
    "company": "Onebacardi",
    "role": "Customer Service Specialist, Europe (coe)",
    "location": "Barcelona"
-  },
-  "4444ac41f62ee5987abe317256cf78e6": {
-   "id": "4444ac41f62ee5987abe317256cf78e6",
-   "company": "OCA Global Corporate Services S.A",
-   "role": "Administrativo/a Gestión Cae",
-   "location": "Madrid"
   }
  }
 }
