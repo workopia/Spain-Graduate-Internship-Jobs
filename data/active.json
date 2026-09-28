@@ -1,7 +1,13 @@
 {
- "asOf": "2026-09-27",
- "count": 530,
+ "asOf": "2026-09-28",
+ "count": 532,
  "jobs": {
+  "c6e03adfdb9e2cfaad08c5de8d3a9bd2": {
+   "id": "c6e03adfdb9e2cfaad08c5de8d3a9bd2",
+   "company": "Coty Inc.",
+   "role": "Demand Intern",
+   "location": "Barcelona"
+  },
   "7d0d73ad62527ee252cde393ea8de557": {
    "id": "7d0d73ad62527ee252cde393ea8de557",
    "company": "Nordex SE",
@@ -476,12 +482,6 @@
    "role": "#xplorer 2027 A330 Mrtt Flight Line & Delivery Center Quality",
    "location": "Madrid"
   },
-  "4af99ae4922aaa9ab061f4c4ab832cd1": {
-   "id": "4af99ae4922aaa9ab061f4c4ab832cd1",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas Consultoría I+d",
-   "location": "Barcelona"
-  },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
    "company": "Monolithic Power Systems",
@@ -493,6 +493,18 @@
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
    "location": "Barcelona"
+  },
+  "dd1d17a05ee7cdae57b9f4aa9a120195": {
+   "id": "dd1d17a05ee7cdae57b9f4aa9a120195",
+   "company": "Airbus Defence and Space SAU",
+   "role": "Modelling And Simulation Junior Software Engineer",
+   "location": "Madrid"
+  },
+  "39c4985aceeb4fbda1176303d743f55b": {
+   "id": "39c4985aceeb4fbda1176303d743f55b",
+   "company": "Jobgether",
+   "role": "Software Engineer: Backend",
+   "location": "Spain"
   },
   "9ca9af0cc8b9155b7ad2e73cef67753b": {
    "id": "9ca9af0cc8b9155b7ad2e73cef67753b",
@@ -962,12 +974,6 @@
    "role": "Technical Service Representative",
    "location": "Barcelona"
   },
-  "3cb20333488c2c8f737ebf8e4805a3b7": {
-   "id": "3cb20333488c2c8f737ebf8e4805a3b7",
-   "company": "Jobgether",
-   "role": "Game Developer - Voxel-based Engine (java)",
-   "location": "Spain"
-  },
   "2291df6b5af7521781e5dd31e5c73e89": {
    "id": "2291df6b5af7521781e5dd31e5c73e89",
    "company": "SAP SE",
@@ -991,6 +997,12 @@
    "company": "Boston Consulting Group",
    "role": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
    "location": "Madrid"
+  },
+  "68fa2660a3a6f8c740d0cb85329920e6": {
+   "id": "68fa2660a3a6f8c740d0cb85329920e6",
+   "company": "Jobgether",
+   "role": "Data Scientist",
+   "location": "Spain"
   },
   "e366b0aa9641e9c095682f61556cd25b": {
    "id": "e366b0aa9641e9c095682f61556cd25b",
@@ -1952,6 +1964,12 @@
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
   },
+  "c50c38a020c56ad0e4732bafcad5fb2b": {
+   "id": "c50c38a020c56ad0e4732bafcad5fb2b",
+   "company": "Airbus SE",
+   "role": "Industrial Maintenance Technician (temp Agency)",
+   "location": "Madrid"
+  },
   "f0046077f292006c0590e6c69a251567": {
    "id": "f0046077f292006c0590e6c69a251567",
    "company": "Valmet",
@@ -2419,12 +2437,6 @@
    "company": "Meliá",
    "role": "Ayudante Servicios Técnicos (piscinero/a) - Sol Puerto Marina",
    "location": "Malaga"
-  },
-  "0f91135a08ca1a580c0d46c486247aa5": {
-   "id": "0f91135a08ca1a580c0d46c486247aa5",
-   "company": "Dover India",
-   "role": "Technical Service Engineer - Madrid Area",
-   "location": "Madrid"
   },
   "103d8406a5644a87c6c6527b3e3ede8b": {
    "id": "103d8406a5644a87c6c6527b3e3ede8b",
