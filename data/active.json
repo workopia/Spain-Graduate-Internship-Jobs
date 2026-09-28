@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-28",
- "count": 532,
+ "count": 530,
  "jobs": {
   "c6e03adfdb9e2cfaad08c5de8d3a9bd2": {
    "id": "c6e03adfdb9e2cfaad08c5de8d3a9bd2",
@@ -1920,18 +1920,6 @@
    "id": "1bf9cb48900371072a4a7febae3c3a73",
    "company": "Jobgether",
    "role": "Contract Business Analyst",
-   "location": "Spain"
-  },
-  "87c99cfd6eb3dd61cbb24dd0ca9b6096": {
-   "id": "87c99cfd6eb3dd61cbb24dd0ca9b6096",
-   "company": "Temporing",
-   "role": "Un/a Contable Para Incorporación Directa Por Empresa",
-   "location": "Barcelona"
-  },
-  "f47a385a951d82ecba5e5e53894945ec": {
-   "id": "f47a385a951d82ecba5e5e53894945ec",
-   "company": "Jobgether",
-   "role": "Compliance Analyst",
    "location": "Spain"
   },
   "fe4facdc272599509ea02cd772036b40": {

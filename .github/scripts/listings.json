@@ -12,8 +12,8 @@
   "as_of": "2026-09-28",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 5022,
-  "generated_at": "2026-09-28T01:11:06.583Z"
+  "country_live_total": 5021,
+  "generated_at": "2026-09-28T06:58:30.549Z"
  },
  "categories": [
   {
@@ -5511,40 +5511,6 @@
    "date_posted": "2026-07-31T05:40:58.340Z",
    "active": true,
    "url": "https://workopia.io/jobs/1bf9cb48900371072a4a7febae3c3a73",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "87c99cfd6eb3dd61cbb24dd0ca9b6096",
-   "source": "Workopia",
-   "company_name": "Temporing",
-   "company_hi_slug": "temporing",
-   "title": "Un/a Contable Para Incorporación Directa Por Empresa",
-   "location": "Barcelona",
-   "skills": "Registro de facturas, Conciliación bancaria",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-30T06:32:56.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/87c99cfd6eb3dd61cbb24dd0ca9b6096",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "f47a385a951d82ecba5e5e53894945ec",
-   "source": "Workopia",
-   "company_name": "Jobgether",
-   "company_hi_slug": "jobgether",
-   "title": "Compliance Analyst",
-   "location": "Spain",
-   "skills": "Regulatory compliance, Policy management",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-30T04:04:06.928Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/f47a385a951d82ecba5e5e53894945ec",
    "category": "finance",
    "tier": "Entry-level"
   },

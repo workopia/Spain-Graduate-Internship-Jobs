@@ -2545,4 +2545,6 @@
 <tr><td>Ernst & Young Global Ltd</td><td>Prácticas Consultoría I+d</td><td>Barcelona</td><td>2026-09-28</td></tr>
 <tr><td>Jobgether</td><td>Game Developer - Voxel-based Engine (java)</td><td>Spain</td><td>2026-09-28</td></tr>
 <tr><td>Dover India</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-09-28</td></tr>
+<tr><td>Temporing</td><td>Un/a Contable Para Incorporación Directa Por Empresa</td><td>Barcelona</td><td>2026-09-28</td></tr>
+<tr><td>Jobgether</td><td>Compliance Analyst</td><td>Spain</td><td>2026-09-28</td></tr>
 </table>
