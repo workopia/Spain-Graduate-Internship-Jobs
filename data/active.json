@@ -1,7 +1,49 @@
 {
- "asOf": "2026-09-28",
+ "asOf": "2026-09-29",
  "count": 530,
  "jobs": {
+  "93f9433880af1f931908770713abd406": {
+   "id": "93f9433880af1f931908770713abd406",
+   "company": "Newyorkbioconnect",
+   "role": "Beca Marketing Hipertensión Pulmonar",
+   "location": "Madrid"
+  },
+  "c7771a700a34c32e9ca5f10626d03e6c": {
+   "id": "c7771a700a34c32e9ca5f10626d03e6c",
+   "company": "Gameloft Australia",
+   "role": "Game Cinematic Artist Intern",
+   "location": "Barcelona"
+  },
+  "b3c77686721983150a1a2c25380ac4a6": {
+   "id": "b3c77686721983150a1a2c25380ac4a6",
+   "company": "Barcelo",
+   "role": "Personas Estudiantes De Prácticas De Hotel",
+   "location": "Santa Catalina"
+  },
+  "53b82bd88935ba38828c39f96d0a84c2": {
+   "id": "53b82bd88935ba38828c39f96d0a84c2",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Internship - Recruiting And Hr",
+   "location": "Madrid"
+  },
+  "563121764605868": {
+   "id": "563121764605868",
+   "company": "Ericsson",
+   "role": "Change Maker Internship",
+   "location": "Madrid"
+  },
+  "5bd8c1b29b89f5412b44359ec164b85a": {
+   "id": "5bd8c1b29b89f5412b44359ec164b85a",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Kitchen - September 2026",
+   "location": "Esplugues Llobregat"
+  },
+  "212dfd13dce3d4347350795c6940aff6": {
+   "id": "212dfd13dce3d4347350795c6940aff6",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship It - September 2026",
+   "location": "Esplugues Llobregat"
+  },
   "c6e03adfdb9e2cfaad08c5de8d3a9bd2": {
    "id": "c6e03adfdb9e2cfaad08c5de8d3a9bd2",
    "company": "Coty Inc.",
@@ -438,48 +480,6 @@
    "id": "9b79f66813884b474639fa622607c3cd",
    "company": "MAPFRE",
    "role": "Beca En Protocolo",
-   "location": "Madrid"
-  },
-  "1c869d63c6d00bc985167b7d929ea98f": {
-   "id": "1c869d63c6d00bc985167b7d929ea98f",
-   "company": "MAPFRE",
-   "role": "Beca En Infraestructura Reef",
-   "location": "Madrid"
-  },
-  "afaf4ac68ef146cba23bff2dd7c8c846": {
-   "id": "afaf4ac68ef146cba23bff2dd7c8c846",
-   "company": "Acciona",
-   "role": "Beca Desarrollo Aplicaciones .net",
-   "location": "Madrid"
-  },
-  "71bf7c288f4d671284cba25e9c7b57ea": {
-   "id": "71bf7c288f4d671284cba25e9c7b57ea",
-   "company": "Industria de Turbo Propulsores, S.A",
-   "role": "Beca Riesgos , Control Interno Y Auditoría Interna (f/m/x)",
-   "location": "Alcobendas"
-  },
-  "4bdfbe194aa18cc3700732cba5322791": {
-   "id": "4bdfbe194aa18cc3700732cba5322791",
-   "company": "ABB Ltd",
-   "role": "Internship: Hse Department Support",
-   "location": "Trapagaran"
-  },
-  "774d08a5429630e46ba481dc17344c03": {
-   "id": "774d08a5429630e46ba481dc17344c03",
-   "company": "ABB Ltd",
-   "role": "Internship: Purchasing Department Support",
-   "location": "Trapagaran"
-  },
-  "9a44d37e86b8a4d519788964953e3e51": {
-   "id": "9a44d37e86b8a4d519788964953e3e51",
-   "company": "AIRBUS",
-   "role": "#xplorer 2027 Optimization Of Load Introduction Analysis In Structural Tests",
-   "location": "Getafe Area"
-  },
-  "376cfe9518b4d568b8453a610964d62c": {
-   "id": "376cfe9518b4d568b8453a610964d62c",
-   "company": "AIRBUS",
-   "role": "#xplorer 2027 A330 Mrtt Flight Line & Delivery Center Quality",
    "location": "Madrid"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
@@ -1952,6 +1952,18 @@
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
   },
+  "29f938afb1b5501cd25fc99e125127f8": {
+   "id": "29f938afb1b5501cd25fc99e125127f8",
+   "company": "Alstom",
+   "role": "Técnico/a De Mantenimiento (electricista)",
+   "location": "Barcelona"
+  },
+  "62f9dd0479b6bed5e2b31ee5a11010c6": {
+   "id": "62f9dd0479b6bed5e2b31ee5a11010c6",
+   "company": "Alstom",
+   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
+   "location": "Madrid"
+  },
   "c50c38a020c56ad0e4732bafcad5fb2b": {
    "id": "c50c38a020c56ad0e4732bafcad5fb2b",
    "company": "Airbus SE",
@@ -2102,23 +2114,11 @@
    "role": "Maintenance Engineer",
    "location": "Madrid"
   },
-  "a6d39c1220707632311f9b3c5fff7c19": {
-   "id": "a6d39c1220707632311f9b3c5fff7c19",
-   "company": "Alstom",
-   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
-   "location": "Barcelona"
-  },
   "a47e09ad2564b1ffad439c9bc12ae89f": {
    "id": "a47e09ad2564b1ffad439c9bc12ae89f",
    "company": "Alstom",
    "role": "Operario/a De Mantenimiento Pinto Temporal",
    "location": "Madrid"
-  },
-  "29f938afb1b5501cd25fc99e125127f8": {
-   "id": "29f938afb1b5501cd25fc99e125127f8",
-   "company": "Alstom",
-   "role": "Técnico/a De Mantenimiento (electricista)",
-   "location": "Barcelona"
   },
   "64bc78d2e2f137b7e3d21724f3eb9616": {
    "id": "64bc78d2e2f137b7e3d21724f3eb9616",
@@ -2426,34 +2426,82 @@
    "role": "Ayudante Servicios Técnicos (piscinero/a) - Sol Puerto Marina",
    "location": "Malaga"
   },
-  "103d8406a5644a87c6c6527b3e3ede8b": {
-   "id": "103d8406a5644a87c6c6527b3e3ede8b",
+  "ab7898a9550c220cb31e41a75071158e": {
+   "id": "ab7898a9550c220cb31e41a75071158e",
    "company": "adidas AG",
-   "role": "Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h",
+   "role": "Sales Associate - Fo Viladecans",
+   "location": "Barcelona"
+  },
+  "987cdf6bd398dc99ce1b0e652af2d494": {
+   "id": "987cdf6bd398dc99ce1b0e652af2d494",
+   "company": "adidas AG",
+   "role": "Sales Associate Part Time 20h - Fo La Roca",
+   "location": "Barcelona"
+  },
+  "16bcb7a5f8914ed019d1847e39792ce0": {
+   "id": "16bcb7a5f8914ed019d1847e39792ce0",
+   "company": "adidas AG",
+   "role": "Sales Associate (part Time) - Adidas Fo Rivas-vaciamadrid",
+   "location": "Madrid"
+  },
+  "5105f0921563d827621bb8d754a0e873": {
+   "id": "5105f0921563d827621bb8d754a0e873",
+   "company": "adidas AG",
+   "role": "Sales Associate Fo San Sebastian De Los Reyes",
+   "location": "Madrid"
+  },
+  "dda60886198099f314778f07603b66cc": {
+   "id": "dda60886198099f314778f07603b66cc",
+   "company": "adidas AG",
+   "role": "Sales Associate",
+   "location": "Barcelona"
+  },
+  "d002a008ec3c50e66dc91b6b64034bf4": {
+   "id": "d002a008ec3c50e66dc91b6b64034bf4",
+   "company": "adidas AG",
+   "role": "Sales Associate - Ssrr (madrid) Temporal Navidad",
    "location": "Salamanca"
   },
-  "25cb9a402cc5f222e8ebbf5487bed033": {
-   "id": "25cb9a402cc5f222e8ebbf5487bed033",
+  "30f1197bd9c6eddde8cd52190dda9326": {
+   "id": "30f1197bd9c6eddde8cd52190dda9326",
+   "company": "adidas AG",
+   "role": "Sales Associate (part Time) - Fo Las Rozas.",
+   "location": "Madrid"
+  },
+  "3f4744d4754aa080cfadbb91d9024782": {
+   "id": "3f4744d4754aa080cfadbb91d9024782",
    "company": "adidas AG",
    "role": "Vendedor/a Campaña Navidad/rebajas 20h/semana Adidas Cc Eci Pozuelo",
    "location": "Madrid"
   },
-  "a8901fc8e40fc4c0a8917b3fe65c49a5": {
-   "id": "a8901fc8e40fc4c0a8917b3fe65c49a5",
+  "47b0084dc2a012c715400cf3243ef302": {
+   "id": "47b0084dc2a012c715400cf3243ef302",
    "company": "adidas AG",
-   "role": "Sales Associate (part Time) - Bc Gran Via",
+   "role": "Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets",
    "location": "Madrid"
   },
-  "ef6ae96eff6be818e8be44ac911a371b": {
-   "id": "ef6ae96eff6be818e8be44ac911a371b",
+  "c7b909d6a86a9d029edbf97fca308a3b": {
+   "id": "c7b909d6a86a9d029edbf97fca308a3b",
    "company": "adidas AG",
    "role": "Sales Associate Castellana 20 Horas Tarde Navidades",
    "location": "Madrid"
   },
-  "54b8aac2ce0b706fe3791b7089c5be64": {
-   "id": "54b8aac2ce0b706fe3791b7089c5be64",
+  "4a4581cacf1fdb0e006a207dbcbe1f08": {
+   "id": "4a4581cacf1fdb0e006a207dbcbe1f08",
    "company": "adidas AG",
-   "role": "Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets",
+   "role": "Sales Associate (part Time) - Bc Gran Via",
+   "location": "Madrid"
+  },
+  "60dfa336954c6cffcdcc9b55b1cced47": {
+   "id": "60dfa336954c6cffcdcc9b55b1cced47",
+   "company": "H&M",
+   "role": "Sales Advisor (20 Horas)",
+   "location": "Madrid"
+  },
+  "103d8406a5644a87c6c6527b3e3ede8b": {
+   "id": "103d8406a5644a87c6c6527b3e3ede8b",
+   "company": "adidas AG",
+   "role": "Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h",
    "location": "Salamanca"
   },
   "68337fc00ce41b093611ec2a25dd3671": {
@@ -2516,12 +2564,6 @@
    "role": "Asesor-a De Ventas / Sales Associates W/m - 20h Fijo Discontinuo - Eci Sanchinarro",
    "location": "Madrid"
   },
-  "8675cb64c526a71d0f833c81a5b3cce4": {
-   "id": "8675cb64c526a71d0f833c81a5b3cce4",
-   "company": "H&M",
-   "role": "Sales Advisor (20 Horas)",
-   "location": "Barcelona"
-  },
   "80160d37c0ad215a16effc92b3b4e406": {
    "id": "80160d37c0ad215a16effc92b3b4e406",
    "company": "Condis Supermercats S.A",
@@ -2575,24 +2617,6 @@
    "company": "Temporing",
    "role": "Carretillero/a Preparador/a De Pedidos",
    "location": "Barcelona"
-  },
-  "3c768bf711bc589a7167434c1ad76368": {
-   "id": "3c768bf711bc589a7167434c1ad76368",
-   "company": "adidas AG",
-   "role": "Sales Associate (part Time) - Adidas Fo Rivas-vaciamadrid",
-   "location": "Salamanca"
-  },
-  "e2eb81e679fbd4d9c1fe261888adddd4": {
-   "id": "e2eb81e679fbd4d9c1fe261888adddd4",
-   "company": "adidas AG",
-   "role": "Sales Associate Fo San Sebastian De Los Reyes",
-   "location": "Salamanca"
-  },
-  "a64ff0293e98a34a14fd06ee7f6a1c60": {
-   "id": "a64ff0293e98a34a14fd06ee7f6a1c60",
-   "company": "adidas AG",
-   "role": "Sales Associate (part Time) - Fo Las Rozas.",
-   "location": "Madrid"
   },
   "f7116cdf315d49ea6d0d57b7d4b14762": {
    "id": "f7116cdf315d49ea6d0d57b7d4b14762",
@@ -2882,28 +2906,10 @@
    "role": "Venedor/a A Sabadell - 16h Caps De Setmana, Contracte Indefinit",
    "location": "Barcelona"
   },
-  "cb65f7b5b5ef52ad0961a05a613a8311": {
-   "id": "cb65f7b5b5ef52ad0961a05a613a8311",
-   "company": "Ametller Origen",
-   "role": "Venedor/a A L'ametlla Del Vallés - 30h Rotatiu, Contracte Indefinit",
-   "location": "Barcelona"
-  },
-  "cdea66aedd0c7f7353c2c7e5cd2d06cf": {
-   "id": "cdea66aedd0c7f7353c2c7e5cd2d06cf",
-   "company": "Kipling",
-   "role": "Vendedor 35h Kipling - Barcelona",
-   "location": "Barcelona"
-  },
-  "26b12c51c7e8f401278d9dc7ae0f0784": {
-   "id": "26b12c51c7e8f401278d9dc7ae0f0784",
-   "company": "SIXIT",
-   "role": "Rental Sales Agent (m/f/d) - Madrid Pozuelo",
-   "location": "Madrid"
-  },
-  "e1c8654f9fe12d7be409466e739a3b28": {
-   "id": "e1c8654f9fe12d7be409466e739a3b28",
-   "company": "Ebury",
-   "role": "Sales Development Representative / Fx Sales Associate",
+  "d4c45ea37da80db8517517887eb7b90b": {
+   "id": "d4c45ea37da80db8517517887eb7b90b",
+   "company": "Temporing",
+   "role": "Administrativo/a Customer Service - Sant Boi De Llobregat",
    "location": "Barcelona"
   },
   "8a74c5e6a81badf719691153ecca29ea": {
@@ -3031,12 +3037,6 @@
    "company": "Melia",
    "role": "F&b Luxury B & Sa Out Specialist",
    "location": "Islas Baleares"
-  },
-  "d4c45ea37da80db8517517887eb7b90b": {
-   "id": "d4c45ea37da80db8517517887eb7b90b",
-   "company": "Temporing",
-   "role": "Administrativo/a Customer Service - Sant Boi De Llobregat",
-   "location": "Barcelona"
   },
   "651ebefbadde3c837d46b132c793f026": {
    "id": "651ebefbadde3c837d46b132c793f026",

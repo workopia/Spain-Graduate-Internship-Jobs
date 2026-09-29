@@ -2547,4 +2547,24 @@
 <tr><td>Dover India</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-09-28</td></tr>
 <tr><td>Temporing</td><td>Un/a Contable Para Incorporación Directa Por Empresa</td><td>Barcelona</td><td>2026-09-28</td></tr>
 <tr><td>Jobgether</td><td>Compliance Analyst</td><td>Spain</td><td>2026-09-28</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Infraestructura Reef</td><td>Madrid</td><td>2026-09-29</td></tr>
+<tr><td>Acciona</td><td>Beca Desarrollo Aplicaciones .net</td><td>Madrid</td><td>2026-09-29</td></tr>
+<tr><td>Industria de Turbo Propulsores, S.A</td><td>Beca Riesgos , Control Interno Y Auditoría Interna (f/m/x)</td><td>Alcobendas</td><td>2026-09-29</td></tr>
+<tr><td>ABB Ltd</td><td>Internship: Hse Department Support</td><td>Trapagaran</td><td>2026-09-29</td></tr>
+<tr><td>ABB Ltd</td><td>Internship: Purchasing Department Support</td><td>Trapagaran</td><td>2026-09-29</td></tr>
+<tr><td>AIRBUS</td><td>#xplorer 2027 Optimization Of Load Introduction Analysis In Structural Tests</td><td>Getafe Area</td><td>2026-09-29</td></tr>
+<tr><td>AIRBUS</td><td>#xplorer 2027 A330 Mrtt Flight Line & Delivery Center Quality</td><td>Madrid</td><td>2026-09-29</td></tr>
+<tr><td>Alstom</td><td>Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Barcelona</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Vendedor/a Campaña Navidad/rebajas 20h/semana Adidas Cc Eci Pozuelo</td><td>Madrid</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate (part Time) - Bc Gran Via</td><td>Madrid</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Castellana 20 Horas Tarde Navidades</td><td>Madrid</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets</td><td>Salamanca</td><td>2026-09-29</td></tr>
+<tr><td>H&M</td><td>Sales Advisor (20 Horas)</td><td>Barcelona</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate (part Time) - Adidas Fo Rivas-vaciamadrid</td><td>Salamanca</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Fo San Sebastian De Los Reyes</td><td>Salamanca</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate (part Time) - Fo Las Rozas.</td><td>Madrid</td><td>2026-09-29</td></tr>
+<tr><td>Ametller Origen</td><td>Venedor/a A L'ametlla Del Vallés - 30h Rotatiu, Contracte Indefinit</td><td>Barcelona</td><td>2026-09-29</td></tr>
+<tr><td>Kipling</td><td>Vendedor 35h Kipling - Barcelona</td><td>Barcelona</td><td>2026-09-29</td></tr>
+<tr><td>SIXIT</td><td>Rental Sales Agent (m/f/d) - Madrid Pozuelo</td><td>Madrid</td><td>2026-09-29</td></tr>
+<tr><td>Ebury</td><td>Sales Development Representative / Fx Sales Associate</td><td>Barcelona</td><td>2026-09-29</td></tr>
 </table>
