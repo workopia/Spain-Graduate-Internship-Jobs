@@ -2567,4 +2567,5 @@
 <tr><td>Kipling</td><td>Vendedor 35h Kipling - Barcelona</td><td>Barcelona</td><td>2026-09-29</td></tr>
 <tr><td>SIXIT</td><td>Rental Sales Agent (m/f/d) - Madrid Pozuelo</td><td>Madrid</td><td>2026-09-29</td></tr>
 <tr><td>Ebury</td><td>Sales Development Representative / Fx Sales Associate</td><td>Barcelona</td><td>2026-09-29</td></tr>
+<tr><td>Jobgether</td><td>Contract Business Analyst</td><td>Spain</td><td>2026-09-29</td></tr>
 </table>

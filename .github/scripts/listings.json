@@ -12,8 +12,8 @@
   "as_of": "2026-09-29",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 5020,
-  "generated_at": "2026-09-29T01:05:33.583Z"
+  "country_live_total": 5009,
+  "generated_at": "2026-09-29T06:58:02.802Z"
  },
  "categories": [
   {
@@ -5494,23 +5494,6 @@
    "date_posted": "2026-08-06T13:01:12.990Z",
    "active": true,
    "url": "https://workopia.io/jobs/e0ac2710a9d797651d02bb24682f1c19",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "1bf9cb48900371072a4a7febae3c3a73",
-   "source": "Workopia",
-   "company_name": "Jobgether",
-   "company_hi_slug": "jobgether",
-   "title": "Contract Business Analyst",
-   "location": "Spain",
-   "skills": "Digital transformation, Technical requirements",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-31T05:40:58.340Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/1bf9cb48900371072a4a7febae3c3a73",
    "category": "finance",
    "tier": "Entry-level"
   },

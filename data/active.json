@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-29",
- "count": 530,
+ "count": 529,
  "jobs": {
   "93f9433880af1f931908770713abd406": {
    "id": "93f9433880af1f931908770713abd406",
@@ -1915,12 +1915,6 @@
    "company": "Zurich Insurance Company Ltd",
    "role": "Consultor/a Seguros Previsión Social Empresas",
    "location": "Barcelona"
-  },
-  "1bf9cb48900371072a4a7febae3c3a73": {
-   "id": "1bf9cb48900371072a4a7febae3c3a73",
-   "company": "Jobgether",
-   "role": "Contract Business Analyst",
-   "location": "Spain"
   },
   "fe4facdc272599509ea02cd772036b40": {
    "id": "fe4facdc272599509ea02cd772036b40",
