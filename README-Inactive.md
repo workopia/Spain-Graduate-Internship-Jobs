@@ -2568,4 +2568,35 @@
 <tr><td>SIXIT</td><td>Rental Sales Agent (m/f/d) - Madrid Pozuelo</td><td>Madrid</td><td>2026-09-29</td></tr>
 <tr><td>Ebury</td><td>Sales Development Representative / Fx Sales Associate</td><td>Barcelona</td><td>2026-09-29</td></tr>
 <tr><td>Jobgether</td><td>Contract Business Analyst</td><td>Spain</td><td>2026-09-29</td></tr>
+<tr><td>BBVA</td><td>Beca Off-cycle M&a Cib</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>Coty Inc</td><td>Visibility & Merchandising Intern</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#xplorer 2027 Mission System Sw Internship</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>THALES</td><td>Threat Hunting & Incident Response Intern</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>Melia</td><td>Prácticas Guest Experience - Meliá Palma Marina</td><td>Islas Baleares</td><td>2026-09-30</td></tr>
+<tr><td>Palladium Hotel Group</td><td>Prácticas - Mice Corporativo - Oficinas Centrales Madrid</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Comms & Ai Intern</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Intern</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>VeryChic</td><td>Crm Intern</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Junior Powerapps Developer Intern</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Hr Labor Relations Internship</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Mango</td><td>Intern Pricing Markdown</td><td>Palau</td><td>2026-09-30</td></tr>
+<tr><td>Barcelo</td><td>Prácticas Revenue Management - Clúster Madrid</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Finance - September 2026</td><td>Esplugues Llobregat</td><td>2026-09-30</td></tr>
+<tr><td>Hilton Worldwide</td><td>Front Office Intern</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>SAP</td><td>Sap Ixp Intern - Talent Journey Coordinator Internship</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Smith+Nephew</td><td>Intern Sports Medicine</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Control Y Seguimiento</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Protocolo</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>Santander Auto Software</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer – Ai-assisted Full-stack Developement</td><td>Spain</td><td>2026-09-30</td></tr>
+<tr><td>Jobgether</td><td>Software Development Engineer Iii</td><td>Spain</td><td>2026-09-30</td></tr>
+<tr><td>Betechwithsantander</td><td>Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds</td><td>Madrid</td><td>2026-09-30</td></tr>
+<tr><td>Nouryon</td><td>Technical Service Representative</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Meliá</td><td>Ayudante Servicios Técnicos (piscinero/a) - Sol Puerto Marina</td><td>Malaga</td><td>2026-09-30</td></tr>
+<tr><td>ACCIONA Energía</td><td>Vendedor/a Flagship</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Skechers U.S.A., Inc</td><td>Vendedor/a - Jornada Parcial 20h - Parc Vallés</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Skechers</td><td>Vendedor/a - Jornada Parcial 20h - Parc Vallés</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Ametller Origen</td><td>Venedor/a A Sant Cugat Del Vallés - 40h Rotatiu, Contracte Substitució</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Ametller Origen</td><td>Venedor/a A Sabadell - 16h Caps De Setmana, Contracte Indefinit</td><td>Barcelona</td><td>2026-09-30</td></tr>
 </table>

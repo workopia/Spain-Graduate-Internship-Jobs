@@ -1,7 +1,109 @@
 {
- "asOf": "2026-09-29",
- "count": 529,
+ "asOf": "2026-09-30",
+ "count": 535,
  "jobs": {
+  "8a05658e99b8df881d3e7e297571407d": {
+   "id": "8a05658e99b8df881d3e7e297571407d",
+   "company": "Enagas",
+   "role": "Beca Comunicación Interna Y Marca, Contenidos Y Posicionamiento / Madrid",
+   "location": "Madrid"
+  },
+  "46034c9cca1c135be6ab480aec0f6d89": {
+   "id": "46034c9cca1c135be6ab480aec0f6d89",
+   "company": "ATREVIA",
+   "role": "Beca Gestión De Administración De Personal - Atrevia Mad",
+   "location": "Madrid"
+  },
+  "f9b40684ebbf20dd9972cb801b67ac4f": {
+   "id": "f9b40684ebbf20dd9972cb801b67ac4f",
+   "company": "Acciona",
+   "role": "Beca Asesoría Jurídico Laboral",
+   "location": "Madrid"
+  },
+  "2d2e73f32fe13fa27e2c3280334d0ac5": {
+   "id": "2d2e73f32fe13fa27e2c3280334d0ac5",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Estudiante En Prácticas -- Departamento Rbem/mss1",
+   "location": "Madrid"
+  },
+  "563705891912366": {
+   "id": "563705891912366",
+   "company": "Kering Eyewear",
+   "role": "Kering Eyewear Finance Intern",
+   "location": "Barcelona"
+  },
+  "57381e21fcd088e1a7c58916dd7d2821": {
+   "id": "57381e21fcd088e1a7c58916dd7d2821",
+   "company": "Coty",
+   "role": "Marketing Consumer Beauty Intern",
+   "location": "Barcelona"
+  },
+  "3f6a21abd41ba4cc44eb9f7837c52070": {
+   "id": "3f6a21abd41ba4cc44eb9f7837c52070",
+   "company": "Marsh McLennan",
+   "role": "Beca Rrhh",
+   "location": "Madrid"
+  },
+  "a940c8fffa8ccaa5e3e2193aeb2797a8": {
+   "id": "a940c8fffa8ccaa5e3e2193aeb2797a8",
+   "company": "Criteo",
+   "role": "Business Process Specialist Intern",
+   "location": "Barcelona"
+  },
+  "a22a26cd76cedb537cd4a09470be8219": {
+   "id": "a22a26cd76cedb537cd4a09470be8219",
+   "company": "Akamai Technologies",
+   "role": "Emerging Talent Intern - Part-time Remote",
+   "location": "Spain"
+  },
+  "c31fe98fe059593c0dbce0e9bd38f641": {
+   "id": "c31fe98fe059593c0dbce0e9bd38f641",
+   "company": "Ivivamedical",
+   "role": "Intern - Country Site Activation",
+   "location": "Madrid"
+  },
+  "8efb4ac9b25a9b3fbc6653d2e1ffdfcf": {
+   "id": "8efb4ac9b25a9b3fbc6653d2e1ffdfcf",
+   "company": "EY",
+   "role": "Ey-parthenon - Off-cycle Strategy & Transactions",
+   "location": "Madrid"
+  },
+  "c04b83f640d745d7f30a0135cd58d306": {
+   "id": "c04b83f640d745d7f30a0135cd58d306",
+   "company": "Airbus Defence and Space SAU",
+   "role": "#xplorer 2027 Training Simulators",
+   "location": "Madrid"
+  },
+  "1e776c4b12c53ff0e80081e20310be48": {
+   "id": "1e776c4b12c53ff0e80081e20310be48",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Prácticas En Logística - Componentes Y Sensores",
+   "location": "Madrid"
+  },
+  "f5b01ffa67a3584b709bedc0c280ce60": {
+   "id": "f5b01ffa67a3584b709bedc0c280ce60",
+   "company": "Glovo",
+   "role": "Category Management Intern Mfc",
+   "location": "Madrid"
+  },
+  "48c627c5587b195379ca538e04983a60": {
+   "id": "48c627c5587b195379ca538e04983a60",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Estudiante En Prácticas – Departamento De Producción Mse 1.1 (c)",
+   "location": "Madrid"
+  },
+  "466ef02058e714455f4bd17ff66fbd7a": {
+   "id": "466ef02058e714455f4bd17ff66fbd7a",
+   "company": "Bosch Group",
+   "role": "Estudiante En Prácticas -- Departamento Rbem/mss1",
+   "location": "Madrid"
+  },
+  "a46683623a7c02752af11684da255336": {
+   "id": "a46683623a7c02752af11684da255336",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Estudiante En Prácticas – Departamento De Logística Lop2",
+   "location": "Madrid"
+  },
   "93f9433880af1f931908770713abd406": {
    "id": "93f9433880af1f931908770713abd406",
    "company": "Newyorkbioconnect",
@@ -31,6 +133,18 @@
    "company": "Ericsson",
    "role": "Change Maker Internship",
    "location": "Madrid"
+  },
+  "bd523051ba5c5629fab11f1968cd6875": {
+   "id": "bd523051ba5c5629fab11f1968cd6875",
+   "company": "The Ritz-Carlton",
+   "role": "University Intern",
+   "location": "Islas Baleares"
+  },
+  "009950c0db819960b00c6f45e276a03b": {
+   "id": "009950c0db819960b00c6f45e276a03b",
+   "company": "Marriott International",
+   "role": "University Intern",
+   "location": "Islas Baleares"
   },
   "5bd8c1b29b89f5412b44359ec164b85a": {
    "id": "5bd8c1b29b89f5412b44359ec164b85a",
@@ -368,120 +482,6 @@
    "role": "Implementation Intern - Programa On En Roche 2026",
    "location": "Madrid"
   },
-  "8db210811d7cf73d1b75285cbecfd282": {
-   "id": "8db210811d7cf73d1b75285cbecfd282",
-   "company": "BBVA",
-   "role": "Beca Off-cycle M&a Cib",
-   "location": "Madrid"
-  },
-  "d37d555a3feacafffa718be63c100324": {
-   "id": "d37d555a3feacafffa718be63c100324",
-   "company": "Coty Inc",
-   "role": "Visibility & Merchandising Intern",
-   "location": "Barcelona"
-  },
-  "fb5e3736113b739ebf741e6f35526270": {
-   "id": "fb5e3736113b739ebf741e6f35526270",
-   "company": "Airbus Defence and Space SAU",
-   "role": "#xplorer 2027 Mission System Sw Internship",
-   "location": "Madrid"
-  },
-  "495cd06fc2352d2a08c8b9796663fc3a": {
-   "id": "495cd06fc2352d2a08c8b9796663fc3a",
-   "company": "THALES",
-   "role": "Threat Hunting & Incident Response Intern",
-   "location": "Madrid"
-  },
-  "f25399bb4b9ac39c3f42387a7bde15e3": {
-   "id": "f25399bb4b9ac39c3f42387a7bde15e3",
-   "company": "Melia",
-   "role": "Prácticas Guest Experience - Meliá Palma Marina",
-   "location": "Islas Baleares"
-  },
-  "d827689ad5b5f20e4c6bff7f07ac77d5": {
-   "id": "d827689ad5b5f20e4c6bff7f07ac77d5",
-   "company": "Palladium Hotel Group",
-   "role": "Prácticas - Mice Corporativo - Oficinas Centrales Madrid",
-   "location": "Madrid"
-  },
-  "d97c37b5240332f1274c9abc90e8ed00": {
-   "id": "d97c37b5240332f1274c9abc90e8ed00",
-   "company": "Delivery Hero (foodpanda)",
-   "role": "Comms & Ai Intern",
-   "location": "Barcelona"
-  },
-  "ec579c726dd50fe7516797e5e53147cb": {
-   "id": "ec579c726dd50fe7516797e5e53147cb",
-   "company": "Cushman & Wakefield",
-   "role": "Intern",
-   "location": "Madrid"
-  },
-  "d6759e559e9ff3bf02f4664001953df9": {
-   "id": "d6759e559e9ff3bf02f4664001953df9",
-   "company": "VeryChic",
-   "role": "Crm Intern",
-   "location": "Barcelona"
-  },
-  "b4b1c42114c8311a077046208bbba20c": {
-   "id": "b4b1c42114c8311a077046208bbba20c",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Junior Powerapps Developer Intern",
-   "location": "Barcelona"
-  },
-  "3b3913473de8bcb76201a0f4bb5bbb4a": {
-   "id": "3b3913473de8bcb76201a0f4bb5bbb4a",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Hr Labor Relations Internship",
-   "location": "Barcelona"
-  },
-  "73afcb1b559f36753d6d73e4f5f74700": {
-   "id": "73afcb1b559f36753d6d73e4f5f74700",
-   "company": "Mango",
-   "role": "Intern Pricing Markdown",
-   "location": "Palau"
-  },
-  "33f7120fa5f4d3c0041e0f976caea59e": {
-   "id": "33f7120fa5f4d3c0041e0f976caea59e",
-   "company": "Barcelo",
-   "role": "Prácticas Revenue Management - Clúster Madrid",
-   "location": "Madrid"
-  },
-  "d2216879f5203c028d112ade19f3a658": {
-   "id": "d2216879f5203c028d112ade19f3a658",
-   "company": "Nestle Ltd",
-   "role": "Spain Youth / Internship Finance - September 2026",
-   "location": "Esplugues Llobregat"
-  },
-  "f53fab7e2780bb5d95e88e672a9cc20f": {
-   "id": "f53fab7e2780bb5d95e88e672a9cc20f",
-   "company": "Hilton Worldwide",
-   "role": "Front Office Intern",
-   "location": "Madrid"
-  },
-  "fe4fe63ae78da6727fd41e92a77fe039": {
-   "id": "fe4fe63ae78da6727fd41e92a77fe039",
-   "company": "SAP",
-   "role": "Sap Ixp Intern - Talent Journey Coordinator Internship",
-   "location": "Barcelona"
-  },
-  "a1973a1590b0d01e3ddb9c5dcd966022": {
-   "id": "a1973a1590b0d01e3ddb9c5dcd966022",
-   "company": "Smith+Nephew",
-   "role": "Intern Sports Medicine",
-   "location": "Barcelona"
-  },
-  "89d056fdd70681a2fca6ec44eeac590f": {
-   "id": "89d056fdd70681a2fca6ec44eeac590f",
-   "company": "MAPFRE",
-   "role": "Beca En Control Y Seguimiento",
-   "location": "Madrid"
-  },
-  "9b79f66813884b474639fa622607c3cd": {
-   "id": "9b79f66813884b474639fa622607c3cd",
-   "company": "MAPFRE",
-   "role": "Beca En Protocolo",
-   "location": "Madrid"
-  },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
    "company": "Monolithic Power Systems",
@@ -493,6 +493,42 @@
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
    "location": "Barcelona"
+  },
+  "b5a542630605c0cbd64285c91c563ec7": {
+   "id": "b5a542630605c0cbd64285c91c563ec7",
+   "company": "Powens",
+   "role": "Software Engineer - Aggregation And Data Enrichment",
+   "location": "Barcelona"
+  },
+  "f1553e924b56ecc731733381c5c0804c": {
+   "id": "f1553e924b56ecc731733381c5c0804c",
+   "company": "Lighthouse",
+   "role": "Backend Engineer – Data Acquisition",
+   "location": "Barcelona"
+  },
+  "563018696124851": {
+   "id": "563018696124851",
+   "company": "Vodafone",
+   "role": "Network And Software Engineer",
+   "location": "Madrid"
+  },
+  "18a7f3c642dce69e878668cba3ed2345": {
+   "id": "18a7f3c642dce69e878668cba3ed2345",
+   "company": "Accenture Australia",
+   "role": "Microservices Software Engineering",
+   "location": "Madrid"
+  },
+  "03b598989a0f4a858169e9e3b8313062": {
+   "id": "03b598989a0f4a858169e9e3b8313062",
+   "company": "Jobgether",
+   "role": "Python Engineer",
+   "location": "Spain"
+  },
+  "9c4e4fb4b5dcdd239c4e42204ba90d26": {
+   "id": "9c4e4fb4b5dcdd239c4e42204ba90d26",
+   "company": "Jobgether",
+   "role": "Linux Kernel Engineer",
+   "location": "Spain"
   },
   "dd1d17a05ee7cdae57b9f4aa9a120195": {
    "id": "dd1d17a05ee7cdae57b9f4aa9a120195",
@@ -938,41 +974,17 @@
    "role": "Frontend Engineer",
    "location": "Madrid"
   },
-  "3e08bc1094d5723de1dc974084cb939f": {
-   "id": "3e08bc1094d5723de1dc974084cb939f",
-   "company": "Santander Auto Software",
-   "role": "Frontend Engineer",
-   "location": "Madrid"
-  },
-  "412b530734d503261cb876a332d8b192": {
-   "id": "412b530734d503261cb876a332d8b192",
-   "company": "Jobgether",
-   "role": "Software Engineer – Ai-assisted Full-stack Developement",
-   "location": "Spain"
-  },
-  "3900f548f95348871e6873fd5ea8ead6": {
-   "id": "3900f548f95348871e6873fd5ea8ead6",
-   "company": "Jobgether",
-   "role": "Software Development Engineer Iii",
-   "location": "Spain"
-  },
-  "5b45d03befb2a8cb918c2c396014f256": {
-   "id": "5b45d03befb2a8cb918c2c396014f256",
-   "company": "Betechwithsantander",
-   "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
-   "location": "Madrid"
-  },
-  "f88b0851fa4c021250dfde5a038048c0": {
-   "id": "f88b0851fa4c021250dfde5a038048c0",
-   "company": "SANTANDER CONSUMER BANK S.p.A",
-   "role": "Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds",
-   "location": "Madrid"
-  },
-  "e70fdbbe404f00cd0d2081147fc76a47": {
-   "id": "e70fdbbe404f00cd0d2081147fc76a47",
-   "company": "Nouryon",
-   "role": "Technical Service Representative",
+  "1dd4ae66c5b8721c2cfd53a141b2776e": {
+   "id": "1dd4ae66c5b8721c2cfd53a141b2776e",
+   "company": "Delivery Hero (foodpanda)",
+   "role": "Internship - Data Analyst",
    "location": "Barcelona"
+  },
+  "dc519a81216b405e2abd1d71cb1426d5": {
+   "id": "dc519a81216b405e2abd1d71cb1426d5",
+   "company": "Celonis",
+   "role": "Intern Applied Ai Engineering / Strategic Consulting (coe Tiger Team)",
+   "location": "Madrid"
   },
   "2291df6b5af7521781e5dd31e5c73e89": {
    "id": "2291df6b5af7521781e5dd31e5c73e89",
@@ -997,6 +1009,24 @@
    "company": "Boston Consulting Group",
    "role": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
    "location": "Madrid"
+  },
+  "3b11b9c3abe43d180070a041fb0ac6ea": {
+   "id": "3b11b9c3abe43d180070a041fb0ac6ea",
+   "company": "Enagas",
+   "role": "Beca Analítica Y Ciencia De Datos Aplicada A Gestión De Activos / Madrid",
+   "location": "Madrid"
+  },
+  "78516a669e9ded46f4f27b4642e149c0": {
+   "id": "78516a669e9ded46f4f27b4642e149c0",
+   "company": "IQVIA",
+   "role": "Aiml Engineer, Agentic Ai Coa Accelerator",
+   "location": "Madrid"
+  },
+  "4ea12c5d502fb1dc76719ebd6fde488d": {
+   "id": "4ea12c5d502fb1dc76719ebd6fde488d",
+   "company": "Tripledot Studios",
+   "role": "Data Analyst",
+   "location": "Barcelona"
   },
   "68fa2660a3a6f8c740d0cb85329920e6": {
    "id": "68fa2660a3a6f8c740d0cb85329920e6",
@@ -1478,6 +1508,12 @@
    "role": "Accountant Trainee",
    "location": "Barcelona"
   },
+  "6900228e8d4fe2b196501c0357700541": {
+   "id": "6900228e8d4fe2b196501c0357700541",
+   "company": "Jobgether",
+   "role": "Transformation And Change Management Practitioner",
+   "location": "Spain"
+  },
   "d8ecadf4fae80d4e54f2624e7f96a57b": {
    "id": "d8ecadf4fae80d4e54f2624e7f96a57b",
    "company": "NERA Economic Consulting",
@@ -1944,6 +1980,12 @@
    "id": "631a3bfb3716e30a2b19aa75b5e4ff65",
    "company": "FRESENIUS MEDICAL CARE",
    "role": "Nefrólogo/a (hospitalet)",
+   "location": "Barcelona"
+  },
+  "2a91277babeb25cb970ede270d45c6b1": {
+   "id": "2a91277babeb25cb970ede270d45c6b1",
+   "company": "HARTMANN",
+   "role": "Técnico Eléctrico De Turno (fines De Semana)",
    "location": "Barcelona"
   },
   "29f938afb1b5501cd25fc99e125127f8": {
@@ -2414,11 +2456,35 @@
    "role": "Field Service Engineer",
    "location": "Madrid"
   },
-  "bf52ca670db1d8e1a9985860aff6a383": {
-   "id": "bf52ca670db1d8e1a9985860aff6a383",
-   "company": "Meliá",
-   "role": "Ayudante Servicios Técnicos (piscinero/a) - Sol Puerto Marina",
-   "location": "Malaga"
+  "fcf2ff9ef9cd0c6fa5e36692524f0a2a": {
+   "id": "fcf2ff9ef9cd0c6fa5e36692524f0a2a",
+   "company": "Ametller Origen",
+   "role": "Mozo/a Carretillero/a Almacén - Zona Franca",
+   "location": "Barcelona"
+  },
+  "29ca8bb8c91103e874d2b9af8944ed68": {
+   "id": "29ca8bb8c91103e874d2b9af8944ed68",
+   "company": "OBRAMAT",
+   "role": "Almacen Alcorcon_vendedor/a (interinidad)",
+   "location": "Madrid"
+  },
+  "1da2b7abdce7178d6c5dd7366330441a": {
+   "id": "1da2b7abdce7178d6c5dd7366330441a",
+   "company": "SKECHERS USA Inc",
+   "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
+   "location": "Barcelona"
+  },
+  "d754029e9973660592137e42cf58144a": {
+   "id": "d754029e9973660592137e42cf58144a",
+   "company": "beonit",
+   "role": "Promotor Comercial Tecnología - Plenilunio",
+   "location": "Madrid"
+  },
+  "365aa853d557d46544e3e21f38c823f1": {
+   "id": "365aa853d557d46544e3e21f38c823f1",
+   "company": "Hotel Chadstone Melbourne MGallery",
+   "role": "Mozo De Almacén",
+   "location": "Barcelona"
   },
   "ab7898a9550c220cb31e41a75071158e": {
    "id": "ab7898a9550c220cb31e41a75071158e",
@@ -2869,36 +2935,6 @@
    "company": "JYSK",
    "role": "Jes - Vendedor/a",
    "location": "Madrid"
-  },
-  "616ce47983b2318fd080a881196d188e": {
-   "id": "616ce47983b2318fd080a881196d188e",
-   "company": "ACCIONA Energía",
-   "role": "Vendedor/a Flagship",
-   "location": "Barcelona"
-  },
-  "172d1e64c3e2695e6491c83161dbbb40": {
-   "id": "172d1e64c3e2695e6491c83161dbbb40",
-   "company": "Skechers U.S.A., Inc",
-   "role": "Vendedor/a - Jornada Parcial 20h - Parc Vallés",
-   "location": "Barcelona"
-  },
-  "2dab90996f4da5bb9c4d6e15c72cfb74": {
-   "id": "2dab90996f4da5bb9c4d6e15c72cfb74",
-   "company": "Skechers",
-   "role": "Vendedor/a - Jornada Parcial 20h - Parc Vallés",
-   "location": "Barcelona"
-  },
-  "c878ba517c31911171a39544661956fb": {
-   "id": "c878ba517c31911171a39544661956fb",
-   "company": "Ametller Origen",
-   "role": "Venedor/a A Sant Cugat Del Vallés - 40h Rotatiu, Contracte Substitució",
-   "location": "Barcelona"
-  },
-  "82283537471942a3f71d96c8b3b1092c": {
-   "id": "82283537471942a3f71d96c8b3b1092c",
-   "company": "Ametller Origen",
-   "role": "Venedor/a A Sabadell - 16h Caps De Setmana, Contracte Indefinit",
-   "location": "Barcelona"
   },
   "d4c45ea37da80db8517517887eb7b90b": {
    "id": "d4c45ea37da80db8517517887eb7b90b",
