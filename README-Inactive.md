@@ -2599,4 +2599,5 @@
 <tr><td>Skechers</td><td>Vendedor/a - Jornada Parcial 20h - Parc Vallés</td><td>Barcelona</td><td>2026-09-30</td></tr>
 <tr><td>Ametller Origen</td><td>Venedor/a A Sant Cugat Del Vallés - 40h Rotatiu, Contracte Substitució</td><td>Barcelona</td><td>2026-09-30</td></tr>
 <tr><td>Ametller Origen</td><td>Venedor/a A Sabadell - 16h Caps De Setmana, Contracte Indefinit</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-09-30</td></tr>
 </table>

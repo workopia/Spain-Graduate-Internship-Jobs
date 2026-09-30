@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-30",
- "count": 535,
+ "count": 536,
  "jobs": {
   "8a05658e99b8df881d3e7e297571407d": {
    "id": "8a05658e99b8df881d3e7e297571407d",
@@ -1892,6 +1892,12 @@
    "role": "Accountant",
    "location": "Madrid"
   },
+  "90cfd508c5d2f588d4eeea9b00ec0c67": {
+   "id": "90cfd508c5d2f588d4eeea9b00ec0c67",
+   "company": "282",
+   "role": "Mifid Private Banking Control Specialist",
+   "location": "Madrid"
+  },
   "054b0538b62f57aaa2cc506b5e2e43ff": {
    "id": "054b0538b62f57aaa2cc506b5e2e43ff",
    "company": "Heap Inc",
@@ -2468,12 +2474,6 @@
    "role": "Almacen Alcorcon_vendedor/a (interinidad)",
    "location": "Madrid"
   },
-  "1da2b7abdce7178d6c5dd7366330441a": {
-   "id": "1da2b7abdce7178d6c5dd7366330441a",
-   "company": "SKECHERS USA Inc",
-   "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
-   "location": "Barcelona"
-  },
   "d754029e9973660592137e42cf58144a": {
    "id": "d754029e9973660592137e42cf58144a",
    "company": "beonit",
@@ -2935,6 +2935,12 @@
    "company": "JYSK",
    "role": "Jes - Vendedor/a",
    "location": "Madrid"
+  },
+  "616ce47983b2318fd080a881196d188e": {
+   "id": "616ce47983b2318fd080a881196d188e",
+   "company": "ACCIONA Energía",
+   "role": "Vendedor/a Flagship",
+   "location": "Barcelona"
   },
   "d4c45ea37da80db8517517887eb7b90b": {
    "id": "d4c45ea37da80db8517517887eb7b90b",

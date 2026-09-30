@@ -12,8 +12,8 @@
   "as_of": "2026-09-30",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 5024,
-  "generated_at": "2026-09-30T06:57:48.161Z"
+  "country_live_total": 5006,
+  "generated_at": "2026-09-30T10:25:58.492Z"
  },
  "categories": [
   {
@@ -5431,6 +5431,23 @@
   },
   {
    "salary_display": null,
+   "id": "90cfd508c5d2f588d4eeea9b00ec0c67",
+   "source": "Workopia",
+   "company_name": "282",
+   "company_hi_slug": null,
+   "title": "Mifid Private Banking Control Specialist",
+   "location": "Madrid",
+   "skills": "MiFID II investor prot, transaction and portfo",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-31T16:32:47.500Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/90cfd508c5d2f588d4eeea9b00ec0c67",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "054b0538b62f57aaa2cc506b5e2e43ff",
    "source": "Workopia",
    "company_name": "Heap Inc",
@@ -7080,23 +7097,6 @@
   },
   {
    "salary_display": null,
-   "id": "1da2b7abdce7178d6c5dd7366330441a",
-   "source": "Workopia",
-   "company_name": "SKECHERS USA Inc",
-   "company_hi_slug": "skechers-u-s-a-inc",
-   "title": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
-   "location": "Barcelona",
-   "skills": "Excellent customer ser, Effective communicatio",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-29T00:33:35.756Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/1da2b7abdce7178d6c5dd7366330441a",
-   "category": "sales",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
    "id": "d754029e9973660592137e42cf58144a",
    "source": "Workopia",
    "company_name": "beonit",
@@ -8401,6 +8401,23 @@
    "date_posted": "2026-09-10T13:05:47.379Z",
    "active": true,
    "url": "https://workopia.io/jobs/feaab58f18569c63898cb484be14fdf0",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "616ce47983b2318fd080a881196d188e",
+   "source": "Workopia",
+   "company_name": "ACCIONA Energía",
+   "company_hi_slug": "acciona-energia",
+   "title": "Vendedor/a Flagship",
+   "location": "Barcelona",
+   "skills": "Excellent customer ser, Achieve company sales ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-10T08:49:30.248Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/616ce47983b2318fd080a881196d188e",
    "category": "sales",
    "tier": "Entry-level"
   },
