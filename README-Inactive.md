@@ -2600,4 +2600,23 @@
 <tr><td>Ametller Origen</td><td>Venedor/a A Sant Cugat Del Vallés - 40h Rotatiu, Contracte Substitució</td><td>Barcelona</td><td>2026-09-30</td></tr>
 <tr><td>Ametller Origen</td><td>Venedor/a A Sabadell - 16h Caps De Setmana, Contracte Indefinit</td><td>Barcelona</td><td>2026-09-30</td></tr>
 <tr><td>SKECHERS USA Inc</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-09-30</td></tr>
+<tr><td>Novantaphotonics Jp</td><td>Mechatronics Engineer Internship</td><td>Barcelona</td><td>2026-10-01</td></tr>
+<tr><td>M&G plc</td><td>Internship - M&g Real Estate Madrid - 12 M Ftc</td><td>Madrid</td><td>2026-10-01</td></tr>
+<tr><td>Schindler Group</td><td>Beca Ingeniería Y Gestión Comercial (zaragoza)</td><td>Zaragoza</td><td>2026-10-01</td></tr>
+<tr><td>Schindler Group</td><td>Beca Apoyo Comercial (barcelona)</td><td>Barcelona</td><td>2026-10-01</td></tr>
+<tr><td>Nordex SE</td><td>Global Mobility Intern (m/f/d)</td><td>Barasoain</td><td>2026-10-01</td></tr>
+<tr><td>Nordex SE</td><td>Global Sourcing Claim Management Intern (m/f/d)</td><td>Tajonar</td><td>2026-10-01</td></tr>
+<tr><td>Nordex SE</td><td>Qhse Administrative Intern (m/f/d)</td><td>Barasoain</td><td>2026-10-01</td></tr>
+<tr><td>Nordex SE</td><td>Ai Finance Intern</td><td>Mutilva</td><td>2026-10-01</td></tr>
+<tr><td>Accenture</td><td>Mavericks Madrid Fy27</td><td>Madrid</td><td>2026-10-01</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Benefits Intern - Spanish Speaker</td><td>Madrid</td><td>2026-10-01</td></tr>
+<tr><td>Willis Towers Watson</td><td>Benefits Intern - Spanish Speaker</td><td>Madrid</td><td>2026-10-01</td></tr>
+<tr><td>Roche</td><td>Implementation Intern - Programa On En Roche 2026</td><td>Madrid</td><td>2026-10-01</td></tr>
+<tr><td>Minsait</td><td>Distributed Critical Software Engineer (ada/c++) / Hybrid Madrid</td><td>Madrid</td><td>2026-10-01</td></tr>
+<tr><td>Minsait</td><td>Ingeniero/a Front Vue.js Intermediate / Ciberdefensa / Barcelona (híbrido)</td><td>Barcelona</td><td>2026-10-01</td></tr>
+<tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-10-01</td></tr>
+<tr><td>Envistaforensic</td><td>Field Service Engineer</td><td>Madrid</td><td>2026-10-01</td></tr>
+<tr><td>JYSK</td><td>Jes - Vendedor/a - 30 H</td><td>Barcelona</td><td>2026-10-01</td></tr>
+<tr><td>ACCIONA Energía</td><td>Vendedor/a Flagship</td><td>Barcelona</td><td>2026-10-01</td></tr>
+<tr><td>Onebacardi</td><td>Customer Service Specialist, Europe (coe)</td><td>Barcelona</td><td>2026-10-01</td></tr>
 </table>
