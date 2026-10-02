@@ -2619,4 +2619,27 @@
 <tr><td>JYSK</td><td>Jes - Vendedor/a - 30 H</td><td>Barcelona</td><td>2026-10-01</td></tr>
 <tr><td>ACCIONA Energía</td><td>Vendedor/a Flagship</td><td>Barcelona</td><td>2026-10-01</td></tr>
 <tr><td>Onebacardi</td><td>Customer Service Specialist, Europe (coe)</td><td>Barcelona</td><td>2026-10-01</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición Técnica (madrid)</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición (madrid)</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición Técnica</td><td>Barcelona</td><td>2026-10-02</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición</td><td>Barcelona</td><td>2026-10-02</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Penguin Aula</td><td>Barcelona</td><td>2026-10-02</td></tr>
+<tr><td>Coty Inc</td><td>Customer Operations Intern (with French)</td><td>Barcelona</td><td>2026-10-02</td></tr>
+<tr><td>Melia</td><td>Trainee Reservas - Gran Meliá</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>Hilton Worldwide</td><td>Food And Beverage Intern</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>serveo</td><td>Beca Bidding Conservación Infraestructuras - Madrid</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>serveo</td><td>Beca Seguridad Y Salud Laboral - Madrid</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>Ferrovial SE</td><td>Ai Program Internship</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>Mediaset España</td><td>Beca Telecomunicaciones</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>GE Healthcare</td><td>Intern - Service Analytics</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Product Operations Intern</td><td>Barcelona</td><td>2026-10-02</td></tr>
+<tr><td>Airbus</td><td>#xplorer 2027 Cfrp Sizing And Design Methods To Rear Fuselage And Empennage Airframe</td><td>Getafe Area</td><td>2026-10-02</td></tr>
+<tr><td>minsait</td><td>Ingeniero/a De Software C/c++ Para Desarrollo, Integración Y Bancos De Pruebas</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>NN Group</td><td>Cloud Solution Developer (api Developer)</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer P2p - Search Team</td><td>Spain</td><td>2026-10-02</td></tr>
+<tr><td>Envista</td><td>Field Service Engineer</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>Reovista</td><td>Field Service Engineer</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>VANS</td><td>Vendedores/as Vans - Madrid</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>The North Face</td><td>Vendedor/a 40h The North Face - Barcelona</td><td>Barcelona</td><td>2026-10-02</td></tr>
+<tr><td>JYSK</td><td>Jes - Vendedor/a</td><td>Madrid</td><td>2026-10-02</td></tr>
 </table>

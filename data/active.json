@@ -1,7 +1,61 @@
 {
- "asOf": "2026-10-01",
- "count": 541,
+ "asOf": "2026-10-02",
+ "count": 543,
  "jobs": {
+  "6c0c36fbdedbf0a9e161f3d89893cef5": {
+   "id": "6c0c36fbdedbf0a9e161f3d89893cef5",
+   "company": "Acciona",
+   "role": "Beca Operaciones Tic",
+   "location": "Madrid"
+  },
+  "f977b47661cf8f541572f46eefb7f4f3": {
+   "id": "f977b47661cf8f541572f46eefb7f4f3",
+   "company": "Acciona",
+   "role": "Beca Servicios A Usuario",
+   "location": "Madrid"
+  },
+  "bdf1f5e16f8811945a3beca00aa1e8fc": {
+   "id": "bdf1f5e16f8811945a3beca00aa1e8fc",
+   "company": "Acciona",
+   "role": "Beca En El Departamento De Calidad, Medio Ambiente Y Sostenibilidad",
+   "location": "Madrid"
+  },
+  "4acbe32f99ad52e39d0e933a6e8fad1d": {
+   "id": "4acbe32f99ad52e39d0e933a6e8fad1d",
+   "company": "Acciona",
+   "role": "Beca Comisionado Y Puesta En Marcha",
+   "location": "Madrid"
+  },
+  "512a90261336f64f61dd8faccc44ff3a": {
+   "id": "512a90261336f64f61dd8faccc44ff3a",
+   "company": "Novanta",
+   "role": "Hardware Developer Internship",
+   "location": "Barcelona"
+  },
+  "bf4a77bb505fe3e08a0a2dfa8229e030": {
+   "id": "bf4a77bb505fe3e08a0a2dfa8229e030",
+   "company": "Sacyr Group",
+   "role": "Beca Sostenibilidad",
+   "location": "Madrid"
+  },
+  "3db2356a2bdc9b245a388d8b2cf958ac": {
+   "id": "3db2356a2bdc9b245a388d8b2cf958ac",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Estudiante En Prácticas – Departamento De Gestión De Calidad (qmm-p)",
+   "location": "Madrid"
+  },
+  "206930fae76aa3ef3168f4435950ac46": {
+   "id": "206930fae76aa3ef3168f4435950ac46",
+   "company": "Hempel",
+   "role": "Pricing Intern",
+   "location": "Barcelona"
+  },
+  "targetjobs:ff03393d-6eb9-4ce6-ad2a-979df583ea58": {
+   "id": "targetjobs:ff03393d-6eb9-4ce6-ad2a-979df583ea58",
+   "company": "Gartner",
+   "role": "Client Success Associate Internship, Summer 2026 (2027 Graduates) - Swedish Speaker",
+   "location": "Egham +1"
+  },
   "b744bcb698efeeb7abbe1271efc78a72": {
    "id": "b744bcb698efeeb7abbe1271efc78a72",
    "company": "adidas AG",
@@ -97,6 +151,42 @@
    "company": "Mango",
    "role": "Intern Fashion Buyer Man",
    "location": "Palau"
+  },
+  "3adecc2391f6ae7d98c54fc12997ab6c": {
+   "id": "3adecc2391f6ae7d98c54fc12997ab6c",
+   "company": "TD SYNNEX",
+   "role": "Ap Trainee",
+   "location": "Barcelona"
+  },
+  "b4b1c42114c8311a077046208bbba20c": {
+   "id": "b4b1c42114c8311a077046208bbba20c",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Junior Powerapps Developer Intern",
+   "location": "Barcelona"
+  },
+  "3b3913473de8bcb76201a0f4bb5bbb4a": {
+   "id": "3b3913473de8bcb76201a0f4bb5bbb4a",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Hr Labor Relations Internship",
+   "location": "Barcelona"
+  },
+  "71bf7c288f4d671284cba25e9c7b57ea": {
+   "id": "71bf7c288f4d671284cba25e9c7b57ea",
+   "company": "Industria de Turbo Propulsores, S.A",
+   "role": "Beca Riesgos , Control Interno Y Auditoría Interna (f/m/x)",
+   "location": "Alcobendas"
+  },
+  "4ba6d9fd4a965acb05938aa23a892853": {
+   "id": "4ba6d9fd4a965acb05938aa23a892853",
+   "company": "Airbus",
+   "role": "#discover Ii 2026-2027 / Ai Models Internship",
+   "location": "Getafe Area"
+  },
+  "7772d0ff6acfbe3706d3aaed46289829": {
+   "id": "7772d0ff6acfbe3706d3aaed46289829",
+   "company": "Airbus Crisa",
+   "role": "Direct Material Procurement Intern Airbus Crisa",
+   "location": "Salamanca"
   },
   "8a05658e99b8df881d3e7e297571407d": {
    "id": "8a05658e99b8df881d3e7e297571407d",
@@ -392,96 +482,6 @@
    "role": "Prácticas- Comunicación",
    "location": "Barcelona"
   },
-  "1de9e7ad02b2a83f7bef9288cce83502": {
-   "id": "1de9e7ad02b2a83f7bef9288cce83502",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas- Edición Técnica (madrid)",
-   "location": "Madrid"
-  },
-  "d4c98875eb72c3d4c5d353ef626256fc": {
-   "id": "d4c98875eb72c3d4c5d353ef626256fc",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas- Edición (madrid)",
-   "location": "Madrid"
-  },
-  "76e04722ea821d6f8c1497f344f3e73b": {
-   "id": "76e04722ea821d6f8c1497f344f3e73b",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas- Edición Técnica",
-   "location": "Barcelona"
-  },
-  "d9f3085dee0c7d08b4c3b14473c78790": {
-   "id": "d9f3085dee0c7d08b4c3b14473c78790",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas- Edición",
-   "location": "Barcelona"
-  },
-  "205fd423f414f5e2c678933a547b8a8f": {
-   "id": "205fd423f414f5e2c678933a547b8a8f",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas- Penguin Aula",
-   "location": "Barcelona"
-  },
-  "e7fb7b16157df226344974246e428b0b": {
-   "id": "e7fb7b16157df226344974246e428b0b",
-   "company": "Coty Inc",
-   "role": "Customer Operations Intern (with French)",
-   "location": "Barcelona"
-  },
-  "4afbed3f2642278832cfb8e05f9d7911": {
-   "id": "4afbed3f2642278832cfb8e05f9d7911",
-   "company": "Melia",
-   "role": "Trainee Reservas - Gran Meliá",
-   "location": "Madrid"
-  },
-  "98292209a1b3b8e2938bad53db19b9d3": {
-   "id": "98292209a1b3b8e2938bad53db19b9d3",
-   "company": "Hilton Worldwide",
-   "role": "Food And Beverage Intern",
-   "location": "Madrid"
-  },
-  "7a32b906c6ae3fffc8f2d48f1846328f": {
-   "id": "7a32b906c6ae3fffc8f2d48f1846328f",
-   "company": "serveo",
-   "role": "Beca Bidding Conservación Infraestructuras - Madrid",
-   "location": "Madrid"
-  },
-  "a631c67ebafd36b0ed5ed159ceb2d840": {
-   "id": "a631c67ebafd36b0ed5ed159ceb2d840",
-   "company": "serveo",
-   "role": "Beca Seguridad Y Salud Laboral - Madrid",
-   "location": "Madrid"
-  },
-  "4c70e49aed17bd90916bbd59c4440c5e": {
-   "id": "4c70e49aed17bd90916bbd59c4440c5e",
-   "company": "Ferrovial SE",
-   "role": "Ai Program Internship",
-   "location": "Madrid"
-  },
-  "423324df40ad7190e0f4f178fe0e3c7e": {
-   "id": "423324df40ad7190e0f4f178fe0e3c7e",
-   "company": "Mediaset España",
-   "role": "Beca Telecomunicaciones",
-   "location": "Madrid"
-  },
-  "26339cf66178180fcf5d9b6746272f84": {
-   "id": "26339cf66178180fcf5d9b6746272f84",
-   "company": "GE Healthcare",
-   "role": "Intern - Service Analytics",
-   "location": "Madrid"
-  },
-  "9a0801f0978cab5442380574c8beea20": {
-   "id": "9a0801f0978cab5442380574c8beea20",
-   "company": "Zurich Insurance UK",
-   "role": "Product Operations Intern",
-   "location": "Barcelona"
-  },
-  "2c8d3c6d163b7391d80f5fc70b7aac7b": {
-   "id": "2c8d3c6d163b7391d80f5fc70b7aac7b",
-   "company": "Airbus",
-   "role": "#xplorer 2027 Cfrp Sizing And Design Methods To Rear Fuselage And Empennage Airframe",
-   "location": "Getafe Area"
-  },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
    "company": "Monolithic Power Systems",
@@ -493,6 +493,12 @@
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
    "location": "Barcelona"
+  },
+  "8e84a63908857354ab45c4ac1e346a85": {
+   "id": "8e84a63908857354ab45c4ac1e346a85",
+   "company": "NN Group",
+   "role": "Frontend Engineer",
+   "location": "Madrid"
   },
   "8b1a50072f59253148cba56fa61a2d52": {
    "id": "8b1a50072f59253148cba56fa61a2d52",
@@ -553,6 +559,24 @@
    "company": "ISGlobal",
    "role": "Software Engineer For Sciencepaks Project",
    "location": "Barcelona"
+  },
+  "6e6ca2dfa2997499346b250a82301296": {
+   "id": "6e6ca2dfa2997499346b250a82301296",
+   "company": "Minsait",
+   "role": "Ingeniero/a De Software C/c++ Para Desarrollo, Integración Y Bancos De Pruebas",
+   "location": "Madrid"
+  },
+  "baea95e3d5c29ea51bae67d6ae4b1dce": {
+   "id": "baea95e3d5c29ea51bae67d6ae4b1dce",
+   "company": "Industria de Turbo Propulsores, S.A",
+   "role": "Control Systems Software Engineer (f,m,x)",
+   "location": "Ajalvir"
+  },
+  "893397835214": {
+   "id": "893397835214",
+   "company": "Softtek",
+   "role": "Desarrollador/a Frontend Cells",
+   "location": "Madrid"
   },
   "b5a542630605c0cbd64285c91c563ec7": {
    "id": "b5a542630605c0cbd64285c91c563ec7",
@@ -680,23 +704,11 @@
    "role": "Ingeniero/a De Desarrollo Software C++",
    "location": "Madrid"
   },
-  "ff300513470d9e8212e3b59dfdfd2a70": {
-   "id": "ff300513470d9e8212e3b59dfdfd2a70",
-   "company": "minsait",
-   "role": "Ingeniero/a De Software C/c++ Para Desarrollo, Integración Y Bancos De Pruebas",
-   "location": "Madrid"
-  },
   "a1a38da74f4473dfa386db1f2a599efe": {
    "id": "a1a38da74f4473dfa386db1f2a599efe",
    "company": "Jobgether",
    "role": "Software Engineer - Crypto",
    "location": "Spain"
-  },
-  "baea95e3d5c29ea51bae67d6ae4b1dce": {
-   "id": "baea95e3d5c29ea51bae67d6ae4b1dce",
-   "company": "Industria de Turbo Propulsores, S.A",
-   "role": "Control Systems Software Engineer (f,m,x)",
-   "location": "Ajalvir"
   },
   "562949978453440": {
    "id": "562949978453440",
@@ -960,18 +972,6 @@
    "id": "6dd9a4eb983bc95a543422cb3689fd7f",
    "company": "Grafana Labs",
    "role": "Software Engineer - Platform Metal / Spain / Remote",
-   "location": "Spain"
-  },
-  "5ff3537bb06fccab0b1041cdec3a650f": {
-   "id": "5ff3537bb06fccab0b1041cdec3a650f",
-   "company": "NN Group",
-   "role": "Cloud Solution Developer (api Developer)",
-   "location": "Madrid"
-  },
-  "ff0ceb9cd1d50806fcb4cb479b3adf0d": {
-   "id": "ff0ceb9cd1d50806fcb4cb479b3adf0d",
-   "company": "Jobgether",
-   "role": "Software Engineer P2p - Search Team",
    "location": "Spain"
   },
   "cc499d256ce8fd8674964adea19e9b63": {
@@ -1400,6 +1400,12 @@
    "role": "Data Scientist",
    "location": "Localidad"
   },
+  "714b47decd42b01956a8b78e6cd38fbf": {
+   "id": "714b47decd42b01956a8b78e6cd38fbf",
+   "company": "ServiZurich",
+   "role": "Servicenow Business Analyst Intern",
+   "location": "Barcelona"
+  },
   "88b1be528122d802bf0b61a4dbac0ec5": {
    "id": "88b1be528122d802bf0b61a4dbac0ec5",
    "company": "Oliver Wyman",
@@ -1451,12 +1457,6 @@
   "e239ddc62ffeb456071c42614a2b1e11": {
    "id": "e239ddc62ffeb456071c42614a2b1e11",
    "company": "Zurich Insurance UK",
-   "role": "Servicenow Business Analyst Intern",
-   "location": "Barcelona"
-  },
-  "714b47decd42b01956a8b78e6cd38fbf": {
-   "id": "714b47decd42b01956a8b78e6cd38fbf",
-   "company": "Zurich Insurance Company Ltd",
    "role": "Servicenow Business Analyst Intern",
    "location": "Barcelona"
   },
@@ -1530,6 +1530,12 @@
    "id": "b9686ca89ed6ff773a2e3dc3ffed7262",
    "company": "Sopra Steria UK",
    "role": "Consultor/a Funcional Con Francés - Sector Bancario",
+   "location": "Madrid"
+  },
+  "5a3dafc4da34982eaf6c1b234c3e9365": {
+   "id": "5a3dafc4da34982eaf6c1b234c3e9365",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Consultor/a Madrid - Temporal",
    "location": "Madrid"
   },
   "10e801082eb48a8e37d438d0a3a663ae": {
@@ -2018,6 +2024,18 @@
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
   },
+  "13295746af60fd5b3f79ddc00b089d91": {
+   "id": "13295746af60fd5b3f79ddc00b089d91",
+   "company": "Telefonica",
+   "role": "Mantenimiento Tv Barcelona Enviar Candidatura Ahora »",
+   "location": "Barcelona"
+  },
+  "2b4c418af2ab8fe940e974d84533f2e1": {
+   "id": "2b4c418af2ab8fe940e974d84533f2e1",
+   "company": "Acciona",
+   "role": "Mantenimiento Electromecanico",
+   "location": "Barcelona"
+  },
   "3be7e2a0801b68a24e7ff0f9f2eb8175": {
    "id": "3be7e2a0801b68a24e7ff0f9f2eb8175",
    "company": "Indra group",
@@ -2480,17 +2498,23 @@
    "role": "Técnico/a De Mantenimiento De Ascensores (huesca)",
    "location": "Zaragoza"
   },
-  "ce92f3af8e4246f64faa7f5be062c833": {
-   "id": "ce92f3af8e4246f64faa7f5be062c833",
-   "company": "Envista",
-   "role": "Field Service Engineer",
+  "c24974f99e6d044a59d2cb7f0df6bbc7": {
+   "id": "c24974f99e6d044a59d2cb7f0df6bbc7",
+   "company": "Etam",
+   "role": "Vendedor.a Tres Aguas 25h/sem (incorporación Inmediata)",
    "location": "Madrid"
   },
-  "89f3eb7d88f1f5b41e1807158437a9bd": {
-   "id": "89f3eb7d88f1f5b41e1807158437a9bd",
-   "company": "Reovista",
-   "role": "Field Service Engineer",
-   "location": "Madrid"
+  "78219bf6d1d09cab92444fa7f886f068": {
+   "id": "78219bf6d1d09cab92444fa7f886f068",
+   "company": "obramat.es",
+   "role": "Almacén Salamanca_vendedor/a Cerámica",
+   "location": "Salamanca"
+  },
+  "dc36705d8761da99d4fa5a140a1b4a73": {
+   "id": "dc36705d8761da99d4fa5a140a1b4a73",
+   "company": "obramat.es",
+   "role": "Almacén Salamanca_vendedor/a Pintura",
+   "location": "Salamanca"
   },
   "eb440d18efce8d496654af4f82f38a60": {
    "id": "eb440d18efce8d496654af4f82f38a60",
@@ -2954,28 +2978,22 @@
    "role": "Vendedores/as Vans - Madrid",
    "location": "Madrid"
   },
-  "2d8c621ccbfc74a8267c46f1dbb2490e": {
-   "id": "2d8c621ccbfc74a8267c46f1dbb2490e",
-   "company": "VANS",
-   "role": "Vendedores/as Vans - Madrid",
-   "location": "Madrid"
-  },
-  "4e062ae16a67ecfd11bb86528753c48c": {
-   "id": "4e062ae16a67ecfd11bb86528753c48c",
-   "company": "The North Face",
-   "role": "Vendedor/a 40h The North Face - Barcelona",
-   "location": "Barcelona"
-  },
-  "feaab58f18569c63898cb484be14fdf0": {
-   "id": "feaab58f18569c63898cb484be14fdf0",
-   "company": "JYSK",
-   "role": "Jes - Vendedor/a",
+  "5751ccbc53b48dbeb117d9fa20463513": {
+   "id": "5751ccbc53b48dbeb117d9fa20463513",
+   "company": "Colegio CEU",
+   "role": "Asistente Administrativo",
    "location": "Madrid"
   },
   "426d8b14012973bcdadeebc10ad8eb29": {
    "id": "426d8b14012973bcdadeebc10ad8eb29",
    "company": "Ametller Origen",
    "role": "Administratiu/va De Recepció Logística - Zona Franca",
+   "location": "Barcelona"
+  },
+  "cc50e4b0700e7cedda59d9fdd3da49e7": {
+   "id": "cc50e4b0700e7cedda59d9fdd3da49e7",
+   "company": "Temporing",
+   "role": "Administrativo/a Contable - Gavà",
    "location": "Barcelona"
   },
   "d4c45ea37da80db8517517887eb7b90b": {
@@ -3000,12 +3018,6 @@
    "id": "05df866e37be59c48f537adbd4186733",
    "company": "GE Healthcare",
    "role": "Customer Service Coordinator",
-   "location": "Madrid"
-  },
-  "5751ccbc53b48dbeb117d9fa20463513": {
-   "id": "5751ccbc53b48dbeb117d9fa20463513",
-   "company": "Colegio CEU",
-   "role": "Asistente Administrativo",
    "location": "Madrid"
   },
   "4b992c2d266123282eb7eb7b61f208b5": {
