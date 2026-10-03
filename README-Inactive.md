@@ -2642,4 +2642,52 @@
 <tr><td>VANS</td><td>Vendedores/as Vans - Madrid</td><td>Madrid</td><td>2026-10-02</td></tr>
 <tr><td>The North Face</td><td>Vendedor/a 40h The North Face - Barcelona</td><td>Barcelona</td><td>2026-10-02</td></tr>
 <tr><td>JYSK</td><td>Jes - Vendedor/a</td><td>Madrid</td><td>2026-10-02</td></tr>
+<tr><td>Newyorkbioconnect</td><td>Beca Marketing Hipertensión Pulmonar</td><td>Madrid</td><td>2026-10-03</td></tr>
+<tr><td>Gameloft Australia</td><td>Game Cinematic Artist Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Barcelo</td><td>Personas Estudiantes De Prácticas De Hotel</td><td>Santa Catalina</td><td>2026-10-03</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Internship - Recruiting And Hr</td><td>Madrid</td><td>2026-10-03</td></tr>
+<tr><td>Ericsson</td><td>Change Maker Internship</td><td>Madrid</td><td>2026-10-03</td></tr>
+<tr><td>The Ritz-Carlton</td><td>University Intern</td><td>Islas Baleares</td><td>2026-10-03</td></tr>
+<tr><td>Marriott International</td><td>University Intern</td><td>Islas Baleares</td><td>2026-10-03</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Kitchen - September 2026</td><td>Esplugues Llobregat</td><td>2026-10-03</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship It - September 2026</td><td>Esplugues Llobregat</td><td>2026-10-03</td></tr>
+<tr><td>Coty Inc.</td><td>Demand Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Nordex SE</td><td>Service After Sales Intern (m/f/d)</td><td>Imarcoain</td><td>2026-10-03</td></tr>
+<tr><td>MANGO</td><td>Intern Key Account Manager Partners Online</td><td>Palau</td><td>2026-10-03</td></tr>
+<tr><td>Philips Healthcare</td><td>Internship: Finance Intern</td><td>Madrid</td><td>2026-10-03</td></tr>
+<tr><td>Philips Healthcare</td><td>Becario Logística</td><td>Madrid</td><td>2026-10-03</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Internship - Data & Analytics - Spain</td><td>Madrid</td><td>2026-10-03</td></tr>
+<tr><td>NERA Economic Consulting</td><td>Beca Consultoria / Ingenieria Claims Solutions</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Monolithic Power Systems</td><td>Digital Verification Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY</td><td>Digital Services Intern, Madrid</td><td>Madrid</td><td>2026-10-03</td></tr>
+<tr><td>Bunge</td><td>Indirect Tax Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Regional Compliance Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Ai Developer Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Data Engineering & Visualization Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Multinational Wording Operations Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Network & Partner Operations Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Front Office Systems Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Investment Performance Analyst Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Product Operations Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Air Liquide Healthcare Iberia</td><td>Beca Fisioterapia En Trd</td><td>Spain</td><td>2026-10-03</td></tr>
+<tr><td>SLS Barcelona</td><td>Reservations Department Internship</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas - Renovación Y Analítica Editorial</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Comunicación</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Analyst / Data Engineer (commercial Insurance)</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Swiss Re</td><td>Ai Engineer</td><td>Madrid</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Servicenow Business Analyst Intern</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Governance Business Analyst</td><td>Localidad</td><td>2026-10-03</td></tr>
+<tr><td>Jobgether</td><td>Transactional Revenue Intelligence & Systems Analyst</td><td>Spain</td><td>2026-10-03</td></tr>
+<tr><td>TRYremote</td><td>Accountant</td><td>Madrid</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Consultor/a Seguros Previsión Social Empresas</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Condis Supermercats S.A</td><td>Bolsa De Talento Almacen</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>VF Corporation</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>VFC Corporation</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>VF Corporation (Vans)</td><td>Vendedores/as Vans - Madrid</td><td>Madrid</td><td>2026-10-03</td></tr>
+<tr><td>KION</td><td>Service Coordinator Support</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Service Coordinator Support</td><td>Barcelona</td><td>2026-10-03</td></tr>
+<tr><td>Bosch Group</td><td>It Support Specialist (level 1) / Automotive Solutions / Turkish Market</td><td>Salamanca</td><td>2026-10-03</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Salamanca</td><td>2026-10-03</td></tr>
+<tr><td>Byselva</td><td>Administrative & Operations Coordinator</td><td>Madrid</td><td>2026-10-03</td></tr>
 </table>
