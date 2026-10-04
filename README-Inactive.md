@@ -2690,4 +2690,44 @@
 <tr><td>Bosch Group</td><td>It Support Specialist (level 1) / Automotive Solutions / Turkish Market</td><td>Salamanca</td><td>2026-10-03</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Dependiente/a</td><td>Salamanca</td><td>2026-10-03</td></tr>
 <tr><td>Byselva</td><td>Administrative & Operations Coordinator</td><td>Madrid</td><td>2026-10-03</td></tr>
+<tr><td>Johnson & Johnson Innovative Medicine</td><td>Intern Gco</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Johnson & Johnson Innovative Medicine</td><td>Profesional Education Internship</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Flowserve Corporation</td><td>Commercial Operations Intern - Pozuelo</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Freshfields</td><td>Prácticas Del Máster De Acceso A La Abogacía - Extracurriculares Y Curriculares En 2027</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Comercial Nacional</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>EY</td><td>Prácticas Selección - Madrid</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Enagas</td><td>Beca Comunicación Interna Y Marca, Contenidos Y Posicionamiento / Madrid</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>ATREVIA</td><td>Beca Gestión De Administración De Personal - Atrevia Mad</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Acciona</td><td>Beca Asesoría Jurídico Laboral</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Estudiante En Prácticas -- Departamento Rbem/mss1</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Kering Eyewear</td><td>Kering Eyewear Finance Intern</td><td>Barcelona</td><td>2026-10-04</td></tr>
+<tr><td>Coty</td><td>Marketing Consumer Beauty Intern</td><td>Barcelona</td><td>2026-10-04</td></tr>
+<tr><td>Marsh McLennan</td><td>Beca Rrhh</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Criteo</td><td>Business Process Specialist Intern</td><td>Barcelona</td><td>2026-10-04</td></tr>
+<tr><td>Akamai Technologies</td><td>Emerging Talent Intern - Part-time Remote</td><td>Spain</td><td>2026-10-04</td></tr>
+<tr><td>Linode (Akamai Cloud Computing)</td><td>Emerging Talent Intern - Part-time Remote</td><td>Spain</td><td>2026-10-04</td></tr>
+<tr><td>Ivivamedical</td><td>Intern - Country Site Activation</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>EY</td><td>Ey-parthenon - Off-cycle Strategy & Transactions</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#xplorer 2027 Training Simulators</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Prácticas En Logística - Componentes Y Sensores</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Glovo</td><td>Category Management Intern Mfc</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Estudiante En Prácticas – Departamento De Producción Mse 1.1 (c)</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Bosch Group</td><td>Estudiante En Prácticas -- Departamento Rbem/mss1</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Estudiante En Prácticas – Departamento De Logística Lop2</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Minsait</td><td>Ingeniero/a De Software C/c++ Para Desarrollo, Integración Y Bancos De Pruebas</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Minsait</td><td>Ingeniero/a De Software Aviónico Y Estándares</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Grafana Labs</td><td>Software Engineer - Platform Metal / Spain / Remote</td><td>Spain</td><td>2026-10-04</td></tr>
+<tr><td>Indra group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-10-04</td></tr>
+<tr><td>Ernst & Young</td><td>Consultor/a Contabilidad Y Fiscalidad - Barcelona</td><td>Barcelona</td><td>2026-10-04</td></tr>
+<tr><td>Minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-10-04</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Ahorramas, S.A</td><td>Electromecánico/a - Turno Noche - Plataformas Logísticas Velilla De San Antonio (madrid)</td><td>Salamanca</td><td>2026-10-04</td></tr>
+<tr><td>STILL</td><td>Field Service Engineer</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Maintenance Technician</td><td>Salamanca</td><td>2026-10-04</td></tr>
+<tr><td>Orona S.Coop</td><td>Técnico/a De Mantenimiento De Ascensores (huesca)</td><td>Zaragoza</td><td>2026-10-04</td></tr>
+<tr><td>THE NORTH FACE</td><td>Vendedor/a 10h The North Face - Madrid</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>JYSK</td><td>Jes - Vendedor/a - 30 H</td><td>Salamanca</td><td>2026-10-04</td></tr>
+<tr><td>VANS</td><td>Vendedores/as Vans - Barcelona</td><td>Barcelona</td><td>2026-10-04</td></tr>
+<tr><td>Airbus SE</td><td>Secretary / Assistant</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Sixt</td><td>Administrativo Car Sales (m/f/d)</td><td>Madrid</td><td>2026-10-04</td></tr>
 </table>

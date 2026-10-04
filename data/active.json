@@ -1,7 +1,121 @@
 {
- "asOf": "2026-10-03",
+ "asOf": "2026-10-04",
  "count": 539,
  "jobs": {
+  "1bcb120027a6ae390d0488b7b794625a": {
+   "id": "1bcb120027a6ae390d0488b7b794625a",
+   "company": "Arxada",
+   "role": "Tax Intern",
+   "location": "Barcelona"
+  },
+  "9d8ccf553257d4b671215558afbfadfe": {
+   "id": "9d8ccf553257d4b671215558afbfadfe",
+   "company": "Avanade",
+   "role": "Avanade Campus_prácticas En Ux Con Tecnología Microsoft – Octubre 2026",
+   "location": "Madrid"
+  },
+  "4c8f3ed3d12daf965fdd373c5f2c3a72": {
+   "id": "4c8f3ed3d12daf965fdd373c5f2c3a72",
+   "company": "SIX",
+   "role": "Asset Servicing Internship",
+   "location": "Madrid"
+  },
+  "f626049081b98c3f7c489df2beb83541": {
+   "id": "f626049081b98c3f7c489df2beb83541",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Compras Hotel Barcelona",
+   "location": "Barcelona"
+  },
+  "6fc97e00694a33717b05ddefa949aedc": {
+   "id": "6fc97e00694a33717b05ddefa949aedc",
+   "company": "Grupo Hotusa",
+   "role": "Becario/a Optimización",
+   "location": "Madrid"
+  },
+  "9daff01e66d9ff036ac20393c2fdb173": {
+   "id": "9daff01e66d9ff036ac20393c2fdb173",
+   "company": "Coty",
+   "role": "Exo Packaging Intern",
+   "location": "Barcelona"
+  },
+  "ca3e1b46d84771211d71de439a0756b9": {
+   "id": "ca3e1b46d84771211d71de439a0756b9",
+   "company": "Acciona SA",
+   "role": "Beca Dpto. Producción",
+   "location": "San AgustíN De Guadalix"
+  },
+  "f907d47885bb0cac0a15d771749aba25": {
+   "id": "f907d47885bb0cac0a15d771749aba25",
+   "company": "Acciona SA",
+   "role": "Beca Departamento Estudios Y Ofertas",
+   "location": "Madrid"
+  },
+  "675a067451c08e3c58e0c246207bf3f7": {
+   "id": "675a067451c08e3c58e0c246207bf3f7",
+   "company": "Acciona SA",
+   "role": "Beca Dpto. Estudios Y Ofertas",
+   "location": "Madrid"
+  },
+  "7fddd4d82771743226eabcc294d6b29a": {
+   "id": "7fddd4d82771743226eabcc294d6b29a",
+   "company": "Acciona SA",
+   "role": "Beca Dpto. Compras Y Maquinaria",
+   "location": "Madrid"
+  },
+  "c0ad7aef605ed7d1591dc79123a95052": {
+   "id": "c0ad7aef605ed7d1591dc79123a95052",
+   "company": "Acciona SA",
+   "role": "Beca Dpto. Gis",
+   "location": "Madrid"
+  },
+  "ecebc9c81003b08b13230ebf193038e3": {
+   "id": "ecebc9c81003b08b13230ebf193038e3",
+   "company": "Coty",
+   "role": "Trade Consumer Beauty Intern",
+   "location": "Barcelona"
+  },
+  "bb96899e9dfeea8f4cd9ca4a3f691d2c": {
+   "id": "bb96899e9dfeea8f4cd9ca4a3f691d2c",
+   "company": "Ferrovial SE",
+   "role": "Tax Global Reporting & Tech Internship",
+   "location": "Madrid"
+  },
+  "af20b4df31c7659eba838477497d3be5": {
+   "id": "af20b4df31c7659eba838477497d3be5",
+   "company": "Ferrovial SE",
+   "role": "Open Innovation Internship",
+   "location": "Madrid"
+  },
+  "a3c1833d3633473b0cedf177cb493dd7": {
+   "id": "a3c1833d3633473b0cedf177cb493dd7",
+   "company": "Ferrovial SE",
+   "role": "Global Reporting Internship",
+   "location": "Madrid"
+  },
+  "51dbfdd13bb50c94f3723898b816b6b5": {
+   "id": "51dbfdd13bb50c94f3723898b816b6b5",
+   "company": "Solunion",
+   "role": "Beca Siniestros Y Recobros - Solunion First Steps",
+   "location": "Madrid"
+  },
+  "3dbb1fea86be0bec86302066ae0846ca": {
+   "id": "3dbb1fea86be0bec86302066ae0846ca",
+   "company": "Nestle Purina",
+   "role": "Prácticas En Recursos Humanos / Fábrica Nestlé Purina Castellbisbal",
+   "location": "Barcelona"
+  },
+  "c137d6d4c30cc52a68c3e592a8d8a43f": {
+   "id": "c137d6d4c30cc52a68c3e592a8d8a43f",
+   "company": "SO/ Sotogrande",
+   "role": "Prácticas De F&b Service - So/ Sotogrande",
+   "location": "Sotogrande"
+  },
+  "570772af82cbdb5a13afab57668957c4": {
+   "id": "570772af82cbdb5a13afab57668957c4",
+   "company": "Enagas",
+   "role": "Beca Economía - Ade / Madrid",
+   "location": "Madrid"
+  },
   "36ce9ea7d213e4240d814d6cc5f7c6ef": {
    "id": "36ce9ea7d213e4240d814d6cc5f7c6ef",
    "company": "Accenture",
@@ -25,6 +139,12 @@
    "company": "Bertrandt Group",
    "role": "Unknown",
    "location": "Madrid"
+  },
+  "f17c9e30c2ebd7905b5691c9fd7b5070": {
+   "id": "f17c9e30c2ebd7905b5691c9fd7b5070",
+   "company": "IHG Hotels & Resorts",
+   "role": "Front Office Internship - Kimpton Vividora",
+   "location": "Spain"
   },
   "61e347e879b8290f97ee1f7f9f9bce57": {
    "id": "61e347e879b8290f97ee1f7f9f9bce57",
@@ -140,18 +260,6 @@
    "role": "Estudiante En Prácticas – Departamento De Gestión De Calidad (qmm-p)",
    "location": "Madrid"
   },
-  "ad743c25894a759d57a7098cba345880": {
-   "id": "ad743c25894a759d57a7098cba345880",
-   "company": "Johnson & Johnson Innovative Medicine",
-   "role": "Intern Gco",
-   "location": "Madrid"
-  },
-  "e39b2227e1509d512d5dfd4efcfa8d9b": {
-   "id": "e39b2227e1509d512d5dfd4efcfa8d9b",
-   "company": "Johnson & Johnson Innovative Medicine",
-   "role": "Profesional Education Internship",
-   "location": "Madrid"
-  },
   "206930fae76aa3ef3168f4435950ac46": {
    "id": "206930fae76aa3ef3168f4435950ac46",
    "company": "Hempel",
@@ -164,23 +272,29 @@
    "role": "Animation Intern",
    "location": "Barcelona"
   },
-  "3928a83ad6bc4117078edbe0307a09f4": {
-   "id": "3928a83ad6bc4117078edbe0307a09f4",
-   "company": "Flowserve Corporation",
-   "role": "Commercial Operations Intern - Pozuelo",
-   "location": "Madrid"
+  "ab854a896850e39e400700ef8c442005": {
+   "id": "ab854a896850e39e400700ef8c442005",
+   "company": "The Ritz-Carlton",
+   "role": "Finance Trainee (becario)",
+   "location": "Barcelona"
   },
-  "b356c6c3719ad168011b0fb45655cf5e": {
-   "id": "b356c6c3719ad168011b0fb45655cf5e",
-   "company": "Freshfields",
-   "role": "Prácticas Del Máster De Acceso A La Abogacía - Extracurriculares Y Curriculares En 2027",
-   "location": "Madrid"
+  "8dd40a8c1de8230bda93a53289b0f308": {
+   "id": "8dd40a8c1de8230bda93a53289b0f308",
+   "company": "The Ritz-Carlton",
+   "role": "Finance Fp - The Barcelona Edition",
+   "location": "Barcelona"
   },
-  "87cc7e1e25803bb3a9b1ecc5cc6b40a2": {
-   "id": "87cc7e1e25803bb3a9b1ecc5cc6b40a2",
-   "company": "Grupo Hotusa",
-   "role": "Becario/a Comercial Nacional",
-   "location": "Madrid"
+  "cca994d03e86d6281a67ea32b6d76cb6": {
+   "id": "cca994d03e86d6281a67ea32b6d76cb6",
+   "company": "Marriott International",
+   "role": "Finance Trainee (becario)",
+   "location": "Barcelona"
+  },
+  "fb296370758f92007d25b17c4077bffd": {
+   "id": "fb296370758f92007d25b17c4077bffd",
+   "company": "Marriott International",
+   "role": "Finance Fp - The Barcelona Edition",
+   "location": "Barcelona"
   },
   "345b9491ef544183fe3e13ecb74e36be": {
    "id": "345b9491ef544183fe3e13ecb74e36be",
@@ -211,12 +325,6 @@
    "company": "EY",
    "role": "Prácticas Formación",
    "location": "Spain"
-  },
-  "39efee55bea3654f9a3108bbbc4ab570": {
-   "id": "39efee55bea3654f9a3108bbbc4ab570",
-   "company": "EY",
-   "role": "Prácticas Selección - Madrid",
-   "location": "Madrid"
   },
   "targetjobs:ff03393d-6eb9-4ce6-ad2a-979df583ea58": {
    "id": "targetjobs:ff03393d-6eb9-4ce6-ad2a-979df583ea58",
@@ -374,114 +482,6 @@
    "role": "Direct Material Procurement Intern Airbus Crisa",
    "location": "Salamanca"
   },
-  "8a05658e99b8df881d3e7e297571407d": {
-   "id": "8a05658e99b8df881d3e7e297571407d",
-   "company": "Enagas",
-   "role": "Beca Comunicación Interna Y Marca, Contenidos Y Posicionamiento / Madrid",
-   "location": "Madrid"
-  },
-  "46034c9cca1c135be6ab480aec0f6d89": {
-   "id": "46034c9cca1c135be6ab480aec0f6d89",
-   "company": "ATREVIA",
-   "role": "Beca Gestión De Administración De Personal - Atrevia Mad",
-   "location": "Madrid"
-  },
-  "f9b40684ebbf20dd9972cb801b67ac4f": {
-   "id": "f9b40684ebbf20dd9972cb801b67ac4f",
-   "company": "Acciona",
-   "role": "Beca Asesoría Jurídico Laboral",
-   "location": "Madrid"
-  },
-  "2d2e73f32fe13fa27e2c3280334d0ac5": {
-   "id": "2d2e73f32fe13fa27e2c3280334d0ac5",
-   "company": "Bosch Rexroth Pty. Ltd.",
-   "role": "Estudiante En Prácticas -- Departamento Rbem/mss1",
-   "location": "Madrid"
-  },
-  "563705891912366": {
-   "id": "563705891912366",
-   "company": "Kering Eyewear",
-   "role": "Kering Eyewear Finance Intern",
-   "location": "Barcelona"
-  },
-  "57381e21fcd088e1a7c58916dd7d2821": {
-   "id": "57381e21fcd088e1a7c58916dd7d2821",
-   "company": "Coty",
-   "role": "Marketing Consumer Beauty Intern",
-   "location": "Barcelona"
-  },
-  "3f6a21abd41ba4cc44eb9f7837c52070": {
-   "id": "3f6a21abd41ba4cc44eb9f7837c52070",
-   "company": "Marsh McLennan",
-   "role": "Beca Rrhh",
-   "location": "Madrid"
-  },
-  "a940c8fffa8ccaa5e3e2193aeb2797a8": {
-   "id": "a940c8fffa8ccaa5e3e2193aeb2797a8",
-   "company": "Criteo",
-   "role": "Business Process Specialist Intern",
-   "location": "Barcelona"
-  },
-  "a22a26cd76cedb537cd4a09470be8219": {
-   "id": "a22a26cd76cedb537cd4a09470be8219",
-   "company": "Akamai Technologies",
-   "role": "Emerging Talent Intern - Part-time Remote",
-   "location": "Spain"
-  },
-  "8399c102dd872720c2fd97731d48c3de": {
-   "id": "8399c102dd872720c2fd97731d48c3de",
-   "company": "Linode (Akamai Cloud Computing)",
-   "role": "Emerging Talent Intern - Part-time Remote",
-   "location": "Spain"
-  },
-  "c31fe98fe059593c0dbce0e9bd38f641": {
-   "id": "c31fe98fe059593c0dbce0e9bd38f641",
-   "company": "Ivivamedical",
-   "role": "Intern - Country Site Activation",
-   "location": "Madrid"
-  },
-  "8efb4ac9b25a9b3fbc6653d2e1ffdfcf": {
-   "id": "8efb4ac9b25a9b3fbc6653d2e1ffdfcf",
-   "company": "EY",
-   "role": "Ey-parthenon - Off-cycle Strategy & Transactions",
-   "location": "Madrid"
-  },
-  "c04b83f640d745d7f30a0135cd58d306": {
-   "id": "c04b83f640d745d7f30a0135cd58d306",
-   "company": "Airbus Defence and Space SAU",
-   "role": "#xplorer 2027 Training Simulators",
-   "location": "Madrid"
-  },
-  "1e776c4b12c53ff0e80081e20310be48": {
-   "id": "1e776c4b12c53ff0e80081e20310be48",
-   "company": "Bosch Rexroth Pty. Ltd.",
-   "role": "Prácticas En Logística - Componentes Y Sensores",
-   "location": "Madrid"
-  },
-  "f5b01ffa67a3584b709bedc0c280ce60": {
-   "id": "f5b01ffa67a3584b709bedc0c280ce60",
-   "company": "Glovo",
-   "role": "Category Management Intern Mfc",
-   "location": "Madrid"
-  },
-  "48c627c5587b195379ca538e04983a60": {
-   "id": "48c627c5587b195379ca538e04983a60",
-   "company": "Bosch Rexroth Pty. Ltd.",
-   "role": "Estudiante En Prácticas – Departamento De Producción Mse 1.1 (c)",
-   "location": "Madrid"
-  },
-  "466ef02058e714455f4bd17ff66fbd7a": {
-   "id": "466ef02058e714455f4bd17ff66fbd7a",
-   "company": "Bosch Group",
-   "role": "Estudiante En Prácticas -- Departamento Rbem/mss1",
-   "location": "Madrid"
-  },
-  "a46683623a7c02752af11684da255336": {
-   "id": "a46683623a7c02752af11684da255336",
-   "company": "Bosch Rexroth Pty. Ltd.",
-   "role": "Estudiante En Prácticas – Departamento De Logística Lop2",
-   "location": "Madrid"
-  },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
    "company": "Monolithic Power Systems",
@@ -493,6 +493,42 @@
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
    "location": "Barcelona"
+  },
+  "7340e8c90a9c19da8d39d4336faf3c0c": {
+   "id": "7340e8c90a9c19da8d39d4336faf3c0c",
+   "company": "minsait",
+   "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
+   "location": "Madrid"
+  },
+  "8d0036f8924e4a014f52eb37668a6107": {
+   "id": "8d0036f8924e4a014f52eb37668a6107",
+   "company": "Indra",
+   "role": "Ingeniero/a De Desarrollo Software C++",
+   "location": "Madrid"
+  },
+  "4dbe084582c94fe4d1b842c03c392323": {
+   "id": "4dbe084582c94fe4d1b842c03c392323",
+   "company": "minsait",
+   "role": "Ingeniero/a De Software Aviónico Y Estándares",
+   "location": "Madrid"
+  },
+  "ff300513470d9e8212e3b59dfdfd2a70": {
+   "id": "ff300513470d9e8212e3b59dfdfd2a70",
+   "company": "minsait",
+   "role": "Ingeniero/a De Software C/c++ Para Desarrollo, Integración Y Bancos De Pruebas",
+   "location": "Madrid"
+  },
+  "3a2b3a268a46fea45fd37eae7a31cb7c": {
+   "id": "3a2b3a268a46fea45fd37eae7a31cb7c",
+   "company": "Indra",
+   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
+   "location": "Madrid"
+  },
+  "41e7e288ca17dec15aa0b6998ee8bcc4": {
+   "id": "41e7e288ca17dec15aa0b6998ee8bcc4",
+   "company": "Jobgether",
+   "role": "Software Engineer/c Developer-pgd",
+   "location": "Spain"
   },
   "8e84a63908857354ab45c4ac1e346a85": {
    "id": "8e84a63908857354ab45c4ac1e346a85",
@@ -559,12 +595,6 @@
    "company": "ISGlobal",
    "role": "Software Engineer For Sciencepaks Project",
    "location": "Barcelona"
-  },
-  "6e6ca2dfa2997499346b250a82301296": {
-   "id": "6e6ca2dfa2997499346b250a82301296",
-   "company": "Minsait",
-   "role": "Ingeniero/a De Software C/c++ Para Desarrollo, Integración Y Bancos De Pruebas",
-   "location": "Madrid"
   },
   "baea95e3d5c29ea51bae67d6ae4b1dce": {
    "id": "baea95e3d5c29ea51bae67d6ae4b1dce",
@@ -650,12 +680,6 @@
    "role": "Ingeniero/a De Desarrollo Software C++",
    "location": "Madrid"
   },
-  "d8459dac0a10828e3aa88eeb9fcb0429": {
-   "id": "d8459dac0a10828e3aa88eeb9fcb0429",
-   "company": "Minsait",
-   "role": "Ingeniero/a De Software Aviónico Y Estándares",
-   "location": "Madrid"
-  },
   "9dd9dfced6c2add4382a834c7e82944b": {
    "id": "9dd9dfced6c2add4382a834c7e82944b",
    "company": "Jobgether",
@@ -685,24 +709,6 @@
    "company": "ISGlobal",
    "role": "Software Engineer Epi-flare",
    "location": "Barcelona"
-  },
-  "3a2b3a268a46fea45fd37eae7a31cb7c": {
-   "id": "3a2b3a268a46fea45fd37eae7a31cb7c",
-   "company": "Indra",
-   "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
-   "location": "Madrid"
-  },
-  "7340e8c90a9c19da8d39d4336faf3c0c": {
-   "id": "7340e8c90a9c19da8d39d4336faf3c0c",
-   "company": "minsait",
-   "role": "Desarrollador/a Software Java Y Criptografía / Madrid - Híbrido",
-   "location": "Madrid"
-  },
-  "8d0036f8924e4a014f52eb37668a6107": {
-   "id": "8d0036f8924e4a014f52eb37668a6107",
-   "company": "Indra",
-   "role": "Ingeniero/a De Desarrollo Software C++",
-   "location": "Madrid"
   },
   "a1a38da74f4473dfa386db1f2a599efe": {
    "id": "a1a38da74f4473dfa386db1f2a599efe",
@@ -968,12 +974,6 @@
    "role": "Python Developer, Madrid España",
    "location": "Madrid"
   },
-  "6dd9a4eb983bc95a543422cb3689fd7f": {
-   "id": "6dd9a4eb983bc95a543422cb3689fd7f",
-   "company": "Grafana Labs",
-   "role": "Software Engineer - Platform Metal / Spain / Remote",
-   "location": "Spain"
-  },
   "cc499d256ce8fd8674964adea19e9b63": {
    "id": "cc499d256ce8fd8674964adea19e9b63",
    "company": "Delivery Hero (foodpanda)",
@@ -1016,6 +1016,24 @@
    "role": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
    "location": "Madrid"
   },
+  "9dff5d59faa4571d44a549bfc819920f": {
+   "id": "9dff5d59faa4571d44a549bfc819920f",
+   "company": "Avanade",
+   "role": "Ingeniero/a Técnico Copilot Studios Y Power Platform",
+   "location": "Madrid"
+  },
+  "f0db32f47ea572289d4a12f690534d9a": {
+   "id": "f0db32f47ea572289d4a12f690534d9a",
+   "company": "SIX",
+   "role": "Data Analyst",
+   "location": "Madrid"
+  },
+  "289c736421e4a764d259d900f292e901": {
+   "id": "289c736421e4a764d259d900f292e901",
+   "company": "Indra Group",
+   "role": "Data Scientist/data Engineer Junior",
+   "location": "Es"
+  },
   "d9a22bb89162ca2512946570bf28b12c": {
    "id": "d9a22bb89162ca2512946570bf28b12c",
    "company": "Zurich Insurance UK",
@@ -1027,12 +1045,6 @@
    "company": "Swiss Re",
    "role": "Ai Engineer",
    "location": "Madrid"
-  },
-  "59ab37b61012b0e55ba120fe0d9ce085": {
-   "id": "59ab37b61012b0e55ba120fe0d9ce085",
-   "company": "Indra group",
-   "role": "Data Scientist/data Engineer Junior",
-   "location": "Es"
   },
   "3b11b9c3abe43d180070a041fb0ac6ea": {
    "id": "3b11b9c3abe43d180070a041fb0ac6ea",
@@ -1080,12 +1092,6 @@
    "id": "ca1790f3538d5b8582b2adf4e2622304",
    "company": "Intrum Justitia AB",
    "role": "It Ai & Voice Agent Enginee",
-   "location": "Madrid"
-  },
-  "f0db32f47ea572289d4a12f690534d9a": {
-   "id": "f0db32f47ea572289d4a12f690534d9a",
-   "company": "SIX",
-   "role": "Data Analyst",
    "location": "Madrid"
   },
   "a8a64a7dc0ee444c0ac1a4f7c12ed9f4": {
@@ -1400,6 +1406,12 @@
    "role": "Data Scientist",
    "location": "Localidad"
   },
+  "e12d8709858af9dcdab0f2a6c875056e": {
+   "id": "e12d8709858af9dcdab0f2a6c875056e",
+   "company": "Ernst & Young",
+   "role": "Prácticas Asesoramiento Financiero",
+   "location": "Madrid"
+  },
   "6a0d3ffe49a15d48bfc1e14303b94f1c": {
    "id": "6a0d3ffe49a15d48bfc1e14303b94f1c",
    "company": "Zurich Insurance UK",
@@ -1513,6 +1525,18 @@
    "company": "Ubisoft",
    "role": "Accountant Trainee",
    "location": "Barcelona"
+  },
+  "bf12d764436552c7a1d5cbdb33d77c70": {
+   "id": "bf12d764436552c7a1d5cbdb33d77c70",
+   "company": "DXC Technology",
+   "role": "It Analista Funcional Sector Asegurador",
+   "location": "Barcelona"
+  },
+  "22a2a7327a64f2570ae979b6fd76bea3": {
+   "id": "22a2a7327a64f2570ae979b6fd76bea3",
+   "company": "SGS Australia Pty Ltd",
+   "role": "Business Analyst",
+   "location": "Madrid"
   },
   "1126b0c5a19928da65251c58842eeb96": {
    "id": "1126b0c5a19928da65251c58842eeb96",
@@ -1850,12 +1874,6 @@
    "role": "Pmo Business Analyst – Real Estate Capital Projects",
    "location": "Madrid"
   },
-  "bf12d764436552c7a1d5cbdb33d77c70": {
-   "id": "bf12d764436552c7a1d5cbdb33d77c70",
-   "company": "DXC Technology",
-   "role": "It Analista Funcional Sector Asegurador",
-   "location": "Barcelona"
-  },
   "6e9977e0f3518e806dea2a119bf3688f": {
    "id": "6e9977e0f3518e806dea2a119bf3688f",
    "company": "Roche Holding AG",
@@ -1988,12 +2006,6 @@
    "role": "Us - Accountant (spain - Remote)",
    "location": "Madrid"
   },
-  "92e7e725690fcbac42cb08b76f3c93b4": {
-   "id": "92e7e725690fcbac42cb08b76f3c93b4",
-   "company": "Ernst & Young",
-   "role": "Consultor/a Contabilidad Y Fiscalidad - Barcelona",
-   "location": "Barcelona"
-  },
   "fe4facdc272599509ea02cd772036b40": {
    "id": "fe4facdc272599509ea02cd772036b40",
    "company": "EUROPREVEN",
@@ -2022,6 +2034,54 @@
    "id": "631a3bfb3716e30a2b19aa75b5e4ff65",
    "company": "FRESENIUS MEDICAL CARE",
    "role": "Nefrólogo/a (hospitalet)",
+   "location": "Barcelona"
+  },
+  "50dcabe77656fa7f8023153580a1bbcf": {
+   "id": "50dcabe77656fa7f8023153580a1bbcf",
+   "company": "Ahorramas, S.A",
+   "role": "Electromecánico/a - Turno Noche - Plataformas Logísticas Velilla De San Antonio (madrid)",
+   "location": "Salamanca"
+  },
+  "0ad6bc403df111c036c6249950b7e036": {
+   "id": "0ad6bc403df111c036c6249950b7e036",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Técnico/a Mantenimiento Ferroviario - Santa Perpètua / Aeroport Bcn 1",
+   "location": "Barcelona"
+  },
+  "1215bfe9133543b2a7f2f83477e0548d": {
+   "id": "1215bfe9133543b2a7f2f83477e0548d",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario(a) De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
+   "location": "Madrid"
+  },
+  "7808ae1bd1f74f52095c3aa1b92179e3": {
+   "id": "7808ae1bd1f74f52095c3aa1b92179e3",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Tecnico/a De Mantenimiento Ferroviario - Barajas",
+   "location": "Madrid"
+  },
+  "4039ddc8b5246753498797d30a79d121": {
+   "id": "4039ddc8b5246753498797d30a79d121",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Operario/a De Mantenimiento Ferroviario Fuencarral Temporal",
+   "location": "Madrid"
+  },
+  "1c2897993600f46d6833311e6945eabb": {
+   "id": "1c2897993600f46d6833311e6945eabb",
+   "company": "KONE Croatia",
+   "role": "Técnico/a De Mantenimiento De Ascensores - Vic",
+   "location": "Barcelona"
+  },
+  "9d90ac982a1f061362aadd7b2ad04859": {
+   "id": "9d90ac982a1f061362aadd7b2ad04859",
+   "company": "minsait",
+   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
+   "location": "Salamanca"
+  },
+  "fb01b56e4e55d5e6e52d920964eb791f": {
+   "id": "fb01b56e4e55d5e6e52d920964eb791f",
+   "company": "KONE Croatia",
+   "role": "Técnico/a De Mantenimiento De Ascensores - Barcelona",
    "location": "Barcelona"
   },
   "13295746af60fd5b3f79ddc00b089d91": {
@@ -2078,12 +2138,6 @@
    "role": "Técnico Mecánico De Taller Y Mantenimiento Industrial",
    "location": "Zaragoza"
   },
-  "25a1c1af32097f3b73d5ab3087a3a536": {
-   "id": "25a1c1af32097f3b73d5ab3087a3a536",
-   "company": "Minsait",
-   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
-   "location": "Salamanca"
-  },
   "da01187f7c7a1982833c7d6c7d123814": {
    "id": "da01187f7c7a1982833c7d6c7d123814",
    "company": "Minsait",
@@ -2132,12 +2186,6 @@
    "role": "Operario/a De Mantenimiento Ferroviario Fuencarral Temporal",
    "location": "Madrid"
   },
-  "a88e584cd716cc44c51072f17b3a9912": {
-   "id": "a88e584cd716cc44c51072f17b3a9912",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
-   "location": "Madrid"
-  },
   "f2eda61e112f2de2df7c0d62986431d0": {
    "id": "f2eda61e112f2de2df7c0d62986431d0",
    "company": "ALSTOM TRANSPORT SA",
@@ -2156,18 +2204,6 @@
    "role": "Operario De Mantenimiento Para Ensayos No Destructivos",
    "location": "Madrid"
   },
-  "0ad6bc403df111c036c6249950b7e036": {
-   "id": "0ad6bc403df111c036c6249950b7e036",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Técnico/a Mantenimiento Ferroviario - Santa Perpètua / Aeroport Bcn 1",
-   "location": "Barcelona"
-  },
-  "7808ae1bd1f74f52095c3aa1b92179e3": {
-   "id": "7808ae1bd1f74f52095c3aa1b92179e3",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Tecnico/a De Mantenimiento Ferroviario - Barajas",
-   "location": "Madrid"
-  },
   "80f07a061a1e75b08cbe11fd7f5b68f5": {
    "id": "80f07a061a1e75b08cbe11fd7f5b68f5",
    "company": "Orona S.Coop",
@@ -2179,12 +2215,6 @@
    "company": "confiarte.eu",
    "role": "Técnico/a De Mantenimiento Data Center (especialista En Electricidad Y Climatización) / Getafe (madrid)",
    "location": "Madrid"
-  },
-  "a988b758f4d9f4db5662a62f463c6d5b": {
-   "id": "a988b758f4d9f4db5662a62f463c6d5b",
-   "company": "Ahorramas, S.A",
-   "role": "Electromecánico/a - Turno Noche - Plataformas Logísticas Velilla De San Antonio (madrid)",
-   "location": "Salamanca"
   },
   "d15357c0c4bead2298db7f094bc6d038": {
    "id": "d15357c0c4bead2298db7f094bc6d038",
@@ -2480,35 +2510,29 @@
    "role": "Técnico Electromecánico Con Inglés ( Sede Zona Franca)",
    "location": "Barcelona"
   },
-  "957b2fdc277cedb19e33e88b46fc037e": {
-   "id": "957b2fdc277cedb19e33e88b46fc037e",
-   "company": "STILL",
-   "role": "Field Service Engineer",
+  "ef4689717407305603df155d03b43ca9": {
+   "id": "ef4689717407305603df155d03b43ca9",
+   "company": "JYSK",
+   "role": "Jes - Vendedor/a - 30 H",
    "location": "Madrid"
   },
-  "dbe41a3a5b4acc6d393bdf9673ce12b3": {
-   "id": "dbe41a3a5b4acc6d393bdf9673ce12b3",
-   "company": "Westinghouse Electric Company LLC",
-   "role": "Maintenance Technician",
-   "location": "Salamanca"
+  "9a629c2df68e9cd620c47020ed07f4c8": {
+   "id": "9a629c2df68e9cd620c47020ed07f4c8",
+   "company": "The North Face",
+   "role": "Vendedor/a 10h The North Face - Madrid",
+   "location": "Madrid"
   },
-  "e1344193052076947fd3ea43bfe720f1": {
-   "id": "e1344193052076947fd3ea43bfe720f1",
-   "company": "Orona S.Coop",
-   "role": "Técnico/a De Mantenimiento De Ascensores (huesca)",
-   "location": "Zaragoza"
+  "af0f25d22bc3ce5427f897669337116a": {
+   "id": "af0f25d22bc3ce5427f897669337116a",
+   "company": "obramat.es",
+   "role": "Vendedor/a De Sanitarios_almacen Hospitalet",
+   "location": "Barcelona"
   },
   "660aebeb0ad1b0c1f301546fe70a6a57": {
    "id": "660aebeb0ad1b0c1f301546fe70a6a57",
    "company": "Condis Supermercats S.A",
    "role": "Bolsa De Talento Almacen",
    "location": "Barcelona"
-  },
-  "854580ba899540eac95af74ccb3ee268": {
-   "id": "854580ba899540eac95af74ccb3ee268",
-   "company": "THE NORTH FACE",
-   "role": "Vendedor/a 10h The North Face - Madrid",
-   "location": "Madrid"
   },
   "c24974f99e6d044a59d2cb7f0df6bbc7": {
    "id": "c24974f99e6d044a59d2cb7f0df6bbc7",
@@ -2545,12 +2569,6 @@
    "company": "adidas AG",
    "role": "Sales Associate - (part Time / Temporal) / Bc Barcelona",
    "location": "Barcelona"
-  },
-  "bf65498fb5c25036d9ea93f13525a3af": {
-   "id": "bf65498fb5c25036d9ea93f13525a3af",
-   "company": "JYSK",
-   "role": "Jes - Vendedor/a - 30 H",
-   "location": "Salamanca"
   },
   "fcf2ff9ef9cd0c6fa5e36692524f0a2a": {
    "id": "fcf2ff9ef9cd0c6fa5e36692524f0a2a",
@@ -2972,12 +2990,6 @@
    "role": "Vendedor/a",
    "location": "Barcelona"
   },
-  "d6c125faf7b7e7b8a37658de2630d931": {
-   "id": "d6c125faf7b7e7b8a37658de2630d931",
-   "company": "VANS",
-   "role": "Vendedores/as Vans - Barcelona",
-   "location": "Barcelona"
-  },
   "5751ccbc53b48dbeb117d9fa20463513": {
    "id": "5751ccbc53b48dbeb117d9fa20463513",
    "company": "Colegio CEU",
@@ -3223,18 +3235,6 @@
    "company": "164",
    "role": "Auxiliar Administrativo/a",
    "location": "Barcelona"
-  },
-  "8aa0f6fde3c7731d0f24adc9063b0673": {
-   "id": "8aa0f6fde3c7731d0f24adc9063b0673",
-   "company": "Airbus SE",
-   "role": "Secretary / Assistant",
-   "location": "Madrid"
-  },
-  "5b64f40a92cb96da35f9807abd15128e": {
-   "id": "5b64f40a92cb96da35f9807abd15128e",
-   "company": "Sixt",
-   "role": "Administrativo Car Sales (m/f/d)",
-   "location": "Madrid"
   }
  }
 }
