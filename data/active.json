@@ -1,7 +1,31 @@
 {
- "asOf": "2026-10-04",
- "count": 539,
+ "asOf": "2026-10-05",
+ "count": 537,
  "jobs": {
+  "9fff814ced8bcb41f8bf459cbd8bf1db": {
+   "id": "9fff814ced8bcb41f8bf459cbd8bf1db",
+   "company": "Melia",
+   "role": "Prácticas F&b Luxury Brands",
+   "location": "Islas Baleares"
+  },
+  "6a0d8cb557b12e16fbf6ba00f017d099": {
+   "id": "6a0d8cb557b12e16fbf6ba00f017d099",
+   "company": "ABB Inc",
+   "role": "Internship: Customer Operations Department: Customer Service And Order Management",
+   "location": "Barcelona"
+  },
+  "ae873f88961cd856174d96eeac4fc8b5": {
+   "id": "ae873f88961cd856174d96eeac4fc8b5",
+   "company": "Schindler Group",
+   "role": "Beca Ingeniería Y Gestión Comercial (zaragoza)",
+   "location": "Zaragoza"
+  },
+  "064829792ae348a8e7a80cecf6415958": {
+   "id": "064829792ae348a8e7a80cecf6415958",
+   "company": "Schindler Group",
+   "role": "Beca Apoyo Comercial (barcelona)",
+   "location": "Barcelona"
+  },
   "1bcb120027a6ae390d0488b7b794625a": {
    "id": "1bcb120027a6ae390d0488b7b794625a",
    "company": "Arxada",
@@ -34,9 +58,9 @@
   },
   "9daff01e66d9ff036ac20393c2fdb173": {
    "id": "9daff01e66d9ff036ac20393c2fdb173",
-   "company": "Coty",
+   "company": "Coty Inc.",
    "role": "Exo Packaging Intern",
-   "location": "Barcelona"
+   "location": "Barcelona Hub"
   },
   "ca3e1b46d84771211d71de439a0756b9": {
    "id": "ca3e1b46d84771211d71de439a0756b9",
@@ -116,6 +140,12 @@
    "role": "Beca Economía - Ade / Madrid",
    "location": "Madrid"
   },
+  "81b6df3f33322320226a7929d8401b6b": {
+   "id": "81b6df3f33322320226a7929d8401b6b",
+   "company": "PIB Group",
+   "role": "Contable Trainee",
+   "location": "Spain"
+  },
   "36ce9ea7d213e4240d814d6cc5f7c6ef": {
    "id": "36ce9ea7d213e4240d814d6cc5f7c6ef",
    "company": "Accenture",
@@ -143,6 +173,18 @@
   "f17c9e30c2ebd7905b5691c9fd7b5070": {
    "id": "f17c9e30c2ebd7905b5691c9fd7b5070",
    "company": "IHG Hotels & Resorts",
+   "role": "Front Office Internship - Kimpton Vividora",
+   "location": "Spain"
+  },
+  "8acfa1ea3015cd07c0f59836a7fdbd20": {
+   "id": "8acfa1ea3015cd07c0f59836a7fdbd20",
+   "company": "Kimpton Vividora",
+   "role": "Front Office Internship - Kimpton Vividora",
+   "location": "Spain"
+  },
+  "eb795e7599fec4a13ccc78c4dd40c2c9": {
+   "id": "eb795e7599fec4a13ccc78c4dd40c2c9",
+   "company": "InterContinental Hotels Group (IHG)",
    "role": "Front Office Internship - Kimpton Vividora",
    "location": "Spain"
   },
@@ -433,54 +475,6 @@
    "company": "Ernst & Young Global Ltd",
    "role": "Prácticas Selección - Madrid",
    "location": "Madrid"
-  },
-  "b2559c2c2dc5d0b793ee36ca064aca96": {
-   "id": "b2559c2c2dc5d0b793ee36ca064aca96",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas Formación",
-   "location": "Madrid"
-  },
-  "8ffbaed4bef8d8eb1863e1efb927ecec": {
-   "id": "8ffbaed4bef8d8eb1863e1efb927ecec",
-   "company": "Mango",
-   "role": "Intern Fashion Buyer Man",
-   "location": "Palau"
-  },
-  "3adecc2391f6ae7d98c54fc12997ab6c": {
-   "id": "3adecc2391f6ae7d98c54fc12997ab6c",
-   "company": "TD SYNNEX",
-   "role": "Ap Trainee",
-   "location": "Barcelona"
-  },
-  "b4b1c42114c8311a077046208bbba20c": {
-   "id": "b4b1c42114c8311a077046208bbba20c",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Junior Powerapps Developer Intern",
-   "location": "Barcelona"
-  },
-  "3b3913473de8bcb76201a0f4bb5bbb4a": {
-   "id": "3b3913473de8bcb76201a0f4bb5bbb4a",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Hr Labor Relations Internship",
-   "location": "Barcelona"
-  },
-  "71bf7c288f4d671284cba25e9c7b57ea": {
-   "id": "71bf7c288f4d671284cba25e9c7b57ea",
-   "company": "Industria de Turbo Propulsores, S.A",
-   "role": "Beca Riesgos , Control Interno Y Auditoría Interna (f/m/x)",
-   "location": "Alcobendas"
-  },
-  "4ba6d9fd4a965acb05938aa23a892853": {
-   "id": "4ba6d9fd4a965acb05938aa23a892853",
-   "company": "Airbus",
-   "role": "#discover Ii 2026-2027 / Ai Models Internship",
-   "location": "Getafe Area"
-  },
-  "7772d0ff6acfbe3706d3aaed46289829": {
-   "id": "7772d0ff6acfbe3706d3aaed46289829",
-   "company": "Airbus Crisa",
-   "role": "Direct Material Procurement Intern Airbus Crisa",
-   "location": "Salamanca"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
@@ -1016,6 +1010,18 @@
    "role": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
    "location": "Madrid"
   },
+  "88a146b56a128ce85af2547648c19ac6": {
+   "id": "88a146b56a128ce85af2547648c19ac6",
+   "company": "Halfspace ApS",
+   "role": "Ai Software Engineer / Spain",
+   "location": "Madrid"
+  },
+  "d49167b62c14190f05715ca43bf419c9": {
+   "id": "d49167b62c14190f05715ca43bf419c9",
+   "company": "Avolta",
+   "role": "Global Data Scientist Specialist",
+   "location": "Madrid"
+  },
   "9dff5d59faa4571d44a549bfc819920f": {
    "id": "9dff5d59faa4571d44a549bfc819920f",
    "company": "Avanade",
@@ -1033,6 +1039,12 @@
    "company": "Indra Group",
    "role": "Data Scientist/data Engineer Junior",
    "location": "Es"
+  },
+  "0cafcd0c3befb298d7ede00f8a721b6a": {
+   "id": "0cafcd0c3befb298d7ede00f8a721b6a",
+   "company": "Jobgether",
+   "role": "Data & Insights",
+   "location": "Spain"
   },
   "d9a22bb89162ca2512946570bf28b12c": {
    "id": "d9a22bb89162ca2512946570bf28b12c",
@@ -1128,18 +1140,6 @@
    "id": "33c2bf11fa9ac70f7c3bb3c35fbb7f22",
    "company": "Accenture Technology",
    "role": "Ai Native Product Engineer & Orchestrator",
-   "location": "Madrid"
-  },
-  "88a146b56a128ce85af2547648c19ac6": {
-   "id": "88a146b56a128ce85af2547648c19ac6",
-   "company": "Halfspace ApS",
-   "role": "Ai Software Engineer / Spain",
-   "location": "Madrid"
-  },
-  "f0961946b004ad232feab278f810eac1": {
-   "id": "f0961946b004ad232feab278f810eac1",
-   "company": "Avolta",
-   "role": "Global Data Scientist Specialist",
    "location": "Madrid"
   },
   "0379e7b7b1db4179fc9419ca83788732": {
@@ -2036,6 +2036,24 @@
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
   },
+  "e567804edd6b55026b5cbc17f6237121": {
+   "id": "e567804edd6b55026b5cbc17f6237121",
+   "company": "Danfoss AS",
+   "role": "Service Engineer",
+   "location": "Barcelona"
+  },
+  "9adbf8e9696b1ea043dd2097646494d1": {
+   "id": "9adbf8e9696b1ea043dd2097646494d1",
+   "company": "Schindler Group",
+   "role": "Técnico/a De Mantenimiento - Barcelona",
+   "location": "Barcelona"
+  },
+  "546c42b8c7154cc9e85c0f15d88ae84a": {
+   "id": "546c42b8c7154cc9e85c0f15d88ae84a",
+   "company": "Schindler Group",
+   "role": "Técnico/a De Mantenimiento Ascensores- Zaragoza",
+   "location": "Zaragoza"
+  },
   "50dcabe77656fa7f8023153580a1bbcf": {
    "id": "50dcabe77656fa7f8023153580a1bbcf",
    "company": "Ahorramas, S.A",
@@ -2065,6 +2083,12 @@
    "company": "ALSTOM TRANSPORT SA",
    "role": "Operario/a De Mantenimiento Ferroviario Fuencarral Temporal",
    "location": "Madrid"
+  },
+  "29f938afb1b5501cd25fc99e125127f8": {
+   "id": "29f938afb1b5501cd25fc99e125127f8",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Técnico/a De Mantenimiento (electricista)",
+   "location": "Barcelona"
   },
   "1c2897993600f46d6833311e6945eabb": {
    "id": "1c2897993600f46d6833311e6945eabb",
@@ -2114,12 +2138,6 @@
    "role": "Técnico Eléctrico De Turno (fines De Semana)",
    "location": "Barcelona"
   },
-  "29f938afb1b5501cd25fc99e125127f8": {
-   "id": "29f938afb1b5501cd25fc99e125127f8",
-   "company": "Alstom",
-   "role": "Técnico/a De Mantenimiento (electricista)",
-   "location": "Barcelona"
-  },
   "62f9dd0479b6bed5e2b31ee5a11010c6": {
    "id": "62f9dd0479b6bed5e2b31ee5a11010c6",
    "company": "Alstom",
@@ -2162,18 +2180,6 @@
    "role": "Service Engineer / Substation Automation & Scada",
    "location": "Madrid"
   },
-  "9adbf8e9696b1ea043dd2097646494d1": {
-   "id": "9adbf8e9696b1ea043dd2097646494d1",
-   "company": "Schindler Group",
-   "role": "Técnico/a De Mantenimiento - Barcelona",
-   "location": "Barcelona"
-  },
-  "546c42b8c7154cc9e85c0f15d88ae84a": {
-   "id": "546c42b8c7154cc9e85c0f15d88ae84a",
-   "company": "Schindler Group",
-   "role": "Técnico/a De Mantenimiento Ascensores- Zaragoza",
-   "location": "Zaragoza"
-  },
   "783715e6690dd980ce4da24f456aed43": {
    "id": "783715e6690dd980ce4da24f456aed43",
    "company": "Schindler Group",
@@ -2191,12 +2197,6 @@
    "company": "ALSTOM TRANSPORT SA",
    "role": "Operario/a De Mantenimiento Pinto Temporal",
    "location": "Madrid"
-  },
-  "e245320cc0fe9cbd98ad9887de8fd305": {
-   "id": "e245320cc0fe9cbd98ad9887de8fd305",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Técnico/a De Mantenimiento (electricista)",
-   "location": "Barcelona"
   },
   "b6e785b1ad71dceb2baf42468aa78e7b": {
    "id": "b6e785b1ad71dceb2baf42468aa78e7b",
@@ -2281,12 +2281,6 @@
    "company": "MBDA",
    "role": "Field Support Engineer (spain)",
    "location": "Madrid"
-  },
-  "e567804edd6b55026b5cbc17f6237121": {
-   "id": "e567804edd6b55026b5cbc17f6237121",
-   "company": "Danfoss AS",
-   "role": "Service Engineer",
-   "location": "Barcelona"
   },
   "3acd344c8e73f98064ffc0824b99bb7c": {
    "id": "3acd344c8e73f98064ffc0824b99bb7c",
@@ -2510,6 +2504,24 @@
    "role": "Técnico Electromecánico Con Inglés ( Sede Zona Franca)",
    "location": "Barcelona"
   },
+  "957b2fdc277cedb19e33e88b46fc037e": {
+   "id": "957b2fdc277cedb19e33e88b46fc037e",
+   "company": "STILL",
+   "role": "Field Service Engineer",
+   "location": "Madrid"
+  },
+  "e600f6b9ce1b8ee1c0c17a03af360541": {
+   "id": "e600f6b9ce1b8ee1c0c17a03af360541",
+   "company": "Levis Media",
+   "role": "Sales Stylist 18h Viernes, Sábado Y Domingo",
+   "location": "Madrid"
+  },
+  "1da2b7abdce7178d6c5dd7366330441a": {
+   "id": "1da2b7abdce7178d6c5dd7366330441a",
+   "company": "SKECHERS USA Inc",
+   "role": "Vendedor/a - Jornada Parcial 20h - Diagonal Mar",
+   "location": "Barcelona"
+  },
   "ef4689717407305603df155d03b43ca9": {
    "id": "ef4689717407305603df155d03b43ca9",
    "company": "JYSK",
@@ -2521,6 +2533,42 @@
    "company": "The North Face",
    "role": "Vendedor/a 10h The North Face - Madrid",
    "location": "Madrid"
+  },
+  "5105f0921563d827621bb8d754a0e873": {
+   "id": "5105f0921563d827621bb8d754a0e873",
+   "company": "adidas AG",
+   "role": "Sales Associate Fo San Sebastian De Los Reyes",
+   "location": "Madrid"
+  },
+  "dda60886198099f314778f07603b66cc": {
+   "id": "dda60886198099f314778f07603b66cc",
+   "company": "adidas AG",
+   "role": "Sales Associate",
+   "location": "Barcelona"
+  },
+  "d002a008ec3c50e66dc91b6b64034bf4": {
+   "id": "d002a008ec3c50e66dc91b6b64034bf4",
+   "company": "adidas AG",
+   "role": "Sales Associate - Ssrr (madrid) Temporal Navidad",
+   "location": "Salamanca"
+  },
+  "30f1197bd9c6eddde8cd52190dda9326": {
+   "id": "30f1197bd9c6eddde8cd52190dda9326",
+   "company": "adidas AG",
+   "role": "Sales Associate (part Time) - Fo Las Rozas.",
+   "location": "Madrid"
+  },
+  "3f4744d4754aa080cfadbb91d9024782": {
+   "id": "3f4744d4754aa080cfadbb91d9024782",
+   "company": "adidas AG",
+   "role": "Vendedor/a Campaña Navidad/rebajas 20h/semana Adidas Cc Eci Pozuelo",
+   "location": "Madrid"
+  },
+  "ab7898a9550c220cb31e41a75071158e": {
+   "id": "ab7898a9550c220cb31e41a75071158e",
+   "company": "adidas AG",
+   "role": "Sales Associate - Fo Viladecans",
+   "location": "Barcelona"
   },
   "af0f25d22bc3ce5427f897669337116a": {
    "id": "af0f25d22bc3ce5427f897669337116a",
@@ -2594,12 +2642,6 @@
    "role": "Mozo De Almacén",
    "location": "Barcelona"
   },
-  "ab7898a9550c220cb31e41a75071158e": {
-   "id": "ab7898a9550c220cb31e41a75071158e",
-   "company": "adidas AG",
-   "role": "Sales Associate - Fo Viladecans",
-   "location": "Barcelona"
-  },
   "987cdf6bd398dc99ce1b0e652af2d494": {
    "id": "987cdf6bd398dc99ce1b0e652af2d494",
    "company": "adidas AG",
@@ -2610,36 +2652,6 @@
    "id": "16bcb7a5f8914ed019d1847e39792ce0",
    "company": "adidas AG",
    "role": "Sales Associate (part Time) - Adidas Fo Rivas-vaciamadrid",
-   "location": "Madrid"
-  },
-  "5105f0921563d827621bb8d754a0e873": {
-   "id": "5105f0921563d827621bb8d754a0e873",
-   "company": "adidas AG",
-   "role": "Sales Associate Fo San Sebastian De Los Reyes",
-   "location": "Madrid"
-  },
-  "dda60886198099f314778f07603b66cc": {
-   "id": "dda60886198099f314778f07603b66cc",
-   "company": "adidas AG",
-   "role": "Sales Associate",
-   "location": "Barcelona"
-  },
-  "d002a008ec3c50e66dc91b6b64034bf4": {
-   "id": "d002a008ec3c50e66dc91b6b64034bf4",
-   "company": "adidas AG",
-   "role": "Sales Associate - Ssrr (madrid) Temporal Navidad",
-   "location": "Salamanca"
-  },
-  "30f1197bd9c6eddde8cd52190dda9326": {
-   "id": "30f1197bd9c6eddde8cd52190dda9326",
-   "company": "adidas AG",
-   "role": "Sales Associate (part Time) - Fo Las Rozas.",
-   "location": "Madrid"
-  },
-  "3f4744d4754aa080cfadbb91d9024782": {
-   "id": "3f4744d4754aa080cfadbb91d9024782",
-   "company": "adidas AG",
-   "role": "Vendedor/a Campaña Navidad/rebajas 20h/semana Adidas Cc Eci Pozuelo",
    "location": "Madrid"
   },
   "47b0084dc2a012c715400cf3243ef302": {
@@ -2978,18 +2990,6 @@
    "role": "Sales Stylist 15h (fin De Semana) Levis Eci Pozuelo",
    "location": "Madrid"
   },
-  "dc7fe4b2991f84dcc0b11deb70e74ed2": {
-   "id": "dc7fe4b2991f84dcc0b11deb70e74ed2",
-   "company": "VF Corporation (Vans)",
-   "role": "Vendedores/as Vans - Barcelona",
-   "location": "Barcelona"
-  },
-  "a71b7b7888b52c1e6dfe7c81945a8ae0": {
-   "id": "a71b7b7888b52c1e6dfe7c81945a8ae0",
-   "company": "VF Corporation (Vans)",
-   "role": "Vendedor/a",
-   "location": "Barcelona"
-  },
   "5751ccbc53b48dbeb117d9fa20463513": {
    "id": "5751ccbc53b48dbeb117d9fa20463513",
    "company": "Colegio CEU",
@@ -3223,18 +3223,6 @@
    "company": "Jobgether",
    "role": "It Support Specialist",
    "location": "Spain"
-  },
-  "bf68facdacb047f068264380c1697e15": {
-   "id": "bf68facdacb047f068264380c1697e15",
-   "company": "CHEP, A Brambles Company",
-   "role": "Interim Customer Service Coordinator",
-   "location": "Madrid"
-  },
-  "80ed76ef612edad93e8785626bbef0ed": {
-   "id": "80ed76ef612edad93e8785626bbef0ed",
-   "company": "164",
-   "role": "Auxiliar Administrativo/a",
-   "location": "Barcelona"
   }
  }
 }

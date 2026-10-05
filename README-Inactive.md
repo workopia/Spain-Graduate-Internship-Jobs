@@ -2730,4 +2730,18 @@
 <tr><td>VANS</td><td>Vendedores/as Vans - Barcelona</td><td>Barcelona</td><td>2026-10-04</td></tr>
 <tr><td>Airbus SE</td><td>Secretary / Assistant</td><td>Madrid</td><td>2026-10-04</td></tr>
 <tr><td>Sixt</td><td>Administrativo Car Sales (m/f/d)</td><td>Madrid</td><td>2026-10-04</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Formación</td><td>Madrid</td><td>2026-10-05</td></tr>
+<tr><td>Mango</td><td>Intern Fashion Buyer Man</td><td>Palau</td><td>2026-10-05</td></tr>
+<tr><td>TD SYNNEX</td><td>Ap Trainee</td><td>Barcelona</td><td>2026-10-05</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Junior Powerapps Developer Intern</td><td>Barcelona</td><td>2026-10-05</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Hr Labor Relations Internship</td><td>Barcelona</td><td>2026-10-05</td></tr>
+<tr><td>Industria de Turbo Propulsores, S.A</td><td>Beca Riesgos , Control Interno Y Auditoría Interna (f/m/x)</td><td>Alcobendas</td><td>2026-10-05</td></tr>
+<tr><td>Airbus</td><td>#discover Ii 2026-2027 / Ai Models Internship</td><td>Getafe Area</td><td>2026-10-05</td></tr>
+<tr><td>Airbus Crisa</td><td>Direct Material Procurement Intern Airbus Crisa</td><td>Salamanca</td><td>2026-10-05</td></tr>
+<tr><td>Avolta</td><td>Global Data Scientist Specialist</td><td>Madrid</td><td>2026-10-05</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Técnico/a De Mantenimiento (electricista)</td><td>Barcelona</td><td>2026-10-05</td></tr>
+<tr><td>VF Corporation (Vans)</td><td>Vendedores/as Vans - Barcelona</td><td>Barcelona</td><td>2026-10-05</td></tr>
+<tr><td>VF Corporation (Vans)</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-10-05</td></tr>
+<tr><td>CHEP, A Brambles Company</td><td>Interim Customer Service Coordinator</td><td>Madrid</td><td>2026-10-05</td></tr>
+<tr><td>164</td><td>Auxiliar Administrativo/a</td><td>Barcelona</td><td>2026-10-05</td></tr>
 </table>
