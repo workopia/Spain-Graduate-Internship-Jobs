@@ -2744,4 +2744,27 @@
 <tr><td>VF Corporation (Vans)</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-10-05</td></tr>
 <tr><td>CHEP, A Brambles Company</td><td>Interim Customer Service Coordinator</td><td>Madrid</td><td>2026-10-05</td></tr>
 <tr><td>164</td><td>Auxiliar Administrativo/a</td><td>Barcelona</td><td>2026-10-05</td></tr>
+<tr><td>Roche</td><td>Risk & Governance Intern</td><td>Sant Cugat Del Vall</td><td>2026-10-06</td></tr>
+<tr><td>Roche</td><td>Strategy & Insights Intern</td><td>Sant Cugat Del Vall</td><td>2026-10-06</td></tr>
+<tr><td>Zynga</td><td>Social Media Community Manager Internship</td><td>Barcelona</td><td>2026-10-06</td></tr>
+<tr><td>adidas AG</td><td>Customs Future Talent</td><td>Zaragoza</td><td>2026-10-06</td></tr>
+<tr><td>adidas AG</td><td>Future Talent Hr</td><td>Zaragoza</td><td>2026-10-06</td></tr>
+<tr><td>adidas AG</td><td>Finance Future Talent</td><td>Zaragoza</td><td>2026-10-06</td></tr>
+<tr><td>Thales Group</td><td>Qual&meth Tech Intern</td><td>Barcelona</td><td>2026-10-06</td></tr>
+<tr><td>Coty Inc</td><td>Hr Operations Intern</td><td>Barcelona</td><td>2026-10-06</td></tr>
+<tr><td>Coty</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-10-06</td></tr>
+<tr><td>Coty</td><td>Warehouse Intern</td><td>Barcelona</td><td>2026-10-06</td></tr>
+<tr><td>Coty Inc</td><td>Drp Intern</td><td>Barcelona</td><td>2026-10-06</td></tr>
+<tr><td>Coty</td><td>Npd Intern</td><td>Barcelona</td><td>2026-10-06</td></tr>
+<tr><td>Coty Inc</td><td>Supply Chain Customer Operations Intern (with French)</td><td>Barcelona</td><td>2026-10-06</td></tr>
+<tr><td>Coty</td><td>Demand Intern</td><td>Barcelona</td><td>2026-10-06</td></tr>
+<tr><td>Coty Inc</td><td>Visibility & Merchandising Intern</td><td>Barcelona</td><td>2026-10-06</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon - Off-cycle Strategy & Transactions</td><td>Madrid</td><td>2026-10-06</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Selección - Madrid</td><td>Madrid</td><td>2026-10-06</td></tr>
+<tr><td>Jobgether</td><td>Founding Engineer</td><td>Spain</td><td>2026-10-06</td></tr>
+<tr><td>Job&Talent US</td><td>Us - Accountant (spain - Remote)</td><td>Madrid</td><td>2026-10-06</td></tr>
+<tr><td>STILL</td><td>Field Service Engineer</td><td>Madrid</td><td>2026-10-06</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-10-06</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 15h (fin De Semana) Levis Eci Pozuelo</td><td>Madrid</td><td>2026-10-06</td></tr>
+<tr><td>Jobgether</td><td>It Support Specialist</td><td>Spain</td><td>2026-10-06</td></tr>
 </table>

@@ -1,7 +1,97 @@
 {
- "asOf": "2026-10-05",
- "count": 537,
+ "asOf": "2026-10-06",
+ "count": 536,
  "jobs": {
+  "7f5a10308ca46085ccd0f12c6316b7f3": {
+   "id": "7f5a10308ca46085ccd0f12c6316b7f3",
+   "company": "Airbus Helicopters España, SA",
+   "role": "#beca Ahe - Avionic Systems",
+   "location": "Getafe Area"
+  },
+  "358dd3cb1f0e3b14fe65490369e6003f": {
+   "id": "358dd3cb1f0e3b14fe65490369e6003f",
+   "company": "aeroshiftedge.pics",
+   "role": "#discover I 2027-2028 Internship",
+   "location": "Madrid"
+  },
+  "9d6d1301f177b860a4b67a98604936f7": {
+   "id": "9d6d1301f177b860a4b67a98604936f7",
+   "company": "ABB Ltd",
+   "role": "Internship: Design Engineering Department Support (mechanical Engineering)",
+   "location": "Trapagaran"
+  },
+  "cc4706fedc3598804ed1a8fe7aa4c0d7": {
+   "id": "cc4706fedc3598804ed1a8fe7aa4c0d7",
+   "company": "ARQUIMEA",
+   "role": "Beca Industrialización",
+   "location": "Salamanca"
+  },
+  "b1898889241f44e2bd15061b99cc0ef8": {
+   "id": "b1898889241f44e2bd15061b99cc0ef8",
+   "company": "ARQUIMEA",
+   "role": "Pmo Internship",
+   "location": "Madrid"
+  },
+  "f8c8871c615b24ac03716b6f67afac89": {
+   "id": "f8c8871c615b24ac03716b6f67afac89",
+   "company": "ACCIONA Energía",
+   "role": "Beca Innovación Digital",
+   "location": "Barcelona"
+  },
+  "447b2356d57614b0f4d1ac275e788937": {
+   "id": "447b2356d57614b0f4d1ac275e788937",
+   "company": "ACCIONA Energía",
+   "role": "Beca Apoyo A La Innovación",
+   "location": "Madrid"
+  },
+  "1918d6b1518a9b00a9f7e1cc39780810": {
+   "id": "1918d6b1518a9b00a9f7e1cc39780810",
+   "company": "Bureau Veritas",
+   "role": "Becario/a Departamento De Pesca Sostenible",
+   "location": "Madrid"
+  },
+  "c85108df413657f5c9491abd1ff4a9c9": {
+   "id": "c85108df413657f5c9491abd1ff4a9c9",
+   "company": "Grupo Hotusa",
+   "role": "Becario/a Revenue - Eurostars Hotel Company",
+   "location": "Barcelona"
+  },
+  "bf91b02608445870e54c936bb93c3557": {
+   "id": "bf91b02608445870e54c936bb93c3557",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Administración Economato Madrid",
+   "location": "Madrid"
+  },
+  "cf4ad6eba10539c716a21a693da24792": {
+   "id": "cf4ad6eba10539c716a21a693da24792",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Área Comercial - Sector Hoteles / Madrid",
+   "location": "Madrid"
+  },
+  "e48c1b471ed17bcf61088384c930876f": {
+   "id": "e48c1b471ed17bcf61088384c930876f",
+   "company": "Grupo Hotusa",
+   "role": "Becario/a Comercial",
+   "location": "Madrid"
+  },
+  "95e5625dca5815cfc4bea15e21ac68da": {
+   "id": "95e5625dca5815cfc4bea15e21ac68da",
+   "company": "Grupo Hotusa",
+   "role": "Becario/a Comercial Internacional",
+   "location": "Madrid"
+  },
+  "f43de0efd38fbe595c8daece24a70d40": {
+   "id": "f43de0efd38fbe595c8daece24a70d40",
+   "company": "Grupo Hotusa",
+   "role": "Prácticas Recepción Eurostars Hotels (barcelona)",
+   "location": "Barcelona"
+  },
+  "fd3b7a1d3707fec228b7818bfe021912": {
+   "id": "fd3b7a1d3707fec228b7818bfe021912",
+   "company": "Coty Inc.",
+   "role": "Demand Intern",
+   "location": "Barcelona"
+  },
   "9fff814ced8bcb41f8bf459cbd8bf1db": {
    "id": "9fff814ced8bcb41f8bf459cbd8bf1db",
    "company": "Melia",
@@ -122,6 +212,12 @@
    "role": "Beca Siniestros Y Recobros - Solunion First Steps",
    "location": "Madrid"
   },
+  "4652839e4c678220e7ceb1c8a14e2911": {
+   "id": "4652839e4c678220e7ceb1c8a14e2911",
+   "company": "ATREVIA",
+   "role": "Beca Innovación Y Desarrollo - Atrevia Bcn",
+   "location": "Madrid"
+  },
   "3dbb1fea86be0bec86302066ae0846ca": {
    "id": "3dbb1fea86be0bec86302066ae0846ca",
    "company": "Nestle Purina",
@@ -185,6 +281,12 @@
   "eb795e7599fec4a13ccc78c4dd40c2c9": {
    "id": "eb795e7599fec4a13ccc78c4dd40c2c9",
    "company": "InterContinental Hotels Group (IHG)",
+   "role": "Front Office Internship - Kimpton Vividora",
+   "location": "Spain"
+  },
+  "026e66ae8f453ae01defec0ea2c0227d": {
+   "id": "026e66ae8f453ae01defec0ea2c0227d",
+   "company": "IHG",
    "role": "Front Office Internship - Kimpton Vividora",
    "location": "Spain"
   },
@@ -374,108 +476,6 @@
    "role": "Client Success Associate Internship, Summer 2026 (2027 Graduates) - Swedish Speaker",
    "location": "Egham +1"
   },
-  "8b3161d2d5166706b69d154664b7bb17": {
-   "id": "8b3161d2d5166706b69d154664b7bb17",
-   "company": "Roche",
-   "role": "Risk & Governance Intern",
-   "location": "Sant Cugat Del Vall"
-  },
-  "141319a6f1d32f6f5c9c583dd3633239": {
-   "id": "141319a6f1d32f6f5c9c583dd3633239",
-   "company": "Roche",
-   "role": "Strategy & Insights Intern",
-   "location": "Sant Cugat Del Vall"
-  },
-  "0bbc907652e692797ab288109a03e24c": {
-   "id": "0bbc907652e692797ab288109a03e24c",
-   "company": "Zynga",
-   "role": "Social Media Community Manager Internship",
-   "location": "Barcelona"
-  },
-  "b744bcb698efeeb7abbe1271efc78a72": {
-   "id": "b744bcb698efeeb7abbe1271efc78a72",
-   "company": "adidas AG",
-   "role": "Customs Future Talent",
-   "location": "Zaragoza"
-  },
-  "a49d267bebf35709402b51b8578ccfe2": {
-   "id": "a49d267bebf35709402b51b8578ccfe2",
-   "company": "adidas AG",
-   "role": "Future Talent Hr",
-   "location": "Zaragoza"
-  },
-  "b5fe5b293238ee4b1892dbeacf68c2c7": {
-   "id": "b5fe5b293238ee4b1892dbeacf68c2c7",
-   "company": "adidas AG",
-   "role": "Finance Future Talent",
-   "location": "Zaragoza"
-  },
-  "3ae2eceaf9b720fad17d5e4bf276edf3": {
-   "id": "3ae2eceaf9b720fad17d5e4bf276edf3",
-   "company": "Thales Group",
-   "role": "Qual&meth Tech Intern",
-   "location": "Barcelona"
-  },
-  "d7c8706bc130434f64e14cc0b92b488c": {
-   "id": "d7c8706bc130434f64e14cc0b92b488c",
-   "company": "Coty Inc",
-   "role": "Hr Operations Intern",
-   "location": "Barcelona"
-  },
-  "cdc33c36341f024c950c1131d8b78037": {
-   "id": "cdc33c36341f024c950c1131d8b78037",
-   "company": "Coty",
-   "role": "Commercial Internship Program Iberia",
-   "location": "Barcelona"
-  },
-  "856623b4d178c168599fbd7b8b252673": {
-   "id": "856623b4d178c168599fbd7b8b252673",
-   "company": "Coty",
-   "role": "Warehouse Intern",
-   "location": "Barcelona"
-  },
-  "370f75f57823ecba49962bd0a5c20812": {
-   "id": "370f75f57823ecba49962bd0a5c20812",
-   "company": "Coty Inc",
-   "role": "Drp Intern",
-   "location": "Barcelona"
-  },
-  "39ddefa8e0c944c8279f32c9ce747f66": {
-   "id": "39ddefa8e0c944c8279f32c9ce747f66",
-   "company": "Coty",
-   "role": "Npd Intern",
-   "location": "Barcelona"
-  },
-  "95ade4bb6ca32b528b997800a82a6b74": {
-   "id": "95ade4bb6ca32b528b997800a82a6b74",
-   "company": "Coty Inc",
-   "role": "Supply Chain Customer Operations Intern (with French)",
-   "location": "Barcelona"
-  },
-  "55967fdac3d64221a8fcbb5321c537fd": {
-   "id": "55967fdac3d64221a8fcbb5321c537fd",
-   "company": "Coty",
-   "role": "Demand Intern",
-   "location": "Barcelona"
-  },
-  "3afc7991e8653ed20a109c929fec4d90": {
-   "id": "3afc7991e8653ed20a109c929fec4d90",
-   "company": "Coty Inc",
-   "role": "Visibility & Merchandising Intern",
-   "location": "Barcelona"
-  },
-  "66e376caab1143603e2e334060af2ade": {
-   "id": "66e376caab1143603e2e334060af2ade",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Ey-parthenon - Off-cycle Strategy & Transactions",
-   "location": "Madrid"
-  },
-  "226c0de7a1e745ed4778cfdbcd375bcb": {
-   "id": "226c0de7a1e745ed4778cfdbcd375bcb",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas Selección - Madrid",
-   "location": "Madrid"
-  },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
    "company": "Monolithic Power Systems",
@@ -487,6 +487,12 @@
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
    "location": "Barcelona"
+  },
+  "6b1c041c36a7b99dc7552d47d943d19d": {
+   "id": "6b1c041c36a7b99dc7552d47d943d19d",
+   "company": "Jobgether",
+   "role": "Founding Engineer",
+   "location": "Spain"
   },
   "7340e8c90a9c19da8d39d4336faf3c0c": {
    "id": "7340e8c90a9c19da8d39d4336faf3c0c",
@@ -733,12 +739,6 @@
    "company": "Halfspace ApS",
    "role": "Ai - Software Engineer",
    "location": "Madrid"
-  },
-  "716fab667c4aac305d5adccf3e8580ab": {
-   "id": "716fab667c4aac305d5adccf3e8580ab",
-   "company": "Jobgether",
-   "role": "Founding Engineer",
-   "location": "Spain"
   },
   "2e57a0f001a161f27c41e4e58a00cb69": {
    "id": "2e57a0f001a161f27c41e4e58a00cb69",
@@ -1496,15 +1496,15 @@
    "role": "Banking Off Cycle Internship Programme 2027 Madrid",
    "location": "Madrid"
   },
-  "b700fb3b1d1527ff97c884b0fb91195f": {
-   "id": "b700fb3b1d1527ff97c884b0fb91195f",
-   "company": "EssilorLuxottica",
-   "role": "Sales Analyst Trainee",
-   "location": "Barcelona"
-  },
   "bb0567636c608a973cc5c5b90e77dfa9": {
    "id": "bb0567636c608a973cc5c5b90e77dfa9",
    "company": "EssilorLuxottica SA",
+   "role": "Sales Analyst Trainee",
+   "location": "Barcelona"
+  },
+  "b700fb3b1d1527ff97c884b0fb91195f": {
+   "id": "b700fb3b1d1527ff97c884b0fb91195f",
+   "company": "EssilorLuxottica",
    "role": "Sales Analyst Trainee",
    "location": "Barcelona"
   },
@@ -1525,6 +1525,12 @@
    "company": "Ubisoft",
    "role": "Accountant Trainee",
    "location": "Barcelona"
+  },
+  "20eab044db6665faaabb557840ecf1c0": {
+   "id": "20eab044db6665faaabb557840ecf1c0",
+   "company": "MSX International Ltd",
+   "role": "Business Success Partner",
+   "location": "Madrid"
   },
   "bf12d764436552c7a1d5cbdb33d77c70": {
    "id": "bf12d764436552c7a1d5cbdb33d77c70",
@@ -2000,12 +2006,6 @@
    "role": "Us - Accountant (spain - Remote)",
    "location": "Madrid"
   },
-  "545bdf50f54bad974cc213a4e43e7dba": {
-   "id": "545bdf50f54bad974cc213a4e43e7dba",
-   "company": "Job&Talent US",
-   "role": "Us - Accountant (spain - Remote)",
-   "location": "Madrid"
-  },
   "fe4facdc272599509ea02cd772036b40": {
    "id": "fe4facdc272599509ea02cd772036b40",
    "company": "EUROPREVEN",
@@ -2034,6 +2034,12 @@
    "id": "631a3bfb3716e30a2b19aa75b5e4ff65",
    "company": "FRESENIUS MEDICAL CARE",
    "role": "Nefrólogo/a (hospitalet)",
+   "location": "Barcelona"
+  },
+  "a4121c5a22fc7bcb79fbf441f71f03e1": {
+   "id": "a4121c5a22fc7bcb79fbf441f71f03e1",
+   "company": "Grupo Hotusa",
+   "role": "Técnico/a De Mantenimiento Hotel 4* - Barcelona",
    "location": "Barcelona"
   },
   "e567804edd6b55026b5cbc17f6237121": {
@@ -2504,11 +2510,17 @@
    "role": "Técnico Electromecánico Con Inglés ( Sede Zona Franca)",
    "location": "Barcelona"
   },
-  "957b2fdc277cedb19e33e88b46fc037e": {
-   "id": "957b2fdc277cedb19e33e88b46fc037e",
-   "company": "STILL",
-   "role": "Field Service Engineer",
+  "e5ec3c200c5b02f0209661b8f4948c68": {
+   "id": "e5ec3c200c5b02f0209661b8f4948c68",
+   "company": "JYSK",
+   "role": "Vendedor/a",
    "location": "Madrid"
+  },
+  "c586612ba42afa094e7814df3c4238cc": {
+   "id": "c586612ba42afa094e7814df3c4238cc",
+   "company": "JYSK",
+   "role": "Jes - Vendedor/a - 30h - Tres Cantos, Madrid",
+   "location": "Salamanca"
   },
   "e600f6b9ce1b8ee1c0c17a03af360541": {
    "id": "e600f6b9ce1b8ee1c0c17a03af360541",
@@ -2828,12 +2840,6 @@
    "role": "Almacén Usera _ Vendedor/a Herramientas (40hs Indefinido)",
    "location": "Madrid"
   },
-  "20e9400fb91383be7907c953d88c504a": {
-   "id": "20e9400fb91383be7907c953d88c504a",
-   "company": "JYSK",
-   "role": "Vendedor/a",
-   "location": "Barcelona"
-  },
   "f209642428b7e1f65b65c7c8cc37b2d4": {
    "id": "f209642428b7e1f65b65c7c8cc37b2d4",
    "company": "NIKE, Inc.",
@@ -2984,11 +2990,11 @@
    "role": "Vendedor/a Black Friday - Madrid Este",
    "location": "Madrid"
   },
-  "7bb003b54af745c6404d00c0e94afadb": {
-   "id": "7bb003b54af745c6404d00c0e94afadb",
-   "company": "Levis Media",
-   "role": "Sales Stylist 15h (fin De Semana) Levis Eci Pozuelo",
-   "location": "Madrid"
+  "ceeba7bcb67cfb6c20795ff21bb9a9ea": {
+   "id": "ceeba7bcb67cfb6c20795ff21bb9a9ea",
+   "company": "Mt",
+   "role": "Communication And Administrative Coordinator",
+   "location": "Barcelona"
   },
   "5751ccbc53b48dbeb117d9fa20463513": {
    "id": "5751ccbc53b48dbeb117d9fa20463513",
@@ -3152,12 +3158,6 @@
    "role": "Administrativo/a Con Inglés Para Hospiten Sur",
    "location": "Madrid"
   },
-  "ceeba7bcb67cfb6c20795ff21bb9a9ea": {
-   "id": "ceeba7bcb67cfb6c20795ff21bb9a9ea",
-   "company": "Mt",
-   "role": "Communication And Administrative Coordinator",
-   "location": "Barcelona"
-  },
   "0b28efdf15ab488095f428e8e38478f9": {
    "id": "0b28efdf15ab488095f428e8e38478f9",
    "company": "Temporing",
@@ -3217,12 +3217,6 @@
    "company": "Grupo Hotusa",
    "role": "Técnico/a Administrativo De Mantenimiento",
    "location": "Barcelona"
-  },
-  "d3ad8aa5b1abd06daffe13ff34aa2935": {
-   "id": "d3ad8aa5b1abd06daffe13ff34aa2935",
-   "company": "Jobgether",
-   "role": "It Support Specialist",
-   "location": "Spain"
   }
  }
 }
