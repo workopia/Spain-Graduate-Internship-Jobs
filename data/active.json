@@ -1,7 +1,115 @@
 {
- "asOf": "2026-10-06",
- "count": 536,
+ "asOf": "2026-10-07",
+ "count": 538,
  "jobs": {
+  "1c97c25c1b52b04784591b7061e3670a": {
+   "id": "1c97c25c1b52b04784591b7061e3670a",
+   "company": "Melia",
+   "role": "Trainee G&e - Meliá Madrid Princesa",
+   "location": "Madrid"
+  },
+  "555cabd4011e98f918980503ffda8471": {
+   "id": "555cabd4011e98f918980503ffda8471",
+   "company": "Gameloft Brisbane",
+   "role": "Game Cinematic Artist Intern",
+   "location": "Barcelona"
+  },
+  "a24b84a3597311c812028fa7786589ef": {
+   "id": "a24b84a3597311c812028fa7786589ef",
+   "company": "Gameloft Brisbane",
+   "role": "Marketing Activations Intern",
+   "location": "Barcelona"
+  },
+  "d8673c169bc356ee258d68d8d0b518c7": {
+   "id": "d8673c169bc356ee258d68d8d0b518c7",
+   "company": "Cooltra",
+   "role": "People Intern",
+   "location": "Barcelona"
+  },
+  "c12927779eef9213d323fcdf4b84223b": {
+   "id": "c12927779eef9213d323fcdf4b84223b",
+   "company": "Zurich Insurance UK",
+   "role": "Hr Internship",
+   "location": "Where"
+  },
+  "0cf66904ee1be0edf0c59fa72157e53f": {
+   "id": "0cf66904ee1be0edf0c59fa72157e53f",
+   "company": "Delivery Hero (foodpanda)",
+   "role": "Intern Account Manager Top Accounts Spain",
+   "location": "Madrid"
+  },
+  "a02546907d0b98c98f7d04189d308069": {
+   "id": "a02546907d0b98c98f7d04189d308069",
+   "company": "Alantra",
+   "role": "Investment Banking Off-cycle Internship Programme – January 2027",
+   "location": "Madrid"
+  },
+  "7c052c7d5a81c8fddedf26ca4bf3f1c8": {
+   "id": "7c052c7d5a81c8fddedf26ca4bf3f1c8",
+   "company": "ARQUIMEA",
+   "role": "Beca De Commecial Back-office",
+   "location": "Salamanca"
+  },
+  "b35edd4ec72444057e5418b78e7b6f9c": {
+   "id": "b35edd4ec72444057e5418b78e7b6f9c",
+   "company": "Marriott International",
+   "role": "Finance Trainee (internship) - W Barcelona",
+   "location": "Barcelona"
+  },
+  "900c2e6bfdaa07f564a0ee1fa1ae7025": {
+   "id": "900c2e6bfdaa07f564a0ee1fa1ae7025",
+   "company": "Marriott International",
+   "role": "Welcome Trainee (internship) - W Barcelona",
+   "location": "Barcelona"
+  },
+  "35d29f17d313dc042320a246278eeeff": {
+   "id": "35d29f17d313dc042320a246278eeeff",
+   "company": "Marriott International",
+   "role": "University Intern-europe - Hotel Arts Barcelona",
+   "location": "Barcelona"
+  },
+  "b50cc299d9d995db0b0364343c870e03": {
+   "id": "b50cc299d9d995db0b0364343c870e03",
+   "company": "EY",
+   "role": "Prácticas Comunicación Externa",
+   "location": "Barcelona"
+  },
+  "481dec504c3cde942ae79512b3e31182": {
+   "id": "481dec504c3cde942ae79512b3e31182",
+   "company": "IDOM",
+   "role": "Digital Services Intern, Madrid",
+   "location": "Madrid"
+  },
+  "61c91385786eac08d46ac1bef915c337": {
+   "id": "61c91385786eac08d46ac1bef915c337",
+   "company": "IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY",
+   "role": "Nuclear Services Internship",
+   "location": "Madrid"
+  },
+  "894309d20c37620e8094cc8018fa28b5": {
+   "id": "894309d20c37620e8094cc8018fa28b5",
+   "company": "Inspired Education Group",
+   "role": "School Intern",
+   "location": "Barcelona"
+  },
+  "7a68e17fb4a24821fa50f50620a4809c": {
+   "id": "7a68e17fb4a24821fa50f50620a4809c",
+   "company": "El Colegio Británico / The British School",
+   "role": "Internship Opportunities - El Colegio Británico / The British School",
+   "location": "Madrid"
+  },
+  "8107584b38b82f462620ce784778dfce": {
+   "id": "8107584b38b82f462620ce784778dfce",
+   "company": "ARQUIMEA",
+   "role": "Project Manager Internship",
+   "location": "Salamanca"
+  },
+  "9b1d23e054562cb6baa1a2074b7af51c": {
+   "id": "9b1d23e054562cb6baa1a2074b7af51c",
+   "company": "Sacyr Group",
+   "role": "Beca Relaciones Laborales",
+   "location": "Madrid"
+  },
   "7f5a10308ca46085ccd0f12c6316b7f3": {
    "id": "7f5a10308ca46085ccd0f12c6316b7f3",
    "company": "Airbus Helicopters España, SA",
@@ -84,6 +192,12 @@
    "id": "f43de0efd38fbe595c8daece24a70d40",
    "company": "Grupo Hotusa",
    "role": "Prácticas Recepción Eurostars Hotels (barcelona)",
+   "location": "Barcelona"
+  },
+  "cdc33c36341f024c950c1131d8b78037": {
+   "id": "cdc33c36341f024c950c1131d8b78037",
+   "company": "Coty Inc.",
+   "role": "Commercial Internship Program Iberia",
    "location": "Barcelona"
   },
   "fd3b7a1d3707fec228b7818bfe021912": {
@@ -361,120 +475,6 @@
    "company": "Acciona SA",
    "role": "Beca Gestión Ingenierías",
    "location": "Madrid"
-  },
-  "6c0c36fbdedbf0a9e161f3d89893cef5": {
-   "id": "6c0c36fbdedbf0a9e161f3d89893cef5",
-   "company": "Acciona",
-   "role": "Beca Operaciones Tic",
-   "location": "Madrid"
-  },
-  "f977b47661cf8f541572f46eefb7f4f3": {
-   "id": "f977b47661cf8f541572f46eefb7f4f3",
-   "company": "Acciona",
-   "role": "Beca Servicios A Usuario",
-   "location": "Madrid"
-  },
-  "bdf1f5e16f8811945a3beca00aa1e8fc": {
-   "id": "bdf1f5e16f8811945a3beca00aa1e8fc",
-   "company": "Acciona",
-   "role": "Beca En El Departamento De Calidad, Medio Ambiente Y Sostenibilidad",
-   "location": "Madrid"
-  },
-  "4acbe32f99ad52e39d0e933a6e8fad1d": {
-   "id": "4acbe32f99ad52e39d0e933a6e8fad1d",
-   "company": "Acciona",
-   "role": "Beca Comisionado Y Puesta En Marcha",
-   "location": "Madrid"
-  },
-  "512a90261336f64f61dd8faccc44ff3a": {
-   "id": "512a90261336f64f61dd8faccc44ff3a",
-   "company": "Novanta",
-   "role": "Hardware Developer Internship",
-   "location": "Barcelona"
-  },
-  "bf4a77bb505fe3e08a0a2dfa8229e030": {
-   "id": "bf4a77bb505fe3e08a0a2dfa8229e030",
-   "company": "Sacyr Group",
-   "role": "Beca Sostenibilidad",
-   "location": "Madrid"
-  },
-  "3db2356a2bdc9b245a388d8b2cf958ac": {
-   "id": "3db2356a2bdc9b245a388d8b2cf958ac",
-   "company": "Bosch Rexroth Pty. Ltd.",
-   "role": "Estudiante En Prácticas – Departamento De Gestión De Calidad (qmm-p)",
-   "location": "Madrid"
-  },
-  "206930fae76aa3ef3168f4435950ac46": {
-   "id": "206930fae76aa3ef3168f4435950ac46",
-   "company": "Hempel",
-   "role": "Pricing Intern",
-   "location": "Barcelona"
-  },
-  "50002aa4ad744bfba44fa01dbfc9657e": {
-   "id": "50002aa4ad744bfba44fa01dbfc9657e",
-   "company": "Zynga",
-   "role": "Animation Intern",
-   "location": "Barcelona"
-  },
-  "ab854a896850e39e400700ef8c442005": {
-   "id": "ab854a896850e39e400700ef8c442005",
-   "company": "The Ritz-Carlton",
-   "role": "Finance Trainee (becario)",
-   "location": "Barcelona"
-  },
-  "8dd40a8c1de8230bda93a53289b0f308": {
-   "id": "8dd40a8c1de8230bda93a53289b0f308",
-   "company": "The Ritz-Carlton",
-   "role": "Finance Fp - The Barcelona Edition",
-   "location": "Barcelona"
-  },
-  "cca994d03e86d6281a67ea32b6d76cb6": {
-   "id": "cca994d03e86d6281a67ea32b6d76cb6",
-   "company": "Marriott International",
-   "role": "Finance Trainee (becario)",
-   "location": "Barcelona"
-  },
-  "fb296370758f92007d25b17c4077bffd": {
-   "id": "fb296370758f92007d25b17c4077bffd",
-   "company": "Marriott International",
-   "role": "Finance Fp - The Barcelona Edition",
-   "location": "Barcelona"
-  },
-  "345b9491ef544183fe3e13ecb74e36be": {
-   "id": "345b9491ef544183fe3e13ecb74e36be",
-   "company": "114",
-   "role": "Project Buyer Internship",
-   "location": "Zaragoza"
-  },
-  "aac4ab0371fcde2bdd9a3f7229fc5bb4": {
-   "id": "aac4ab0371fcde2bdd9a3f7229fc5bb4",
-   "company": "Coty Inc.",
-   "role": "Marketing Consumer Beauty Intern",
-   "location": "Barcelona"
-  },
-  "cb83211ac97e5bf19227751bc7367faa": {
-   "id": "cb83211ac97e5bf19227751bc7367faa",
-   "company": "Melia",
-   "role": "Hr Trainee - Torre Melina A Gran Melia",
-   "location": "Barcelona"
-  },
-  "c5df1444ea832a75c6dec30bf1683cde": {
-   "id": "c5df1444ea832a75c6dec30bf1683cde",
-   "company": "Mondelēz International",
-   "role": "Taste The Future - Plant Controlling Intern - Orbigo, Spain",
-   "location": "Orbigo"
-  },
-  "ca09852ff935ecdda73fc3e0618df96b": {
-   "id": "ca09852ff935ecdda73fc3e0618df96b",
-   "company": "EY",
-   "role": "Prácticas Formación",
-   "location": "Spain"
-  },
-  "targetjobs:ff03393d-6eb9-4ce6-ad2a-979df583ea58": {
-   "id": "targetjobs:ff03393d-6eb9-4ce6-ad2a-979df583ea58",
-   "company": "Gartner",
-   "role": "Client Success Associate Internship, Summer 2026 (2027 Graduates) - Swedish Speaker",
-   "location": "Egham +1"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
@@ -1010,6 +1010,18 @@
    "role": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
    "location": "Madrid"
   },
+  "8be2a29a8d42b1dd5cfb0f811462389d": {
+   "id": "8be2a29a8d42b1dd5cfb0f811462389d",
+   "company": "Delivery Hero (foodpanda)",
+   "role": "Data Analyst I Courier Rto Global Hq",
+   "location": "Barcelona"
+  },
+  "f61642437e024dd717ad6f7afe78e890": {
+   "id": "f61642437e024dd717ad6f7afe78e890",
+   "company": "Swiss Re",
+   "role": "Ai Engineer",
+   "location": "Madrid"
+  },
   "88a146b56a128ce85af2547648c19ac6": {
    "id": "88a146b56a128ce85af2547648c19ac6",
    "company": "Halfspace ApS",
@@ -1051,12 +1063,6 @@
    "company": "Zurich Insurance UK",
    "role": "Data Analyst / Data Engineer (commercial Insurance)",
    "location": "Barcelona"
-  },
-  "f61642437e024dd717ad6f7afe78e890": {
-   "id": "f61642437e024dd717ad6f7afe78e890",
-   "company": "Swiss Re",
-   "role": "Ai Engineer",
-   "location": "Madrid"
   },
   "3b11b9c3abe43d180070a041fb0ac6ea": {
    "id": "3b11b9c3abe43d180070a041fb0ac6ea",
@@ -1370,6 +1376,12 @@
    "role": "Data Analyst (business Banking)",
    "location": "Madrid"
   },
+  "0d011b4b9378c6afa684cf6a8705a248": {
+   "id": "0d011b4b9378c6afa684cf6a8705a248",
+   "company": "Bureau Veritas",
+   "role": "Analista De Datos Y Soporte Funcional",
+   "location": "Madrid"
+  },
   "eb5378ebb4f3d83bd8b4329c473a7b10": {
    "id": "eb5378ebb4f3d83bd8b4329c473a7b10",
    "company": "Indra group",
@@ -1524,6 +1536,12 @@
    "id": "5c6f3e306b61459536abab82adb5fcaf",
    "company": "Ubisoft",
    "role": "Accountant Trainee",
+   "location": "Barcelona"
+  },
+  "2f4a5ce1ee359dc1483c4c6549683ac3": {
+   "id": "2f4a5ce1ee359dc1483c4c6549683ac3",
+   "company": "Pierre Fabre",
+   "role": "Técnico Contable",
    "location": "Barcelona"
   },
   "20eab044db6665faaabb557840ecf1c0": {
@@ -2000,12 +2018,6 @@
    "role": "Técnico/a Contable (nivel Alto Francés)",
    "location": "Madrid"
   },
-  "f73826d25acf1b223254f0d6be911094": {
-   "id": "f73826d25acf1b223254f0d6be911094",
-   "company": "Jobandtalent",
-   "role": "Us - Accountant (spain - Remote)",
-   "location": "Madrid"
-  },
   "fe4facdc272599509ea02cd772036b40": {
    "id": "fe4facdc272599509ea02cd772036b40",
    "company": "EUROPREVEN",
@@ -2035,6 +2047,12 @@
    "company": "FRESENIUS MEDICAL CARE",
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
+  },
+  "9c7ad90f8e1f5646a519e4a5218c6fd5": {
+   "id": "9c7ad90f8e1f5646a519e4a5218c6fd5",
+   "company": "Abbott",
+   "role": "Field Service Engineer - Gerona - Core Labs",
+   "location": "Madrid"
   },
   "a4121c5a22fc7bcb79fbf441f71f03e1": {
    "id": "a4121c5a22fc7bcb79fbf441f71f03e1",
@@ -2504,10 +2522,16 @@
    "role": "Técnico Electromecánico Con Inglés ( Sede Zona Franca)",
    "location": "Barcelona"
   },
-  "4547d64b59700b7e7f930c8e0fb835c9": {
-   "id": "4547d64b59700b7e7f930c8e0fb835c9",
-   "company": "KION Group",
-   "role": "Técnico Electromecánico Con Inglés ( Sede Zona Franca)",
+  "196cda57aad4a4c475bd3d32d747230a": {
+   "id": "196cda57aad4a4c475bd3d32d747230a",
+   "company": "Capri Holdings Limited",
+   "role": "Sales Associate – Plaza Cataluña / 36h",
+   "location": "Barcelona"
+  },
+  "7a8004c5a1eb160c50c5fd06f95843ee": {
+   "id": "7a8004c5a1eb160c50c5fd06f95843ee",
+   "company": "Condis Supermercats S.A",
+   "role": "Bolsa De Talento Almacen",
    "location": "Barcelona"
   },
   "e5ec3c200c5b02f0209661b8f4948c68": {
@@ -2586,12 +2610,6 @@
    "id": "af0f25d22bc3ce5427f897669337116a",
    "company": "obramat.es",
    "role": "Vendedor/a De Sanitarios_almacen Hospitalet",
-   "location": "Barcelona"
-  },
-  "660aebeb0ad1b0c1f301546fe70a6a57": {
-   "id": "660aebeb0ad1b0c1f301546fe70a6a57",
-   "company": "Condis Supermercats S.A",
-   "role": "Bolsa De Talento Almacen",
    "location": "Barcelona"
   },
   "c24974f99e6d044a59d2cb7f0df6bbc7": {
@@ -2982,12 +3000,6 @@
    "id": "5a387b8d8f59753e9a2eb1708d1ca57c",
    "company": "Mango",
    "role": "Vendedor/a Black Friday - Madrid Norte",
-   "location": "Madrid"
-  },
-  "b8cf0eccba8704d76a7b56c036287f8b": {
-   "id": "b8cf0eccba8704d76a7b56c036287f8b",
-   "company": "MANGO",
-   "role": "Vendedor/a Black Friday - Madrid Este",
    "location": "Madrid"
   },
   "ceeba7bcb67cfb6c20795ff21bb9a9ea": {

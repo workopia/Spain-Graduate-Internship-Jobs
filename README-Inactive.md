@@ -2767,4 +2767,27 @@
 <tr><td>JYSK</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-10-06</td></tr>
 <tr><td>Levis Media</td><td>Sales Stylist 15h (fin De Semana) Levis Eci Pozuelo</td><td>Madrid</td><td>2026-10-06</td></tr>
 <tr><td>Jobgether</td><td>It Support Specialist</td><td>Spain</td><td>2026-10-06</td></tr>
+<tr><td>Acciona</td><td>Beca Operaciones Tic</td><td>Madrid</td><td>2026-10-07</td></tr>
+<tr><td>Acciona</td><td>Beca Servicios A Usuario</td><td>Madrid</td><td>2026-10-07</td></tr>
+<tr><td>Acciona</td><td>Beca En El Departamento De Calidad, Medio Ambiente Y Sostenibilidad</td><td>Madrid</td><td>2026-10-07</td></tr>
+<tr><td>Acciona</td><td>Beca Comisionado Y Puesta En Marcha</td><td>Madrid</td><td>2026-10-07</td></tr>
+<tr><td>Novanta</td><td>Hardware Developer Internship</td><td>Barcelona</td><td>2026-10-07</td></tr>
+<tr><td>Sacyr Group</td><td>Beca Sostenibilidad</td><td>Madrid</td><td>2026-10-07</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Estudiante En Prácticas – Departamento De Gestión De Calidad (qmm-p)</td><td>Madrid</td><td>2026-10-07</td></tr>
+<tr><td>Hempel</td><td>Pricing Intern</td><td>Barcelona</td><td>2026-10-07</td></tr>
+<tr><td>Zynga</td><td>Animation Intern</td><td>Barcelona</td><td>2026-10-07</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Finance Trainee (becario)</td><td>Barcelona</td><td>2026-10-07</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Finance Fp - The Barcelona Edition</td><td>Barcelona</td><td>2026-10-07</td></tr>
+<tr><td>Marriott International</td><td>Finance Trainee (becario)</td><td>Barcelona</td><td>2026-10-07</td></tr>
+<tr><td>Marriott International</td><td>Finance Fp - The Barcelona Edition</td><td>Barcelona</td><td>2026-10-07</td></tr>
+<tr><td>114</td><td>Project Buyer Internship</td><td>Zaragoza</td><td>2026-10-07</td></tr>
+<tr><td>Coty Inc.</td><td>Marketing Consumer Beauty Intern</td><td>Barcelona</td><td>2026-10-07</td></tr>
+<tr><td>Melia</td><td>Hr Trainee - Torre Melina A Gran Melia</td><td>Barcelona</td><td>2026-10-07</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - Plant Controlling Intern - Orbigo, Spain</td><td>Orbigo</td><td>2026-10-07</td></tr>
+<tr><td>EY</td><td>Prácticas Formación</td><td>Spain</td><td>2026-10-07</td></tr>
+<tr><td>Gartner</td><td>Client Success Associate Internship, Summer 2026 (2027 Graduates) - Swedish Speaker</td><td>Egham +1</td><td>2026-10-07</td></tr>
+<tr><td>Jobandtalent</td><td>Us - Accountant (spain - Remote)</td><td>Madrid</td><td>2026-10-07</td></tr>
+<tr><td>KION Group</td><td>Técnico Electromecánico Con Inglés ( Sede Zona Franca)</td><td>Barcelona</td><td>2026-10-07</td></tr>
+<tr><td>Condis Supermercats S.A</td><td>Bolsa De Talento Almacen</td><td>Barcelona</td><td>2026-10-07</td></tr>
+<tr><td>MANGO</td><td>Vendedor/a Black Friday - Madrid Este</td><td>Madrid</td><td>2026-10-07</td></tr>
 </table>
