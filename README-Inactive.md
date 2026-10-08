@@ -2790,4 +2790,39 @@
 <tr><td>KION Group</td><td>Técnico Electromecánico Con Inglés ( Sede Zona Franca)</td><td>Barcelona</td><td>2026-10-07</td></tr>
 <tr><td>Condis Supermercats S.A</td><td>Bolsa De Talento Almacen</td><td>Barcelona</td><td>2026-10-07</td></tr>
 <tr><td>MANGO</td><td>Vendedor/a Black Friday - Madrid Este</td><td>Madrid</td><td>2026-10-07</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Front Office Internship - Kimpton Vividora</td><td>Spain</td><td>2026-10-08</td></tr>
+<tr><td>Kimpton Vividora</td><td>Front Office Internship - Kimpton Vividora</td><td>Spain</td><td>2026-10-08</td></tr>
+<tr><td>InterContinental Hotels Group (IHG)</td><td>Front Office Internship - Kimpton Vividora</td><td>Spain</td><td>2026-10-08</td></tr>
+<tr><td>IHG</td><td>Front Office Internship - Kimpton Vividora</td><td>Spain</td><td>2026-10-08</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Multinational Wording Operations Intern</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Network & Partner Operations Intern</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Front Office Systems Intern</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Investment Performance Analyst Intern</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Junior Powerapps Developer Intern</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Hr Labor Relations Internship</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Developer Intern</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Regional Compliance Intern</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Engineering & Visualization Intern</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>InterContinental Hotels Group</td><td>Internships Graduate Jobs</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Acciona SA</td><td>Beca Planificación Obra Civil</td><td>Madrid</td><td>2026-10-08</td></tr>
+<tr><td>Acciona SA</td><td>Beca Gestión Ingenierías</td><td>Madrid</td><td>2026-10-08</td></tr>
+<tr><td>Accenture Australia</td><td>Cyber Intelligence Analyst L1</td><td>Madrid</td><td>2026-10-08</td></tr>
+<tr><td>Fracttal Tech S.L</td><td>Python Developer, Madrid España</td><td>Madrid</td><td>2026-10-08</td></tr>
+<tr><td>Indra Group</td><td>Data Scientist/data Engineer Junior</td><td>Es</td><td>2026-10-08</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Gestión Del Dato (personas Y Organización)</td><td>Madrid</td><td>2026-10-08</td></tr>
+<tr><td>MSX International Ltd</td><td>Business Success Partner</td><td>Madrid</td><td>2026-10-08</td></tr>
+<tr><td>Contentsquare Inc</td><td>Business Planning Analyst</td><td>Barcelona Area</td><td>2026-10-08</td></tr>
+<tr><td>Kiabi</td><td>Técnico/a Contable (nivel Alto Francés)</td><td>Madrid</td><td>2026-10-08</td></tr>
+<tr><td>Ahorramas, S.A</td><td>Técnico/a Mantenimiento De Instalaciones Automatizadas</td><td>Salamanca</td><td>2026-10-08</td></tr>
+<tr><td>Dematic</td><td>Técnico Electromecánico Con Inglés ( Sede Zona Franca)</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>H&M</td><td>Sales Advisor (20 Horas)</td><td>Madrid</td><td>2026-10-08</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Boutique Sales Associate</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Cartier</td><td>Boutique Assistant - Temporary Contract (12 Months)</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>skechers.cl</td><td>Vendedor/a Tienda 20h - Viladecans</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Skechers</td><td>Vendedor/a Tienda 20h - Viladecans</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>skechers.dk</td><td>Vendedor/a Tienda 20h - Viladecans</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Puma</td><td>Vendedorxs A 20h Semanales (outlet Oasiz Madrid)</td><td>Madrid</td><td>2026-10-08</td></tr>
+<tr><td>MANGO</td><td>Vendedor/a Black Friday - Madrid Centro</td><td>Madrid</td><td>2026-10-08</td></tr>
+<tr><td>Mango</td><td>Vendedor/a Black Friday - Madrid Norte</td><td>Madrid</td><td>2026-10-08</td></tr>
+<tr><td>Grupo Hotusa</td><td>Técnico/a Administrativo De Mantenimiento</td><td>Barcelona</td><td>2026-10-08</td></tr>
 </table>
