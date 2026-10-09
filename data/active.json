@@ -1,7 +1,73 @@
 {
- "asOf": "2026-10-08",
- "count": 541,
+ "asOf": "2026-10-09",
+ "count": 544,
  "jobs": {
+  "5ed6359ae2bd5afe2304b777b67f949a": {
+   "id": "5ed6359ae2bd5afe2304b777b67f949a",
+   "company": "Four Seasons Hotels & Resorts",
+   "role": "Concierge Intern - Four Seasons Resort Mallorca At Formentor (season 2027)",
+   "location": "Formentor"
+  },
+  "622390e7e5e2c9b8cde334568adc3024": {
+   "id": "622390e7e5e2c9b8cde334568adc3024",
+   "company": "Four Seasons Hotels & Resorts",
+   "role": "F&b Admin Intern - - Four Seasons Resort Mallorca At Formentor (season 2027)",
+   "location": "Formentor"
+  },
+  "2a2d5157ae238bf4938973dddc969f1e": {
+   "id": "2a2d5157ae238bf4938973dddc969f1e",
+   "company": "Four Seasons Hotels & Resorts",
+   "role": "F&b Service Intern - Four Seasons Resort Mallorca At Formentor (season 2027)",
+   "location": "Formentor"
+  },
+  "920b1f2879439d49f14caf5d0e5dd514": {
+   "id": "920b1f2879439d49f14caf5d0e5dd514",
+   "company": "Four Seasons Hotels & Resorts",
+   "role": "Guest Experience Intern - Four Seasons Resort Mallorca At Formentor (season 2027)",
+   "location": "Formentor"
+  },
+  "58f865fdaa1980c3b13143deb2f2d073": {
+   "id": "58f865fdaa1980c3b13143deb2f2d073",
+   "company": "Four Seasons Hotels & Resorts",
+   "role": "Guest Services Intern - Four Seasons Resort Mallorca At Formentor (season 2027)",
+   "location": "Formentor"
+  },
+  "390206804827177d317816ba08b80ed2": {
+   "id": "390206804827177d317816ba08b80ed2",
+   "company": "Four Seasons Hotels & Resorts",
+   "role": "Reservations Intern - Four Seasons Resort Mallorca At Formentor (season 2027)",
+   "location": "Formentor"
+  },
+  "01fe9dfcac91a8f1ba265adfbe840189": {
+   "id": "01fe9dfcac91a8f1ba265adfbe840189",
+   "company": "Johnson & Johnson UK",
+   "role": "Patient Advocacy Intern",
+   "location": "Madrid"
+  },
+  "4f713f64f2f789bb7291986f576646d1": {
+   "id": "4f713f64f2f789bb7291986f576646d1",
+   "company": "Roche UK",
+   "role": "Workforce Optimization / Strategies (data Science) Intern",
+   "location": "Sant Cugat Del Vall"
+  },
+  "161c2f718ccde27b28aae0883684e456": {
+   "id": "161c2f718ccde27b28aae0883684e456",
+   "company": "Careers Philips",
+   "role": "Internship: Customer Care Support Intern",
+   "location": "Madrid"
+  },
+  "28b4a87e1da74d20318e37f54e8f9254": {
+   "id": "28b4a87e1da74d20318e37f54e8f9254",
+   "company": "Essity",
+   "role": "Logistics Internship",
+   "location": "Madrid"
+  },
+  "246df7077192bd50c049540be63a05e9": {
+   "id": "246df7077192bd50c049540be63a05e9",
+   "company": "Hotel Chadstone Melbourne MGallery",
+   "role": "Prácticas En Front Office - So/ Sotogrande",
+   "location": "Sotogrande"
+  },
   "c97c991288075c963266eb2614e3641f": {
    "id": "c97c991288075c963266eb2614e3641f",
    "company": "Roche UK",
@@ -30,6 +96,12 @@
    "id": "8de97b66911afed6546e9d609885c742",
    "company": "Delivery Hero (foodpanda)",
    "role": "Intern Talent & Development Global Hq",
+   "location": "Barcelona"
+  },
+  "f387b429fc1024e7654489c05de7d435": {
+   "id": "f387b429fc1024e7654489c05de7d435",
+   "company": "OCA Global Corporate Services S.A",
+   "role": "Beca - Administración Departamento It (prácticas Fp Grado Superior)",
    "location": "Barcelona"
   },
   "b31c4f0c199fc6f03e1b956b00591020": {
@@ -402,78 +474,6 @@
    "id": "bb96899e9dfeea8f4cd9ca4a3f691d2c",
    "company": "Ferrovial SE",
    "role": "Tax Global Reporting & Tech Internship",
-   "location": "Madrid"
-  },
-  "af20b4df31c7659eba838477497d3be5": {
-   "id": "af20b4df31c7659eba838477497d3be5",
-   "company": "Ferrovial SE",
-   "role": "Open Innovation Internship",
-   "location": "Madrid"
-  },
-  "a3c1833d3633473b0cedf177cb493dd7": {
-   "id": "a3c1833d3633473b0cedf177cb493dd7",
-   "company": "Ferrovial SE",
-   "role": "Global Reporting Internship",
-   "location": "Madrid"
-  },
-  "51dbfdd13bb50c94f3723898b816b6b5": {
-   "id": "51dbfdd13bb50c94f3723898b816b6b5",
-   "company": "Solunion",
-   "role": "Beca Siniestros Y Recobros - Solunion First Steps",
-   "location": "Madrid"
-  },
-  "4652839e4c678220e7ceb1c8a14e2911": {
-   "id": "4652839e4c678220e7ceb1c8a14e2911",
-   "company": "ATREVIA",
-   "role": "Beca Innovación Y Desarrollo - Atrevia Bcn",
-   "location": "Madrid"
-  },
-  "3dbb1fea86be0bec86302066ae0846ca": {
-   "id": "3dbb1fea86be0bec86302066ae0846ca",
-   "company": "Nestle Purina",
-   "role": "Prácticas En Recursos Humanos / Fábrica Nestlé Purina Castellbisbal",
-   "location": "Barcelona"
-  },
-  "c137d6d4c30cc52a68c3e592a8d8a43f": {
-   "id": "c137d6d4c30cc52a68c3e592a8d8a43f",
-   "company": "SO/ Sotogrande",
-   "role": "Prácticas De F&b Service - So/ Sotogrande",
-   "location": "Sotogrande"
-  },
-  "570772af82cbdb5a13afab57668957c4": {
-   "id": "570772af82cbdb5a13afab57668957c4",
-   "company": "Enagas",
-   "role": "Beca Economía - Ade / Madrid",
-   "location": "Madrid"
-  },
-  "81b6df3f33322320226a7929d8401b6b": {
-   "id": "81b6df3f33322320226a7929d8401b6b",
-   "company": "PIB Group",
-   "role": "Contable Trainee",
-   "location": "Spain"
-  },
-  "36ce9ea7d213e4240d814d6cc5f7c6ef": {
-   "id": "36ce9ea7d213e4240d814d6cc5f7c6ef",
-   "company": "Accenture",
-   "role": "Mavericks Madrid Fy27",
-   "location": "Madrid"
-  },
-  "33960eccfc51d059ca57e3acb89c9202": {
-   "id": "33960eccfc51d059ca57e3acb89c9202",
-   "company": "Accenture",
-   "role": "Dixcover - Programa Prácticas Fp Accenture",
-   "location": "Madrid"
-  },
-  "fcce79ca91c74de3c5469fb1de678190": {
-   "id": "fcce79ca91c74de3c5469fb1de678190",
-   "company": "Nestle SA",
-   "role": "Spain Youth / Internship Nutrition, Health Sciences & Food Research - September 2026",
-   "location": "Esplugues Llobregat"
-  },
-  "e794101a01ad43e4d19fc110f22e4eb7": {
-   "id": "e794101a01ad43e4d19fc110f22e4eb7",
-   "company": "Bertrandt Group",
-   "role": "Unknown",
    "location": "Madrid"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
@@ -1010,6 +1010,12 @@
    "role": "Data Scientist (early Career Program)",
    "location": "Madrid"
   },
+  "286ad1fea525082d121c48f1618621cf": {
+   "id": "286ad1fea525082d121c48f1618621cf",
+   "company": "Airbus Defence and Space SAU",
+   "role": "#xplorer 2027 Ai-driven Scenario Generation And Exploration For Aerospace Simulation",
+   "location": "Madrid"
+  },
   "5e0b610ce821823b6ea332708c6f899a": {
    "id": "5e0b610ce821823b6ea332708c6f899a",
    "company": "Roche UK",
@@ -1421,6 +1427,12 @@
   "2a8eb82fd69576ad41f8f5151b4c2177": {
    "id": "2a8eb82fd69576ad41f8f5151b4c2177",
    "company": "ING Group",
+   "role": "Data Analyst",
+   "location": "Madrid"
+  },
+  "6dc3b035036ebbdc4d509e34690f3a56": {
+   "id": "6dc3b035036ebbdc4d509e34690f3a56",
+   "company": "282",
    "role": "Data Analyst",
    "location": "Madrid"
   },
@@ -2072,11 +2084,23 @@
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
   },
+  "a47e09ad2564b1ffad439c9bc12ae89f": {
+   "id": "a47e09ad2564b1ffad439c9bc12ae89f",
+   "company": "Alstom",
+   "role": "Operario/a De Mantenimiento Pinto Temporal",
+   "location": "Madrid"
+  },
   "1f40dc8fd5aff03ae2e1e22f975ae76f": {
    "id": "1f40dc8fd5aff03ae2e1e22f975ae76f",
    "company": "Telefonica",
    "role": "Mantenimiento Tv Barcelona",
    "location": "Barcelona"
+  },
+  "6807ed1b12ffe7c09b702eb1061d7477": {
+   "id": "6807ed1b12ffe7c09b702eb1061d7477",
+   "company": "ConfiARTE",
+   "role": "Técnico/a De Mantenimiento Data Center (especialista En Electricidad Y Climatización) / Getafe (madrid)",
+   "location": "Madrid"
   },
   "e0c3b55d4562ad5a576982a236ee2bb8": {
    "id": "e0c3b55d4562ad5a576982a236ee2bb8",
@@ -2298,12 +2322,6 @@
    "id": "591090bfb4e3468d9e215ce3dd4c1bcd",
    "company": "Airbus Operations",
    "role": "Maintenance Engineer",
-   "location": "Madrid"
-  },
-  "a47e09ad2564b1ffad439c9bc12ae89f": {
-   "id": "a47e09ad2564b1ffad439c9bc12ae89f",
-   "company": "Alstom",
-   "role": "Operario/a De Mantenimiento Pinto Temporal",
    "location": "Madrid"
   },
   "64bc78d2e2f137b7e3d21724f3eb9616": {
@@ -2540,16 +2558,22 @@
    "role": "Tecnico/a De Mantenimiento - Me Barcelona",
    "location": "Barcelona"
   },
-  "b86003b44389c6b75793a13d00cde938": {
-   "id": "b86003b44389c6b75793a13d00cde938",
-   "company": "Melia",
-   "role": "Técnico/a De Mantenimiento - Meliá Barcelona Sky",
-   "location": "Barcelona"
+  "b9c6bad2835c0948886dca2ce89ba3d9": {
+   "id": "b9c6bad2835c0948886dca2ce89ba3d9",
+   "company": "Tapestry, Inc.",
+   "role": "Sales Associate",
+   "location": "Madrid"
   },
   "77c367a0a429b329a2dfbffc9b3a3d31": {
    "id": "77c367a0a429b329a2dfbffc9b3a3d31",
    "company": "brunellocucinelli.career",
    "role": "Sales Associate - Las Rozas",
+   "location": "Madrid"
+  },
+  "b90e35ed596b93345d53c4ff99d6a727": {
+   "id": "b90e35ed596b93345d53c4ff99d6a727",
+   "company": "obramat.es",
+   "role": "Almacen Alcorcon_vendedor/a Electricidad (interinidad)",
    "location": "Madrid"
   },
   "90ca804984ff2eca279e35170e08da5e": {
@@ -2780,6 +2804,12 @@
    "role": "Sales Associate (part Time) - Bc Gran Via",
    "location": "Madrid"
   },
+  "975fd4a44aa7da6ddb2e8f3bc27887c5": {
+   "id": "975fd4a44aa7da6ddb2e8f3bc27887c5",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor (12 Horas)",
+   "location": "Madrid"
+  },
   "103d8406a5644a87c6c6527b3e3ede8b": {
    "id": "103d8406a5644a87c6c6527b3e3ede8b",
    "company": "adidas AG",
@@ -3008,23 +3038,11 @@
    "role": "Sales Associate Shop In Shop Princesa Bow Wholesale 35h (f/m/x)",
    "location": "Madrid"
   },
-  "3d707f4e18debce4fe19fb9562001a5d": {
-   "id": "3d707f4e18debce4fe19fb9562001a5d",
-   "company": "Mango",
-   "role": "Vendedor/a 25h La Vaguada Madrid",
-   "location": "Madrid"
-  },
-  "5e5c442002f5fe216d2f01473138f276": {
-   "id": "5e5c442002f5fe216d2f01473138f276",
-   "company": "Mango",
-   "role": "Vendedor/a 25h Rotativos Serrano",
-   "location": "Madrid"
-  },
-  "cfc347554f5ceba03eacc8bb02358b29": {
-   "id": "cfc347554f5ceba03eacc8bb02358b29",
-   "company": "Mango",
-   "role": "Vendedor/a Mango Home Plaza Norte Ii 20h",
-   "location": "Salamanca"
+  "ed87fb085f62d75c8935bf753083fbce": {
+   "id": "ed87fb085f62d75c8935bf753083fbce",
+   "company": "Novartis",
+   "role": "Value & Access Team Assistant",
+   "location": "Madrid DelegacióN"
   },
   "ceeba7bcb67cfb6c20795ff21bb9a9ea": {
    "id": "ceeba7bcb67cfb6c20795ff21bb9a9ea",

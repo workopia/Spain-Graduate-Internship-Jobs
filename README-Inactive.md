@@ -2825,4 +2825,20 @@
 <tr><td>MANGO</td><td>Vendedor/a Black Friday - Madrid Centro</td><td>Madrid</td><td>2026-10-08</td></tr>
 <tr><td>Mango</td><td>Vendedor/a Black Friday - Madrid Norte</td><td>Madrid</td><td>2026-10-08</td></tr>
 <tr><td>Grupo Hotusa</td><td>Técnico/a Administrativo De Mantenimiento</td><td>Barcelona</td><td>2026-10-08</td></tr>
+<tr><td>Ferrovial SE</td><td>Open Innovation Internship</td><td>Madrid</td><td>2026-10-09</td></tr>
+<tr><td>Ferrovial SE</td><td>Global Reporting Internship</td><td>Madrid</td><td>2026-10-09</td></tr>
+<tr><td>Solunion</td><td>Beca Siniestros Y Recobros - Solunion First Steps</td><td>Madrid</td><td>2026-10-09</td></tr>
+<tr><td>ATREVIA</td><td>Beca Innovación Y Desarrollo - Atrevia Bcn</td><td>Madrid</td><td>2026-10-09</td></tr>
+<tr><td>Nestle Purina</td><td>Prácticas En Recursos Humanos / Fábrica Nestlé Purina Castellbisbal</td><td>Barcelona</td><td>2026-10-09</td></tr>
+<tr><td>SO/ Sotogrande</td><td>Prácticas De F&b Service - So/ Sotogrande</td><td>Sotogrande</td><td>2026-10-09</td></tr>
+<tr><td>Enagas</td><td>Beca Economía - Ade / Madrid</td><td>Madrid</td><td>2026-10-09</td></tr>
+<tr><td>PIB Group</td><td>Contable Trainee</td><td>Spain</td><td>2026-10-09</td></tr>
+<tr><td>Accenture</td><td>Mavericks Madrid Fy27</td><td>Madrid</td><td>2026-10-09</td></tr>
+<tr><td>Accenture</td><td>Dixcover - Programa Prácticas Fp Accenture</td><td>Madrid</td><td>2026-10-09</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Nutrition, Health Sciences & Food Research - September 2026</td><td>Esplugues Llobregat</td><td>2026-10-09</td></tr>
+<tr><td>Bertrandt Group</td><td>Unknown</td><td>Madrid</td><td>2026-10-09</td></tr>
+<tr><td>Melia</td><td>Técnico/a De Mantenimiento - Meliá Barcelona Sky</td><td>Barcelona</td><td>2026-10-09</td></tr>
+<tr><td>Mango</td><td>Vendedor/a 25h La Vaguada Madrid</td><td>Madrid</td><td>2026-10-09</td></tr>
+<tr><td>Mango</td><td>Vendedor/a 25h Rotativos Serrano</td><td>Madrid</td><td>2026-10-09</td></tr>
+<tr><td>Mango</td><td>Vendedor/a Mango Home Plaza Norte Ii 20h</td><td>Salamanca</td><td>2026-10-09</td></tr>
 </table>
