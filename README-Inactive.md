@@ -2841,4 +2841,32 @@
 <tr><td>Mango</td><td>Vendedor/a 25h La Vaguada Madrid</td><td>Madrid</td><td>2026-10-09</td></tr>
 <tr><td>Mango</td><td>Vendedor/a 25h Rotativos Serrano</td><td>Madrid</td><td>2026-10-09</td></tr>
 <tr><td>Mango</td><td>Vendedor/a Mango Home Plaza Norte Ii 20h</td><td>Salamanca</td><td>2026-10-09</td></tr>
+<tr><td>Coty Inc.</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>Coty Inc.</td><td>Demand Intern</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>Melia</td><td>Prácticas F&b Luxury Brands</td><td>Islas Baleares</td><td>2026-10-10</td></tr>
+<tr><td>ABB Inc</td><td>Internship: Customer Operations Department: Customer Service And Order Management</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Beca Ingeniería Y Gestión Comercial (zaragoza)</td><td>Zaragoza</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Beca Apoyo Comercial (barcelona)</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>Arxada</td><td>Tax Intern</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>Avanade</td><td>Avanade Campus_prácticas En Ux Con Tecnología Microsoft – Octubre 2026</td><td>Madrid</td><td>2026-10-10</td></tr>
+<tr><td>SIX</td><td>Asset Servicing Internship</td><td>Madrid</td><td>2026-10-10</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Compras Hotel Barcelona</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Optimización</td><td>Madrid</td><td>2026-10-10</td></tr>
+<tr><td>Coty Inc.</td><td>Exo Packaging Intern</td><td>Barcelona Hub</td><td>2026-10-10</td></tr>
+<tr><td>Acciona SA</td><td>Beca Dpto. Producción</td><td>San AgustíN De Guadalix</td><td>2026-10-10</td></tr>
+<tr><td>Acciona SA</td><td>Beca Departamento Estudios Y Ofertas</td><td>Madrid</td><td>2026-10-10</td></tr>
+<tr><td>Acciona SA</td><td>Beca Dpto. Estudios Y Ofertas</td><td>Madrid</td><td>2026-10-10</td></tr>
+<tr><td>Acciona SA</td><td>Beca Dpto. Compras Y Maquinaria</td><td>Madrid</td><td>2026-10-10</td></tr>
+<tr><td>Acciona SA</td><td>Beca Dpto. Gis</td><td>Madrid</td><td>2026-10-10</td></tr>
+<tr><td>Coty</td><td>Trade Consumer Beauty Intern</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>Ferrovial SE</td><td>Tax Global Reporting & Tech Internship</td><td>Madrid</td><td>2026-10-10</td></tr>
+<tr><td>E80 Group</td><td>Lgv Cs Programmer - Barcelona</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>Accenture</td><td>Cyber Intelligence Analyst L1</td><td>Madrid</td><td>2026-10-10</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Scientist</td><td>Localidad</td><td>2026-10-10</td></tr>
+<tr><td>Melia</td><td>Tecnico/a De Mantenimiento - Me Barcelona</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 10h La Roca</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>EASTPAK</td><td>Vendedor/a 40h Eastpak - Madrid (cobertura Baja Médica)</td><td>Madrid</td><td>2026-10-10</td></tr>
+<tr><td>Levis</td><td>Sales Stylist 25h Lfo La Roca</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate Shop In Shop Princesa Bow Wholesale 35h (f/m/x)</td><td>Madrid</td><td>2026-10-10</td></tr>
+<tr><td>Temporing</td><td>Administrativo/a Logística - Gavà</td><td>Barcelona</td><td>2026-10-10</td></tr>
 </table>
