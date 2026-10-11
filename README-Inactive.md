@@ -2869,4 +2869,34 @@
 <tr><td>Levis</td><td>Sales Stylist 25h Lfo La Roca</td><td>Barcelona</td><td>2026-10-10</td></tr>
 <tr><td>HUGO BOSS AG</td><td>Sales Associate Shop In Shop Princesa Bow Wholesale 35h (f/m/x)</td><td>Madrid</td><td>2026-10-10</td></tr>
 <tr><td>Temporing</td><td>Administrativo/a Logística - Gavà</td><td>Barcelona</td><td>2026-10-10</td></tr>
+<tr><td>El Colegio Británico / The British School</td><td>Internship Opportunities - El Colegio Británico / The British School</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>ARQUIMEA</td><td>Project Manager Internship</td><td>Salamanca</td><td>2026-10-11</td></tr>
+<tr><td>Sacyr Group</td><td>Beca Relaciones Laborales</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>#beca Ahe - Avionic Systems</td><td>Getafe Area</td><td>2026-10-11</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>#discover I 2027-2028 Internship</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>ABB Ltd</td><td>Internship: Design Engineering Department Support (mechanical Engineering)</td><td>Trapagaran</td><td>2026-10-11</td></tr>
+<tr><td>ARQUIMEA</td><td>Beca Industrialización</td><td>Salamanca</td><td>2026-10-11</td></tr>
+<tr><td>ARQUIMEA</td><td>Pmo Internship</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>ACCIONA Energía</td><td>Beca Innovación Digital</td><td>Barcelona</td><td>2026-10-11</td></tr>
+<tr><td>ACCIONA Energía</td><td>Beca Apoyo A La Innovación</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>Bureau Veritas</td><td>Becario/a Departamento De Pesca Sostenible</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Revenue - Eurostars Hotel Company</td><td>Barcelona</td><td>2026-10-11</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Administración Economato Madrid</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Área Comercial - Sector Hoteles / Madrid</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Comercial</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Comercial Internacional</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>Grupo Hotusa</td><td>Prácticas Recepción Eurostars Hotels (barcelona)</td><td>Barcelona</td><td>2026-10-11</td></tr>
+<tr><td>Santander UK</td><td>Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>Jobgether</td><td>Ai Augmented Software Engineer [gn] Data Intelligence Platform</td><td>Spain</td><td>2026-10-11</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer (python) — Programmable Networking</td><td>Spain</td><td>2026-10-11</td></tr>
+<tr><td>Heap Inc</td><td>Business Planning Analyst</td><td>Barcelona</td><td>2026-10-11</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Técnico/a De Mantenimiento Puertas - Malaga</td><td>Malaga</td><td>2026-10-11</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Técnico/a De Mantenimiento De Escaleras</td><td>Barcelona</td><td>2026-10-11</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - (part Time / Temporal) / Bc Barcelona</td><td>Barcelona</td><td>2026-10-11</td></tr>
+<tr><td>NUDE PROJECT</td><td>Mozo De Almacén - Barcelona Flagship</td><td>Barcelona</td><td>2026-10-11</td></tr>
+<tr><td>Michael Kors</td><td>Concession Sales Associate</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>Chanel</td><td>Fashion Advisor Rtw</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - Madrid La Vaguada</td><td>Madrid</td><td>2026-10-11</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Becario/a De Administración Comercial</td><td>Catalonia</td><td>2026-10-11</td></tr>
+<tr><td>Bosch Group</td><td>It Support Specialist (level 1) / Automotive Solutions / Ukrainian Market</td><td>Salamanca</td><td>2026-10-11</td></tr>
 </table>
