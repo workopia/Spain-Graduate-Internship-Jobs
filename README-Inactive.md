@@ -2899,4 +2899,16 @@
 <tr><td>Mango</td><td>Vendedor/a - Madrid La Vaguada</td><td>Madrid</td><td>2026-10-11</td></tr>
 <tr><td>Ecolab Pty Ltd</td><td>Becario/a De Administración Comercial</td><td>Catalonia</td><td>2026-10-11</td></tr>
 <tr><td>Bosch Group</td><td>It Support Specialist (level 1) / Automotive Solutions / Ukrainian Market</td><td>Salamanca</td><td>2026-10-11</td></tr>
+<tr><td>ARQUIMEA</td><td>Beca De Commecial Back-office</td><td>Salamanca</td><td>2026-10-12</td></tr>
+<tr><td>Marriott International</td><td>Finance Trainee (internship) - W Barcelona</td><td>Barcelona</td><td>2026-10-12</td></tr>
+<tr><td>Marriott International</td><td>University Intern-europe - Hotel Arts Barcelona</td><td>Barcelona</td><td>2026-10-12</td></tr>
+<tr><td>EY</td><td>Prácticas Comunicación Externa</td><td>Barcelona</td><td>2026-10-12</td></tr>
+<tr><td>IDOM</td><td>Digital Services Intern, Madrid</td><td>Madrid</td><td>2026-10-12</td></tr>
+<tr><td>IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY</td><td>Nuclear Services Internship</td><td>Madrid</td><td>2026-10-12</td></tr>
+<tr><td>Inspired Education Group</td><td>School Intern</td><td>Barcelona</td><td>2026-10-12</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Advisory Suite</td><td>Spain</td><td>2026-10-12</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Técnico/a De Mantenimiento (electricista)</td><td>Barcelona</td><td>2026-10-12</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Field Service Engineer</td><td>Madrid</td><td>2026-10-12</td></tr>
+<tr><td>RAGING WATERS SYDNEY PTY</td><td>Técnico De Mantenimiento Electromecánico</td><td>Malaga</td><td>2026-10-12</td></tr>
+<tr><td>Skechers.fi</td><td>Mozo/a De Almacén 25h - Viladecans</td><td>Barcelona</td><td>2026-10-12</td></tr>
 </table>
