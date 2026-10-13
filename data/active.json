@@ -1,7 +1,19 @@
 {
- "asOf": "2026-10-12",
+ "asOf": "2026-10-13",
  "count": 547,
  "jobs": {
+  "8170fa68e35a99ca7b3309093d1998f5": {
+   "id": "8170fa68e35a99ca7b3309093d1998f5",
+   "company": "Bureau Veritas",
+   "role": "Beca Departamento De Medio Ambiente",
+   "location": "Unknown"
+  },
+  "c084a95d9a3069c7abbc633f11f38374": {
+   "id": "c084a95d9a3069c7abbc633f11f38374",
+   "company": "Bureau Veritas",
+   "role": "¿quieres Hacer Tus Prácticas En Bureau Veritas? ¡únete A Bvacademy!",
+   "location": "Madrid"
+  },
   "ca52e110227a7b0f3467a9227ad71354": {
    "id": "ca52e110227a7b0f3467a9227ad71354",
    "company": "Ernst & Young Global Ltd",
@@ -469,18 +481,6 @@
    "company": "ODYSSEY HOTEL Group",
    "role": "Front Office Trainee",
    "location": "Barcelona"
-  },
-  "a02546907d0b98c98f7d04189d308069": {
-   "id": "a02546907d0b98c98f7d04189d308069",
-   "company": "Alantra",
-   "role": "Investment Banking Off-cycle Internship Programme – January 2027",
-   "location": "Madrid"
-  },
-  "2ed2b083198936f506c99b2a4b6bd4d6": {
-   "id": "2ed2b083198936f506c99b2a4b6bd4d6",
-   "company": "Deoleo Group",
-   "role": "Purchasing Internship",
-   "location": "Madrid"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
