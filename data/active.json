@@ -1,6 +1,6 @@
 {
  "asOf": "2026-10-13",
- "count": 547,
+ "count": 546,
  "jobs": {
   "8170fa68e35a99ca7b3309093d1998f5": {
    "id": "8170fa68e35a99ca7b3309093d1998f5",
@@ -1583,12 +1583,6 @@
   "85684c2bc88495234fa6674f777453e4": {
    "id": "85684c2bc88495234fa6674f777453e4",
    "company": "Zurich Insurance Company Ltd",
-   "role": "Trainee Business Analyst (retención)",
-   "location": "Localidad"
-  },
-  "6f2ead132ddd129f67028d8f9b60671b": {
-   "id": "6f2ead132ddd129f67028d8f9b60671b",
-   "company": "Zurich Insurance UK",
    "role": "Trainee Business Analyst (retención)",
    "location": "Localidad"
   },

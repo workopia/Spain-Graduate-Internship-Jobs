@@ -2913,4 +2913,5 @@
 <tr><td>Skechers.fi</td><td>Mozo/a De Almacén 25h - Viladecans</td><td>Barcelona</td><td>2026-10-12</td></tr>
 <tr><td>Alantra</td><td>Investment Banking Off-cycle Internship Programme – January 2027</td><td>Madrid</td><td>2026-10-13</td></tr>
 <tr><td>Deoleo Group</td><td>Purchasing Internship</td><td>Madrid</td><td>2026-10-13</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Trainee Business Analyst (retención)</td><td>Localidad</td><td>2026-10-13</td></tr>
 </table>

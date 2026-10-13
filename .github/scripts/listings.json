@@ -12,8 +12,8 @@
   "as_of": "2026-10-13",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 5112,
-  "generated_at": "2026-10-13T00:08:19.077Z"
+  "country_live_total": 5100,
+  "generated_at": "2026-10-13T11:56:36.541Z"
  },
  "categories": [
   {
@@ -4576,23 +4576,6 @@
    "date_posted": "2026-08-14T17:28:17.275Z",
    "active": true,
    "url": "https://workopia.io/jobs/85684c2bc88495234fa6674f777453e4",
-   "category": "finance",
-   "tier": "Graduate"
-  },
-  {
-   "salary_display": null,
-   "id": "6f2ead132ddd129f67028d8f9b60671b",
-   "source": "Workopia",
-   "company_name": "Zurich Insurance UK",
-   "company_hi_slug": "zurich-insurance",
-   "title": "Trainee Business Analyst (retención)",
-   "location": "Localidad",
-   "skills": "Data analysis, Campaign management",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-14T10:17:21.635Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/6f2ead132ddd129f67028d8f9b60671b",
    "category": "finance",
    "tier": "Graduate"
   },
