@@ -1,7 +1,103 @@
 {
- "asOf": "2026-10-13",
- "count": 546,
+ "asOf": "2026-10-14",
+ "count": 547,
  "jobs": {
+  "93a4038470b936567b3cbce15896a258": {
+   "id": "93a4038470b936567b3cbce15896a258",
+   "company": "Forvia",
+   "role": "Me Trainee/intern",
+   "location": "Vigo Fas"
+  },
+  "072d8daf1c9faecb050785afcb78ef8f": {
+   "id": "072d8daf1c9faecb050785afcb78ef8f",
+   "company": "Valeo SA",
+   "role": "Executive Assistant Support Internship",
+   "location": "Jaen"
+  },
+  "e9c920bb32b5c60b1e53992fc4aef658": {
+   "id": "e9c920bb32b5c60b1e53992fc4aef658",
+   "company": "Marriott's Playa Andaluza",
+   "role": "Front Office Trainee",
+   "location": "Playa Andaluza"
+  },
+  "99b79b2af21a91b6e5acedc3458d898c": {
+   "id": "99b79b2af21a91b6e5acedc3458d898c",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Prácticas Abogacía Fiscal - 2027",
+   "location": "Barcelona"
+  },
+  "d7d4679a0ab0ccd662c18166aa5290f1": {
+   "id": "d7d4679a0ab0ccd662c18166aa5290f1",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Prácticas Abogacía Legal - 2027",
+   "location": "Madrid"
+  },
+  "085fc83390f51bddeaefa4cea157015c": {
+   "id": "085fc83390f51bddeaefa4cea157015c",
+   "company": "Johnson & Johnson",
+   "role": "Emea Health Economics & Market Access Surgery Intern",
+   "location": "Madrid"
+  },
+  "39ddefa8e0c944c8279f32c9ce747f66": {
+   "id": "39ddefa8e0c944c8279f32c9ce747f66",
+   "company": "Coty",
+   "role": "Npd Intern",
+   "location": "Barcelona"
+  },
+  "95ade4bb6ca32b528b997800a82a6b74": {
+   "id": "95ade4bb6ca32b528b997800a82a6b74",
+   "company": "Coty Inc",
+   "role": "Supply Chain Customer Operations Intern (with French)",
+   "location": "Barcelona"
+  },
+  "55967fdac3d64221a8fcbb5321c537fd": {
+   "id": "55967fdac3d64221a8fcbb5321c537fd",
+   "company": "Coty",
+   "role": "Demand Intern",
+   "location": "Barcelona"
+  },
+  "3afc7991e8653ed20a109c929fec4d90": {
+   "id": "3afc7991e8653ed20a109c929fec4d90",
+   "company": "Coty Inc",
+   "role": "Visibility & Merchandising Intern",
+   "location": "Barcelona"
+  },
+  "370f75f57823ecba49962bd0a5c20812": {
+   "id": "370f75f57823ecba49962bd0a5c20812",
+   "company": "Coty Inc",
+   "role": "Drp Intern",
+   "location": "Barcelona"
+  },
+  "f66db1a1eb8d3faa1cc8c7da4b187b61": {
+   "id": "f66db1a1eb8d3faa1cc8c7da4b187b61",
+   "company": "Melia",
+   "role": "Prácticas Guest Experience - Meliá Palma Marina",
+   "location": "Islas Baleares"
+  },
+  "6604905c104ca9c2c336201093b86eb5": {
+   "id": "6604905c104ca9c2c336201093b86eb5",
+   "company": "Melia",
+   "role": "Trainee Guest Experience- Innside Madrid Valdebebas",
+   "location": "Madrid"
+  },
+  "ec3903d2d08b0d0581dac32544cb5ead": {
+   "id": "ec3903d2d08b0d0581dac32544cb5ead",
+   "company": "ACCIONA Energia",
+   "role": "Beca Departamento Ofertas",
+   "location": "Madrid"
+  },
+  "c76335b4f999cc4c03be032233a0fc1b": {
+   "id": "c76335b4f999cc4c03be032233a0fc1b",
+   "company": "Palladium Hotel Group",
+   "role": "Prácticas - Oficinas Centrales Madrid - Performance Y Revenue Management",
+   "location": "Madrid"
+  },
+  "fe1fcf95f8dda2a25a58d9ef7a518c8f": {
+   "id": "fe1fcf95f8dda2a25a58d9ef7a518c8f",
+   "company": "Roche",
+   "role": "Procurement Intern (mybuy Morocco)",
+   "location": "Sant Cugat Del Vall"
+  },
   "8170fa68e35a99ca7b3309093d1998f5": {
    "id": "8170fa68e35a99ca7b3309093d1998f5",
    "company": "Bureau Veritas",
@@ -385,102 +481,6 @@
    "company": "MAPFRE",
    "role": "Beca En Protocolo",
    "location": "Madrid"
-  },
-  "b16b44065082b2510ca9649670ced548": {
-   "id": "b16b44065082b2510ca9649670ced548",
-   "company": "Delivery Hero (foodpanda)",
-   "role": "Courier Growth Intern",
-   "location": "Barcelona"
-  },
-  "900c2e6bfdaa07f564a0ee1fa1ae7025": {
-   "id": "900c2e6bfdaa07f564a0ee1fa1ae7025",
-   "company": "The Ritz-Carlton",
-   "role": "Welcome Trainee (internship) - W Barcelona",
-   "location": "Barcelona"
-  },
-  "43b7ab59388a61df7f0817ad1fa66f8c": {
-   "id": "43b7ab59388a61df7f0817ad1fa66f8c",
-   "company": "Johnson & Johnson",
-   "role": "Government Affairs & Policy Internship",
-   "location": "Madrid"
-  },
-  "add060a19fa7b06b28ad55177b9c16f2": {
-   "id": "add060a19fa7b06b28ad55177b9c16f2",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas - Renovación Y Analítica Editorial",
-   "location": "Barcelona"
-  },
-  "201dd050cebfd97eede873c2d26e268c": {
-   "id": "201dd050cebfd97eede873c2d26e268c",
-   "company": "Freudenberg Home and Cleaning Solutions Iberica S.L.U.",
-   "role": "Hseq Intern",
-   "location": "Barcelona"
-  },
-  "d0bcd2d038318329de1bfb6db5f6f139": {
-   "id": "d0bcd2d038318329de1bfb6db5f6f139",
-   "company": "ACCIONA Energia",
-   "role": "Internship - Energy Services",
-   "location": "Madrid"
-  },
-  "d27dbab81aa1f9b79ab5332c5e6f5edf": {
-   "id": "d27dbab81aa1f9b79ab5332c5e6f5edf",
-   "company": "Hotel Chadstone Melbourne MGallery",
-   "role": "Prácticas F&b Ktichen - So/ Sotogrande",
-   "location": "Sotogrande"
-  },
-  "ddd383a4f5a5602924e149cf31888807": {
-   "id": "ddd383a4f5a5602924e149cf31888807",
-   "company": "Delivery Hero (foodpanda)",
-   "role": "Intern Regions Spain",
-   "location": "Barcelona"
-  },
-  "1c97c25c1b52b04784591b7061e3670a": {
-   "id": "1c97c25c1b52b04784591b7061e3670a",
-   "company": "Melia",
-   "role": "Trainee G&e - Meliá Madrid Princesa",
-   "location": "Madrid"
-  },
-  "555cabd4011e98f918980503ffda8471": {
-   "id": "555cabd4011e98f918980503ffda8471",
-   "company": "Gameloft Brisbane",
-   "role": "Game Cinematic Artist Intern",
-   "location": "Barcelona"
-  },
-  "a24b84a3597311c812028fa7786589ef": {
-   "id": "a24b84a3597311c812028fa7786589ef",
-   "company": "Gameloft Brisbane",
-   "role": "Marketing Activations Intern",
-   "location": "Barcelona"
-  },
-  "8c19ff2a0463a5cf57aa66098d5f43a8": {
-   "id": "8c19ff2a0463a5cf57aa66098d5f43a8",
-   "company": "Omnicom Health",
-   "role": "Medical Writer Intern",
-   "location": "Barcelona"
-  },
-  "d8673c169bc356ee258d68d8d0b518c7": {
-   "id": "d8673c169bc356ee258d68d8d0b518c7",
-   "company": "Cooltra",
-   "role": "People Intern",
-   "location": "Barcelona"
-  },
-  "c12927779eef9213d323fcdf4b84223b": {
-   "id": "c12927779eef9213d323fcdf4b84223b",
-   "company": "Zurich Insurance UK",
-   "role": "Hr Internship",
-   "location": "Where"
-  },
-  "0cf66904ee1be0edf0c59fa72157e53f": {
-   "id": "0cf66904ee1be0edf0c59fa72157e53f",
-   "company": "Delivery Hero (foodpanda)",
-   "role": "Intern Account Manager Top Accounts Spain",
-   "location": "Madrid"
-  },
-  "15d7cdea63b2a3619487795d2c5a5372": {
-   "id": "15d7cdea63b2a3619487795d2c5a5372",
-   "company": "ODYSSEY HOTEL Group",
-   "role": "Front Office Trainee",
-   "location": "Barcelona"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
@@ -1016,6 +1016,12 @@
    "role": "Data Scientist (early Career Program)",
    "location": "Madrid"
   },
+  "5f78460e5d4998c7cc819157517e3137": {
+   "id": "5f78460e5d4998c7cc819157517e3137",
+   "company": "Bertrandt Group",
+   "role": "Data Scientist - Mantenimiento Predictivo E Ia Para Sistemas Aeronáuticos",
+   "location": "28906"
+  },
   "4e9c8979bb3f6f27229ca4736a755c3f": {
    "id": "4e9c8979bb3f6f27229ca4736a755c3f",
    "company": "Avanade",
@@ -1207,12 +1213,6 @@
    "company": "Salesforce",
    "role": "Ai Builder, Emerging Talent - Spanish Market",
    "location": "Madrid"
-  },
-  "5f78460e5d4998c7cc819157517e3137": {
-   "id": "5f78460e5d4998c7cc819157517e3137",
-   "company": "Bertrandt Group",
-   "role": "Data Scientist - Mantenimiento Predictivo E Ia Para Sistemas Aeronáuticos",
-   "location": "28906"
   },
   "0066f24ce6deb0b7235f25b72dbb9592": {
    "id": "0066f24ce6deb0b7235f25b72dbb9592",
@@ -1579,12 +1579,6 @@
    "company": "EssilorLuxottica",
    "role": "Sales Analyst Trainee",
    "location": "Barcelona"
-  },
-  "85684c2bc88495234fa6674f777453e4": {
-   "id": "85684c2bc88495234fa6674f777453e4",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Trainee Business Analyst (retención)",
-   "location": "Localidad"
   },
   "5c6f3e306b61459536abab82adb5fcaf": {
    "id": "5c6f3e306b61459536abab82adb5fcaf",
@@ -2582,6 +2576,18 @@
    "role": "Técnico Electromecánico Con Inglés ( Sede Zona Franca)",
    "location": "Barcelona"
   },
+  "fdb2b5bd5679c66ebee849087fee4d9d": {
+   "id": "fdb2b5bd5679c66ebee849087fee4d9d",
+   "company": "EssilorLuxottica SA",
+   "role": "Sales Associate",
+   "location": "Barcelona"
+  },
+  "69a46ff1fc5ce1863ba0fa2a4fa5015b": {
+   "id": "69a46ff1fc5ce1863ba0fa2a4fa5015b",
+   "company": "Levis Media",
+   "role": "Sales Stylist 25 Horas Levis Callao",
+   "location": "Madrid"
+  },
   "47b0084dc2a012c715400cf3243ef302": {
    "id": "47b0084dc2a012c715400cf3243ef302",
    "company": "adidas AG",
@@ -3050,16 +3056,10 @@
    "role": "Vendedor/a Barcelona Illa Teen",
    "location": "Barcelona"
   },
-  "ca0ac4dcb78cae089ec90dc5022e7473": {
-   "id": "ca0ac4dcb78cae089ec90dc5022e7473",
-   "company": "Soeur",
-   "role": "Contrato Indefinido - Vendedor.a 30h (madrid - Eci Serrano)",
-   "location": "Madrid"
-  },
-  "15db4a4d8b944ff3e28a415d95d57247": {
-   "id": "15db4a4d8b944ff3e28a415d95d57247",
-   "company": "Ametller Origen",
-   "role": "Venedor/a Alella 30h Rotatiu / 12h Caps De Setmana",
+  "9f1ed0a973b4b1c469c00cd1b3c56137": {
+   "id": "9f1ed0a973b4b1c469c00cd1b3c56137",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Boutique Assistant",
    "location": "Barcelona"
   },
   "4a89f06baf4bfe4d823a9d26fbfa29b1": {
@@ -3139,6 +3139,12 @@
    "company": "Essity AB",
    "role": "Administrative Specialist",
    "location": "Canary Islands"
+  },
+  "302f17eb56976621b0e0d56aa34cafe3": {
+   "id": "302f17eb56976621b0e0d56aa34cafe3",
+   "company": "AkzoNobel N.V.",
+   "role": "Asistente Administrativo(a) Enviar Candidatura Ahora",
+   "location": "Madrid"
   },
   "95438dbe2f2680810e438ac84acabec7": {
    "id": "95438dbe2f2680810e438ac84acabec7",

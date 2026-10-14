@@ -2914,4 +2914,23 @@
 <tr><td>Alantra</td><td>Investment Banking Off-cycle Internship Programme – January 2027</td><td>Madrid</td><td>2026-10-13</td></tr>
 <tr><td>Deoleo Group</td><td>Purchasing Internship</td><td>Madrid</td><td>2026-10-13</td></tr>
 <tr><td>Zurich Insurance UK</td><td>Trainee Business Analyst (retención)</td><td>Localidad</td><td>2026-10-13</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Courier Growth Intern</td><td>Barcelona</td><td>2026-10-14</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Welcome Trainee (internship) - W Barcelona</td><td>Barcelona</td><td>2026-10-14</td></tr>
+<tr><td>Johnson & Johnson</td><td>Government Affairs & Policy Internship</td><td>Madrid</td><td>2026-10-14</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas - Renovación Y Analítica Editorial</td><td>Barcelona</td><td>2026-10-14</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions Iberica S.L.U.</td><td>Hseq Intern</td><td>Barcelona</td><td>2026-10-14</td></tr>
+<tr><td>ACCIONA Energia</td><td>Internship - Energy Services</td><td>Madrid</td><td>2026-10-14</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Prácticas F&b Ktichen - So/ Sotogrande</td><td>Sotogrande</td><td>2026-10-14</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Regions Spain</td><td>Barcelona</td><td>2026-10-14</td></tr>
+<tr><td>Melia</td><td>Trainee G&e - Meliá Madrid Princesa</td><td>Madrid</td><td>2026-10-14</td></tr>
+<tr><td>Gameloft Brisbane</td><td>Game Cinematic Artist Intern</td><td>Barcelona</td><td>2026-10-14</td></tr>
+<tr><td>Gameloft Brisbane</td><td>Marketing Activations Intern</td><td>Barcelona</td><td>2026-10-14</td></tr>
+<tr><td>Omnicom Health</td><td>Medical Writer Intern</td><td>Barcelona</td><td>2026-10-14</td></tr>
+<tr><td>Cooltra</td><td>People Intern</td><td>Barcelona</td><td>2026-10-14</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Hr Internship</td><td>Where</td><td>2026-10-14</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Account Manager Top Accounts Spain</td><td>Madrid</td><td>2026-10-14</td></tr>
+<tr><td>ODYSSEY HOTEL Group</td><td>Front Office Trainee</td><td>Barcelona</td><td>2026-10-14</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Trainee Business Analyst (retención)</td><td>Localidad</td><td>2026-10-14</td></tr>
+<tr><td>Soeur</td><td>Contrato Indefinido - Vendedor.a 30h (madrid - Eci Serrano)</td><td>Madrid</td><td>2026-10-14</td></tr>
+<tr><td>Ametller Origen</td><td>Venedor/a Alella 30h Rotatiu / 12h Caps De Setmana</td><td>Barcelona</td><td>2026-10-14</td></tr>
 </table>
