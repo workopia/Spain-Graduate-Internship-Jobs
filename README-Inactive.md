@@ -2933,4 +2933,23 @@
 <tr><td>Zurich Insurance Company Ltd</td><td>Trainee Business Analyst (retención)</td><td>Localidad</td><td>2026-10-14</td></tr>
 <tr><td>Soeur</td><td>Contrato Indefinido - Vendedor.a 30h (madrid - Eci Serrano)</td><td>Madrid</td><td>2026-10-14</td></tr>
 <tr><td>Ametller Origen</td><td>Venedor/a Alella 30h Rotatiu / 12h Caps De Setmana</td><td>Barcelona</td><td>2026-10-14</td></tr>
+<tr><td>Roche UK</td><td>Proposal Intern</td><td>Sant Cugat Del Vall</td><td>2026-10-15</td></tr>
+<tr><td>Telefonica</td><td>Practicas Curriculares/extracurriculares</td><td>Buscar Por Ciudad</td><td>2026-10-15</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Use Cases Home Advanced Conectivity (hac)</td><td>Madrid</td><td>2026-10-15</td></tr>
+<tr><td>Telefonica</td><td>Telefónica_foro_empleo_upm_2025</td><td>Madrid</td><td>2026-10-15</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Innovación En Acceso</td><td>Buscar Por Ciudad</td><td>2026-10-15</td></tr>
+<tr><td>Telefonica</td><td>Tech_forempleo Uc3m</td><td>Buscar Por Ciudad</td><td>2026-10-15</td></tr>
+<tr><td>Telefonica</td><td>Beca Fondos Vc E Inversiones Pre-m&a</td><td>Madrid</td><td>2026-10-15</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Talent & Development Global Hq</td><td>Barcelona</td><td>2026-10-15</td></tr>
+<tr><td>AXA</td><td>Group Financial Controller Internship</td><td>Madrid</td><td>2026-10-15</td></tr>
+<tr><td>OCA Global Corporate Services S.A</td><td>Beca - Administración Departamento It (prácticas Fp Grado Superior)</td><td>Barcelona</td><td>2026-10-15</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Protocolo</td><td>Madrid</td><td>2026-10-15</td></tr>
+<tr><td>ACCIONA</td><td>Tecnico Asistencia Tecnica</td><td>Barcelona</td><td>2026-10-15</td></tr>
+<tr><td>282</td><td>Mifid Private Banking Control Specialist</td><td>Madrid</td><td>2026-10-15</td></tr>
+<tr><td>ING Group</td><td>Mifid Private Banking Control Specialist</td><td>Madrid</td><td>2026-10-15</td></tr>
+<tr><td>Linde Material Handling GmbH</td><td>Workshop Service Engineer</td><td>Barcelona</td><td>2026-10-15</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Técnico Electromecánico Con Inglés ( Sede Zona Franca)</td><td>Barcelona</td><td>2026-10-15</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Barcelona</td><td>2026-10-15</td></tr>
+<tr><td>Mango</td><td>Vendedor/a Barcelona Illa Teen</td><td>Barcelona</td><td>2026-10-15</td></tr>
+<tr><td>Temporing</td><td>Administrativo/a Customer Service - Sant Boi De Llobregat</td><td>Barcelona</td><td>2026-10-15</td></tr>
 </table>

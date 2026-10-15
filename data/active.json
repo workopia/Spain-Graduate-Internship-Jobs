@@ -1,12 +1,78 @@
 {
- "asOf": "2026-10-14",
+ "asOf": "2026-10-15",
  "count": 547,
  "jobs": {
+  "4cbb58c515d551ad45259f5c69ba5a31": {
+   "id": "4cbb58c515d551ad45259f5c69ba5a31",
+   "company": "Valeo",
+   "role": "Finance Internship",
+   "location": "Jaen"
+  },
+  "dff981931987055d00023c44bb533660": {
+   "id": "dff981931987055d00023c44bb533660",
+   "company": "Coty Inc",
+   "role": "Demand Planning Capability Intern",
+   "location": "Barcelona"
+  },
+  "d988117747f520f3980908e0d831a792": {
+   "id": "d988117747f520f3980908e0d831a792",
+   "company": "MAPFRE",
+   "role": "Beca En Soluciones Ti - Reef Lab",
+   "location": "Madrid"
+  },
+  "14a34559c5d4ed9e95d0218dd097d128": {
+   "id": "14a34559c5d4ed9e95d0218dd097d128",
+   "company": "Criteo",
+   "role": "Account Strategist France Intern",
+   "location": "Barcelona"
+  },
+  "ca7bc48948de8f2218900e094131fa8a": {
+   "id": "ca7bc48948de8f2218900e094131fa8a",
+   "company": "THALES",
+   "role": "Intelligence Trainee Madrid",
+   "location": "Madrid"
+  },
+  "80387fe0740c60685732e22907276aed": {
+   "id": "80387fe0740c60685732e22907276aed",
+   "company": "The Carlyle Group",
+   "role": "Intern",
+   "location": "Barcelona"
+  },
+  "b35977fe58497656be2494ad4b61acb7": {
+   "id": "b35977fe58497656be2494ad4b61acb7",
+   "company": "ACCIONA",
+   "role": "Beca Ditec",
+   "location": "Madrid"
+  },
+  "13c8ea7ab6263dbe56d1f20ba769613f": {
+   "id": "13c8ea7ab6263dbe56d1f20ba769613f",
+   "company": "ACCIONA Energia",
+   "role": "Beca Talento Y Formacion",
+   "location": "Madrid"
+  },
+  "c5ec6fdf87cf4a976fff4a74e8d1f3f1": {
+   "id": "c5ec6fdf87cf4a976fff4a74e8d1f3f1",
+   "company": "ACCIONA Energia",
+   "role": "Beca En Corporate Finance",
+   "location": "Madrid"
+  },
   "93a4038470b936567b3cbce15896a258": {
    "id": "93a4038470b936567b3cbce15896a258",
    "company": "Forvia",
    "role": "Me Trainee/intern",
    "location": "Vigo Fas"
+  },
+  "4244c57995c91403e0645094094f6cb0": {
+   "id": "4244c57995c91403e0645094094f6cb0",
+   "company": "Raona",
+   "role": "Prácticas En Inteligencia Artificial",
+   "location": "Madrid"
+  },
+  "41f8264d0cc62942c853ec83d6491852": {
+   "id": "41f8264d0cc62942c853ec83d6491852",
+   "company": "SLS Barcelona",
+   "role": "Food & Beverage: Operations & Administrative Intern",
+   "location": "Barcelona"
   },
   "072d8daf1c9faecb050785afcb78ef8f": {
    "id": "072d8daf1c9faecb050785afcb78ef8f",
@@ -416,72 +482,6 @@
    "role": "Prácticas En Front Office - So/ Sotogrande",
    "location": "Sotogrande"
   },
-  "c97c991288075c963266eb2614e3641f": {
-   "id": "c97c991288075c963266eb2614e3641f",
-   "company": "Roche UK",
-   "role": "Proposal Intern",
-   "location": "Sant Cugat Del Vall"
-  },
-  "8c302ad8088f12263ee0dd3bde81d913": {
-   "id": "8c302ad8088f12263ee0dd3bde81d913",
-   "company": "Telefonica",
-   "role": "Practicas Curriculares/extracurriculares",
-   "location": "Buscar Por Ciudad"
-  },
-  "2b2341430d503c56ceca7e0b7456e8b6": {
-   "id": "2b2341430d503c56ceca7e0b7456e8b6",
-   "company": "Telefonica",
-   "role": "Beca Talentum - Use Cases Home Advanced Conectivity (hac)",
-   "location": "Madrid"
-  },
-  "b684764f8cacec9739ec0344a8645f54": {
-   "id": "b684764f8cacec9739ec0344a8645f54",
-   "company": "Telefonica",
-   "role": "Telefónica_foro_empleo_upm_2025",
-   "location": "Madrid"
-  },
-  "824cdea609410d71d354841b71fb10c2": {
-   "id": "824cdea609410d71d354841b71fb10c2",
-   "company": "Telefonica",
-   "role": "Beca Talentum - Innovación En Acceso",
-   "location": "Buscar Por Ciudad"
-  },
-  "080ad273fb3caf7209f7fd4acaeb5f96": {
-   "id": "080ad273fb3caf7209f7fd4acaeb5f96",
-   "company": "Telefonica",
-   "role": "Tech_forempleo Uc3m",
-   "location": "Buscar Por Ciudad"
-  },
-  "5813429846249f59375bc07fdd7915a3": {
-   "id": "5813429846249f59375bc07fdd7915a3",
-   "company": "Telefonica",
-   "role": "Beca Fondos Vc E Inversiones Pre-m&a",
-   "location": "Madrid"
-  },
-  "8de97b66911afed6546e9d609885c742": {
-   "id": "8de97b66911afed6546e9d609885c742",
-   "company": "Delivery Hero (foodpanda)",
-   "role": "Intern Talent & Development Global Hq",
-   "location": "Barcelona"
-  },
-  "136665c73ca351a2313c7da88962f5b1": {
-   "id": "136665c73ca351a2313c7da88962f5b1",
-   "company": "AXA",
-   "role": "Group Financial Controller Internship",
-   "location": "Madrid"
-  },
-  "f387b429fc1024e7654489c05de7d435": {
-   "id": "f387b429fc1024e7654489c05de7d435",
-   "company": "OCA Global Corporate Services S.A",
-   "role": "Beca - Administración Departamento It (prácticas Fp Grado Superior)",
-   "location": "Barcelona"
-  },
-  "b31c4f0c199fc6f03e1b956b00591020": {
-   "id": "b31c4f0c199fc6f03e1b956b00591020",
-   "company": "MAPFRE",
-   "role": "Beca En Protocolo",
-   "location": "Madrid"
-  },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
    "company": "Monolithic Power Systems",
@@ -493,6 +493,12 @@
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
    "location": "Barcelona"
+  },
+  "ba3433e4e271ed9cd8ccb6a241dbdc54": {
+   "id": "ba3433e4e271ed9cd8ccb6a241dbdc54",
+   "company": "Airbus Defence and Space SAU",
+   "role": "Onboard Safety-critical Firmware And Software Engineer",
+   "location": "Madrid"
   },
   "3e59fb94887752cfc70dc804cb3a6444": {
    "id": "3e59fb94887752cfc70dc804cb3a6444",
@@ -962,12 +968,6 @@
    "role": "Software Engineer - Python/golang - Kubernetes",
    "location": "Spain"
   },
-  "33cdf8cb232f6df0ba560a0b02fde1f2": {
-   "id": "33cdf8cb232f6df0ba560a0b02fde1f2",
-   "company": "ACCIONA",
-   "role": "Tecnico Asistencia Tecnica",
-   "location": "Barcelona"
-  },
   "cc499d256ce8fd8674964adea19e9b63": {
    "id": "cc499d256ce8fd8674964adea19e9b63",
    "company": "Delivery Hero (foodpanda)",
@@ -1014,6 +1014,12 @@
    "id": "55f3dcd0d7c38e0a644b149830c60153",
    "company": "Ericsson",
    "role": "Data Scientist (early Career Program)",
+   "location": "Madrid"
+  },
+  "29ea1e94f31bcaeea83733385982e47d": {
+   "id": "29ea1e94f31bcaeea83733385982e47d",
+   "company": "Salesforce",
+   "role": "Ai Builder, Emerging Talent - Spanish Market",
    "location": "Madrid"
   },
   "5f78460e5d4998c7cc819157517e3137": {
@@ -1206,12 +1212,6 @@
    "id": "0379e7b7b1db4179fc9419ca83788732",
    "company": "Salesforce",
    "role": "Ai Builder, Emerging Talent - Italian Market",
-   "location": "Madrid"
-  },
-  "29ea1e94f31bcaeea83733385982e47d": {
-   "id": "29ea1e94f31bcaeea83733385982e47d",
-   "company": "Salesforce",
-   "role": "Ai Builder, Emerging Talent - Spanish Market",
    "location": "Madrid"
   },
   "0066f24ce6deb0b7235f25b72dbb9592": {
@@ -1585,6 +1585,18 @@
    "company": "Ubisoft",
    "role": "Accountant Trainee",
    "location": "Barcelona"
+  },
+  "2ab5edcf2a2dfb821fa11479acc2ee63": {
+   "id": "2ab5edcf2a2dfb821fa11479acc2ee63",
+   "company": "ACCIONA Energia",
+   "role": "Analista Financiero/a",
+   "location": "Madrid"
+  },
+  "2b5a93761884bcbaf37359af8ee4295c": {
+   "id": "2b5a93761884bcbaf37359af8ee4295c",
+   "company": "SGS UK",
+   "role": "Business Analyst",
+   "location": "Madrid"
   },
   "0fec44933aef63393f62e1fffd29a94d": {
    "id": "0fec44933aef63393f62e1fffd29a94d",
@@ -2054,18 +2066,6 @@
    "role": "Accountant",
    "location": "Madrid"
   },
-  "90cfd508c5d2f588d4eeea9b00ec0c67": {
-   "id": "90cfd508c5d2f588d4eeea9b00ec0c67",
-   "company": "282",
-   "role": "Mifid Private Banking Control Specialist",
-   "location": "Madrid"
-  },
-  "5df6671b8e9175b649c56ed5164c1a2c": {
-   "id": "5df6671b8e9175b649c56ed5164c1a2c",
-   "company": "ING Group",
-   "role": "Mifid Private Banking Control Specialist",
-   "location": "Madrid"
-  },
   "fe4facdc272599509ea02cd772036b40": {
    "id": "fe4facdc272599509ea02cd772036b40",
    "company": "EUROPREVEN",
@@ -2095,6 +2095,18 @@
    "company": "FRESENIUS MEDICAL CARE",
    "role": "Nefrólogo/a (hospitalet)",
    "location": "Barcelona"
+  },
+  "8e1f6a050b135426ef2a031acbd82cd2": {
+   "id": "8e1f6a050b135426ef2a031acbd82cd2",
+   "company": "KONE Bahrain",
+   "role": "Técnico/a De Mantenimiento De Ascensores",
+   "location": "Malaga"
+  },
+  "268ae0a679406c7ff83793d607121dd6": {
+   "id": "268ae0a679406c7ff83793d607121dd6",
+   "company": "KONE Bahrain",
+   "role": "Técnico/a De Mantenimiento De Ascensorees",
+   "location": "Zaragoza"
   },
   "6289ae28815ff4fc296b4dca78bcdd7b": {
    "id": "6289ae28815ff4fc296b4dca78bcdd7b",
@@ -2564,17 +2576,17 @@
    "role": "Workshop Service Engineer",
    "location": "Barcelona"
   },
-  "61b7769671aa16e3d205d0afcc176c9d": {
-   "id": "61b7769671aa16e3d205d0afcc176c9d",
-   "company": "Linde Material Handling GmbH",
-   "role": "Workshop Service Engineer",
+  "5974564c34a1b966f32e7e7de819bdac": {
+   "id": "5974564c34a1b966f32e7e7de819bdac",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Sales Associate",
    "location": "Barcelona"
   },
-  "61cc62d84426ba8c061007796cdaed3d": {
-   "id": "61cc62d84426ba8c061007796cdaed3d",
-   "company": "Willenbrock Fordertechnik GmbH & Co. KG",
-   "role": "Técnico Electromecánico Con Inglés ( Sede Zona Franca)",
-   "location": "Barcelona"
+  "76cf54a3f80722f4aab7fe3dc0fc61ab": {
+   "id": "76cf54a3f80722f4aab7fe3dc0fc61ab",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Temporary Sales Associate",
+   "location": "Madrid"
   },
   "fdb2b5bd5679c66ebee849087fee4d9d": {
    "id": "fdb2b5bd5679c66ebee849087fee4d9d",
@@ -2930,12 +2942,6 @@
    "role": "Vendedor/a-jornada Parcial 16h - Skechers Getafe",
    "location": "Madrid"
   },
-  "49a1e20bbcbeb9914752aa2838794298": {
-   "id": "49a1e20bbcbeb9914752aa2838794298",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Sales Associate",
-   "location": "Barcelona"
-  },
   "072ff42f69c78ec7a2935fa39e1982e1": {
    "id": "072ff42f69c78ec7a2935fa39e1982e1",
    "company": "NIKE",
@@ -3050,10 +3056,10 @@
    "role": "Nike Retail Store Associate (athlete)- 15h - Nike Store Madrid San Sebastian De Los Reyes",
    "location": "Madrid"
   },
-  "1998cf6fce26bb09123f91ffa69dbae9": {
-   "id": "1998cf6fce26bb09123f91ffa69dbae9",
-   "company": "Mango",
-   "role": "Vendedor/a Barcelona Illa Teen",
+  "fd18b76e4a2ee12bc321ff35102a78e9": {
+   "id": "fd18b76e4a2ee12bc321ff35102a78e9",
+   "company": "Temporing",
+   "role": "Administrativo/a Customer Service - Sant Boi De Llobregat",
    "location": "Barcelona"
   },
   "9f1ed0a973b4b1c469c00cd1b3c56137": {
@@ -3102,12 +3108,6 @@
    "id": "cc50e4b0700e7cedda59d9fdd3da49e7",
    "company": "Temporing",
    "role": "Administrativo/a Contable - Gavà",
-   "location": "Barcelona"
-  },
-  "d4c45ea37da80db8517517887eb7b90b": {
-   "id": "d4c45ea37da80db8517517887eb7b90b",
-   "company": "Temporing",
-   "role": "Administrativo/a Customer Service - Sant Boi De Llobregat",
    "location": "Barcelona"
   },
   "8a74c5e6a81badf719691153ecca29ea": {
