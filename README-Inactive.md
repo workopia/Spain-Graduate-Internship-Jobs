@@ -2952,4 +2952,54 @@
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Barcelona</td><td>2026-10-15</td></tr>
 <tr><td>Mango</td><td>Vendedor/a Barcelona Illa Teen</td><td>Barcelona</td><td>2026-10-15</td></tr>
 <tr><td>Temporing</td><td>Administrativo/a Customer Service - Sant Boi De Llobregat</td><td>Barcelona</td><td>2026-10-15</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Comunicación</td><td>Barcelona</td><td>2026-10-16</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición Técnica</td><td>Barcelona</td><td>2026-10-16</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición</td><td>Barcelona</td><td>2026-10-16</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Penguin Aula</td><td>Barcelona</td><td>2026-10-16</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Internship - Data & Analytics - Spain</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Comercial Nacional</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Bunge</td><td>Indirect Tax Intern</td><td>Barcelona</td><td>2026-10-16</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Credit Operations Intern</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Acciona SA</td><td>Beca Data Servicios Generales</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>ferromallas.es</td><td>Treasury Nl Internship</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Solunion</td><td>Beca Comercial - Solunion First Steps</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Resort Mallorca At Formentor</td><td>Hygiene Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Resort Mallorca At Formentor</td><td>Pastry Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Resort Mallorca At Formentor</td><td>Kitchen Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Resort Mallorca At Formentor</td><td>Finance Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Resort Mallorca At Formentor</td><td>Technology Innovation Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Resort Mallorca At Formentor</td><td>Purchasing Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Concierge Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>F&b Admin Intern - - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>F&b Service Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Guest Experience Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Guest Services Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Reservations Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-16</td></tr>
+<tr><td>Johnson & Johnson UK</td><td>Patient Advocacy Intern</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Roche UK</td><td>Workforce Optimization / Strategies (data Science) Intern</td><td>Sant Cugat Del Vall</td><td>2026-10-16</td></tr>
+<tr><td>Wppproduction</td><td>Trainee Retoucher</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Atolls</td><td>Intern Content Editor - Italian Speaker</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Careers Philips</td><td>Internship: Customer Care Support Intern</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Essity</td><td>Logistics Internship</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Prácticas En Front Office - So/ Sotogrande</td><td>Sotogrande</td><td>2026-10-16</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Desarrollo Software C++</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Modelling And Simulation Junior Software Engineer</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Elastic</td><td>Software Engineer Ii - Edr Workflows - Security</td><td>Spain</td><td>2026-10-16</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Python/golang - Kubernetes</td><td>Spain</td><td>2026-10-16</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Data Scientist - Optimization Focus (beca)</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>serveo</td><td>Beca Análisis De Inversiones - Madrid</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Bunge Global</td><td>Assistant Trading Business Analyst</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>GE Vernova</td><td>Finance Operations Ia Expert</td><td>Barcelona</td><td>2026-10-16</td></tr>
+<tr><td>Weir Group</td><td>Accountant</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Temporing</td><td>Operario/a De Mantenimiento Industrial.</td><td>Barcelona</td><td>2026-10-16</td></tr>
+<tr><td>Airbus Operations</td><td>Industrial Maintenance Technician</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Airbus Operations SL</td><td>Machines Maintenance Operator</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>114</td><td>Técnico De Mantenimiento</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Valeo</td><td>Técnico De Mantenimiento</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Dematic</td><td>Tecnico Electromecanico (sede Fuenlabrada)</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Dematic Corp</td><td>Tecnico Electromecanico (sede Fuenlabrada)</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Dematic Corp</td><td>Técnico Electromecánico Con Inglés ( Sede Zona Franca)</td><td>Barcelona</td><td>2026-10-16</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Workshop Service Engineer</td><td>Barcelona</td><td>2026-10-16</td></tr>
+<tr><td>OBRAMAT</td><td>Almacén Usera _ Vendedor/a Herramientas (40hs Indefinido)</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>NIKE, Inc.</td><td>Nike Retail Store Associate (athlete)- 15h - Nike Store Madrid San Sebastian De Los Reyes</td><td>Madrid</td><td>2026-10-16</td></tr>
 </table>
