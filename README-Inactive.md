@@ -3002,4 +3002,20 @@
 <tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Workshop Service Engineer</td><td>Barcelona</td><td>2026-10-16</td></tr>
 <tr><td>OBRAMAT</td><td>Almacén Usera _ Vendedor/a Herramientas (40hs Indefinido)</td><td>Madrid</td><td>2026-10-16</td></tr>
 <tr><td>NIKE, Inc.</td><td>Nike Retail Store Associate (athlete)- 15h - Nike Store Madrid San Sebastian De Los Reyes</td><td>Madrid</td><td>2026-10-16</td></tr>
+<tr><td>Sony Global</td><td>Marketing Analyst Intern</td><td>Barcelona</td><td>2026-10-17</td></tr>
+<tr><td>Zynga</td><td>Product Manager Intern</td><td>Barcelona</td><td>2026-10-17</td></tr>
+<tr><td>Laboral Kutxa</td><td>¿quieres Hacer Prácticas En Laboral Kutxa? Envíanos Tu Currículum...</td><td>Spain</td><td>2026-10-17</td></tr>
+<tr><td>SIX</td><td>Settlement Services Internship</td><td>Madrid</td><td>2026-10-17</td></tr>
+<tr><td>Mango</td><td>Social Media Content Intern</td><td>Palau</td><td>2026-10-17</td></tr>
+<tr><td>Minsait</td><td>Ingeniero/a De Desarrollo Software C++</td><td>Madrid</td><td>2026-10-17</td></tr>
+<tr><td>TD SYNNEX</td><td>Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)</td><td>Barcelona</td><td>2026-10-17</td></tr>
+<tr><td>Alantra</td><td>Fig Analyst (madrid, Spain)</td><td>Madrid</td><td>2026-10-17</td></tr>
+<tr><td>ACCIONA Energía</td><td>Beca Analista Financiero</td><td>Madrid</td><td>2026-10-17</td></tr>
+<tr><td>Sulzer</td><td>Financial Analyst Services</td><td>Madrid</td><td>2026-10-17</td></tr>
+<tr><td>Nutreco N.V.</td><td>Maintenance Technician</td><td>Madrid</td><td>2026-10-17</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Madrid</td><td>2026-10-17</td></tr>
+<tr><td>Ametller Origen</td><td>Venedor/a A Sabadell - 40h Rotatiu, Contracte Indefinit</td><td>Barcelona</td><td>2026-10-17</td></tr>
+<tr><td>Levis Media</td><td>10h Stylist Paseo De Gracia-viernes,sábado Y Domingo</td><td>Barcelona</td><td>2026-10-17</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 20 - Ls Eci Madrid Preciados</td><td>Madrid</td><td>2026-10-17</td></tr>
+<tr><td>Temporing</td><td>Administrativo/a - Heras</td><td>Cantabria</td><td>2026-10-17</td></tr>
 </table>
