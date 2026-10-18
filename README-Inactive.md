@@ -3018,4 +3018,43 @@
 <tr><td>Levis Media</td><td>10h Stylist Paseo De Gracia-viernes,sábado Y Domingo</td><td>Barcelona</td><td>2026-10-17</td></tr>
 <tr><td>Levis Media</td><td>Sales Stylist 20 - Ls Eci Madrid Preciados</td><td>Madrid</td><td>2026-10-17</td></tr>
 <tr><td>Temporing</td><td>Administrativo/a - Heras</td><td>Cantabria</td><td>2026-10-17</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición (madrid)</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas It Risk - Enero 2027</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>Ametller Origen</td><td>Pràctiques Al Departament De Compres Indirectes</td><td>Olerdola</td><td>2026-10-18</td></tr>
+<tr><td>adidas AG</td><td>Customs Future Talent</td><td>Zaragoza</td><td>2026-10-18</td></tr>
+<tr><td>adidas AG</td><td>Future Talent Hr</td><td>Zaragoza</td><td>2026-10-18</td></tr>
+<tr><td>adidas AG</td><td>Finance Future Talent</td><td>Zaragoza</td><td>2026-10-18</td></tr>
+<tr><td>AVL List GmbH</td><td>Becario/a Audiovisual Para Proyecto De Formación Interna</td><td>Barcelona</td><td>2026-10-18</td></tr>
+<tr><td>serveo</td><td>Beca Seguridad Y Salud Laboral - Madrid</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>serveo</td><td>Beca Bidding Conservación Infraestructuras - Madrid</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>Serveo</td><td>Beca Sostenibilidad Social, Diversidad E Inclusión - Madrid 1 1</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Events Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-18</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Boutique Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-18</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>People And Culture Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-18</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Public Relations Intern - Four Seasons Resort Mallorca At Formentor (season 2027)</td><td>Formentor</td><td>2026-10-18</td></tr>
+<tr><td>Santander</td><td>Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>GRUPO SANTANDER</td><td>Cyber - Digital Forensics & Incident Response Analyst (dfir) - Sds</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>New Relic Inc</td><td>Software Engineer 2 - Streaming Services</td><td>Barcelona</td><td>2026-10-18</td></tr>
+<tr><td>DNV</td><td>Ai Engineer - Agentic Systems</td><td>Barcelona</td><td>2026-10-18</td></tr>
+<tr><td>ING Group</td><td>Data Analyst</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>282</td><td>Data Analyst</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>Datavant</td><td>Data Scientist (privacy)</td><td>Barcelona</td><td>2026-10-18</td></tr>
+<tr><td>Generali Global Corporate & Commercial (GC&C)</td><td>Business Intelligence & Processes (h/m)</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>Avanade</td><td>Business Design & Ai Transformation</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>Fsmjobs</td><td>Nefrólogo/a (hospitalet)</td><td>Barcelona</td><td>2026-10-18</td></tr>
+<tr><td>FRESENIUS MEDICAL CARE</td><td>Nefrólogo/a (hospitalet)</td><td>Barcelona</td><td>2026-10-18</td></tr>
+<tr><td>AGGREKO</td><td>Técnico Electromecánico</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>KONE</td><td>Conviértete En Técnico/a De Ascensores</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Conviértete En Técnico/a De Ascensores</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>SANDVIK</td><td>Técnico/a De Servicio De Campo – Maquinaria De Construcción Equipos De Minería</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>DSI Underground</td><td>Técnico/a De Servicio De Campo – Maquinaria De Construcción Equipos De Minería</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>confiARTE.eu</td><td>Técnico/a De Mantenimiento (centro Cpd), Alcobendas (madrid)</td><td>Salamanca</td><td>2026-10-18</td></tr>
+<tr><td>Alfa Laval</td><td>International Service Engineer - Pure Ballast</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate</td><td>Barcelona</td><td>2026-10-18</td></tr>
+<tr><td>SIXT</td><td>Rental Sales Agent (m/f/d) - Barcelona Fira Hospitalet</td><td>Barcelona</td><td>2026-10-18</td></tr>
+<tr><td>Temporing</td><td>Carretillero/a Preparador/a De Pedidos</td><td>Barcelona</td><td>2026-10-18</td></tr>
+<tr><td>DABA, SA</td><td>Dependiente/a Nespresso Eci Pozuelo (32h/s Tardes Con Posibilidad De Ampliar)</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>DABA, SA</td><td>Dependiente/a Nespresso Eci Pozuelo (fines De Semana))</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate - 10h Dom Y Festivos Mens</td><td>Madrid</td><td>2026-10-18</td></tr>
+<tr><td>Temporing</td><td>Administrativo/a - Loiu</td><td>Derio</td><td>2026-10-18</td></tr>
 </table>
