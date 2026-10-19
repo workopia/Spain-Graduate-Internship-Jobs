@@ -1,7 +1,37 @@
 {
- "asOf": "2026-10-18",
- "count": 551,
+ "asOf": "2026-10-19",
+ "count": 552,
  "jobs": {
+  "dcf1f62a895b8285edcfeff4eb0135d0": {
+   "id": "dcf1f62a895b8285edcfeff4eb0135d0",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Prácticas Business Consulting - Rookies Enero 2027",
+   "location": "Barcelona"
+  },
+  "1abcc8465dfd4400ff4323dd5670edeb": {
+   "id": "1abcc8465dfd4400ff4323dd5670edeb",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Prácticas Business & Risk Consulting - Rookies Enero 2027",
+   "location": "Madrid"
+  },
+  "38786b1543c0907253dcb06dd5d30702": {
+   "id": "38786b1543c0907253dcb06dd5d30702",
+   "company": "Grunenthal Pharma GmbH & Co. Kommanditgesellschaft",
+   "role": "Pasante De Facilities",
+   "location": "Spain"
+  },
+  "742528d45a9c7efe59a37f4856b6e2b1": {
+   "id": "742528d45a9c7efe59a37f4856b6e2b1",
+   "company": "ALOHAS",
+   "role": "Asia Marketing &amp; Pr Intern",
+   "location": "Barcelona"
+  },
+  "7307f874c83f03eb34d270125ed845a9": {
+   "id": "7307f874c83f03eb34d270125ed845a9",
+   "company": "AstraZeneca",
+   "role": "Ai & Data Science Internship Program – Astrazeneca Barcelona",
+   "location": "Barcelona"
+  },
   "c06d8ebd9f8f03c86fc3a61d868a9e10": {
    "id": "c06d8ebd9f8f03c86fc3a61d868a9e10",
    "company": "workday.gea",
@@ -18,6 +48,18 @@
    "id": "7226e878077d548239efd75225c21013",
    "company": "Cisco",
    "role": "Sales Legal Intern",
+   "location": "Madrid"
+  },
+  "c3a3a540a42a89a817eb49f6c67027c9": {
+   "id": "c3a3a540a42a89a817eb49f6c67027c9",
+   "company": "Capgemini",
+   "role": "Finance Intern",
+   "location": "Madrid"
+  },
+  "9e189483adb3477378e7ef79249c13a3": {
+   "id": "9e189483adb3477378e7ef79249c13a3",
+   "company": "Capgemini",
+   "role": "Beca Departamento Jurídico",
    "location": "Madrid"
   },
   "9f79a37e9d593c22439517ae40c7c339": {
@@ -62,11 +104,23 @@
    "role": "Corporate Affairs Intern",
    "location": "Barcelona"
   },
+  "682fb16ad5cd7ca4ef62180ebf5938ce": {
+   "id": "682fb16ad5cd7ca4ef62180ebf5938ce",
+   "company": "ARQUIMEA",
+   "role": "Recruitment Intern",
+   "location": "Madrid"
+  },
   "46330830ff417342f760ffd1bcf12b5c": {
    "id": "46330830ff417342f760ffd1bcf12b5c",
    "company": "Delivery Hero (foodpanda)",
    "role": "Intern Retail Global Hq",
    "location": "Barcelona"
+  },
+  "e8f3ef71e82862d99034e5062f7e118b": {
+   "id": "e8f3ef71e82862d99034e5062f7e118b",
+   "company": "ARQUIMEA",
+   "role": "Verification Engineer Internship",
+   "location": "Madrid"
   },
   "19285c50699fc117d26b1c0a54af1f13": {
    "id": "19285c50699fc117d26b1c0a54af1f13",
@@ -427,60 +481,6 @@
    "company": "Coty Inc",
    "role": "Drp Intern",
    "location": "Barcelona"
-  },
-  "f66db1a1eb8d3faa1cc8c7da4b187b61": {
-   "id": "f66db1a1eb8d3faa1cc8c7da4b187b61",
-   "company": "Melia",
-   "role": "Prácticas Guest Experience - Meliá Palma Marina",
-   "location": "Islas Baleares"
-  },
-  "6604905c104ca9c2c336201093b86eb5": {
-   "id": "6604905c104ca9c2c336201093b86eb5",
-   "company": "Melia",
-   "role": "Trainee Guest Experience- Innside Madrid Valdebebas",
-   "location": "Madrid"
-  },
-  "ec3903d2d08b0d0581dac32544cb5ead": {
-   "id": "ec3903d2d08b0d0581dac32544cb5ead",
-   "company": "ACCIONA Energia",
-   "role": "Beca Departamento Ofertas",
-   "location": "Madrid"
-  },
-  "c76335b4f999cc4c03be032233a0fc1b": {
-   "id": "c76335b4f999cc4c03be032233a0fc1b",
-   "company": "Palladium Hotel Group",
-   "role": "Prácticas - Oficinas Centrales Madrid - Performance Y Revenue Management",
-   "location": "Madrid"
-  },
-  "fe1fcf95f8dda2a25a58d9ef7a518c8f": {
-   "id": "fe1fcf95f8dda2a25a58d9ef7a518c8f",
-   "company": "Roche",
-   "role": "Procurement Intern (mybuy Morocco)",
-   "location": "Sant Cugat Del Vall"
-  },
-  "8170fa68e35a99ca7b3309093d1998f5": {
-   "id": "8170fa68e35a99ca7b3309093d1998f5",
-   "company": "Bureau Veritas",
-   "role": "Beca Departamento De Medio Ambiente",
-   "location": "Unknown"
-  },
-  "c084a95d9a3069c7abbc633f11f38374": {
-   "id": "c084a95d9a3069c7abbc633f11f38374",
-   "company": "Bureau Veritas",
-   "role": "¿quieres Hacer Tus Prácticas En Bureau Veritas? ¡únete A Bvacademy!",
-   "location": "Madrid"
-  },
-  "ca52e110227a7b0f3467a9227ad71354": {
-   "id": "ca52e110227a7b0f3467a9227ad71354",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas Auditoría Barcelona - Enero 2027",
-   "location": "Barcelona"
-  },
-  "1de9e7ad02b2a83f7bef9288cce83502": {
-   "id": "1de9e7ad02b2a83f7bef9288cce83502",
-   "company": "Penguin Random House Grupo Editorial",
-   "role": "Prácticas- Edición Técnica (madrid)",
-   "location": "Madrid"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
@@ -968,6 +968,12 @@
    "role": "Tecnico Asistencia Tecnica",
    "location": "Barcelona"
   },
+  "9a21044be611bc3e7a42f205da433157": {
+   "id": "9a21044be611bc3e7a42f205da433157",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Becario/a Data Analytics - Supply Chain",
+   "location": "Madrid"
+  },
   "cc499d256ce8fd8674964adea19e9b63": {
    "id": "cc499d256ce8fd8674964adea19e9b63",
    "company": "Delivery Hero (foodpanda)",
@@ -1020,6 +1026,18 @@
    "id": "55f3dcd0d7c38e0a644b149830c60153",
    "company": "Ericsson",
    "role": "Data Scientist (early Career Program)",
+   "location": "Madrid"
+  },
+  "3830ae69cd236cc071dbd8fe368dd633": {
+   "id": "3830ae69cd236cc071dbd8fe368dd633",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Experienced Data Analyst - Digital Sales (m/f/d)",
+   "location": "Barcelona"
+  },
+  "ca2cfbcd85595806dbe34e326545c1fd": {
+   "id": "ca2cfbcd85595806dbe34e326545c1fd",
+   "company": "Halfspace ApS",
+   "role": "Especialista En Customer Insights & Analytics",
    "location": "Madrid"
   },
   "168ef28527e93528546bbc8bb52b0eb9": {
@@ -1153,6 +1171,12 @@
    "company": "Indra group",
    "role": "Data Scientist/data Engineer Junior",
    "location": "Es"
+  },
+  "6dd3c902c4f5dcca130a431d789cde5d": {
+   "id": "6dd3c902c4f5dcca130a431d789cde5d",
+   "company": "RED Global",
+   "role": "OT Engineer",
+   "location": "Madrid"
   },
   "88a146b56a128ce85af2547648c19ac6": {
    "id": "88a146b56a128ce85af2547648c19ac6",
@@ -1484,24 +1508,6 @@
    "role": "Data Analyst (business Banking)",
    "location": "Madrid"
   },
-  "0d011b4b9378c6afa684cf6a8705a248": {
-   "id": "0d011b4b9378c6afa684cf6a8705a248",
-   "company": "Bureau Veritas",
-   "role": "Analista De Datos Y Soporte Funcional",
-   "location": "Madrid"
-  },
-  "eb5378ebb4f3d83bd8b4329c473a7b10": {
-   "id": "eb5378ebb4f3d83bd8b4329c473a7b10",
-   "company": "Indra group",
-   "role": "Data Analyst (sql & Sas) - Orientado A Negocio",
-   "location": "Barcelona"
-  },
-  "be801ec8b1dde167c1b024382ff71ed6": {
-   "id": "be801ec8b1dde167c1b024382ff71ed6",
-   "company": "CAF Digital Services",
-   "role": "Data Scientist - Optimization Focus (beca)",
-   "location": "Madrid"
-  },
   "2a01dfcaf6d2ed3b7e0908550138f82a": {
    "id": "2a01dfcaf6d2ed3b7e0908550138f82a",
    "company": "Zurich Insurance Company Ltd",
@@ -1604,6 +1610,12 @@
    "role": "Financial Analyst Intern",
    "location": "Madrid"
   },
+  "0c689822bafab1c0532b0e1521942190": {
+   "id": "0c689822bafab1c0532b0e1521942190",
+   "company": "JPMorgan Chase",
+   "role": "2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Off-cycle Internship - Madrid",
+   "location": "Madrid"
+  },
   "dfbe18dd5884bd47b5fab594388f56c9": {
    "id": "dfbe18dd5884bd47b5fab594388f56c9",
    "company": "Bankstcharles",
@@ -1628,6 +1640,12 @@
    "role": "Accountant Trainee",
    "location": "Barcelona"
   },
+  "891048d61c0a021c1dfeb5f9f0c6bdc3": {
+   "id": "891048d61c0a021c1dfeb5f9f0c6bdc3",
+   "company": "Sulzer",
+   "role": "Business Analyst, Wibu Operations",
+   "location": "Cornellá"
+  },
   "1f186350cf3e49d098fdbc95832e2524": {
    "id": "1f186350cf3e49d098fdbc95832e2524",
    "company": "PwC UK",
@@ -1638,6 +1656,12 @@
    "id": "58b9e2b1fac40fcdd1ba570d3c3fd943",
    "company": "PwC UK",
    "role": "Trabaja Con Nosotros - Profesionales Con Experiencia",
+   "location": "Madrid"
+  },
+  "c7876a29c65de395ae0819551f572eeb": {
+   "id": "c7876a29c65de395ae0819551f572eeb",
+   "company": "Raona",
+   "role": "Consultor/a En Gestión Del Cambio Y Copilot",
    "location": "Madrid"
   },
   "f996a40c6265194ded06faf9383843b0": {
@@ -2096,18 +2120,6 @@
    "role": "Sales Operations Analyst (international Scope)",
    "location": "Madrid"
   },
-  "83f906da949c75517b20ff86fe95458b": {
-   "id": "83f906da949c75517b20ff86fe95458b",
-   "company": "TP ICAP",
-   "role": "Compliance Advisory Officer",
-   "location": "Madrid"
-  },
-  "bc4e7340dd3eeb99c2c411169da03f9a": {
-   "id": "bc4e7340dd3eeb99c2c411169da03f9a",
-   "company": "Generali",
-   "role": "Contabilidad (h/m) - Cajamar Vida - Joint Venture Generali",
-   "location": "Madrid"
-  },
   "fe4facdc272599509ea02cd772036b40": {
    "id": "fe4facdc272599509ea02cd772036b40",
    "company": "EUROPREVEN",
@@ -2125,6 +2137,18 @@
    "company": "Eucalyptus",
    "role": "Prescriber (spanish Speaking)",
    "location": "Barcelona"
+  },
+  "77b638d002bd340c05ab39af3aa8654f": {
+   "id": "77b638d002bd340c05ab39af3aa8654f",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Técnico/a Instalador/a De Electrodomésticos Y Televisores A Domicilio Madrid.",
+   "location": "Madrid"
+  },
+  "c4058719ac17b5a819dfa82d16dac10a": {
+   "id": "c4058719ac17b5a819dfa82d16dac10a",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Técnico/a Power Service 36h - Mediamarkt La Vaguada",
+   "location": "Madrid"
   },
   "61b7769671aa16e3d205d0afcc176c9d": {
    "id": "61b7769671aa16e3d205d0afcc176c9d",
@@ -2149,6 +2173,12 @@
    "company": "Philips",
    "role": "Field Service Engineer",
    "location": "Madrid"
+  },
+  "d3e782567fdad879549e0b1b6d7175cf": {
+   "id": "d3e782567fdad879549e0b1b6d7175cf",
+   "company": "Temporing",
+   "role": "Mantenimiento Hoteles - Barcelona",
+   "location": "Barcelona"
   },
   "629a9f23667d802ea18ae547a7cadd43": {
    "id": "629a9f23667d802ea18ae547a7cadd43",
@@ -2588,23 +2618,29 @@
    "role": "Technical Service Engineer - Madrid Area",
    "location": "Madrid"
   },
-  "635749fa069f912acb1646e37e0e798d": {
-   "id": "635749fa069f912acb1646e37e0e798d",
-   "company": "Dover",
-   "role": "Technical Service Engineer - Madrid Area",
+  "06566e0612c90af6932e66907223639c": {
+   "id": "06566e0612c90af6932e66907223639c",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Ventas 12h (findes) - Mediamarkt Islazul",
    "location": "Madrid"
   },
-  "66e2df3e2cd0ae25b1197e887ac96f5c": {
-   "id": "66e2df3e2cd0ae25b1197e887ac96f5c",
-   "company": "Shimano Inc",
-   "role": "Service Technician",
-   "location": "Madrid"
-  },
-  "6b8fe9a8abff6fb280d79eefe66063da": {
-   "id": "6b8fe9a8abff6fb280d79eefe66063da",
-   "company": "PORTIS",
-   "role": "Técnico (h/m) Puertas Automáticas Portis Rubí",
+  "173308c4f39dade699c6404b4f67cea2": {
+   "id": "173308c4f39dade699c6404b4f67cea2",
+   "company": "IKEA",
+   "role": "Vendedor/a Oportunidades (circular Hub), 12 Hrs Mañanas / Ikea Sabadell",
    "location": "Barcelona"
+  },
+  "fc263826fc8635247313c058d64faf2c": {
+   "id": "fc263826fc8635247313c058d64faf2c",
+   "company": "IKEA",
+   "role": "Vendedor/a Salones/ (30 Hrs, 20 Hrs, 16 Hrs), Ikea Sabadell",
+   "location": "Barcelona"
+  },
+  "650ceb97a9c1aebf41ae7b978b99fdfb": {
+   "id": "650ceb97a9c1aebf41ae7b978b99fdfb",
+   "company": "IKEA",
+   "role": "Vendedor/a / 16 Hrs, Tardes, Ikea Toledo",
+   "location": "Madrid"
   },
   "7bb003b54af745c6404d00c0e94afadb": {
    "id": "7bb003b54af745c6404d00c0e94afadb",
@@ -2636,11 +2672,41 @@
    "role": "Asistente De Almacén 40h Martorell",
    "location": "Barcelona"
   },
+  "bf5e5364bd9eb2948d4ea36304cf1130": {
+   "id": "bf5e5364bd9eb2948d4ea36304cf1130",
+   "company": "Kiabi",
+   "role": "Vendedor/a Moda Kiabi Salamanca Parque Comercial Atalaya Del Tormes (indefinido)",
+   "location": "Salamanca"
+  },
+  "9bcd07b34a17fa41ef5e3d21210aed69": {
+   "id": "9bcd07b34a17fa41ef5e3d21210aed69",
+   "company": "Kiabi",
+   "role": "Vendedor/a Moda Kiabi Sant Boi (fin De Semana)",
+   "location": "Barcelona"
+  },
+  "22e1f9ceb972e3bc4b964624fcd9417f": {
+   "id": "22e1f9ceb972e3bc4b964624fcd9417f",
+   "company": "Merkal Calzados S.L",
+   "role": "Vendedor/a 10 Horas Semanales",
+   "location": "Madrid"
+  },
+  "89ca809fefb21a7abd82ca610932e3fe": {
+   "id": "89ca809fefb21a7abd82ca610932e3fe",
+   "company": "Merkal Calzados S.L",
+   "role": "Vendedor/a 20 Horas Semanales",
+   "location": "Madrid"
+  },
   "02e50e2f8067e79c4acf84bd8112a2b0": {
    "id": "02e50e2f8067e79c4acf84bd8112a2b0",
    "company": "Mango",
    "role": "Vendedor/a - 25h Sabadell Woman",
    "location": "Barcelona"
+  },
+  "e3c68f652b4a343b3e7a4594e2473215": {
+   "id": "e3c68f652b4a343b3e7a4594e2473215",
+   "company": "WH Smith PLC",
+   "role": "Asistente de ventas - Spain",
+   "location": "Madrid"
   },
   "7a7cb7468a7205ff5962cbc148013bda": {
    "id": "7a7cb7468a7205ff5962cbc148013bda",
@@ -3032,59 +3098,23 @@
    "role": "Vendedor/a-jornada Parcial 16h - Skechers Getafe",
    "location": "Madrid"
   },
-  "072ff42f69c78ec7a2935fa39e1982e1": {
-   "id": "072ff42f69c78ec7a2935fa39e1982e1",
-   "company": "NIKE",
-   "role": "Nike Store Associate (athlete) - Parc Valles, Bcn - Contrato Duración Determinada",
+  "4c20d4038eb5f7d40bc3bb7433ed2790": {
+   "id": "4c20d4038eb5f7d40bc3bb7433ed2790",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Asistente De Recepción, It Y Facilities",
+   "location": "Madrid"
+  },
+  "257af246c82017bd0982868e6a858572": {
+   "id": "257af246c82017bd0982868e6a858572",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Administrativo/a Contable Junior",
    "location": "Barcelona"
   },
-  "c6ecd14ad100e1480d4e67e2ba359438": {
-   "id": "c6ecd14ad100e1480d4e67e2ba359438",
-   "company": "Etam",
-   "role": "Vendedor.a Nassica 20h/sem",
+  "32f725266c31e8030c978572de3ece09": {
+   "id": "32f725266c31e8030c978572de3ece09",
+   "company": "Hospiten",
+   "role": "Administrativo/a Con Inglés Para Hospiten Sur",
    "location": "Madrid"
-  },
-  "b07f8ec0e460427bda8649619c4c8d6d": {
-   "id": "b07f8ec0e460427bda8649619c4c8d6d",
-   "company": "Salomon",
-   "role": "Asesor-a De Ventas / Sales Associates W/m - 20h Fijo Discontinuo - Eci Sanchinarro",
-   "location": "Madrid"
-  },
-  "34c639338cd4bccb94a6c0b6a9b3bb6c": {
-   "id": "34c639338cd4bccb94a6c0b6a9b3bb6c",
-   "company": "Capri Holdings Limited",
-   "role": "Sales Associate",
-   "location": "Barcelona"
-  },
-  "f7c9ffd94a24363e98e65c6f04552c0f": {
-   "id": "f7c9ffd94a24363e98e65c6f04552c0f",
-   "company": "Etam",
-   "role": "Vendedor.a Glories 20h/sem",
-   "location": "Barcelona"
-  },
-  "e8fabffae1a6599f080d597dc7bc7a20": {
-   "id": "e8fabffae1a6599f080d597dc7bc7a20",
-   "company": "DABA, SA",
-   "role": "Dependiente/a Nespresso Eci Pozuelo (media Jornada Tardes)",
-   "location": "Madrid"
-  },
-  "fce4be2f17986cf14c4c5b4692ccc5a5": {
-   "id": "fce4be2f17986cf14c4c5b4692ccc5a5",
-   "company": "NAPAPIJRI",
-   "role": "Vendedor/a 30h Napapijri - Princesa (cobertura It)",
-   "location": "Madrid"
-  },
-  "5e3505aa3fa36e486ebe4aeb8b9064dd": {
-   "id": "5e3505aa3fa36e486ebe4aeb8b9064dd",
-   "company": "VANS",
-   "role": "Vendedor/a 15h Vans - Las Rozas",
-   "location": "Madrid"
-  },
-  "119f2990f06bce2c866ceee7c1c1b8bc": {
-   "id": "119f2990f06bce2c866ceee7c1c1b8bc",
-   "company": "Michael Kors",
-   "role": "Sales Associate 30hs / El Corte Inglés / Barcelona",
-   "location": "Barcelona"
   },
   "334c8873038da7b79b3cab8813cda133": {
    "id": "334c8873038da7b79b3cab8813cda133",
@@ -3272,41 +3302,17 @@
    "role": "Manufacturing Excellence Specialist",
    "location": "Barcelona"
   },
-  "0234bdd3f6b8a72f45cb9af2337cd8a9": {
-   "id": "0234bdd3f6b8a72f45cb9af2337cd8a9",
-   "company": "Hospiten",
-   "role": "Administrativo/a Con Inglés Para Hospiten Sur",
-   "location": "Madrid"
-  },
   "8600d5244d1501333f29e6a4890ebaac": {
    "id": "8600d5244d1501333f29e6a4890ebaac",
    "company": "Medpace",
    "role": "Administrative Assistant - Contracts Team",
    "location": "Madrid"
   },
-  "4c20d4038eb5f7d40bc3bb7433ed2790": {
-   "id": "4c20d4038eb5f7d40bc3bb7433ed2790",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Asistente De Recepción, It Y Facilities",
-   "location": "Madrid"
-  },
-  "257af246c82017bd0982868e6a858572": {
-   "id": "257af246c82017bd0982868e6a858572",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Administrativo/a Contable Junior",
-   "location": "Barcelona"
-  },
   "f88e9b60a8b92268ef11f800499e8e6b": {
    "id": "f88e9b60a8b92268ef11f800499e8e6b",
    "company": "Sofitel Melbourne On Collins",
    "role": "F&b Admin",
    "location": "Barcelona"
-  },
-  "b4b34312180e864ba552ca0fbc74be2e": {
-   "id": "b4b34312180e864ba552ca0fbc74be2e",
-   "company": "Ahorramas, S.A",
-   "role": "Administrativo/a Para Departamento De Seguridad Alimentaria Y Calidad",
-   "location": "Salamanca"
   }
  }
 }

@@ -3057,4 +3057,32 @@
 <tr><td>DABA, SA</td><td>Dependiente/a Nespresso Eci Pozuelo (fines De Semana))</td><td>Madrid</td><td>2026-10-18</td></tr>
 <tr><td>Michael Kors</td><td>Sales Associate - 10h Dom Y Festivos Mens</td><td>Madrid</td><td>2026-10-18</td></tr>
 <tr><td>Temporing</td><td>Administrativo/a - Loiu</td><td>Derio</td><td>2026-10-18</td></tr>
+<tr><td>Melia</td><td>Prácticas Guest Experience - Meliá Palma Marina</td><td>Islas Baleares</td><td>2026-10-19</td></tr>
+<tr><td>Melia</td><td>Trainee Guest Experience- Innside Madrid Valdebebas</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>ACCIONA Energia</td><td>Beca Departamento Ofertas</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Palladium Hotel Group</td><td>Prácticas - Oficinas Centrales Madrid - Performance Y Revenue Management</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Roche</td><td>Procurement Intern (mybuy Morocco)</td><td>Sant Cugat Del Vall</td><td>2026-10-19</td></tr>
+<tr><td>Bureau Veritas</td><td>Beca Departamento De Medio Ambiente</td><td>Unknown</td><td>2026-10-19</td></tr>
+<tr><td>Bureau Veritas</td><td>¿quieres Hacer Tus Prácticas En Bureau Veritas? ¡únete A Bvacademy!</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Auditoría Barcelona - Enero 2027</td><td>Barcelona</td><td>2026-10-19</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Prácticas- Edición Técnica (madrid)</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Bureau Veritas</td><td>Analista De Datos Y Soporte Funcional</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Indra group</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-10-19</td></tr>
+<tr><td>CAF Digital Services</td><td>Data Scientist - Optimization Focus (beca)</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>TP ICAP</td><td>Compliance Advisory Officer</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Generali</td><td>Contabilidad (h/m) - Cajamar Vida - Joint Venture Generali</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Dover</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Shimano Inc</td><td>Service Technician</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>PORTIS</td><td>Técnico (h/m) Puertas Automáticas Portis Rubí</td><td>Barcelona</td><td>2026-10-19</td></tr>
+<tr><td>NIKE</td><td>Nike Store Associate (athlete) - Parc Valles, Bcn - Contrato Duración Determinada</td><td>Barcelona</td><td>2026-10-19</td></tr>
+<tr><td>Etam</td><td>Vendedor.a Nassica 20h/sem</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Salomon</td><td>Asesor-a De Ventas / Sales Associates W/m - 20h Fijo Discontinuo - Eci Sanchinarro</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Sales Associate</td><td>Barcelona</td><td>2026-10-19</td></tr>
+<tr><td>Etam</td><td>Vendedor.a Glories 20h/sem</td><td>Barcelona</td><td>2026-10-19</td></tr>
+<tr><td>DABA, SA</td><td>Dependiente/a Nespresso Eci Pozuelo (media Jornada Tardes)</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>NAPAPIJRI</td><td>Vendedor/a 30h Napapijri - Princesa (cobertura It)</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>VANS</td><td>Vendedor/a 15h Vans - Las Rozas</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate 30hs / El Corte Inglés / Barcelona</td><td>Barcelona</td><td>2026-10-19</td></tr>
+<tr><td>Hospiten</td><td>Administrativo/a Con Inglés Para Hospiten Sur</td><td>Madrid</td><td>2026-10-19</td></tr>
+<tr><td>Ahorramas, S.A</td><td>Administrativo/a Para Departamento De Seguridad Alimentaria Y Calidad</td><td>Salamanca</td><td>2026-10-19</td></tr>
 </table>
