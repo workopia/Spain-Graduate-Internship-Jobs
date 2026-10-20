@@ -3085,4 +3085,19 @@
 <tr><td>Michael Kors</td><td>Sales Associate 30hs / El Corte Inglés / Barcelona</td><td>Barcelona</td><td>2026-10-19</td></tr>
 <tr><td>Hospiten</td><td>Administrativo/a Con Inglés Para Hospiten Sur</td><td>Madrid</td><td>2026-10-19</td></tr>
 <tr><td>Ahorramas, S.A</td><td>Administrativo/a Para Departamento De Seguridad Alimentaria Y Calidad</td><td>Salamanca</td><td>2026-10-19</td></tr>
+<tr><td>SLS Barcelona</td><td>Food & Beverage: Operations & Administrative Intern</td><td>Barcelona</td><td>2026-10-20</td></tr>
+<tr><td>Valeo SA</td><td>Executive Assistant Support Internship</td><td>Jaen</td><td>2026-10-20</td></tr>
+<tr><td>Marriott's Playa Andaluza</td><td>Front Office Trainee</td><td>Playa Andaluza</td><td>2026-10-20</td></tr>
+<tr><td>AXA UK</td><td>Beca Comunicación Interna Gobierno Y Analítica</td><td>Madrid</td><td>2026-10-20</td></tr>
+<tr><td>TEAM LEWIS</td><td>Pr Intern</td><td>Madrid</td><td>2026-10-20</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Abogacía Fiscal - 2027</td><td>Barcelona</td><td>2026-10-20</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Abogacía Legal - 2027</td><td>Madrid</td><td>2026-10-20</td></tr>
+<tr><td>Johnson & Johnson</td><td>Emea Health Economics & Market Access Surgery Intern</td><td>Madrid</td><td>2026-10-20</td></tr>
+<tr><td>Coty</td><td>Npd Intern</td><td>Barcelona</td><td>2026-10-20</td></tr>
+<tr><td>Coty Inc</td><td>Supply Chain Customer Operations Intern (with French)</td><td>Barcelona</td><td>2026-10-20</td></tr>
+<tr><td>Coty</td><td>Demand Intern</td><td>Barcelona</td><td>2026-10-20</td></tr>
+<tr><td>Coty Inc</td><td>Visibility & Merchandising Intern</td><td>Barcelona</td><td>2026-10-20</td></tr>
+<tr><td>Coty Inc</td><td>Drp Intern</td><td>Barcelona</td><td>2026-10-20</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Data Analyst (business Banking)</td><td>Madrid</td><td>2026-10-20</td></tr>
+<tr><td>224</td><td>Data Analyst (business Banking)</td><td>Madrid</td><td>2026-10-20</td></tr>
 </table>

@@ -1,7 +1,49 @@
 {
- "asOf": "2026-10-19",
+ "asOf": "2026-10-20",
  "count": 552,
  "jobs": {
+  "ac6084bdb82466601be70820136236f6": {
+   "id": "ac6084bdb82466601be70820136236f6",
+   "company": "SIX",
+   "role": "Madrid Settlement Services Internship",
+   "location": "Madrid"
+  },
+  "c18691e4a01bed09209662c28e90d2ff": {
+   "id": "c18691e4a01bed09209662c28e90d2ff",
+   "company": "HP Inc",
+   "role": "Data Analytics & Automation Intern",
+   "location": "Barcelona"
+  },
+  "e7aeb723e12c56b704b70c9aab31a9a6": {
+   "id": "e7aeb723e12c56b704b70c9aab31a9a6",
+   "company": "HP Inc",
+   "role": "Customer Operations Intern",
+   "location": "Barcelona"
+  },
+  "03d3d8c8b12684ff5d2ca78a577231bd": {
+   "id": "03d3d8c8b12684ff5d2ca78a577231bd",
+   "company": "HP Inc",
+   "role": "Data Quality Systems Intern",
+   "location": "Barcelona"
+  },
+  "1f1d6d029e34cea57e2b6ed32407e55b": {
+   "id": "1f1d6d029e34cea57e2b6ed32407e55b",
+   "company": "Stryker",
+   "role": "Hr Transformation Intern",
+   "location": "Salamanca"
+  },
+  "310e0372fddee88e334b09e29a1ccfd5": {
+   "id": "310e0372fddee88e334b09e29a1ccfd5",
+   "company": "HP",
+   "role": "Corporate Affairs Intern",
+   "location": "Barcelona"
+  },
+  "d2f41717ce1682578523ce36ffceb4ba": {
+   "id": "d2f41717ce1682578523ce36ffceb4ba",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Trainee - Comunicación Interna Y Externa & Sostenibilidad",
+   "location": "Barcelona"
+  },
   "dcf1f62a895b8285edcfeff4eb0135d0": {
    "id": "dcf1f62a895b8285edcfeff4eb0135d0",
    "company": "Ernst & Young Global Ltd",
@@ -13,6 +55,42 @@
    "company": "Ernst & Young Global Ltd",
    "role": "Prácticas Business & Risk Consulting - Rookies Enero 2027",
    "location": "Madrid"
+  },
+  "74ae237815c0ba4b426d99b56c9079c1": {
+   "id": "74ae237815c0ba4b426d99b56c9079c1",
+   "company": "ServiZurich",
+   "role": "Investment Analysis Intern",
+   "location": "Barcelona"
+  },
+  "531547d2cdc7c0574bc81281f606115a": {
+   "id": "531547d2cdc7c0574bc81281f606115a",
+   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
+   "role": "Transfer Pricing Intern",
+   "location": "Madrid"
+  },
+  "b740d3e3af82a14108d9325efa66392d": {
+   "id": "b740d3e3af82a14108d9325efa66392d",
+   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
+   "role": "Renewable Energy Forecasting Intern",
+   "location": "Madrid"
+  },
+  "1444f4cf4ee92eaac89bb21a0df309ce": {
+   "id": "1444f4cf4ee92eaac89bb21a0df309ce",
+   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
+   "role": "Maintenance Systems & Digitalization Intern",
+   "location": "Madrid"
+  },
+  "7c0dc4d58fa6c41e7b4df97db47f976d": {
+   "id": "7c0dc4d58fa6c41e7b4df97db47f976d",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Investment Analysis Intern",
+   "location": "Barcelona"
+  },
+  "b4d5bd9e685ea2e706a3aa7adb0d90e1": {
+   "id": "b4d5bd9e685ea2e706a3aa7adb0d90e1",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Design Internship",
+   "location": "Barcelona"
   },
   "38786b1543c0907253dcb06dd5d30702": {
    "id": "38786b1543c0907253dcb06dd5d30702",
@@ -403,84 +481,6 @@
    "company": "Raona",
    "role": "Prácticas En Inteligencia Artificial",
    "location": "Madrid"
-  },
-  "41f8264d0cc62942c853ec83d6491852": {
-   "id": "41f8264d0cc62942c853ec83d6491852",
-   "company": "SLS Barcelona",
-   "role": "Food & Beverage: Operations & Administrative Intern",
-   "location": "Barcelona"
-  },
-  "072d8daf1c9faecb050785afcb78ef8f": {
-   "id": "072d8daf1c9faecb050785afcb78ef8f",
-   "company": "Valeo SA",
-   "role": "Executive Assistant Support Internship",
-   "location": "Jaen"
-  },
-  "e9c920bb32b5c60b1e53992fc4aef658": {
-   "id": "e9c920bb32b5c60b1e53992fc4aef658",
-   "company": "Marriott's Playa Andaluza",
-   "role": "Front Office Trainee",
-   "location": "Playa Andaluza"
-  },
-  "b58c0556b050178a9bf0eb6bf54d2249": {
-   "id": "b58c0556b050178a9bf0eb6bf54d2249",
-   "company": "AXA UK",
-   "role": "Beca Comunicación Interna Gobierno Y Analítica",
-   "location": "Madrid"
-  },
-  "522dec14942cbc7f1a0d4709620f8030": {
-   "id": "522dec14942cbc7f1a0d4709620f8030",
-   "company": "TEAM LEWIS",
-   "role": "Pr Intern",
-   "location": "Madrid"
-  },
-  "99b79b2af21a91b6e5acedc3458d898c": {
-   "id": "99b79b2af21a91b6e5acedc3458d898c",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas Abogacía Fiscal - 2027",
-   "location": "Barcelona"
-  },
-  "d7d4679a0ab0ccd662c18166aa5290f1": {
-   "id": "d7d4679a0ab0ccd662c18166aa5290f1",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Prácticas Abogacía Legal - 2027",
-   "location": "Madrid"
-  },
-  "085fc83390f51bddeaefa4cea157015c": {
-   "id": "085fc83390f51bddeaefa4cea157015c",
-   "company": "Johnson & Johnson",
-   "role": "Emea Health Economics & Market Access Surgery Intern",
-   "location": "Madrid"
-  },
-  "39ddefa8e0c944c8279f32c9ce747f66": {
-   "id": "39ddefa8e0c944c8279f32c9ce747f66",
-   "company": "Coty",
-   "role": "Npd Intern",
-   "location": "Barcelona"
-  },
-  "95ade4bb6ca32b528b997800a82a6b74": {
-   "id": "95ade4bb6ca32b528b997800a82a6b74",
-   "company": "Coty Inc",
-   "role": "Supply Chain Customer Operations Intern (with French)",
-   "location": "Barcelona"
-  },
-  "55967fdac3d64221a8fcbb5321c537fd": {
-   "id": "55967fdac3d64221a8fcbb5321c537fd",
-   "company": "Coty",
-   "role": "Demand Intern",
-   "location": "Barcelona"
-  },
-  "3afc7991e8653ed20a109c929fec4d90": {
-   "id": "3afc7991e8653ed20a109c929fec4d90",
-   "company": "Coty Inc",
-   "role": "Visibility & Merchandising Intern",
-   "location": "Barcelona"
-  },
-  "370f75f57823ecba49962bd0a5c20812": {
-   "id": "370f75f57823ecba49962bd0a5c20812",
-   "company": "Coty Inc",
-   "role": "Drp Intern",
-   "location": "Barcelona"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
@@ -1028,6 +1028,18 @@
    "role": "Data Scientist (early Career Program)",
    "location": "Madrid"
   },
+  "826d9467c2065f5b9e2fe85eb9cec1d3": {
+   "id": "826d9467c2065f5b9e2fe85eb9cec1d3",
+   "company": "SIX",
+   "role": "Madrid Data Analyst",
+   "location": "Madrid"
+  },
+  "fe729d806c29b22d05d623063a522afa": {
+   "id": "fe729d806c29b22d05d623063a522afa",
+   "company": "Datavant2",
+   "role": "Junior Data Scientist",
+   "location": "Barcelona"
+  },
   "3830ae69cd236cc071dbd8fe368dd633": {
    "id": "3830ae69cd236cc071dbd8fe368dd633",
    "company": "MediamarktSaturn - Webshop Foundation",
@@ -1493,18 +1505,6 @@
   "beb103cc33ec5865867e2b7730ec4f1a": {
    "id": "beb103cc33ec5865867e2b7730ec4f1a",
    "company": "ING",
-   "role": "Data Analyst (business Banking)",
-   "location": "Madrid"
-  },
-  "49e4083433c77b2f9ef54d358def2086": {
-   "id": "49e4083433c77b2f9ef54d358def2086",
-   "company": "Valmont Industries, Inc",
-   "role": "Data Analyst (business Banking)",
-   "location": "Madrid"
-  },
-  "34bd19f6b8480d21214da10d7f4625b6": {
-   "id": "34bd19f6b8480d21214da10d7f4625b6",
-   "company": "224",
    "role": "Data Analyst (business Banking)",
    "location": "Madrid"
   },
