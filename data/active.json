@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-20",
- "count": 552,
+ "asOf": "2026-10-21",
+ "count": 551,
  "jobs": {
   "ac6084bdb82466601be70820136236f6": {
    "id": "ac6084bdb82466601be70820136236f6",
@@ -3307,12 +3307,6 @@
    "company": "Medpace",
    "role": "Administrative Assistant - Contracts Team",
    "location": "Madrid"
-  },
-  "f88e9b60a8b92268ef11f800499e8e6b": {
-   "id": "f88e9b60a8b92268ef11f800499e8e6b",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "F&b Admin",
-   "location": "Barcelona"
   }
  }
 }

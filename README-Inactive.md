@@ -3100,4 +3100,5 @@
 <tr><td>Coty Inc</td><td>Drp Intern</td><td>Barcelona</td><td>2026-10-20</td></tr>
 <tr><td>Valmont Industries, Inc</td><td>Data Analyst (business Banking)</td><td>Madrid</td><td>2026-10-20</td></tr>
 <tr><td>224</td><td>Data Analyst (business Banking)</td><td>Madrid</td><td>2026-10-20</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>F&b Admin</td><td>Barcelona</td><td>2026-10-21</td></tr>
 </table>

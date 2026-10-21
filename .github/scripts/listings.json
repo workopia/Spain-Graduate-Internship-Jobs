@@ -9,11 +9,11 @@
   "site_slug": "spain",
   "lang": "es",
   "site_live": false,
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 4418,
-  "generated_at": "2026-10-20T00:15:51.371Z"
+  "generated_at": "2026-10-21T01:40:13.583Z"
  },
  "categories": [
   {
@@ -9455,23 +9455,6 @@
    "date_posted": "2026-08-31T09:44:00.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/8600d5244d1501333f29e6a4890ebaac",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "f88e9b60a8b92268ef11f800499e8e6b",
-   "source": "Workopia",
-   "company_name": "Sofitel Melbourne On Collins",
-   "company_hi_slug": "sofitel-melbourne-on-collins",
-   "title": "F&b Admin",
-   "location": "Barcelona",
-   "skills": "administrative and org, documentation, dashboa",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-21T12:14:50.238Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/f88e9b60a8b92268ef11f800499e8e6b",
    "category": "admin",
    "tier": "Entry-level"
   }
