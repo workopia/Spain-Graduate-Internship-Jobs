@@ -3101,4 +3101,33 @@
 <tr><td>Valmont Industries, Inc</td><td>Data Analyst (business Banking)</td><td>Madrid</td><td>2026-10-20</td></tr>
 <tr><td>224</td><td>Data Analyst (business Banking)</td><td>Madrid</td><td>2026-10-20</td></tr>
 <tr><td>Sofitel Melbourne On Collins</td><td>F&b Admin</td><td>Barcelona</td><td>2026-10-21</td></tr>
+<tr><td>AIRBUS</td><td>#mmcc 2026-2027 - Internship + Master In Composite Materials</td><td>Getafe Area</td><td>2026-10-21</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Evergreen Hackaton Uclm</td><td>Albacete</td><td>2026-10-21</td></tr>
+<tr><td>Airbus Helicopters España, SA</td><td>Evergreen Digital Campus</td><td>Albacete</td><td>2026-10-21</td></tr>
+<tr><td>Nordex SE</td><td>Ai Transformation Intern</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>ARQUIMEA</td><td>Beca En Prevención De Riesgos Laborales</td><td>Salamanca</td><td>2026-10-21</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Reservation Internship</td><td>Barcelona</td><td>2026-10-21</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Kitchen Internship</td><td>Barcelona</td><td>2026-10-21</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Food & Beverage Internship</td><td>Barcelona</td><td>2026-10-21</td></tr>
+<tr><td>Valeo</td><td>Finance Internship</td><td>Jaen</td><td>2026-10-21</td></tr>
+<tr><td>Coty Inc</td><td>Demand Planning Capability Intern</td><td>Barcelona</td><td>2026-10-21</td></tr>
+<tr><td>Coty Inc.</td><td>Sales & E-commerce Intern</td><td>Barcelona</td><td>2026-10-21</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Soluciones Ti - Reef Lab</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>Criteo</td><td>Account Strategist France Intern</td><td>Barcelona</td><td>2026-10-21</td></tr>
+<tr><td>THALES</td><td>Intelligence Trainee Madrid</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>The Carlyle Group</td><td>Intern</td><td>Barcelona</td><td>2026-10-21</td></tr>
+<tr><td>ACCIONA</td><td>Beca Ditec</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>ACCIONA Energia</td><td>Beca Talento Y Formacion</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>ACCIONA Energia</td><td>Beca En Corporate Finance</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>Forvia</td><td>Me Trainee/intern</td><td>Vigo Fas</td><td>2026-10-21</td></tr>
+<tr><td>Raona</td><td>Prácticas En Inteligencia Artificial</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>Julius Baer</td><td>Backend Engineer (java/springboot) With Solid Oracle Db 19+ 100% (f/m/d)</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>Remeha GmbH</td><td>R&d Software Developer Engineer</td><td>Barcelona</td><td>2026-10-21</td></tr>
+<tr><td>ACCIONA Energía</td><td>Tecnico Asistencia Tecnica</td><td>Barcelona</td><td>2026-10-21</td></tr>
+<tr><td>Henry Schein</td><td>Sales Operations Analyst (international Scope)</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>Hillphoenix</td><td>Technical Service Engineer - Madrid Area</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>skechers.dk</td><td>Vendedor/a - Part Time 18h (turno De Tarde) - Parque Oeste (alcorcón)</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 20 Horas Ls Callao</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Mozo/a De Almacen</td><td>Barcelona</td><td>2026-10-21</td></tr>
+<tr><td>skechers.dk</td><td>Vendedor/a-jornada Parcial 16h - Skechers Getafe</td><td>Madrid</td><td>2026-10-21</td></tr>
 </table>

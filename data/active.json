@@ -1,7 +1,121 @@
 {
  "asOf": "2026-10-21",
- "count": 551,
+ "count": 553,
  "jobs": {
+  "b79fbb6d8b2c0182763ea2b4b9c05e37": {
+   "id": "b79fbb6d8b2c0182763ea2b4b9c05e37",
+   "company": "ENGIE ESPAÑA, S.L.U.",
+   "role": "Business Processes &amp; Digital Solutions Intern",
+   "location": "Madrid"
+  },
+  "951aeac731a4dc2b80c0009c951253ce": {
+   "id": "951aeac731a4dc2b80c0009c951253ce",
+   "company": "COTY Inc",
+   "role": "Brand Management Internship",
+   "location": "Madrid"
+  },
+  "749d5147687ad765172a5d5b425c0a00": {
+   "id": "749d5147687ad765172a5d5b425c0a00",
+   "company": "Coty",
+   "role": "Media & Digital Intern",
+   "location": "Barcelona"
+  },
+  "c3922574ed91624370b1924f10130638": {
+   "id": "c3922574ed91624370b1924f10130638",
+   "company": "Coty",
+   "role": "Marketing Consumer Beauty Intern",
+   "location": "Barcelona"
+  },
+  "3fea1370cd5ea9d5c5de5405ae33a7b2": {
+   "id": "3fea1370cd5ea9d5c5de5405ae33a7b2",
+   "company": "Coty",
+   "role": "Supply Chain Customer Operations Intern (with French)",
+   "location": "Barcelona"
+  },
+  "ecca8827d565b8dc8d2281542daeeaee": {
+   "id": "ecca8827d565b8dc8d2281542daeeaee",
+   "company": "Coty",
+   "role": "Packaging Intern",
+   "location": "Barcelona"
+  },
+  "c90f51cef1a0389a7e9383c4c3e9cdd4": {
+   "id": "c90f51cef1a0389a7e9383c4c3e9cdd4",
+   "company": "IQVIA Inc",
+   "role": "Intern - Clinical Coding",
+   "location": "Madrid"
+  },
+  "12fc77e0bfad0076136b7cbda5f8249f": {
+   "id": "12fc77e0bfad0076136b7cbda5f8249f",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Prácticas I+d Proyectos Europeos",
+   "location": "Barcelona"
+  },
+  "35ef5a59748729dd8535e6f0142b845e": {
+   "id": "35ef5a59748729dd8535e6f0142b845e",
+   "company": "EY",
+   "role": "Ey-parthenon - Off-cycle Strategy & Transactions",
+   "location": "Barcelona"
+  },
+  "f8a98e2e39d2a7cca4a153f10078537d": {
+   "id": "f8a98e2e39d2a7cca4a153f10078537d",
+   "company": "Primark",
+   "role": "Beca Comercial",
+   "location": "Madrid"
+  },
+  "694926cac350ea6069cbb98ecb652fed": {
+   "id": "694926cac350ea6069cbb98ecb652fed",
+   "company": "TikTok",
+   "role": "Account Manager Project Intern (tiktok Shop) - 2026 Start (bs/ms)",
+   "location": "Madrid"
+  },
+  "011477fd1eee7d0b88cdcdd308accbe9": {
+   "id": "011477fd1eee7d0b88cdcdd308accbe9",
+   "company": "TikTok",
+   "role": "Creator Operations Intern (tiktok Shop Spain) - 2027 Summer",
+   "location": "Madrid"
+  },
+  "21eccc8e55e53d1cbdfbc8c2e05fe050": {
+   "id": "21eccc8e55e53d1cbdfbc8c2e05fe050",
+   "company": "TikTok",
+   "role": "Shoptab Project Intern (chinese Speaker) (tiktok Shop - Madrid) - 2026 Start (bs/ms)",
+   "location": "Madrid"
+  },
+  "852a873e7ff2e6a31c9c7bf46367b286": {
+   "id": "852a873e7ff2e6a31c9c7bf46367b286",
+   "company": "TikTok",
+   "role": "Strategy Analyst Project Intern (chinese Speaker) (tiktok Shop Spain) - 2026 Start",
+   "location": "Madrid"
+  },
+  "84ff08d674f0f4537e2ddccb68fba871": {
+   "id": "84ff08d674f0f4537e2ddccb68fba871",
+   "company": "TikTok",
+   "role": "Strategy And Operations Intern, Mandarin Speaking (tiktok Live)-2027 Start",
+   "location": "Madrid"
+  },
+  "f10870bd746d463410bd4f4195c1497f": {
+   "id": "f10870bd746d463410bd4f4195c1497f",
+   "company": "TikTok",
+   "role": "Strategy And Operations Project Intern, Mandarin Speaking (tiktok Live)-2026 Start (bs/ms)",
+   "location": "Madrid"
+  },
+  "3e209ceebffff79c50e620cbf91f5e98": {
+   "id": "3e209ceebffff79c50e620cbf91f5e98",
+   "company": "TikTok",
+   "role": "Tiktok Shop - Logistics Operations Project Intern, Intra-eu, 2027 Start",
+   "location": "Madrid"
+  },
+  "1a7c776a052404fa7242dcbbfda2be22": {
+   "id": "1a7c776a052404fa7242dcbbfda2be22",
+   "company": "TikTok",
+   "role": "Logistics Operations (italian Speaker) Project Intern (tiktok Shop) - 2027 Start",
+   "location": "Madrid"
+  },
+  "03e61d0fd882c87ce2689180ec596802": {
+   "id": "03e61d0fd882c87ce2689180ec596802",
+   "company": "TikTok",
+   "role": "Business Development Intern (tiktok Shop Operations) - 2027 Summer",
+   "location": "Madrid"
+  },
   "ac6084bdb82466601be70820136236f6": {
    "id": "ac6084bdb82466601be70820136236f6",
    "company": "SIX",
@@ -31,6 +145,12 @@
    "company": "Stryker",
    "role": "Hr Transformation Intern",
    "location": "Salamanca"
+  },
+  "1d601d13ccac2cff828123cb7946291f": {
+   "id": "1d601d13ccac2cff828123cb7946291f",
+   "company": "Accor",
+   "role": "Prácticas Recursos Humanos - SO/ Sotogrande",
+   "location": "Sotogrande"
   },
   "310e0372fddee88e334b09e29a1ccfd5": {
    "id": "310e0372fddee88e334b09e29a1ccfd5",
@@ -362,126 +482,6 @@
    "role": "Beca Dpto. Gis",
    "location": "Madrid"
   },
-  "df6086cf97a1f1571ef011e9276d24a8": {
-   "id": "df6086cf97a1f1571ef011e9276d24a8",
-   "company": "AIRBUS",
-   "role": "#mmcc 2026-2027 - Internship + Master In Composite Materials",
-   "location": "Getafe Area"
-  },
-  "66ddb4e92d82b331d8bccb619c478fbd": {
-   "id": "66ddb4e92d82b331d8bccb619c478fbd",
-   "company": "ATR (Airbus/Leonardo)",
-   "role": "Evergreen Hackaton Uclm",
-   "location": "Albacete"
-  },
-  "8d168f44aaed44958def30ea954c162d": {
-   "id": "8d168f44aaed44958def30ea954c162d",
-   "company": "Airbus Helicopters España, SA",
-   "role": "Evergreen Digital Campus",
-   "location": "Albacete"
-  },
-  "24287c235bbbe6d4d4e7dfe9b4153550": {
-   "id": "24287c235bbbe6d4d4e7dfe9b4153550",
-   "company": "Nordex SE",
-   "role": "Ai Transformation Intern",
-   "location": "Madrid"
-  },
-  "7df37fd87b5804b2d4aaa92ee568e300": {
-   "id": "7df37fd87b5804b2d4aaa92ee568e300",
-   "company": "ARQUIMEA",
-   "role": "Beca En Prevención De Riesgos Laborales",
-   "location": "Salamanca"
-  },
-  "6ca8da101c2f3b5059f75906e366805c": {
-   "id": "6ca8da101c2f3b5059f75906e366805c",
-   "company": "Sofitel Sydney Wentworth",
-   "role": "Reservation Internship",
-   "location": "Barcelona"
-  },
-  "07e97b50f7c2dfeeda75acedb2641bd2": {
-   "id": "07e97b50f7c2dfeeda75acedb2641bd2",
-   "company": "Sofitel Sydney Wentworth",
-   "role": "Kitchen Internship",
-   "location": "Barcelona"
-  },
-  "97e2e399fbda0cdb65f3feea251b850f": {
-   "id": "97e2e399fbda0cdb65f3feea251b850f",
-   "company": "Sofitel Sydney Wentworth",
-   "role": "Food & Beverage Internship",
-   "location": "Barcelona"
-  },
-  "4cbb58c515d551ad45259f5c69ba5a31": {
-   "id": "4cbb58c515d551ad45259f5c69ba5a31",
-   "company": "Valeo",
-   "role": "Finance Internship",
-   "location": "Jaen"
-  },
-  "dff981931987055d00023c44bb533660": {
-   "id": "dff981931987055d00023c44bb533660",
-   "company": "Coty Inc",
-   "role": "Demand Planning Capability Intern",
-   "location": "Barcelona"
-  },
-  "6f72ba310e157d48e95f86e56ab9fe63": {
-   "id": "6f72ba310e157d48e95f86e56ab9fe63",
-   "company": "Coty Inc.",
-   "role": "Sales & E-commerce Intern",
-   "location": "Barcelona"
-  },
-  "d988117747f520f3980908e0d831a792": {
-   "id": "d988117747f520f3980908e0d831a792",
-   "company": "MAPFRE",
-   "role": "Beca En Soluciones Ti - Reef Lab",
-   "location": "Madrid"
-  },
-  "14a34559c5d4ed9e95d0218dd097d128": {
-   "id": "14a34559c5d4ed9e95d0218dd097d128",
-   "company": "Criteo",
-   "role": "Account Strategist France Intern",
-   "location": "Barcelona"
-  },
-  "ca7bc48948de8f2218900e094131fa8a": {
-   "id": "ca7bc48948de8f2218900e094131fa8a",
-   "company": "THALES",
-   "role": "Intelligence Trainee Madrid",
-   "location": "Madrid"
-  },
-  "80387fe0740c60685732e22907276aed": {
-   "id": "80387fe0740c60685732e22907276aed",
-   "company": "The Carlyle Group",
-   "role": "Intern",
-   "location": "Barcelona"
-  },
-  "b35977fe58497656be2494ad4b61acb7": {
-   "id": "b35977fe58497656be2494ad4b61acb7",
-   "company": "ACCIONA",
-   "role": "Beca Ditec",
-   "location": "Madrid"
-  },
-  "13c8ea7ab6263dbe56d1f20ba769613f": {
-   "id": "13c8ea7ab6263dbe56d1f20ba769613f",
-   "company": "ACCIONA Energia",
-   "role": "Beca Talento Y Formacion",
-   "location": "Madrid"
-  },
-  "c5ec6fdf87cf4a976fff4a74e8d1f3f1": {
-   "id": "c5ec6fdf87cf4a976fff4a74e8d1f3f1",
-   "company": "ACCIONA Energia",
-   "role": "Beca En Corporate Finance",
-   "location": "Madrid"
-  },
-  "93a4038470b936567b3cbce15896a258": {
-   "id": "93a4038470b936567b3cbce15896a258",
-   "company": "Forvia",
-   "role": "Me Trainee/intern",
-   "location": "Vigo Fas"
-  },
-  "4244c57995c91403e0645094094f6cb0": {
-   "id": "4244c57995c91403e0645094094f6cb0",
-   "company": "Raona",
-   "role": "Prácticas En Inteligencia Artificial",
-   "location": "Madrid"
-  },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
    "company": "Monolithic Power Systems",
@@ -493,6 +493,24 @@
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
    "location": "Barcelona"
+  },
+  "57f230975a2e62cc8fbce03e774fd06c": {
+   "id": "57f230975a2e62cc8fbce03e774fd06c",
+   "company": "IKEA UK",
+   "role": "Software Engineer - Agentic Systems, Group Digital, Madrid, Spain",
+   "location": "Madrid"
+  },
+  "e2d4e7a5c979fa14b5c9b658bc33c85a": {
+   "id": "e2d4e7a5c979fa14b5c9b658bc33c85a",
+   "company": "IKEA UK",
+   "role": "Adtech Software Engineer",
+   "location": "Madrid"
+  },
+  "1475934697ad0e8e0943a7d0f3261f93": {
+   "id": "1475934697ad0e8e0943a7d0f3261f93",
+   "company": "Raona",
+   "role": "Software Engineering &amp; Cloud",
+   "location": "EspañA"
   },
   "a20358146144da7a8604680864be021b": {
    "id": "a20358146144da7a8604680864be021b",
@@ -949,24 +967,6 @@
    "company": "Roche",
    "role": "Cybersecurity Analyst –iam Id Verification & External Collaborators",
    "location": "Madrid"
-  },
-  "c0497c6699ff5230511616c72a7e03da": {
-   "id": "c0497c6699ff5230511616c72a7e03da",
-   "company": "Julius Baer",
-   "role": "Backend Engineer (java/springboot) With Solid Oracle Db 19+ 100% (f/m/d)",
-   "location": "Madrid"
-  },
-  "d65ee67cdff33bcf5af8ada7fe03bd70": {
-   "id": "d65ee67cdff33bcf5af8ada7fe03bd70",
-   "company": "Remeha GmbH",
-   "role": "R&d Software Developer Engineer",
-   "location": "Barcelona"
-  },
-  "7334df8c43a243e967a87be552291c09": {
-   "id": "7334df8c43a243e967a87be552291c09",
-   "company": "ACCIONA Energía",
-   "role": "Tecnico Asistencia Tecnica",
-   "location": "Barcelona"
   },
   "9a21044be611bc3e7a42f205da433157": {
    "id": "9a21044be611bc3e7a42f205da433157",
@@ -1622,6 +1622,18 @@
    "role": "Banking Off Cycle Internship Programme 2027 Madrid",
    "location": "Madrid"
   },
+  "b396576cb4041ef7a74199e5a6fa4f6a": {
+   "id": "b396576cb4041ef7a74199e5a6fa4f6a",
+   "company": "Amazon Commercial Services Pty Ltd - F47",
+   "role": "Financial Analyst Intern 2027",
+   "location": "Madrid"
+  },
+  "a912f0cf3bcbdcff1af1598e2f84919c": {
+   "id": "a912f0cf3bcbdcff1af1598e2f84919c",
+   "company": "Amazon Commercial Services Pty Ltd - F47",
+   "role": "Business Analyst Intern (6 months) - 2027",
+   "location": "Barcelona"
+  },
   "bb0567636c608a973cc5c5b90e77dfa9": {
    "id": "bb0567636c608a973cc5c5b90e77dfa9",
    "company": "EssilorLuxottica SA",
@@ -1776,6 +1788,12 @@
    "id": "1126b0c5a19928da65251c58842eeb96",
    "company": "Accenture Australia",
    "role": "Transforma El Mundo Con Accenture",
+   "location": "Madrid"
+  },
+  "3e52b67413de79ffcdcc0f5b6d471766": {
+   "id": "3e52b67413de79ffcdcc0f5b6d471766",
+   "company": "Munich Re",
+   "role": "Technical Accountant",
    "location": "Madrid"
   },
   "60495accfa85f74f55a12b3ef0eaa4b4": {
@@ -2114,12 +2132,6 @@
    "role": "Accountant",
    "location": "Madrid"
   },
-  "c7f4c96e00a2bb485f042c09176529f0": {
-   "id": "c7f4c96e00a2bb485f042c09176529f0",
-   "company": "Henry Schein",
-   "role": "Sales Operations Analyst (international Scope)",
-   "location": "Madrid"
-  },
   "fe4facdc272599509ea02cd772036b40": {
    "id": "fe4facdc272599509ea02cd772036b40",
    "company": "EUROPREVEN",
@@ -2136,6 +2148,12 @@
    "id": "e8d564d10bc6cbd86a44fae446cfdd9b",
    "company": "Eucalyptus",
    "role": "Prescriber (spanish Speaking)",
+   "location": "Barcelona"
+  },
+  "f54755131c0bf74b75711ba954916691": {
+   "id": "f54755131c0bf74b75711ba954916691",
+   "company": "Coty",
+   "role": "Electromecánico/a Linea De Envasado",
    "location": "Barcelona"
   },
   "77b638d002bd340c05ab39af3aa8654f": {
@@ -2612,11 +2630,29 @@
    "role": "Maintenance Technician",
    "location": "Madrid"
   },
-  "1f61949292ae1cf901cf9290f4965ec7": {
-   "id": "1f61949292ae1cf901cf9290f4965ec7",
-   "company": "Hillphoenix",
-   "role": "Technical Service Engineer - Madrid Area",
+  "f74c9ade128fc5b8af5dc88ed8fb0460": {
+   "id": "f74c9ade128fc5b8af5dc88ed8fb0460",
+   "company": "Mango",
+   "role": "Campaña Navidad Vendedor- 10361 La Roca",
+   "location": "Barcelona"
+  },
+  "dc7196a7bd7eed1f48917b6e4df70b71": {
+   "id": "dc7196a7bd7eed1f48917b6e4df70b71",
+   "company": "Gianni Versace",
+   "role": "Sales Associate",
+   "location": "Barcelona"
+  },
+  "5d4131b31256534cf819d8d7f5e63b98": {
+   "id": "5d4131b31256534cf819d8d7f5e63b98",
+   "company": "IKEA UK",
+   "role": "Vendedor/a / 20 Hrs, Tardes, Indefinido, Ikea San Sebastian De Los Reyes",
    "location": "Madrid"
+  },
+  "0551897643ca5cfb220d055a8687808f": {
+   "id": "0551897643ca5cfb220d055a8687808f",
+   "company": "SIXT",
+   "role": "Rental Sales Agent (m/f/d) - Barcelona Fira Hospitalet",
+   "location": "Barcelona"
   },
   "06566e0612c90af6932e66907223639c": {
    "id": "06566e0612c90af6932e66907223639c",
@@ -3073,30 +3109,6 @@
    "company": "Coach",
    "role": "Temporary Sales Associate",
    "location": "Barcelona"
-  },
-  "53fe1a28be1812c5a01df0e8fe043fe1": {
-   "id": "53fe1a28be1812c5a01df0e8fe043fe1",
-   "company": "skechers.dk",
-   "role": "Vendedor/a - Part Time 18h (turno De Tarde) - Parque Oeste (alcorcón)",
-   "location": "Madrid"
-  },
-  "81a3fecd1ea265e0311c88e9216d55de": {
-   "id": "81a3fecd1ea265e0311c88e9216d55de",
-   "company": "Levis Media",
-   "role": "Sales Stylist 20 Horas Ls Callao",
-   "location": "Madrid"
-  },
-  "a72e0a8fcf0d2bce408977363c295418": {
-   "id": "a72e0a8fcf0d2bce408977363c295418",
-   "company": "MAISONS DU MONDE FRANCE",
-   "role": "Mozo/a De Almacen",
-   "location": "Barcelona"
-  },
-  "f0d6f9b2aefe3406a369685f4c19680b": {
-   "id": "f0d6f9b2aefe3406a369685f4c19680b",
-   "company": "skechers.dk",
-   "role": "Vendedor/a-jornada Parcial 16h - Skechers Getafe",
-   "location": "Madrid"
   },
   "4c20d4038eb5f7d40bc3bb7433ed2790": {
    "id": "4c20d4038eb5f7d40bc3bb7433ed2790",
