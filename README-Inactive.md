@@ -3130,4 +3130,36 @@
 <tr><td>Levis Media</td><td>Sales Stylist 20 Horas Ls Callao</td><td>Madrid</td><td>2026-10-21</td></tr>
 <tr><td>MAISONS DU MONDE FRANCE</td><td>Mozo/a De Almacen</td><td>Barcelona</td><td>2026-10-21</td></tr>
 <tr><td>skechers.dk</td><td>Vendedor/a-jornada Parcial 16h - Skechers Getafe</td><td>Madrid</td><td>2026-10-21</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Junior Powerapps Developer Intern</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Internal Control Testing Platform Intern</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Hr Internship</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Front Office Systems Intern</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Ai Developer Intern</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Melia</td><td>Hr Trainee - Torre Melina A Gran Melia</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Field Service Engineer Internship - Mechanical, Industrial, Electronics Or Automation Engineer (madrid)</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Amey (Ferrovial)</td><td>Technology And Processes Intern</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Hr Operations Intern</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Commercial Controlling Trainee</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Environment, Health And Safety Intern</td><td>Salamanca</td><td>2026-10-22</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Nuclear Operations Intern</td><td>Salamanca</td><td>2026-10-22</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Ndt Intern</td><td>Salamanca</td><td>2026-10-22</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Instructor Intern - Training School</td><td>Almaraz</td><td>2026-10-22</td></tr>
+<tr><td>ACCIONA Energia</td><td>Beca Dpto. Gis</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Roche Holding AG</td><td>Cybersecurity Analyst –iam Id Verification & External Collaborators</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Roche</td><td>Cybersecurity Analyst –iam Id Verification & External Collaborators</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>GRUPO SANTANDER</td><td>I_t&occ_data Analyst Information Centre</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Telefonica</td><td>Data Science Supply Chain Y Compras</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>SEDGWICK</td><td>Workday Reporting Data Analyst</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Sedgwick Australia Pty Ltd</td><td>Workday Reporting Data Analyst</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>minsait</td><td>Data Analyst (sql & Sas) - Orientado A Negocio</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>ING</td><td>Data Analyst (business Banking)</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Roche Holding AG</td><td>Technical Ciam Business Analyst - Rdt Identity & Access Management (warsaw Or Madrid)</td><td>Warsaw +1</td><td>2026-10-22</td></tr>
+<tr><td>Roche</td><td>Technical Ciam Business Analyst - Rdt Identity & Access Management (warsaw Or Madrid)</td><td>Warsaw +1</td><td>2026-10-22</td></tr>
+<tr><td>ESCO Group LLC</td><td>Accountant</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Orona S.Coop</td><td>Técnico/a De Mantenimiento De Ascensores (barcelona)</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Indra group</td><td>Junior Electronic Maintenance Technician</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Trouw Nutrition</td><td>Maintenance Technician</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h</td><td>Salamanca</td><td>2026-10-22</td></tr>
+<tr><td>Coach</td><td>Temporary Sales Associate</td><td>Barcelona</td><td>2026-10-22</td></tr>
 </table>
