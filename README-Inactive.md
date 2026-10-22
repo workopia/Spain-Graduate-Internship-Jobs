@@ -3162,4 +3162,43 @@
 <tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate</td><td>Madrid</td><td>2026-10-22</td></tr>
 <tr><td>adidas AG</td><td>Sales Associate - Fo Alegra Sanse (madrid) - Vendedores 20h</td><td>Salamanca</td><td>2026-10-22</td></tr>
 <tr><td>Coach</td><td>Temporary Sales Associate</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Cisco</td><td>Sales Legal Intern</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Capgemini</td><td>Finance Intern</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Capgemini</td><td>Beca Departamento Jurídico</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Prácticas Universitarias Construcciones</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Kenvue</td><td>Commercial Quality Intern</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Coty Inc</td><td>Visibility &amp; Merchandising Intern</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Coty Inc</td><td>Demand Intern</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Coty Inc</td><td>Commercial Internship Program Iberia</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Avolta</td><td>Intern Supply Chain</td><td>Es</td><td>2026-10-22</td></tr>
+<tr><td>HP Inc.</td><td>Corporate Affairs Intern</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>ARQUIMEA</td><td>Recruitment Intern</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Retail Global Hq</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>ARQUIMEA</td><td>Verification Engineer Internship</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Comunicación Interna</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Nestle Ltd</td><td>Prácticas En Recursos Humanos / Fábrica Nestlé Purina Castellbisbal</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>EY</td><td>Prácticas Technology Consulting - Enero 2027</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>ABB Ltd</td><td>Internship: Low Voltage Electrification Sales Support - Bizkaia</td><td>Trapagaran</td><td>2026-10-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Design Internship</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Internal Control Testing Platform Intern</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Puma</td><td>Accountant Intern</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Prácticas Profesionales / Internship Oportunities - So/ Sotogrande</td><td>Sotogrande</td><td>2026-10-22</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Brands Ads Global Hq</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Amazon</td><td>Associate Solutions Architect Internship 2027</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Regional Compliance Intern</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Multinational Wording Operations Intern</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Monzo Bank</td><td>Software Engineer Iii</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Monzo Bank</td><td>Staff Backend Engineer</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>494</td><td>Data Scientist</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Santander</td><td>I_t&occ_data Analyst Information Centre</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Alstom</td><td>Técnico/a Mantenimiento Ferroviario - Santa Perpètua / Aeroport Bcn 1</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>confiarte.eu</td><td>Copy Of Técnico/a De Mantenimiento (centro Cpd), Barcelona</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>Vertiv</td><td>Customer Engineer Thermal</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>MBDA</td><td>Field Support Engineer (spain)</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Hitachi Rail GTS Spain S.A.U.</td><td>Maintenance Engineer</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Watchmaker Level 2</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>OBRAMAT</td><td>Almacen Alcorcon_vendedor/a (interinidad)</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>beonit</td><td>Promotor Comercial Tecnología - Plenilunio</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Mozo De Almacén</td><td>Barcelona</td><td>2026-10-22</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor (12 Horas)</td><td>Madrid</td><td>2026-10-22</td></tr>
 </table>
