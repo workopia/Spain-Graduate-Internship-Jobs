@@ -3201,4 +3201,37 @@
 <tr><td>beonit</td><td>Promotor Comercial Tecnología - Plenilunio</td><td>Madrid</td><td>2026-10-22</td></tr>
 <tr><td>Hotel Chadstone Melbourne MGallery</td><td>Mozo De Almacén</td><td>Barcelona</td><td>2026-10-22</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor (12 Horas)</td><td>Madrid</td><td>2026-10-22</td></tr>
+<tr><td>HP Inc.</td><td>Ai & Automation Intern</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Front Office Intern</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Guest Experience Intern</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>Gameloft Brisbane</td><td>Live Ops Intern</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Business Consulting - Rookies Enero 2027</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Business & Risk Consulting - Rookies Enero 2027</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>ServiZurich</td><td>Investment Analysis Intern</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Transfer Pricing Intern</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Renewable Energy Forecasting Intern</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Maintenance Systems & Digitalization Intern</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Investment Analysis Intern</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Design Internship</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>Grunenthal Pharma GmbH & Co. Kommanditgesellschaft</td><td>Pasante De Facilities</td><td>Spain</td><td>2026-10-24</td></tr>
+<tr><td>ALOHAS</td><td>Asia Marketing &amp; Pr Intern</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>AstraZeneca</td><td>Ai & Data Science Internship Program – Astrazeneca Barcelona</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>workday.gea</td><td>Indirect Procurement Trainee</td><td>Salamanca</td><td>2026-10-24</td></tr>
+<tr><td>Levis Media</td><td>Visual Merchandising & Brand Experience Intern</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>MECALUX SA</td><td>Arquitecto/a De Software Java</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Go Software Engineer - Cloud</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>jobs.abbott</td><td>Go Software Engineer - Cloud</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>HP Inc.</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>HP</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>PIMEC Jobs</td><td>Consultor/a De Financiación Y Traspaso De Negocios</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>Gibson Dunn</td><td>Accountant</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>Hitachi Energy</td><td>Pmo Business Analyst – Real Estate Capital Projects</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>Hitachi Digital Services</td><td>Pmo Business Analyst – Real Estate Capital Projects</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>Grupo Hotusa</td><td>Técnico De Mantenimiento Hotel 4*</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>Grupo Hotusa</td><td>Técnico/a De Mantenimiento Hotel 4* - Toledo</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>OTIS</td><td>Técnico (h/m) De Escaleras Otis Madrid</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>Airbus Operations</td><td>Maintenance Engineer</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>Alstom</td><td>Operario De Mantenimiento Para Ensayos No Destructivos</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Madrid Ventas 12h (findes) Mediamarkt Islazul 28054</td><td>Madrid</td><td>2026-10-24</td></tr>
+<tr><td>Ametller Origen</td><td>Mozo/a Carretillero/a Almacén - Zona Franca</td><td>Barcelona</td><td>2026-10-24</td></tr>
 </table>
