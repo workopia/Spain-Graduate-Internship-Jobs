@@ -3234,4 +3234,22 @@
 <tr><td>Alstom</td><td>Operario De Mantenimiento Para Ensayos No Destructivos</td><td>Madrid</td><td>2026-10-24</td></tr>
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Madrid Ventas 12h (findes) Mediamarkt Islazul 28054</td><td>Madrid</td><td>2026-10-24</td></tr>
 <tr><td>Ametller Origen</td><td>Mozo/a Carretillero/a Almacén - Zona Franca</td><td>Barcelona</td><td>2026-10-24</td></tr>
+<tr><td>HP Inc</td><td>Customer Operations Intern</td><td>Barcelona</td><td>2026-10-25</td></tr>
+<tr><td>HP Inc</td><td>Data Quality Systems Intern</td><td>Barcelona</td><td>2026-10-25</td></tr>
+<tr><td>Stryker</td><td>Hr Transformation Intern</td><td>Salamanca</td><td>2026-10-25</td></tr>
+<tr><td>Burson</td><td>Communication Intern-madrid</td><td>Madrid</td><td>2026-10-25</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Prácticas Recursos Humanos - So/ Sotogrande</td><td>Sotogrande</td><td>2026-10-25</td></tr>
+<tr><td>Accor</td><td>Prácticas Recursos Humanos - SO/ Sotogrande</td><td>Sotogrande</td><td>2026-10-25</td></tr>
+<tr><td>HP</td><td>Corporate Affairs Intern</td><td>Barcelona</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Trainee - Comunicación Interna Y Externa & Sostenibilidad</td><td>Barcelona</td><td>2026-10-25</td></tr>
+<tr><td>Centific</td><td>French Data Annotator-2</td><td>Spain Office</td><td>2026-10-25</td></tr>
+<tr><td>Bankstcharles</td><td>Banking Off Cycle Internship Programme 2027 Madrid</td><td>Madrid</td><td>2026-10-25</td></tr>
+<tr><td>DWS Group</td><td>Hr Business Advisory Analyst/business Advisor</td><td>Madrid</td><td>2026-10-25</td></tr>
+<tr><td>confiarte.eu</td><td>Técnico/a De Mantenimiento Data Center (especialista En Electricidad Y Climatización) / Getafe (madrid)</td><td>Madrid</td><td>2026-10-25</td></tr>
+<tr><td>OTB S.p.A</td><td>Client Advisor Madrid Boutique</td><td>Madrid</td><td>2026-10-25</td></tr>
+<tr><td>JYSK</td><td>Vendedor/a</td><td>Barcelona</td><td>2026-10-25</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Barcelona</td><td>2026-10-25</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Sales Associate</td><td>Barcelona</td><td>2026-10-25</td></tr>
+<tr><td>obramat.es</td><td>Almacén Salamanca_vendedor/a Cerámica</td><td>Salamanca</td><td>2026-10-25</td></tr>
+<tr><td>obramat.es</td><td>Almacén Salamanca_vendedor/a Pintura</td><td>Salamanca</td><td>2026-10-25</td></tr>
 </table>
