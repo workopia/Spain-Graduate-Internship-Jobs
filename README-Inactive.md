@@ -3252,4 +3252,22 @@
 <tr><td>EssilorLuxottica SA</td><td>Sales Associate</td><td>Barcelona</td><td>2026-10-25</td></tr>
 <tr><td>obramat.es</td><td>Almacén Salamanca_vendedor/a Cerámica</td><td>Salamanca</td><td>2026-10-25</td></tr>
 <tr><td>obramat.es</td><td>Almacén Salamanca_vendedor/a Pintura</td><td>Salamanca</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Business Development Intern (tiktok Shop Operations) - 2027 Summer</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>ARQUIMEA</td><td>It Systems Administration Internship</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>ARQUIMEA</td><td>Cybersecurity Internship</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>Arcadis</td><td>Internship - Mep Engineer</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>SIX</td><td>Madrid Settlement Services Internship</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>HP Inc</td><td>Data Analytics & Automation Intern</td><td>Barcelona</td><td>2026-10-26</td></tr>
+<tr><td>TP ICAP</td><td>Data Scientist, Parameta Solutions (madrid)</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>ING</td><td>Digital Business Expert - Atm's</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>224</td><td>Digital Business Expert - Atm's</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>ING</td><td>Mifid Private Banking Control Specialist</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>224</td><td>Mifid Private Banking Control Specialist</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>HITACHI ENERGY SPAIN, S.A.U.</td><td>Service Engineer / Substation Automation & Scada</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>Schindler Group</td><td>Técnico/a De Mantenimiento Ascensores (empresa Afiliada)</td><td>Barcelona</td><td>2026-10-26</td></tr>
+<tr><td>Alstom</td><td>Operario/a De Mantenimiento Ferroviario Fuencarral Temporal</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Pinto Temporal</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario De Mantenimiento Para Ensayos No Destructivos</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>Etam</td><td>Vendedor.a Tres Aguas 25h/sem (incorporación Inmediata)</td><td>Madrid</td><td>2026-10-26</td></tr>
+<tr><td>NIKE, Inc.</td><td>Nike Store Associate (athlete) - Nike Viladecans, Bcn - Part Time - Contrato Tiempo Definido</td><td>Barcelona</td><td>2026-10-26</td></tr>
 </table>
