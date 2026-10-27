@@ -1,7 +1,43 @@
 {
- "asOf": "2026-10-26",
- "count": 561,
+ "asOf": "2026-10-27",
+ "count": 562,
  "jobs": {
+  "0a1d82e95e738a450fb6a8e7201433ac": {
+   "id": "0a1d82e95e738a450fb6a8e7201433ac",
+   "company": "CUSHMAN & WAKEFIELD",
+   "role": "Eic Intern",
+   "location": "Madrid"
+  },
+  "7533f3265f289bdf98b305f25ae84329": {
+   "id": "7533f3265f289bdf98b305f25ae84329",
+   "company": "Roche Holding AG",
+   "role": "Regulatory Affairs Intern",
+   "location": "Sant Cugat Del Vall"
+  },
+  "c07291cbe08c5c696e36066ef6cdae98": {
+   "id": "c07291cbe08c5c696e36066ef6cdae98",
+   "company": "Mercadona",
+   "role": "Programa Prácticas Impulsa 2027 - Valencia/valència",
+   "location": "Albalat Dels Sorells"
+  },
+  "2d385b243bce774c1f3fd0f77bcdcbce": {
+   "id": "2d385b243bce774c1f3fd0f77bcdcbce",
+   "company": "CUSHMAN & WAKEFIELD",
+   "role": "Intern",
+   "location": "Barcelona"
+  },
+  "a653a73771fcda542fb683d1a89164be": {
+   "id": "a653a73771fcda542fb683d1a89164be",
+   "company": "Hyatt Hotels Corporation",
+   "role": "Trainee - Revenue",
+   "location": "Madrid"
+  },
+  "62255c0a3fc0fed0f84e1e284448fd3a": {
+   "id": "62255c0a3fc0fed0f84e1e284448fd3a",
+   "company": "Hilton Worldwide",
+   "role": "Front Office Intern",
+   "location": "Madrid"
+  },
   "3da5500eb7ba20cf56d7430949aff892": {
    "id": "3da5500eb7ba20cf56d7430949aff892",
    "company": "Philips UK",
@@ -150,6 +186,12 @@
    "id": "4e8cca73bb6f7db8576e06a14537bc68",
    "company": "SuccessFactors Inc",
    "role": "Practica",
+   "location": "Madrid"
+  },
+  "3465a6d871c9f10f805900c1314c43f6": {
+   "id": "3465a6d871c9f10f805900c1314c43f6",
+   "company": "Hilton",
+   "role": "Food And Drinks Intern",
    "location": "Madrid"
   },
   "bb404f10d4e234accbfd64ad21d54b41": {
@@ -440,48 +482,6 @@
    "role": "Account Manager Project Intern (tiktok Shop) - 2026 Start (bs/ms)",
    "location": "Madrid"
   },
-  "011477fd1eee7d0b88cdcdd308accbe9": {
-   "id": "011477fd1eee7d0b88cdcdd308accbe9",
-   "company": "TikTok",
-   "role": "Creator Operations Intern (tiktok Shop Spain) - 2027 Summer",
-   "location": "Madrid"
-  },
-  "21eccc8e55e53d1cbdfbc8c2e05fe050": {
-   "id": "21eccc8e55e53d1cbdfbc8c2e05fe050",
-   "company": "TikTok",
-   "role": "Shoptab Project Intern (chinese Speaker) (tiktok Shop - Madrid) - 2026 Start (bs/ms)",
-   "location": "Madrid"
-  },
-  "852a873e7ff2e6a31c9c7bf46367b286": {
-   "id": "852a873e7ff2e6a31c9c7bf46367b286",
-   "company": "TikTok",
-   "role": "Strategy Analyst Project Intern (chinese Speaker) (tiktok Shop Spain) - 2026 Start",
-   "location": "Madrid"
-  },
-  "84ff08d674f0f4537e2ddccb68fba871": {
-   "id": "84ff08d674f0f4537e2ddccb68fba871",
-   "company": "TikTok",
-   "role": "Strategy And Operations Intern, Mandarin Speaking (tiktok Live)-2027 Start",
-   "location": "Madrid"
-  },
-  "f10870bd746d463410bd4f4195c1497f": {
-   "id": "f10870bd746d463410bd4f4195c1497f",
-   "company": "TikTok",
-   "role": "Strategy And Operations Project Intern, Mandarin Speaking (tiktok Live)-2026 Start (bs/ms)",
-   "location": "Madrid"
-  },
-  "3e209ceebffff79c50e620cbf91f5e98": {
-   "id": "3e209ceebffff79c50e620cbf91f5e98",
-   "company": "TikTok",
-   "role": "Tiktok Shop - Logistics Operations Project Intern, Intra-eu, 2027 Start",
-   "location": "Madrid"
-  },
-  "1a7c776a052404fa7242dcbbfda2be22": {
-   "id": "1a7c776a052404fa7242dcbbfda2be22",
-   "company": "TikTok",
-   "role": "Logistics Operations (italian Speaker) Project Intern (tiktok Shop) - 2027 Start",
-   "location": "Madrid"
-  },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
    "company": "Monolithic Power Systems",
@@ -492,6 +492,12 @@
    "id": "7257995e6171da55b3175d4463e91128",
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
+   "location": "Barcelona"
+  },
+  "d282e84d83c82ed579d6d0a7e192c99d": {
+   "id": "d282e84d83c82ed579d6d0a7e192c99d",
+   "company": "Siemens",
+   "role": "Scientific Software Engineer - Cloud & Integration H/F",
    "location": "Barcelona"
   },
   "881600f9d7c43eb9c52510dfb05b2a9d": {
@@ -962,12 +968,6 @@
    "role": "Desarrollador/a Ios",
    "location": "Madrid"
   },
-  "6ba618d51ff330b247545d2d1fc41ce8": {
-   "id": "6ba618d51ff330b247545d2d1fc41ce8",
-   "company": "Larian Studios",
-   "role": "Engine Programmer",
-   "location": "Barcelona"
-  },
   "dc519a81216b405e2abd1d71cb1426d5": {
    "id": "dc519a81216b405e2abd1d71cb1426d5",
    "company": "Celonis",
@@ -1026,6 +1026,24 @@
    "id": "55f3dcd0d7c38e0a644b149830c60153",
    "company": "Ericsson",
    "role": "Data Scientist (early Career Program)",
+   "location": "Madrid"
+  },
+  "5723512742dc0894afdf4cc0fd230f65": {
+   "id": "5723512742dc0894afdf4cc0fd230f65",
+   "company": "MARSH MCLENNAN",
+   "role": "Oliver Wyman – Ai Engineer (m/f/d) – Quotient Ai Specialist – Madrid",
+   "location": "Madrid"
+  },
+  "05126884ff429d4187150ecca04afe83": {
+   "id": "05126884ff429d4187150ecca04afe83",
+   "company": "Airbus SE",
+   "role": "A400m Fleet Maintenance Data Analyst",
+   "location": "Madrid"
+  },
+  "1af464a4f7d8a74ae21673c1da32fbfb": {
+   "id": "1af464a4f7d8a74ae21673c1da32fbfb",
+   "company": "ACCIONA Energia",
+   "role": "Beca Análisis De Datos (departamento Prevención De Riesgos Laborales)",
    "location": "Madrid"
   },
   "70babebb903509f0262a64a8db321e46": {
@@ -1448,12 +1466,6 @@
    "role": "Beca Análisis De Datos (departamento Prevención De Riesgos Laborales)",
    "location": "Madrid"
   },
-  "1af464a4f7d8a74ae21673c1da32fbfb": {
-   "id": "1af464a4f7d8a74ae21673c1da32fbfb",
-   "company": "ACCIONA Energía",
-   "role": "Beca Análisis De Datos (departamento Prevención De Riesgos Laborales)",
-   "location": "Madrid"
-  },
   "ce66f9b611ac1e635cc7d97dd1f98b26": {
    "id": "ce66f9b611ac1e635cc7d97dd1f98b26",
    "company": "Salesforce Service Cloud",
@@ -1494,18 +1506,6 @@
    "id": "7036bb957cb8af807a3f479b6323e393",
    "company": "IQVIA UK",
    "role": "Data Analyst (sas / Sql Programming) - German Speaker (spain Remote)",
-   "location": "Madrid"
-  },
-  "e97f2099e5f40f417e2ba2b77b2b448c": {
-   "id": "e97f2099e5f40f417e2ba2b77b2b448c",
-   "company": "Entrust",
-   "role": "Junior Ai Engineer",
-   "location": "Barcelona"
-  },
-  "1778f658ac6ba8cb648d6591ae6832ab": {
-   "id": "1778f658ac6ba8cb648d6591ae6832ab",
-   "company": "Iberdrola",
-   "role": "Técnico/a De Análisis De Datos - Ia",
    "location": "Madrid"
   },
   "ed58b0e32973d33815c03738ea18af29": {
@@ -1669,6 +1669,12 @@
    "company": "Ubisoft",
    "role": "Accountant Trainee",
    "location": "Barcelona"
+  },
+  "fd6e573ab5b431dbe1818ae4aa260e50": {
+   "id": "fd6e573ab5b431dbe1818ae4aa260e50",
+   "company": "Express Scripts",
+   "role": "Hr Compliance Analyst - Cigna Healthcare",
+   "location": "Madrid"
   },
   "59f4394470ff225db717e53dde2c6f23": {
    "id": "59f4394470ff225db717e53dde2c6f23",
@@ -2141,12 +2147,6 @@
   "ab5b4eceaf5a5bdff1d8dff6efc0225c": {
    "id": "ab5b4eceaf5a5bdff1d8dff6efc0225c",
    "company": "164",
-   "role": "Técnico Contable",
-   "location": "Madrid"
-  },
-  "61282aeeda44728228fe956368235791": {
-   "id": "61282aeeda44728228fe956368235791",
-   "company": "ACCIONA Energía",
    "role": "Técnico Contable",
    "location": "Madrid"
   },
@@ -2648,6 +2648,12 @@
    "role": "Service Technician",
    "location": "Madrid"
   },
+  "94b9b2ae3ab0ee1180ac1e73e6b5bc44": {
+   "id": "94b9b2ae3ab0ee1180ac1e73e6b5bc44",
+   "company": "Levis Media",
+   "role": "Sales Stylist 25h Levis Callao",
+   "location": "Madrid"
+  },
   "bd849f48514ee2e8bf492dc1d981269d": {
    "id": "bd849f48514ee2e8bf492dc1d981269d",
    "company": "IKEA",
@@ -3122,11 +3128,11 @@
    "role": "Sales Associate - Fo Viladecans",
    "location": "Barcelona"
   },
-  "af0f25d22bc3ce5427f897669337116a": {
-   "id": "af0f25d22bc3ce5427f897669337116a",
-   "company": "obramat.es",
-   "role": "Vendedor/a De Sanitarios_almacen Hospitalet",
-   "location": "Barcelona"
+  "7001ad46d04f2e9605cc1efc6f227616": {
+   "id": "7001ad46d04f2e9605cc1efc6f227616",
+   "company": "PIMEC Jobs",
+   "role": "Administrativo/a De Logística Y Atención Al Cliente",
+   "location": "Baix Llobregat"
   },
   "aef71d8eb8352683a9317333c59ffe50": {
    "id": "aef71d8eb8352683a9317333c59ffe50",

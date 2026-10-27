@@ -3270,4 +3270,16 @@
 <tr><td>ALSTOM TRANSPORT SA</td><td>Operario De Mantenimiento Para Ensayos No Destructivos</td><td>Madrid</td><td>2026-10-26</td></tr>
 <tr><td>Etam</td><td>Vendedor.a Tres Aguas 25h/sem (incorporación Inmediata)</td><td>Madrid</td><td>2026-10-26</td></tr>
 <tr><td>NIKE, Inc.</td><td>Nike Store Associate (athlete) - Nike Viladecans, Bcn - Part Time - Contrato Tiempo Definido</td><td>Barcelona</td><td>2026-10-26</td></tr>
+<tr><td>TikTok</td><td>Creator Operations Intern (tiktok Shop Spain) - 2027 Summer</td><td>Madrid</td><td>2026-10-27</td></tr>
+<tr><td>TikTok</td><td>Shoptab Project Intern (chinese Speaker) (tiktok Shop - Madrid) - 2026 Start (bs/ms)</td><td>Madrid</td><td>2026-10-27</td></tr>
+<tr><td>TikTok</td><td>Strategy Analyst Project Intern (chinese Speaker) (tiktok Shop Spain) - 2026 Start</td><td>Madrid</td><td>2026-10-27</td></tr>
+<tr><td>TikTok</td><td>Strategy And Operations Intern, Mandarin Speaking (tiktok Live)-2027 Start</td><td>Madrid</td><td>2026-10-27</td></tr>
+<tr><td>TikTok</td><td>Strategy And Operations Project Intern, Mandarin Speaking (tiktok Live)-2026 Start (bs/ms)</td><td>Madrid</td><td>2026-10-27</td></tr>
+<tr><td>TikTok</td><td>Tiktok Shop - Logistics Operations Project Intern, Intra-eu, 2027 Start</td><td>Madrid</td><td>2026-10-27</td></tr>
+<tr><td>TikTok</td><td>Logistics Operations (italian Speaker) Project Intern (tiktok Shop) - 2027 Start</td><td>Madrid</td><td>2026-10-27</td></tr>
+<tr><td>Larian Studios</td><td>Engine Programmer</td><td>Barcelona</td><td>2026-10-27</td></tr>
+<tr><td>Entrust</td><td>Junior Ai Engineer</td><td>Barcelona</td><td>2026-10-27</td></tr>
+<tr><td>Iberdrola</td><td>Técnico/a De Análisis De Datos - Ia</td><td>Madrid</td><td>2026-10-27</td></tr>
+<tr><td>ACCIONA Energía</td><td>Técnico Contable</td><td>Madrid</td><td>2026-10-27</td></tr>
+<tr><td>obramat.es</td><td>Vendedor/a De Sanitarios_almacen Hospitalet</td><td>Barcelona</td><td>2026-10-27</td></tr>
 </table>
