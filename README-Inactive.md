@@ -3282,4 +3282,28 @@
 <tr><td>Iberdrola</td><td>Técnico/a De Análisis De Datos - Ia</td><td>Madrid</td><td>2026-10-27</td></tr>
 <tr><td>ACCIONA Energía</td><td>Técnico Contable</td><td>Madrid</td><td>2026-10-27</td></tr>
 <tr><td>obramat.es</td><td>Vendedor/a De Sanitarios_almacen Hospitalet</td><td>Barcelona</td><td>2026-10-27</td></tr>
+<tr><td>Coty</td><td>Packaging Intern</td><td>Barcelona</td><td>2026-10-28</td></tr>
+<tr><td>Johnson & Johnson UK</td><td>Business Support Internship</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>IQVIA Inc</td><td>Intern - Clinical Coding</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>FTI Consulting</td><td>Intern, Construction Solutions, Forensic Litigation Consulting</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>The Hoxton, Poblenou</td><td>Purchasing Intern</td><td>Barcelona</td><td>2026-10-28</td></tr>
+<tr><td>HP</td><td>Customer Operations Intern</td><td>Barcelona</td><td>2026-10-28</td></tr>
+<tr><td>HP</td><td>Data Quality Systems Intern</td><td>Barcelona</td><td>2026-10-28</td></tr>
+<tr><td>HP</td><td>Data Analytics & Automation Intern</td><td>Barcelona</td><td>2026-10-28</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas I+d Proyectos Europeos</td><td>Barcelona</td><td>2026-10-28</td></tr>
+<tr><td>EY</td><td>Ey-parthenon - Off-cycle Strategy & Transactions</td><td>Barcelona</td><td>2026-10-28</td></tr>
+<tr><td>Primark</td><td>Beca Comercial</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>Mango</td><td>Intern Product Manager Online / Woman</td><td>Palau</td><td>2026-10-28</td></tr>
+<tr><td>TikTok</td><td>Account Manager Project Intern (tiktok Shop) - 2026 Start (bs/ms)</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>Indra group</td><td>Ingeniero/a De Software Embebido C++ Y Ada</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>Sopra Steria</td><td>Desarrollador/a Ios</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>IQVIA UK</td><td>Data Analyst (sas / Sql Programming) - German Speaker (spain Remote)</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>BP Retail UK</td><td>Biofuels Compliance And Regulatory Reporting Analyst Med</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>164</td><td>Técnico Contable</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>Minsait</td><td>Junior Electronic Maintenance Technician</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>Arvato</td><td>Técnico/a De Mantenimiento Electromecánico (h/m)</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>Konecranes</td><td>Service Technician</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate (part Time) - Fo Las Rozas.</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>adidas AG</td><td>Vendedor/a Campaña Navidad/rebajas 20h/semana Adidas Cc Eci Pozuelo</td><td>Madrid</td><td>2026-10-28</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo Viladecans</td><td>Barcelona</td><td>2026-10-28</td></tr>
 </table>
