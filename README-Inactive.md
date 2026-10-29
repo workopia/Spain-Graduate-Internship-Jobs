@@ -3306,4 +3306,35 @@
 <tr><td>adidas AG</td><td>Sales Associate (part Time) - Fo Las Rozas.</td><td>Madrid</td><td>2026-10-28</td></tr>
 <tr><td>adidas AG</td><td>Vendedor/a Campaña Navidad/rebajas 20h/semana Adidas Cc Eci Pozuelo</td><td>Madrid</td><td>2026-10-28</td></tr>
 <tr><td>adidas AG</td><td>Sales Associate - Fo Viladecans</td><td>Barcelona</td><td>2026-10-28</td></tr>
+<tr><td>HP</td><td>Ai & Automation Intern</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>HP</td><td>Sustainability Intern - Emea</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>HP Inc</td><td>Writing Systems Intern - R&d</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>Hpnews</td><td>Sustainability Intern - Emea</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>Ethikos 3.0</td><td>Prácticas En Negocio, Talento Y Rediseño Del Trabajo / Ethikos</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Cyber Security Internships - 2027</td><td>Madrid</td><td>2026-10-29</td></tr>
+<tr><td>Amazon</td><td>Technical Program Manager Intern 2027</td><td>Madrid</td><td>2026-10-29</td></tr>
+<tr><td>Syneos Health</td><td>Partnership Office Analyst Intern</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>AniCura Group</td><td>Internado Rotatorio - Anicura Glòries (barcelona)</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>ENGIE ESPAÑA, S.L.U.</td><td>Business Processes &amp; Digital Solutions Intern</td><td>Madrid</td><td>2026-10-29</td></tr>
+<tr><td>Valeo España S.A.</td><td>External Suppliers Flows Analyst- Internship</td><td>Jaen</td><td>2026-10-29</td></tr>
+<tr><td>COTY Inc</td><td>Brand Management Internship</td><td>Madrid</td><td>2026-10-29</td></tr>
+<tr><td>Coty</td><td>Media & Digital Intern</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>Coty</td><td>Marketing Consumer Beauty Intern</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>Coty</td><td>Supply Chain Customer Operations Intern (with French)</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>GE Vernova</td><td>Service Technical Support Engineer</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>morningstar.ventures</td><td>Data Research Analyst- German And/or Dutch Speaker</td><td>Madrid</td><td>2026-10-29</td></tr>
+<tr><td>bp</td><td>Biofuels Compliance And Regulatory Reporting Analyst Med</td><td>Madrid</td><td>2026-10-29</td></tr>
+<tr><td>Amazon</td><td>Técnico/a de Mantenimiento Industrial</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>Airbus SE</td><td>Industrial Maintenance Technician (temp Agency)</td><td>Madrid</td><td>2026-10-29</td></tr>
+<tr><td>Valmet</td><td>Técnico Mecánico De Taller Y Mantenimiento Industrial</td><td>Zaragoza</td><td>2026-10-29</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>Condis Supermercats S.A</td><td>Bolsa De Talento Almacen</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>JYSK</td><td>Jes - Vendedor/a - 30h - Tres Cantos, Madrid</td><td>Salamanca</td><td>2026-10-29</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 18h Viernes, Sábado Y Domingo</td><td>Madrid</td><td>2026-10-29</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Vendedor/a - Jornada Parcial 20h - Diagonal Mar</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>JYSK</td><td>Jes - Vendedor/a - 30 H</td><td>Madrid</td><td>2026-10-29</td></tr>
+<tr><td>The North Face</td><td>Vendedor/a 10h The North Face - Madrid</td><td>Madrid</td><td>2026-10-29</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Fo San Sebastian De Los Reyes</td><td>Madrid</td><td>2026-10-29</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate</td><td>Barcelona</td><td>2026-10-29</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Ssrr (madrid) Temporal Navidad</td><td>Salamanca</td><td>2026-10-29</td></tr>
 </table>
