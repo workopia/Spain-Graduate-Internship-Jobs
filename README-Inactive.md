@@ -3337,4 +3337,37 @@
 <tr><td>adidas AG</td><td>Sales Associate Fo San Sebastian De Los Reyes</td><td>Madrid</td><td>2026-10-29</td></tr>
 <tr><td>adidas AG</td><td>Sales Associate</td><td>Barcelona</td><td>2026-10-29</td></tr>
 <tr><td>adidas AG</td><td>Sales Associate - Ssrr (madrid) Temporal Navidad</td><td>Salamanca</td><td>2026-10-29</td></tr>
+<tr><td>Primark</td><td>Beca Departamento Comercial</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>ACCIONA Energia</td><td>Beca Producción</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>A&O Shearman</td><td>Prácticas Máster de Acceso 2027</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>Louis Vuitton</td><td>Internship · Planificación De La Producción (h/m)</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HP Inc</td><td>Product Delivery & Forecast Transformation Intern</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HP Inc</td><td>Ai, Data & Advanced Manufacturing Intern</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HP Inc</td><td>Managed Services Costing Transformation Intern</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HP Inc</td><td>Employee Experience Program Support Intern</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HP Inc</td><td>Data Quality Intern</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HP</td><td>Ai, Data & Advanced Manufacturing Intern</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HP</td><td>Managed Services Costing Transformation Intern</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HP</td><td>Employee Experience Program Support Intern</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HP</td><td>Product Delivery & Forecast Transformation Intern</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HP</td><td>Writing Systems Intern - R&d</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HP</td><td>Data Quality Intern</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>HITACHI ENERGY SPAIN, S.A.U.</td><td>.net Backend Developper</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>morningstar.ventures</td><td>Data Research Analyst- Nordic Speakers</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>HP</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>JPMorgan Chase</td><td>2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Off-cycle Internship - Madrid</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>My Medical Sales Jobs</td><td>Network Business Analyst</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Business Data Analyst</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>Houseoftechcommunity</td><td>Business Data Analyst</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>TD SYNNEX</td><td>Business Process Automation Analyst</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>Rothschild & Co</td><td>Spain Fig Investment Banking - Associate</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>GXO Logistics</td><td>Opex Bi Analyst/ Continuous Improvement Analyst</td><td>Marchamalo</td><td>2026-10-30</td></tr>
+<tr><td>HARTMANN</td><td>Técnico Eléctrico De Turno (fines De Semana)</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>Alstom</td><td>Operario/a De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>Ebury</td><td>Sales Development Representative / Fx Sales Associate</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>Etam</td><td>Vendedor.a Plaza Río 20h/sem (incorporación Inmediata)</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>obramat.es</td><td>Almacen Majadahonda_vendedor/a Madera</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>obramat.es</td><td>Almacén Alcorcon_vendedor/a Cerámica (interinidad)</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>obramat.es</td><td>Almacén Alcorcon_vendedor/a Pintura (interinidad)</td><td>Madrid</td><td>2026-10-30</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Sales Associate – Plaza Cataluña / 36h</td><td>Barcelona</td><td>2026-10-30</td></tr>
 </table>
