@@ -3370,4 +3370,30 @@
 <tr><td>obramat.es</td><td>Almacén Alcorcon_vendedor/a Cerámica (interinidad)</td><td>Madrid</td><td>2026-10-30</td></tr>
 <tr><td>obramat.es</td><td>Almacén Alcorcon_vendedor/a Pintura (interinidad)</td><td>Madrid</td><td>2026-10-30</td></tr>
 <tr><td>Capri Holdings Limited</td><td>Sales Associate – Plaza Cataluña / 36h</td><td>Barcelona</td><td>2026-10-30</td></tr>
+<tr><td>Johnson & Johnson</td><td>Impo Finance Intern</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>Eada Business School Barcelona</td><td>Hubspot &amp; Email Intern</td><td>Barcelona</td><td>2026-10-31</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Account Manager Intern Groceries Spain</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern - People Operations</td><td>Barcelona</td><td>2026-10-31</td></tr>
+<tr><td>Mango</td><td>Fashion Styling Intern</td><td>Palau</td><td>2026-10-31</td></tr>
+<tr><td>ACCIONA Energía</td><td>Beca Ingeniería Industrial</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>Hilton Worldwide</td><td>Food And Drinks Intern</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>SuccessFactors Inc</td><td>Practica</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>Hilton</td><td>Food And Drinks Intern</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>Barcelo</td><td>Personal De Prácticas De Cocina - Hotel Santa Catalina</td><td>Santa Catalina</td><td>2026-10-31</td></tr>
+<tr><td>Burson</td><td>Communication Internship</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Unit Linked & Pension Funds Internship</td><td>Barcelona</td><td>2026-10-31</td></tr>
+<tr><td>Gameloft Brisbane</td><td>Live Ops Intern</td><td>Barcelona</td><td>2026-10-31</td></tr>
+<tr><td>Coty</td><td>Supply Chain Customer Operations Intern - English</td><td>Barcelona</td><td>2026-10-31</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Unit Linked &amp; Pension Funds Internship</td><td>Barcelona</td><td>2026-10-31</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Pinto Becarioa De Almacén Y Procesos (warehouse Operations) 28320</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>KONE Croatia</td><td>Técnico/a De Mantenimiento De Ascensores</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>KONE Croatia</td><td>Técnico/a De Mantenimiento De Ascensores - Barcelona</td><td>Barcelona</td><td>2026-10-31</td></tr>
+<tr><td>Sacyr Group</td><td>Operario/a Eléctrico/a Edar La Gavia</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>Siemens</td><td>Técnico/a Especialista de Servicio y Mantenimiento / Seguridad Electrónica y Telecomunicaciones (m/f/d)</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>PIMEC Jobs</td><td>Mozo/a Almacén</td><td>Barcelona</td><td>2026-10-31</td></tr>
+<tr><td>H&M</td><td>Sales Advisor (20 Horas)</td><td>Barcelona</td><td>2026-10-31</td></tr>
+<tr><td>Mango</td><td>Campaña Navidad Vendedor – (maquinista Teen)</td><td>Barcelona</td><td>2026-10-31</td></tr>
+<tr><td>ANZ</td><td>Asesor/a Comercial (santa Coloma)</td><td>Barcelona</td><td>2026-10-31</td></tr>
+<tr><td>Kiabi</td><td>Vendedor/a Moda Kiabi Salamanca Parque Comercial Atalaya Del Tormes(interinidad)</td><td>Salamanca</td><td>2026-10-31</td></tr>
+<tr><td>Medpace</td><td>Administrative Assistant - Contracts Team</td><td>Madrid</td><td>2026-10-31</td></tr>
 </table>

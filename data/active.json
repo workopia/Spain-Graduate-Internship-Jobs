@@ -1,7 +1,61 @@
 {
- "asOf": "2026-10-30",
- "count": 564,
+ "asOf": "2026-10-31",
+ "count": 563,
  "jobs": {
+  "0563a99bbe6a0fdf4bd8f611c4d262ea": {
+   "id": "0563a99bbe6a0fdf4bd8f611c4d262ea",
+   "company": "Johnson & Johnson",
+   "role": "Learning And Development Internship",
+   "location": "Madrid"
+  },
+  "bcdcf133b4849c989243cdea9605eb40": {
+   "id": "bcdcf133b4849c989243cdea9605eb40",
+   "company": "Haier Europe",
+   "role": "Otd - Gestión De Pedidos Intern",
+   "location": "Barcelona"
+  },
+  "9d2577190479214e3d6b0cdaa73f7f85": {
+   "id": "9d2577190479214e3d6b0cdaa73f7f85",
+   "company": "VIE-INDIA",
+   "role": "Rotacion Externa Residente Getafe Noviembre 2026",
+   "location": "Madrid"
+  },
+  "491462628f122a7dd0ee320981b29bca": {
+   "id": "491462628f122a7dd0ee320981b29bca",
+   "company": "Hogan Lovells",
+   "role": "Prácticas Full-time Litigación",
+   "location": "Madrid"
+  },
+  "1e9289919646d4b7c76e7a3369ed88c9": {
+   "id": "1e9289919646d4b7c76e7a3369ed88c9",
+   "company": "Telefonica",
+   "role": "Practicas Academicas Telefonica",
+   "location": "Spain"
+  },
+  "d49e224ab6df550b781cb512009ef5b5": {
+   "id": "d49e224ab6df550b781cb512009ef5b5",
+   "company": "Mandarin Oriental Hotel Group",
+   "role": "Practicas - People & Culture/ Hr Trainee- Internship. Starting February.",
+   "location": "Barcelona"
+  },
+  "6758d552c144c3e3e5a53d3f6be24e54": {
+   "id": "6758d552c144c3e3e5a53d3f6be24e54",
+   "company": "HP",
+   "role": "Ai Adoption Intern",
+   "location": "Barcelona"
+  },
+  "ef11d868c20fdbeaf59254269c484075": {
+   "id": "ef11d868c20fdbeaf59254269c484075",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Hr - February/march 2027",
+   "location": "Esplugues Llobregat"
+  },
+  "72ba673610806260d792ed36fdb3031d": {
+   "id": "72ba673610806260d792ed36fdb3031d",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Finance - February/march 2027",
+   "location": "Esplugues Llobregat"
+  },
   "47a48797926b807d8aa14b56464c4cc7": {
    "id": "47a48797926b807d8aa14b56464c4cc7",
    "company": "ferromallas.es",
@@ -13,6 +67,12 @@
    "company": "Johnson & Johnson",
    "role": "Business Support Internship",
    "location": "Madrid"
+  },
+  "8baaf1c0b19c49c51669cf4388b7e303": {
+   "id": "8baaf1c0b19c49c51669cf4388b7e303",
+   "company": "Eada Business School Barcelona",
+   "role": "Online Programs Intern",
+   "location": "Barcelona"
   },
   "bdd7957e9df5fa87852e283b42cd7368": {
    "id": "bdd7957e9df5fa87852e283b42cd7368",
@@ -72,6 +132,42 @@
    "id": "86b9b8da77b8ce0c1c29fdf16149f182",
    "company": "Kenvue (Rogaine brand)",
    "role": "Channel Activation Pharma Intern",
+   "location": "Madrid"
+  },
+  "d510c22eb45d5c1581f473dea09bf52d": {
+   "id": "d510c22eb45d5c1581f473dea09bf52d",
+   "company": "Wood Group",
+   "role": "Piping Stress Engineering - Internship",
+   "location": "Madrid"
+  },
+  "11a3383b721f69e0469f8b5c9aeb8fc7": {
+   "id": "11a3383b721f69e0469f8b5c9aeb8fc7",
+   "company": "Wood Group",
+   "role": "Civil Engineering - Internship",
+   "location": "Madrid"
+  },
+  "8f07a19d8d85947fb6a41b6b02ceab54": {
+   "id": "8f07a19d8d85947fb6a41b6b02ceab54",
+   "company": "Wood Group",
+   "role": "Piping Design Engineering- Internship",
+   "location": "Madrid"
+  },
+  "861a7d9f44c14c3916f9466169d68ce2": {
+   "id": "861a7d9f44c14c3916f9466169d68ce2",
+   "company": "John Wood Group",
+   "role": "Piping Design Engineering- Internship",
+   "location": "Madrid"
+  },
+  "b9fbc8f99c9e2d659a1d8a69aa0a6785": {
+   "id": "b9fbc8f99c9e2d659a1d8a69aa0a6785",
+   "company": "John Wood Group",
+   "role": "Piping Stress Engineering - Internship",
+   "location": "Madrid"
+  },
+  "7f2cb5347caad660f7a0b01125e98158": {
+   "id": "7f2cb5347caad660f7a0b01125e98158",
+   "company": "John Wood Group",
+   "role": "Civil Engineering - Internship",
    "location": "Madrid"
   },
   "48cef421cb0fd3a90f0ef98a06834879": {
@@ -385,102 +481,6 @@
    "company": "Revlon",
    "role": "Ingeniero De Procesos Intern",
    "location": "El Pla De Santa Maria"
-  },
-  "53a0a0ecac10f25e3ed2bcbe57199b98": {
-   "id": "53a0a0ecac10f25e3ed2bcbe57199b98",
-   "company": "Johnson & Johnson",
-   "role": "Impo Finance Intern",
-   "location": "Madrid"
-  },
-  "b2e83e3280ddbdecb6c50e686ebcdb8d": {
-   "id": "b2e83e3280ddbdecb6c50e686ebcdb8d",
-   "company": "Eada Business School Barcelona",
-   "role": "Hubspot &amp; Email Intern",
-   "location": "Barcelona"
-  },
-  "becb3f98eb089d25b36799b13d9258e1": {
-   "id": "becb3f98eb089d25b36799b13d9258e1",
-   "company": "Delivery Hero (foodpanda)",
-   "role": "Account Manager Intern Groceries Spain",
-   "location": "Madrid"
-  },
-  "b0189853b61bf626da37a269d40daa47": {
-   "id": "b0189853b61bf626da37a269d40daa47",
-   "company": "Delivery Hero (foodpanda)",
-   "role": "Intern - People Operations",
-   "location": "Barcelona"
-  },
-  "083af611558fb4633de0da9e9ed7eb00": {
-   "id": "083af611558fb4633de0da9e9ed7eb00",
-   "company": "Mango",
-   "role": "Fashion Styling Intern",
-   "location": "Palau"
-  },
-  "d588147e5070a82c91c98917983b4691": {
-   "id": "d588147e5070a82c91c98917983b4691",
-   "company": "ACCIONA Energía",
-   "role": "Beca Ingeniería Industrial",
-   "location": "Madrid"
-  },
-  "88d1a8f4d66b6361dc18c15215b146f6": {
-   "id": "88d1a8f4d66b6361dc18c15215b146f6",
-   "company": "Hilton Worldwide",
-   "role": "Food And Drinks Intern",
-   "location": "Madrid"
-  },
-  "4e8cca73bb6f7db8576e06a14537bc68": {
-   "id": "4e8cca73bb6f7db8576e06a14537bc68",
-   "company": "SuccessFactors Inc",
-   "role": "Practica",
-   "location": "Madrid"
-  },
-  "3465a6d871c9f10f805900c1314c43f6": {
-   "id": "3465a6d871c9f10f805900c1314c43f6",
-   "company": "Hilton",
-   "role": "Food And Drinks Intern",
-   "location": "Madrid"
-  },
-  "bb404f10d4e234accbfd64ad21d54b41": {
-   "id": "bb404f10d4e234accbfd64ad21d54b41",
-   "company": "Barcelo",
-   "role": "Personal De Prácticas De Cocina - Hotel Santa Catalina",
-   "location": "Santa Catalina"
-  },
-  "0eb42c018f5b177fe7b6e483bfea0854": {
-   "id": "0eb42c018f5b177fe7b6e483bfea0854",
-   "company": "Burson",
-   "role": "Communication Internship",
-   "location": "Madrid"
-  },
-  "0d38c165cee118d5fbcd863b03eca855": {
-   "id": "0d38c165cee118d5fbcd863b03eca855",
-   "company": "Zurich Insurance UK",
-   "role": "Unit Linked & Pension Funds Internship",
-   "location": "Barcelona"
-  },
-  "c4c9f88a89063aba26cb203f628eaec2": {
-   "id": "c4c9f88a89063aba26cb203f628eaec2",
-   "company": "Gameloft Brisbane",
-   "role": "Live Ops Intern",
-   "location": "Barcelona"
-  },
-  "b0bc07a931b62519b1c0f63cc8674456": {
-   "id": "b0bc07a931b62519b1c0f63cc8674456",
-   "company": "Coty",
-   "role": "Supply Chain Customer Operations Intern - English",
-   "location": "Barcelona"
-  },
-  "12947cd00d9853d5550ebb955382a1bd": {
-   "id": "12947cd00d9853d5550ebb955382a1bd",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Unit Linked &amp; Pension Funds Internship",
-   "location": "Barcelona"
-  },
-  "af1a0130cd5dcb81b3ded5a091552001": {
-   "id": "af1a0130cd5dcb81b3ded5a091552001",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Pinto Becarioa De Almacén Y Procesos (warehouse Operations) 28320",
-   "location": "Madrid"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
@@ -2174,16 +2174,34 @@
    "role": "Prescriber (spanish Speaking)",
    "location": "Barcelona"
   },
+  "599bf719d93a11dd2579ec4ad109d9a8": {
+   "id": "599bf719d93a11dd2579ec4ad109d9a8",
+   "company": "KONE Croatia",
+   "role": "Técnico/a De Mantenimiento De Ascensores - Barcelona",
+   "location": "Barcelona"
+  },
+  "c91703e035025a070e6a30dbff8a22ac": {
+   "id": "c91703e035025a070e6a30dbff8a22ac",
+   "company": "KONE Croatia",
+   "role": "Técnico/a De Mantenimiento De Ascensores",
+   "location": "Malaga"
+  },
+  "0ba0dc4302b4523ab25ab0fc98f0d889": {
+   "id": "0ba0dc4302b4523ab25ab0fc98f0d889",
+   "company": "PIMEC Jobs",
+   "role": "Técnico/a Mantenimiento Y Reparación Maquinaria Industrial",
+   "location": "Barcelona"
+  },
   "734ddd741250e5ea9f754ccd8350cc0d": {
    "id": "734ddd741250e5ea9f754ccd8350cc0d",
    "company": "Hitachi Rail",
    "role": "Ingeniero/a - Técnico/a De Mantenimiento",
    "location": "Malaga"
   },
-  "75cb42286cb649ef9204ceb20b6bc959": {
-   "id": "75cb42286cb649ef9204ceb20b6bc959",
-   "company": "KONE Croatia",
-   "role": "Técnico/a De Mantenimiento De Ascensores",
+  "514b13920dd5f3f7de4c092d0baef8a4": {
+   "id": "514b13920dd5f3f7de4c092d0baef8a4",
+   "company": "Honeywell 3",
+   "role": "Aprendiz - Junior Field Service Technician",
    "location": "Madrid"
   },
   "a5cfd04ef34d30ded351000208ceff99": {
@@ -2624,12 +2642,6 @@
    "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
    "location": "Salamanca"
   },
-  "fb01b56e4e55d5e6e52d920964eb791f": {
-   "id": "fb01b56e4e55d5e6e52d920964eb791f",
-   "company": "KONE Croatia",
-   "role": "Técnico/a De Mantenimiento De Ascensores - Barcelona",
-   "location": "Barcelona"
-  },
   "13295746af60fd5b3f79ddc00b089d91": {
    "id": "13295746af60fd5b3f79ddc00b089d91",
    "company": "Telefonica",
@@ -2642,22 +2654,28 @@
    "role": "Mantenimiento Electromecanico",
    "location": "Barcelona"
   },
-  "d47d5da421042f7f27d0c9cc824517aa": {
-   "id": "d47d5da421042f7f27d0c9cc824517aa",
-   "company": "Sacyr Group",
-   "role": "Operario/a Eléctrico/a Edar La Gavia",
-   "location": "Madrid"
+  "c685a0622a3ffcfde808c0ccde1d7f42": {
+   "id": "c685a0622a3ffcfde808c0ccde1d7f42",
+   "company": "Mango",
+   "role": "Campaña Navidad Vendedor - Diagonal Home 3373",
+   "location": "Barcelona"
   },
-  "a8747111ecc22d26589269e71c984731": {
-   "id": "a8747111ecc22d26589269e71c984731",
-   "company": "Siemens",
-   "role": "Técnico/a Especialista de Servicio y Mantenimiento / Seguridad Electrónica y Telecomunicaciones (m/f/d)",
+  "2d7955c1315441fddf4f62555788145e": {
+   "id": "2d7955c1315441fddf4f62555788145e",
+   "company": "Swarovski Australia",
+   "role": "Dependiente/-a (campana De Navidad Part Time 20h) - El Bercial",
    "location": "Madrid"
   },
   "e9fac496d6ccb60ce4a1288405901725": {
    "id": "e9fac496d6ccb60ce4a1288405901725",
    "company": "Levis Media",
    "role": "Sales Stylist 10h Ls Po Gracia",
+   "location": "Barcelona"
+  },
+  "40be63fea0c3fbeac4d0469bdb17e6e2": {
+   "id": "40be63fea0c3fbeac4d0469bdb17e6e2",
+   "company": "PIMEC Jobs",
+   "role": "Mozo/a Almacén",
    "location": "Barcelona"
   },
   "b7ba962e895d3dfe95e121dbac1d23bf": {
@@ -2671,6 +2689,12 @@
    "company": "skechers.dk",
    "role": "Vendedor/a-jornada Parcial 16h - Skechers Getafe",
    "location": "Madrid"
+  },
+  "feae3519756731dfa79a05806d92c8ed": {
+   "id": "feae3519756731dfa79a05806d92c8ed",
+   "company": "obramat.es",
+   "role": "Almacen Salamanca_vendedor/a Electricidad Experto (indefinido)",
+   "location": "Salamanca"
   },
   "d141dc3270caadd346dfa45d4b3c19d0": {
    "id": "d141dc3270caadd346dfa45d4b3c19d0",
@@ -2690,16 +2714,16 @@
    "role": "Campaña Navidad Vendedor/a - Illa Wn",
    "location": "Barcelona"
   },
+  "7bc64af0b6b53167e003f566d4750afb": {
+   "id": "7bc64af0b6b53167e003f566d4750afb",
+   "company": "Skechers U.S.A.",
+   "role": "Vendedor/a-jornada Parcial 16h - Skechers Getafe",
+   "location": "Madrid"
+  },
   "f06ddad52d768b4312801b3e8ebbd37d": {
    "id": "f06ddad52d768b4312801b3e8ebbd37d",
    "company": "VFC Corporation",
    "role": "Vendedores/as Vans - Barcelona",
-   "location": "Barcelona"
-  },
-  "7004060240fccc2a2b87050ef5d183b3": {
-   "id": "7004060240fccc2a2b87050ef5d183b3",
-   "company": "PIMEC Jobs",
-   "role": "Mozo/a Almacén",
    "location": "Barcelona"
   },
   "b81a9b734d8a5c679eb3b88ac8afeb7c": {
@@ -3110,30 +3134,6 @@
    "role": "Almacen Alcorcon_vendedor/a Electricidad (interinidad)",
    "location": "Madrid"
   },
-  "90ca804984ff2eca279e35170e08da5e": {
-   "id": "90ca804984ff2eca279e35170e08da5e",
-   "company": "H&M",
-   "role": "Sales Advisor (20 Horas)",
-   "location": "Barcelona"
-  },
-  "d621d0bdf247fdbc0d3ecddd1792af04": {
-   "id": "d621d0bdf247fdbc0d3ecddd1792af04",
-   "company": "Mango",
-   "role": "Campaña Navidad Vendedor – (maquinista Teen)",
-   "location": "Barcelona"
-  },
-  "230cbe908c3d6cf6c0f6691e2285d659": {
-   "id": "230cbe908c3d6cf6c0f6691e2285d659",
-   "company": "ANZ",
-   "role": "Asesor/a Comercial (santa Coloma)",
-   "location": "Barcelona"
-  },
-  "e5ed72c23095632f6f8190d98afa3d93": {
-   "id": "e5ed72c23095632f6f8190d98afa3d93",
-   "company": "Kiabi",
-   "role": "Vendedor/a Moda Kiabi Salamanca Parque Comercial Atalaya Del Tormes(interinidad)",
-   "location": "Salamanca"
-  },
   "a43092d322310f61ca64bfce3abcc92b": {
    "id": "a43092d322310f61ca64bfce3abcc92b",
    "company": "Europreven",
@@ -3379,12 +3379,6 @@
    "company": "Rexam Supplemental Unemployment Benefit Trust - Iam",
    "role": "Manufacturing Excellence Specialist",
    "location": "Barcelona"
-  },
-  "8600d5244d1501333f29e6a4890ebaac": {
-   "id": "8600d5244d1501333f29e6a4890ebaac",
-   "company": "Medpace",
-   "role": "Administrative Assistant - Contracts Team",
-   "location": "Madrid"
   }
  }
 }
