@@ -3396,4 +3396,13 @@
 <tr><td>ANZ</td><td>Asesor/a Comercial (santa Coloma)</td><td>Barcelona</td><td>2026-10-31</td></tr>
 <tr><td>Kiabi</td><td>Vendedor/a Moda Kiabi Salamanca Parque Comercial Atalaya Del Tormes(interinidad)</td><td>Salamanca</td><td>2026-10-31</td></tr>
 <tr><td>Medpace</td><td>Administrative Assistant - Contracts Team</td><td>Madrid</td><td>2026-10-31</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>El Prat De Llobregat Trainee Comunicación Interna Y Externa & Sostenibilidad 8820</td><td>Barcelona</td><td>2026-11-01</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>#xplorer 2027 Quality Assurance Illescas Plant</td><td>Madrid</td><td>2026-11-01</td></tr>
+<tr><td>Philips UK</td><td>Internship: Service Commercial Support Intern</td><td>Madrid</td><td>2026-11-01</td></tr>
+<tr><td>Ferrovial SE</td><td>Insite Support Internship</td><td>Madrid</td><td>2026-11-01</td></tr>
+<tr><td>HP Inc</td><td>People Strategy & Engagement Intern</td><td>Barcelona</td><td>2026-11-01</td></tr>
+<tr><td>Revlon</td><td>Ingeniero De Procesos Intern</td><td>El Pla De Santa Maria</td><td>2026-11-01</td></tr>
+<tr><td>brunellocucinelli.career</td><td>Sales Associate - Las Rozas</td><td>Madrid</td><td>2026-11-01</td></tr>
+<tr><td>beonit</td><td>Estudiante Con Habilidades Comerciales - Goya</td><td>Madrid</td><td>2026-11-01</td></tr>
+<tr><td>obramat.es</td><td>Almacen Alcorcon_vendedor/a Electricidad (interinidad)</td><td>Madrid</td><td>2026-11-01</td></tr>
 </table>

@@ -1,7 +1,31 @@
 {
- "asOf": "2026-10-31",
+ "asOf": "2026-11-01",
  "count": 563,
  "jobs": {
+  "72b0c079475f507019235d89a18d7a23": {
+   "id": "72b0c079475f507019235d89a18d7a23",
+   "company": "serveo",
+   "role": "Beca Energía - Madrid Ii 1",
+   "location": "Madrid"
+  },
+  "612144e6508b24ee40539396d4ac0240": {
+   "id": "612144e6508b24ee40539396d4ac0240",
+   "company": "NetApp",
+   "role": "Professional Services & End User Services Intern",
+   "location": "Madrid"
+  },
+  "7b0b0f1538326b0f18f29f6891ad965c": {
+   "id": "7b0b0f1538326b0f18f29f6891ad965c",
+   "company": "Criteo",
+   "role": "Sales Strategy Analyst Intern",
+   "location": "Barcelona"
+  },
+  "5133532f6c1ae5eeab7b432c06cde6de": {
+   "id": "5133532f6c1ae5eeab7b432c06cde6de",
+   "company": "Schreiber Foods",
+   "role": "Laboratory Intern",
+   "location": "Noblejas"
+  },
   "0563a99bbe6a0fdf4bd8f611c4d262ea": {
    "id": "0563a99bbe6a0fdf4bd8f611c4d262ea",
    "company": "Johnson & Johnson",
@@ -31,6 +55,18 @@
    "company": "Telefonica",
    "role": "Practicas Academicas Telefonica",
    "location": "Spain"
+  },
+  "bbe569b6fa410985211057d33e290acc": {
+   "id": "bbe569b6fa410985211057d33e290acc",
+   "company": "Sofitel Sydney Wentworth",
+   "role": "Prácticas F&b Kitchen - So/ Sotogrande",
+   "location": "Sotogrande"
+  },
+  "b2b59df040571061d0ba64557106d537": {
+   "id": "b2b59df040571061d0ba64557106d537",
+   "company": "Accor",
+   "role": "Prácticas F&B Kitchen - SO/ Sotogrande",
+   "location": "Sotogrande"
   },
   "d49e224ab6df550b781cb512009ef5b5": {
    "id": "d49e224ab6df550b781cb512009ef5b5",
@@ -445,42 +481,6 @@
    "company": "Criteo",
    "role": "Sales Excellence Intern",
    "location": "Barcelona"
-  },
-  "395ea6ac58c8bb34d07d7cb766e72b40": {
-   "id": "395ea6ac58c8bb34d07d7cb766e72b40",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "El Prat De Llobregat Trainee Comunicación Interna Y Externa & Sostenibilidad 8820",
-   "location": "Barcelona"
-  },
-  "459ccf15cab95f54c13121eef55ef3ff": {
-   "id": "459ccf15cab95f54c13121eef55ef3ff",
-   "company": "Premium AEROTEC GmbH",
-   "role": "#xplorer 2027 Quality Assurance Illescas Plant",
-   "location": "Madrid"
-  },
-  "53057d62c41dc531e5b1939a4c065d60": {
-   "id": "53057d62c41dc531e5b1939a4c065d60",
-   "company": "Philips UK",
-   "role": "Internship: Service Commercial Support Intern",
-   "location": "Madrid"
-  },
-  "59d715ebd8f22334a659e69c28a90ad7": {
-   "id": "59d715ebd8f22334a659e69c28a90ad7",
-   "company": "Ferrovial SE",
-   "role": "Insite Support Internship",
-   "location": "Madrid"
-  },
-  "4fe3ee9a818a897121ece9cdd32494e2": {
-   "id": "4fe3ee9a818a897121ece9cdd32494e2",
-   "company": "HP Inc",
-   "role": "People Strategy & Engagement Intern",
-   "location": "Barcelona"
-  },
-  "0ad8278d57610c5ebf2928f1f05729a7": {
-   "id": "0ad8278d57610c5ebf2928f1f05729a7",
-   "company": "Revlon",
-   "role": "Ingeniero De Procesos Intern",
-   "location": "El Pla De Santa Maria"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
@@ -2654,6 +2654,24 @@
    "role": "Mantenimiento Electromecanico",
    "location": "Barcelona"
   },
+  "23b03f150e9f4801197f1083b9880c81": {
+   "id": "23b03f150e9f4801197f1083b9880c81",
+   "company": "IKEA",
+   "role": "Vendedor/a Market (12hrs.) / Ikea Sabadell",
+   "location": "Barcelona"
+  },
+  "0dfa44bf62e87a45f2006f0009949e05": {
+   "id": "0dfa44bf62e87a45f2006f0009949e05",
+   "company": "JYSK",
+   "role": "Vendedor/a - 30h - Vallecas, Madrid",
+   "location": "Salamanca"
+  },
+  "4544749596eca4c86db21cb7b533c052": {
+   "id": "4544749596eca4c86db21cb7b533c052",
+   "company": "JYSK",
+   "role": "Vendedor/a - 30h - El Masnou",
+   "location": "Barcelona"
+  },
   "c685a0622a3ffcfde808c0ccde1d7f42": {
    "id": "c685a0622a3ffcfde808c0ccde1d7f42",
    "company": "Mango",
@@ -3114,24 +3132,6 @@
    "id": "b9c6bad2835c0948886dca2ce89ba3d9",
    "company": "Tapestry, Inc.",
    "role": "Sales Associate",
-   "location": "Madrid"
-  },
-  "77c367a0a429b329a2dfbffc9b3a3d31": {
-   "id": "77c367a0a429b329a2dfbffc9b3a3d31",
-   "company": "brunellocucinelli.career",
-   "role": "Sales Associate - Las Rozas",
-   "location": "Madrid"
-  },
-  "a1f6face00dee1ec66332a3f961d9c61": {
-   "id": "a1f6face00dee1ec66332a3f961d9c61",
-   "company": "beonit",
-   "role": "Estudiante Con Habilidades Comerciales - Goya",
-   "location": "Madrid"
-  },
-  "b90e35ed596b93345d53c4ff99d6a727": {
-   "id": "b90e35ed596b93345d53c4ff99d6a727",
-   "company": "obramat.es",
-   "role": "Almacen Alcorcon_vendedor/a Electricidad (interinidad)",
    "location": "Madrid"
   },
   "a43092d322310f61ca64bfce3abcc92b": {
