@@ -1,7 +1,19 @@
 {
- "asOf": "2026-11-01",
+ "asOf": "2026-11-02",
  "count": 563,
  "jobs": {
+  "ffdd1048903d2d215b8736cfad3890d7": {
+   "id": "ffdd1048903d2d215b8736cfad3890d7",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Veterinary - February/march 2027",
+   "location": "Esplugues Llobregat"
+  },
+  "c2fd79ad4dd54cdfcfc23e867d7bbb2b": {
+   "id": "c2fd79ad4dd54cdfcfc23e867d7bbb2b",
+   "company": "Nestle SA",
+   "role": "Spain Youth / Internship Operations - February/march 2027",
+   "location": "Esplugues Llobregat"
+  },
   "72b0c079475f507019235d89a18d7a23": {
    "id": "72b0c079475f507019235d89a18d7a23",
    "company": "serveo",
@@ -469,18 +481,6 @@
    "company": "MARSH MCLENNAN",
    "role": "Beca Operaciones Retribución Flexible",
    "location": "Madrid"
-  },
-  "27f4e7f7ffaae93349efab02a8c0749e": {
-   "id": "27f4e7f7ffaae93349efab02a8c0749e",
-   "company": "SIX",
-   "role": "Las Rozas De Madrid Ai Engineer Internship",
-   "location": "Madrid"
-  },
-  "fa03b8643b8d8e518239d43229d5a789": {
-   "id": "fa03b8643b8d8e518239d43229d5a789",
-   "company": "Criteo",
-   "role": "Sales Excellence Intern",
-   "location": "Barcelona"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
@@ -2204,6 +2204,18 @@
    "role": "Aprendiz - Junior Field Service Technician",
    "location": "Madrid"
   },
+  "ea2deba746bf61727cb391ca54f4e7b9": {
+   "id": "ea2deba746bf61727cb391ca54f4e7b9",
+   "company": "Honeywell International Inc.",
+   "role": "Aprendiz - Junior Field Service Technician",
+   "location": "Madrid"
+  },
+  "b70b60648df533c78e04b4b598f9542a": {
+   "id": "b70b60648df533c78e04b4b598f9542a",
+   "company": "Honeywell",
+   "role": "Aprendiz - Junior Field Service Technician",
+   "location": "Madrid"
+  },
   "a5cfd04ef34d30ded351000208ceff99": {
    "id": "a5cfd04ef34d30ded351000208ceff99",
    "company": "Red Ofisat Noroeste, S.L.U.",
@@ -2642,16 +2654,10 @@
    "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
    "location": "Salamanca"
   },
-  "13295746af60fd5b3f79ddc00b089d91": {
-   "id": "13295746af60fd5b3f79ddc00b089d91",
-   "company": "Telefonica",
-   "role": "Mantenimiento Tv Barcelona Enviar Candidatura Ahora »",
-   "location": "Barcelona"
-  },
-  "2b4c418af2ab8fe940e974d84533f2e1": {
-   "id": "2b4c418af2ab8fe940e974d84533f2e1",
-   "company": "Acciona",
-   "role": "Mantenimiento Electromecanico",
+  "989abd666d2b282c1096df6feb18dd83": {
+   "id": "989abd666d2b282c1096df6feb18dd83",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Sales Associate",
    "location": "Barcelona"
   },
   "23b03f150e9f4801197f1083b9880c81": {
@@ -2766,12 +2772,6 @@
    "id": "e6b368758d6b53fe077e2425caa506c4",
    "company": "Swarovski Australia",
    "role": "Dependiente/ Part Time 20h Store Eci Goya",
-   "location": "Madrid"
-  },
-  "ee80ce468e9c084205fb271412132b2d": {
-   "id": "ee80ce468e9c084205fb271412132b2d",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Sales Associate",
    "location": "Madrid"
   },
   "269f0f00730e441081e4a072bb5b7d5a": {

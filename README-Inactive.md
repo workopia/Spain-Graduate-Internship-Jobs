@@ -3405,4 +3405,9 @@
 <tr><td>brunellocucinelli.career</td><td>Sales Associate - Las Rozas</td><td>Madrid</td><td>2026-11-01</td></tr>
 <tr><td>beonit</td><td>Estudiante Con Habilidades Comerciales - Goya</td><td>Madrid</td><td>2026-11-01</td></tr>
 <tr><td>obramat.es</td><td>Almacen Alcorcon_vendedor/a Electricidad (interinidad)</td><td>Madrid</td><td>2026-11-01</td></tr>
+<tr><td>SIX</td><td>Las Rozas De Madrid Ai Engineer Internship</td><td>Madrid</td><td>2026-11-02</td></tr>
+<tr><td>Criteo</td><td>Sales Excellence Intern</td><td>Barcelona</td><td>2026-11-02</td></tr>
+<tr><td>Telefonica</td><td>Mantenimiento Tv Barcelona Enviar Candidatura Ahora »</td><td>Barcelona</td><td>2026-11-02</td></tr>
+<tr><td>Acciona</td><td>Mantenimiento Electromecanico</td><td>Barcelona</td><td>2026-11-02</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Madrid</td><td>2026-11-02</td></tr>
 </table>
