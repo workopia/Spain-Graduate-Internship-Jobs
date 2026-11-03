@@ -3410,4 +3410,20 @@
 <tr><td>Telefonica</td><td>Mantenimiento Tv Barcelona Enviar Candidatura Ahora »</td><td>Barcelona</td><td>2026-11-02</td></tr>
 <tr><td>Acciona</td><td>Mantenimiento Electromecanico</td><td>Barcelona</td><td>2026-11-02</td></tr>
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Madrid</td><td>2026-11-02</td></tr>
+<tr><td>John Wood Group PLC</td><td>Project Engineering - Internship</td><td>Madrid</td><td>2026-11-03</td></tr>
+<tr><td>Wood Group</td><td>Project Engineering - Internship</td><td>Madrid</td><td>2026-11-03</td></tr>
+<tr><td>Hilton</td><td>Front Office Intern</td><td>Madrid</td><td>2026-11-03</td></tr>
+<tr><td>Wood</td><td>Project Engineering - Internship</td><td>Madrid</td><td>2026-11-03</td></tr>
+<tr><td>Philips UK</td><td>Supply Chain Demand Support Intern</td><td>Madrid</td><td>2026-11-03</td></tr>
+<tr><td>Siemens AG</td><td>Westem: Prácticas Para Talento Femenino Stem En Ciberseguridad</td><td>Madrid</td><td>2026-11-03</td></tr>
+<tr><td>Levata</td><td>Business Development Intern (uk + Ie Market)</td><td>Madrid</td><td>2026-11-03</td></tr>
+<tr><td>RWE AG</td><td>Internship Control Centre Operations D/f/m</td><td>Barcelona</td><td>2026-11-03</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (ai & Innovation Focus) - Emea Partner Ecosystem Growth</td><td>Barcelona</td><td>2026-11-03</td></tr>
+<tr><td>HP</td><td>People Strategy & Engagement Intern</td><td>Barcelona</td><td>2026-11-03</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Beca Operaciones Retribución Flexible</td><td>Madrid</td><td>2026-11-03</td></tr>
+<tr><td>MSX International Ltd</td><td>Consultor/a Junior Para Servicios De Movilidad</td><td>Madrid</td><td>2026-11-03</td></tr>
+<tr><td>minsait</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-11-03</td></tr>
+<tr><td>Arrow Electronics</td><td>Field Sales Associate</td><td>Salamanca</td><td>2026-11-03</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Sales Associate</td><td>Madrid</td><td>2026-11-03</td></tr>
+<tr><td>Rexam Supplemental Unemployment Benefit Trust - Iam</td><td>Manufacturing Excellence Specialist</td><td>Barcelona</td><td>2026-11-03</td></tr>
 </table>
