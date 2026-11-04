@@ -3426,4 +3426,29 @@
 <tr><td>Arrow Electronics</td><td>Field Sales Associate</td><td>Salamanca</td><td>2026-11-03</td></tr>
 <tr><td>Tapestry, Inc.</td><td>Sales Associate</td><td>Madrid</td><td>2026-11-03</td></tr>
 <tr><td>Rexam Supplemental Unemployment Benefit Trust - Iam</td><td>Manufacturing Excellence Specialist</td><td>Barcelona</td><td>2026-11-03</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship It - February/march 2027</td><td>Barcelona</td><td>2026-11-04</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Hr - February/march 2027</td><td>Barcelona</td><td>2026-11-04</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Finance - February/march 2027</td><td>Barcelona</td><td>2026-11-04</td></tr>
+<tr><td>Indra group</td><td>Ix Edición Del Foro De Empleo 2026-27</td><td>Unknown</td><td>2026-11-04</td></tr>
+<tr><td>John Wood Group PLC</td><td>Technical Safety Engineer - Internship</td><td>Madrid</td><td>2026-11-04</td></tr>
+<tr><td>Wood Group</td><td>Technical Safety Engineer - Internship</td><td>Madrid</td><td>2026-11-04</td></tr>
+<tr><td>Wood</td><td>Technical Safety Engineer - Internship</td><td>Madrid</td><td>2026-11-04</td></tr>
+<tr><td>CUSHMAN & WAKEFIELD</td><td>Eic Intern</td><td>Madrid</td><td>2026-11-04</td></tr>
+<tr><td>Roche Holding AG</td><td>Regulatory Affairs Intern</td><td>Sant Cugat Del Vall</td><td>2026-11-04</td></tr>
+<tr><td>Mercadona</td><td>Programa Prácticas Impulsa 2027 - Valencia/valència</td><td>Albalat Dels Sorells</td><td>2026-11-04</td></tr>
+<tr><td>CUSHMAN & WAKEFIELD</td><td>Intern</td><td>Barcelona</td><td>2026-11-04</td></tr>
+<tr><td>Bosch Group</td><td>Estudiante En Prácticas –coordinación De Repuestos En Compras Y Apoyo Al Gestor (atmo-2es/pul11-mecanizado)</td><td>Madrid</td><td>2026-11-04</td></tr>
+<tr><td>Hyatt Hotels Corporation</td><td>Trainee - Revenue</td><td>Madrid</td><td>2026-11-04</td></tr>
+<tr><td>Hilton Worldwide</td><td>Front Office Intern</td><td>Madrid</td><td>2026-11-04</td></tr>
+<tr><td>IQVIA Holdings</td><td>Statistical Programmer</td><td>Madrid</td><td>2026-11-04</td></tr>
+<tr><td>Jobgether</td><td>Php Engineer</td><td>Spain</td><td>2026-11-04</td></tr>
+<tr><td>Jobgether</td><td>Founding Software Engineer - New Product</td><td>Spain</td><td>2026-11-04</td></tr>
+<tr><td>Jobgether</td><td>Delphi Developer For A Sustainability Saas</td><td>Spain</td><td>2026-11-04</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Business Analyst</td><td>Barcelona</td><td>2026-11-04</td></tr>
+<tr><td>KONE Croatia</td><td>Técnico/a De Mantenimiento De Ascensores - Barcelona</td><td>Barcelona</td><td>2026-11-04</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario/a De Mantenimiento Ferroviario Fuencarral Temporal</td><td>Madrid</td><td>2026-11-04</td></tr>
+<tr><td>KONE Croatia</td><td>Técnico/a De Mantenimiento De Ascensores - Vic</td><td>Barcelona</td><td>2026-11-04</td></tr>
+<tr><td>Mango</td><td>Vendedor/a 8 Horas Tarde Jueves Y Viernes</td><td>Madrid</td><td>2026-11-04</td></tr>
+<tr><td>Mango</td><td>Vendedor/a 20 Horas Tarde Hortaleza C.comercial Gran Vía</td><td>Madrid</td><td>2026-11-04</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate</td><td>Barcelona</td><td>2026-11-04</td></tr>
 </table>
