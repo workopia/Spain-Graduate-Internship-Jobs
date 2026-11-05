@@ -3451,4 +3451,42 @@
 <tr><td>Mango</td><td>Vendedor/a 8 Horas Tarde Jueves Y Viernes</td><td>Madrid</td><td>2026-11-04</td></tr>
 <tr><td>Mango</td><td>Vendedor/a 20 Horas Tarde Hortaleza C.comercial Gran Vía</td><td>Madrid</td><td>2026-11-04</td></tr>
 <tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate</td><td>Barcelona</td><td>2026-11-04</td></tr>
+<tr><td>NUDE PROJECT</td><td>Buyer Intern</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>Primark</td><td>Beca Departamento Comercial</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Prácticas De F&b Service - So/ Sotogrande</td><td>Sotogrande</td><td>2026-11-05</td></tr>
+<tr><td>VeryChic</td><td>Customer Experience Agent Intern</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>Publicis Sapient</td><td>Internal Communications & Employer Branding Intern</td><td>Partenon</td><td>2026-11-05</td></tr>
+<tr><td>Mediaset España Comunicación</td><td>Beca Control Central</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>Mango</td><td>Becario/intern Stores</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>Coty</td><td>Sales Analyst Intern</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Prácticas Selección - Madrid</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>HP Inc</td><td>Ai & Automation Intern</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario En Departamento De Innovación</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>Degustabox LLC</td><td>Email Marketing & Crm Intern</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>Coty Inc</td><td>Sales Analyst Intern</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>Airbus SE</td><td>#beca Ahe - Im Sap Ewm Hub Logistico & New Erp</td><td>Albacete</td><td>2026-11-05</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Veterinary - February/march 2027</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Operations - February/march 2027</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>Nestle Ltd</td><td>Spain Youth / Internship Kitchen - February/march 2027</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>Salesforce Service Cloud</td><td>Ai Builder, Emerging Talent - Italian Market</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>Salesforce Service Cloud</td><td>Ai Builder, Emerging Talent - English Speaking Market</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>Sedgwick</td><td>Workday Reporting Data Analyst - Full Remote Spain Or Portugal</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>Roche</td><td>Data Advisory And Insights Specialist</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>FTI Consulting</td><td>Intern, Restructuring, Corporate Finance</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>MAPFRE</td><td>Técnico/a De Cumplimiento Normativo (temporal - Media Jornada)</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>MSX International Ltd</td><td>Consultor/a – Servicios De Movilidad (automoción)</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>Alephholding</td><td>Sales Strategy & Business Operations Analyst</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>Penguin Random House Grupo Editorial</td><td>Online Business Analyst</td><td>28010</td><td>2026-11-05</td></tr>
+<tr><td>Bunge</td><td>Assistant Trading Business Analyst</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Opex Bi Analyst/ Continuous Improvement Analyst</td><td>Marchamalo</td><td>2026-11-05</td></tr>
+<tr><td>Schneider Electric</td><td>Regional Business Process Owner (rbpo) Controlling - Projects & Equipments And Services (f/m/d)</td><td>Catalonia</td><td>2026-11-05</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Operario(a) De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Castellana 20 Horas Tarde Navidades</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - (part Time / Temporal) / Bc Barcelona</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Part Time 20h - Fo La Roca</td><td>Barcelona</td><td>2026-11-05</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate (part Time) - Adidas Fo Rivas-vaciamadrid</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate Part Time Campaña De Navidad- Fo Oasiz Torrejon 1 1</td><td>Salamanca</td><td>2026-11-05</td></tr>
+<tr><td>Mango</td><td>Vendedor/a 20h Runner Serrano</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>Mango</td><td>Vendedor/a General Orense</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>Mango</td><td>Vendedor/a Mango Home</td><td>Madrid</td><td>2026-11-05</td></tr>
 </table>
