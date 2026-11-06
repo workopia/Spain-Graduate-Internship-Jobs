@@ -3489,4 +3489,32 @@
 <tr><td>Mango</td><td>Vendedor/a 20h Runner Serrano</td><td>Madrid</td><td>2026-11-05</td></tr>
 <tr><td>Mango</td><td>Vendedor/a General Orense</td><td>Madrid</td><td>2026-11-05</td></tr>
 <tr><td>Mango</td><td>Vendedor/a Mango Home</td><td>Madrid</td><td>2026-11-05</td></tr>
+<tr><td>ACCIONA Energia</td><td>Beca Producción</td><td>Baleares</td><td>2026-11-06</td></tr>
+<tr><td>Mediaset EspaAa ComunicaciAn</td><td>Beca Desarrollo .net</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>Hydeparkbank</td><td>Ai Adoption Intern</td><td>Barcelona</td><td>2026-11-06</td></tr>
+<tr><td>AVL List GmbH</td><td>Mataro Becarioa Audiovisual Para Proyecto De Formación Interna</td><td>Barcelona</td><td>2026-11-06</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Protocolos Recepción</td><td>Barcelona</td><td>2026-11-06</td></tr>
+<tr><td>HP</td><td>Process Mining & Process Improvement Internship</td><td>Barcelona</td><td>2026-11-06</td></tr>
+<tr><td>HP</td><td>Ai & Automation Intern</td><td>Barcelona</td><td>2026-11-06</td></tr>
+<tr><td>Kenvue (Rogaine brand)</td><td>Channel Activation Pharma Intern</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>Wood Group</td><td>Piping Stress Engineering - Internship</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>Wood Group</td><td>Civil Engineering - Internship</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>Wood Group</td><td>Piping Design Engineering- Internship</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>John Wood Group</td><td>Piping Design Engineering- Internship</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>John Wood Group</td><td>Piping Stress Engineering - Internship</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>John Wood Group</td><td>Civil Engineering - Internship</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>BARCELO CORPORACION EMPRESARIAL SA</td><td>Prácticas No Remuneradas En Dpto. De Rr.hh - Hotel Santa Catalina</td><td>Santa Catalina</td><td>2026-11-06</td></tr>
+<tr><td>Hufpp</td><td>Process Mining & Process Improvement Internship</td><td>Barcelona</td><td>2026-11-06</td></tr>
+<tr><td>Gameloft Australia</td><td>Data Scientist</td><td>Barcelona</td><td>2026-11-06</td></tr>
+<tr><td>Acciona SA</td><td>Beca Análisis De Datos (departamento Prevención De Riesgos Laborales)</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Revenue Accountant With English And Spanish</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>Movistar Plus</td><td>Analista De Producciones Movistar Plus</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>Sedgwick Australia Pty Ltd</td><td>Workday Analyst - Cross Application</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>OCA Global</td><td>Business Analyst Salesforce Jr.</td><td>Barcelona</td><td>2026-11-06</td></tr>
+<tr><td>Jobgether</td><td>Business/process Analyst</td><td>Spain</td><td>2026-11-06</td></tr>
+<tr><td>Temporing</td><td>Operario/a De Mantenimiento Industrial.</td><td>Barcelona</td><td>2026-11-06</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Técnico/a Mantenimiento Ferroviario - Santa Perpètua / Aeroport Bcn 1</td><td>Barcelona</td><td>2026-11-06</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Tecnico/a De Mantenimiento Ferroviario - Barajas</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Barcelona</td><td>2026-11-06</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate (part Time) - Bc Gran Via</td><td>Madrid</td><td>2026-11-06</td></tr>
 </table>
