@@ -3517,4 +3517,32 @@
 <tr><td>ALSTOM TRANSPORT SA</td><td>Tecnico/a De Mantenimiento Ferroviario - Barajas</td><td>Madrid</td><td>2026-11-06</td></tr>
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Barcelona</td><td>2026-11-06</td></tr>
 <tr><td>adidas AG</td><td>Sales Associate (part Time) - Bc Gran Via</td><td>Madrid</td><td>2026-11-06</td></tr>
+<tr><td>Accor</td><td>Prácticas F&B Kitchen - SO/ Sotogrande</td><td>Sotogrande</td><td>2026-11-07</td></tr>
+<tr><td>Mandarin Oriental Hotel Group</td><td>Practicas - People & Culture/ Hr Trainee- Internship. Starting February.</td><td>Barcelona</td><td>2026-11-07</td></tr>
+<tr><td>HP</td><td>Ai Adoption Intern</td><td>Barcelona</td><td>2026-11-07</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Hr - February/march 2027</td><td>Esplugues Llobregat</td><td>2026-11-07</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Finance - February/march 2027</td><td>Esplugues Llobregat</td><td>2026-11-07</td></tr>
+<tr><td>ferromallas.es</td><td>Transactional Treasury Internship</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>Johnson & Johnson</td><td>Business Support Internship</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>Eada Business School Barcelona</td><td>Online Programs Intern</td><td>Barcelona</td><td>2026-11-07</td></tr>
+<tr><td>Belden Inc</td><td>Internship • Commercial Excellence & Contracts</td><td>Olen +3</td><td>2026-11-07</td></tr>
+<tr><td>ACCIONA Energia</td><td>Beca Instalaciones</td><td>Baleares</td><td>2026-11-07</td></tr>
+<tr><td>Avanade</td><td>Software Engineering Jr Analyst_itp Rehire</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>Santander</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>Roche</td><td>Data Scientist - Enterprise Search</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>Ivivamedical</td><td>Data Analyst (sas / Sql Programming) - German Speaker (spain Remote)</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>IQVIA Holdings</td><td>Data Analyst (sas / Sql Programming) - German Speaker (spain Remote)</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>My Medical Sales Jobs</td><td>Data Analyst (sas / Sql Programming) - German Speaker (spain Remote)</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>Schindler Group</td><td>Técnico/a De Mantenimiento Ascensores- Zaragoza</td><td>Zaragoza</td><td>2026-11-07</td></tr>
+<tr><td>Ahorramas, S.A</td><td>Electromecánico/a - Turno Noche - Plataformas Logísticas Velilla De San Antonio (madrid)</td><td>Salamanca</td><td>2026-11-07</td></tr>
+<tr><td>Capri</td><td>Sales Associate</td><td>Barcelona</td><td>2026-11-07</td></tr>
+<tr><td>Etam</td><td>Vendedor.a Plaza Norte 20h/sem</td><td>Salamanca</td><td>2026-11-07</td></tr>
+<tr><td>Burberry</td><td>Sales Associate - Mandarin Speaking Barcelona La Roca Village</td><td>Barcelona</td><td>2026-11-07</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 25 Horas Levis Callao</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate - Fo San Sebastian De Los Reyes The Style Outlets</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>Bacardi</td><td>Customer Service Specialist, Europe (coe)</td><td>Barcelona</td><td>2026-11-07</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Training Specialist</td><td>Barcelona</td><td>2026-11-07</td></tr>
+<tr><td>Danaher UK</td><td>Logistics & Administrative Coordinator</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>Pall Corporation</td><td>Logistics & Administrative Coordinator</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>Temporing</td><td>Administrativo/a De Soporte Comercial – Madrid</td><td>Madrid</td><td>2026-11-07</td></tr>
 </table>
