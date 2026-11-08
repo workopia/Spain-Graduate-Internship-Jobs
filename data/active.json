@@ -1,7 +1,19 @@
 {
- "asOf": "2026-11-07",
- "count": 563,
+ "asOf": "2026-11-08",
+ "count": 556,
  "jobs": {
+  "4a8d82c78c7682d2665c6ccaecf70d47": {
+   "id": "4a8d82c78c7682d2665c6ccaecf70d47",
+   "company": "Grupo Hotusa",
+   "role": "Becario/a Comercial",
+   "location": "Madrid"
+  },
+  "d6fcb866ffee1bb5b0f3bfa5561b5301": {
+   "id": "d6fcb866ffee1bb5b0f3bfa5561b5301",
+   "company": "Swiss Re",
+   "role": "Cres Spain Intern (m/f/x/d)",
+   "location": "Madrid"
+  },
   "1059e8e48166a20a61e5f89fa2d4eee2": {
    "id": "1059e8e48166a20a61e5f89fa2d4eee2",
    "company": "ABB UK",
@@ -20,11 +32,35 @@
    "role": "Business Process Partner Intern",
    "location": "Barcelona"
   },
+  "d68d83494338461e419a0f186d0145a5": {
+   "id": "d68d83494338461e419a0f186d0145a5",
+   "company": "Eurofins Scientific",
+   "role": "Website And Content Migration Internship",
+   "location": "Madrid"
+  },
+  "2f7c24d400f96f007c85e1ec1b7651ec": {
+   "id": "2f7c24d400f96f007c85e1ec1b7651ec",
+   "company": "Gameloft Brisbane",
+   "role": "Game Cinematic Artist Intern",
+   "location": "Barcelona"
+  },
+  "76004805e6e6b0a9c81bde8b5a34c231": {
+   "id": "76004805e6e6b0a9c81bde8b5a34c231",
+   "company": "Sofitel Sydney Wentworth",
+   "role": "Front Office Internship",
+   "location": "Barcelona"
+  },
   "f378a89345ffe112a14afcea8e456e73": {
    "id": "f378a89345ffe112a14afcea8e456e73",
    "company": "Testia",
    "role": "Practicas Montaje Estructuras",
    "location": "Albacete"
+  },
+  "1288b8c344c88ebcdb2613c3017321b8": {
+   "id": "1288b8c344c88ebcdb2613c3017321b8",
+   "company": "Delivery Hero (foodpanda)",
+   "role": "Intern Account Management Integrations Global",
+   "location": "Barcelona"
   },
   "6324e7a17290d04dbd5bca23992d4d8e": {
    "id": "6324e7a17290d04dbd5bca23992d4d8e",
@@ -49,6 +85,18 @@
    "company": "Novanta",
    "role": "Hardware Developer Intern",
    "location": "Barcelona"
+  },
+  "59a65c8e94ecfed5fc8165023538579b": {
+   "id": "59a65c8e94ecfed5fc8165023538579b",
+   "company": "Allianz Technology SE",
+   "role": "Risk Shield Intern",
+   "location": "Barcelona"
+  },
+  "37919e9b91d72749a415a0d83b0fadb0": {
+   "id": "37919e9b91d72749a415a0d83b0fadb0",
+   "company": "Indra group",
+   "role": "Foro Universidad Europea De Madrid",
+   "location": "Madrid +1"
   },
   "b4b97c3a23423714ea1e5d30d81fd783": {
    "id": "b4b97c3a23423714ea1e5d30d81fd783",
@@ -97,12 +145,6 @@
    "company": "Service Scout Inc",
    "role": "Billing Operations Intern",
    "location": "EspañA"
-  },
-  "f9250566458d884a0cc4357646976fc3": {
-   "id": "f9250566458d884a0cc4357646976fc3",
-   "company": "Eurofins Scientific",
-   "role": "Website And Content Migration Internship",
-   "location": "Madrid"
   },
   "0e0e0a968caf95df4df7e032874dc7bd": {
    "id": "0e0e0a968caf95df4df7e032874dc7bd",
@@ -440,48 +482,6 @@
    "role": "Sales Strategy Analyst Intern",
    "location": "Barcelona"
   },
-  "5133532f6c1ae5eeab7b432c06cde6de": {
-   "id": "5133532f6c1ae5eeab7b432c06cde6de",
-   "company": "Schreiber Foods",
-   "role": "Laboratory Intern",
-   "location": "Noblejas"
-  },
-  "0563a99bbe6a0fdf4bd8f611c4d262ea": {
-   "id": "0563a99bbe6a0fdf4bd8f611c4d262ea",
-   "company": "Johnson & Johnson",
-   "role": "Learning And Development Internship",
-   "location": "Madrid"
-  },
-  "bcdcf133b4849c989243cdea9605eb40": {
-   "id": "bcdcf133b4849c989243cdea9605eb40",
-   "company": "Haier Europe",
-   "role": "Otd - Gestión De Pedidos Intern",
-   "location": "Barcelona"
-  },
-  "9d2577190479214e3d6b0cdaa73f7f85": {
-   "id": "9d2577190479214e3d6b0cdaa73f7f85",
-   "company": "VIE-INDIA",
-   "role": "Rotacion Externa Residente Getafe Noviembre 2026",
-   "location": "Madrid"
-  },
-  "491462628f122a7dd0ee320981b29bca": {
-   "id": "491462628f122a7dd0ee320981b29bca",
-   "company": "Hogan Lovells",
-   "role": "Prácticas Full-time Litigación",
-   "location": "Madrid"
-  },
-  "1e9289919646d4b7c76e7a3369ed88c9": {
-   "id": "1e9289919646d4b7c76e7a3369ed88c9",
-   "company": "Telefonica",
-   "role": "Practicas Academicas Telefonica",
-   "location": "Spain"
-  },
-  "bbe569b6fa410985211057d33e290acc": {
-   "id": "bbe569b6fa410985211057d33e290acc",
-   "company": "Sofitel Sydney Wentworth",
-   "role": "Prácticas F&b Kitchen - So/ Sotogrande",
-   "location": "Sotogrande"
-  },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
    "company": "Monolithic Power Systems",
@@ -499,6 +499,12 @@
    "company": "Scopely",
    "role": "Software Engineer (ad Tech)",
    "location": "Barcelona"
+  },
+  "0ddc6bcf8fb137a190928d6072abea58": {
+   "id": "0ddc6bcf8fb137a190928d6072abea58",
+   "company": "Jobgether",
+   "role": "Gtm Software Engineer",
+   "location": "Spain"
   },
   "f1bdb9ac9bffe2e35eaf6f378c0baae9": {
    "id": "f1bdb9ac9bffe2e35eaf6f378c0baae9",
@@ -967,12 +973,6 @@
    "company": "Halfspace ApS",
    "role": "Ai - Software Engineer",
    "location": "Madrid"
-  },
-  "2e57a0f001a161f27c41e4e58a00cb69": {
-   "id": "2e57a0f001a161f27c41e4e58a00cb69",
-   "company": "Puratos",
-   "role": "Sap Sd Support Analyst",
-   "location": "Barcelona"
   },
   "dc519a81216b405e2abd1d71cb1426d5": {
    "id": "dc519a81216b405e2abd1d71cb1426d5",
@@ -1652,12 +1652,6 @@
    "role": "Banking Off Cycle Internship Programme 2027 Madrid",
    "location": "Madrid"
   },
-  "2b641531ea0d31218fd2adafffe65c85": {
-   "id": "2b641531ea0d31218fd2adafffe65c85",
-   "company": "THALES",
-   "role": "Financial Analyst Intern",
-   "location": "Madrid"
-  },
   "b396576cb4041ef7a74199e5a6fa4f6a": {
    "id": "b396576cb4041ef7a74199e5a6fa4f6a",
    "company": "Amazon Commercial Services Pty Ltd - F47",
@@ -1693,6 +1687,12 @@
    "company": "Ubisoft",
    "role": "Accountant Trainee",
    "location": "Barcelona"
+  },
+  "5569db1a2aa80a8e74611c5a15f3ae5c": {
+   "id": "5569db1a2aa80a8e74611c5a15f3ae5c",
+   "company": "Jobgether",
+   "role": "Business Analyst - Health Insurance",
+   "location": "Spain"
   },
   "3fa5b317f77079ac2a00f6fd650925c1": {
    "id": "3fa5b317f77079ac2a00f6fd650925c1",
@@ -2167,12 +2167,6 @@
    "company": "Sopra Steria UK",
    "role": "Consultor/a Sap Bw Con Inglés Alto",
    "location": "Madrid"
-  },
-  "1e5a19d74f6c19df159eb61dbb58992d": {
-   "id": "1e5a19d74f6c19df159eb61dbb58992d",
-   "company": "Jobgether",
-   "role": "Product Analyst",
-   "location": "Spain"
   },
   "fe4facdc272599509ea02cd772036b40": {
    "id": "fe4facdc272599509ea02cd772036b40",
@@ -2672,6 +2666,24 @@
    "role": "Técnico/a De Mantenimiento - Barcelona",
    "location": "Barcelona"
   },
+  "d44ee9c00760a5cb25de83f29924c403": {
+   "id": "d44ee9c00760a5cb25de83f29924c403",
+   "company": "VF Corporation",
+   "role": "Vendedor/a 40h Timberland - Diagonal (baja Médica)",
+   "location": "Barcelona"
+  },
+  "aefd7e39e07c85f23226b0e9763bc429": {
+   "id": "aefd7e39e07c85f23226b0e9763bc429",
+   "company": "Timberland Com Tr",
+   "role": "Vendedor/a 40h Timberland - Diagonal (baja Médica)",
+   "location": "Barcelona"
+  },
+  "f0505ab6ee08e240994f3c88b3d24fbb": {
+   "id": "f0505ab6ee08e240994f3c88b3d24fbb",
+   "company": "Beyond Yoga",
+   "role": "Sales Stylist 20h Seasonal",
+   "location": "Barcelona"
+  },
   "aac6fcf27507852b931069a0247ebe47": {
    "id": "aac6fcf27507852b931069a0247ebe47",
    "company": "IKEA",
@@ -2682,6 +2694,24 @@
    "id": "526f78a8a7a5ff0010d6687f911407a2",
    "company": "Capri",
    "role": "Sales Associate",
+   "location": "Barcelona"
+  },
+  "198ceda93767912ada08dd5029d78b11": {
+   "id": "198ceda93767912ada08dd5029d78b11",
+   "company": "JYSK",
+   "role": "Vendedor/a - 20h - El Masnou",
+   "location": "Barcelona"
+  },
+  "6e5582a0f748b91b11d3b320734e9a6a": {
+   "id": "6e5582a0f748b91b11d3b320734e9a6a",
+   "company": "H&M",
+   "role": "Sales Advisor (24h - Contrato Temporal)",
+   "location": "Madrid"
+  },
+  "1e0006d1fca27880bf83bb0a28c63dc7": {
+   "id": "1e0006d1fca27880bf83bb0a28c63dc7",
+   "company": "H&M",
+   "role": "Sales Advisor (20 Horas)",
    "location": "Barcelona"
   },
   "3c4813aef37f29d1cc2c40f17e94b911": {
@@ -3116,42 +3146,6 @@
    "role": "Vendedor/a Moda Kiabi Salamanca Parque Comercial Atalaya Del Tormes (indefinido)",
    "location": "Salamanca"
   },
-  "9bcd07b34a17fa41ef5e3d21210aed69": {
-   "id": "9bcd07b34a17fa41ef5e3d21210aed69",
-   "company": "Kiabi",
-   "role": "Vendedor/a Moda Kiabi Sant Boi (fin De Semana)",
-   "location": "Barcelona"
-  },
-  "22e1f9ceb972e3bc4b964624fcd9417f": {
-   "id": "22e1f9ceb972e3bc4b964624fcd9417f",
-   "company": "Merkal Calzados S.L",
-   "role": "Vendedor/a 10 Horas Semanales",
-   "location": "Madrid"
-  },
-  "89ca809fefb21a7abd82ca610932e3fe": {
-   "id": "89ca809fefb21a7abd82ca610932e3fe",
-   "company": "Merkal Calzados S.L",
-   "role": "Vendedor/a 20 Horas Semanales",
-   "location": "Madrid"
-  },
-  "02e50e2f8067e79c4acf84bd8112a2b0": {
-   "id": "02e50e2f8067e79c4acf84bd8112a2b0",
-   "company": "Mango",
-   "role": "Vendedor/a - 25h Sabadell Woman",
-   "location": "Barcelona"
-  },
-  "e3c68f652b4a343b3e7a4594e2473215": {
-   "id": "e3c68f652b4a343b3e7a4594e2473215",
-   "company": "WH Smith PLC",
-   "role": "Asistente de ventas - Spain",
-   "location": "Madrid"
-  },
-  "a0da6ab8ce9964712da29cc9b6afde0d": {
-   "id": "a0da6ab8ce9964712da29cc9b6afde0d",
-   "company": "JYSK",
-   "role": "Jes - Especialista De Almacén",
-   "location": "Barcelona"
-  },
   "e3e697f560f3fa5fb845b94c18edf171": {
    "id": "e3e697f560f3fa5fb845b94c18edf171",
    "company": "Eulen S.A",
@@ -3343,42 +3337,6 @@
    "company": "Tnsi",
    "role": "Admin Assistant",
    "location": "Madrid"
-  },
-  "eb4bb1768e227d4599e39fd14285d62c": {
-   "id": "eb4bb1768e227d4599e39fd14285d62c",
-   "company": "ABB UK",
-   "role": "Administrative Support – Sales",
-   "location": "Trapagaran"
-  },
-  "ba2ef43e42f0159de29c4080b5400a83": {
-   "id": "ba2ef43e42f0159de29c4080b5400a83",
-   "company": "ABB Ltd",
-   "role": "Administrative Support – Sales",
-   "location": "Trapagaran"
-  },
-  "66398188076f17415cd2917a0cd18df3": {
-   "id": "66398188076f17415cd2917a0cd18df3",
-   "company": "Airbus Defence and Space SAU",
-   "role": "Secretary / Assistant",
-   "location": "Madrid"
-  },
-  "19f9bf1430caaede62b298ca74aa3223": {
-   "id": "19f9bf1430caaede62b298ca74aa3223",
-   "company": "Tokio Marine HCC",
-   "role": "Intern Tri Administrative Assistant",
-   "location": "Barcelona"
-  },
-  "f6e161762d5a82c7d23f2242230e9c3f": {
-   "id": "f6e161762d5a82c7d23f2242230e9c3f",
-   "company": "Worldtrips",
-   "role": "Admin Centre Assistant (fluent In French, English And Spanish)",
-   "location": "Barcelona"
-  },
-  "972eedfdfa969dd4719f7b5571c86518": {
-   "id": "972eedfdfa969dd4719f7b5571c86518",
-   "company": "Tokio Marine HCC",
-   "role": "Admin Centre Assistant (fluent In French, English And Spanish)",
-   "location": "Barcelona"
   }
  }
 }

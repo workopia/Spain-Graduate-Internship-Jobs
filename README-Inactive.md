@@ -3545,4 +3545,27 @@
 <tr><td>Danaher UK</td><td>Logistics & Administrative Coordinator</td><td>Madrid</td><td>2026-11-07</td></tr>
 <tr><td>Pall Corporation</td><td>Logistics & Administrative Coordinator</td><td>Madrid</td><td>2026-11-07</td></tr>
 <tr><td>Temporing</td><td>Administrativo/a De Soporte Comercial – Madrid</td><td>Madrid</td><td>2026-11-07</td></tr>
+<tr><td>Eurofins Scientific</td><td>Website And Content Migration Internship</td><td>Madrid</td><td>2026-11-08</td></tr>
+<tr><td>Schreiber Foods</td><td>Laboratory Intern</td><td>Noblejas</td><td>2026-11-08</td></tr>
+<tr><td>Johnson & Johnson</td><td>Learning And Development Internship</td><td>Madrid</td><td>2026-11-08</td></tr>
+<tr><td>Haier Europe</td><td>Otd - Gestión De Pedidos Intern</td><td>Barcelona</td><td>2026-11-08</td></tr>
+<tr><td>VIE-INDIA</td><td>Rotacion Externa Residente Getafe Noviembre 2026</td><td>Madrid</td><td>2026-11-08</td></tr>
+<tr><td>Hogan Lovells</td><td>Prácticas Full-time Litigación</td><td>Madrid</td><td>2026-11-08</td></tr>
+<tr><td>Telefonica</td><td>Practicas Academicas Telefonica</td><td>Spain</td><td>2026-11-08</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Prácticas F&b Kitchen - So/ Sotogrande</td><td>Sotogrande</td><td>2026-11-08</td></tr>
+<tr><td>Puratos</td><td>Sap Sd Support Analyst</td><td>Barcelona</td><td>2026-11-08</td></tr>
+<tr><td>THALES</td><td>Financial Analyst Intern</td><td>Madrid</td><td>2026-11-08</td></tr>
+<tr><td>Jobgether</td><td>Product Analyst</td><td>Spain</td><td>2026-11-08</td></tr>
+<tr><td>Kiabi</td><td>Vendedor/a Moda Kiabi Sant Boi (fin De Semana)</td><td>Barcelona</td><td>2026-11-08</td></tr>
+<tr><td>Merkal Calzados S.L</td><td>Vendedor/a 10 Horas Semanales</td><td>Madrid</td><td>2026-11-08</td></tr>
+<tr><td>Merkal Calzados S.L</td><td>Vendedor/a 20 Horas Semanales</td><td>Madrid</td><td>2026-11-08</td></tr>
+<tr><td>Mango</td><td>Vendedor/a - 25h Sabadell Woman</td><td>Barcelona</td><td>2026-11-08</td></tr>
+<tr><td>WH Smith PLC</td><td>Asistente de ventas - Spain</td><td>Madrid</td><td>2026-11-08</td></tr>
+<tr><td>JYSK</td><td>Jes - Especialista De Almacén</td><td>Barcelona</td><td>2026-11-08</td></tr>
+<tr><td>ABB UK</td><td>Administrative Support – Sales</td><td>Trapagaran</td><td>2026-11-08</td></tr>
+<tr><td>ABB Ltd</td><td>Administrative Support – Sales</td><td>Trapagaran</td><td>2026-11-08</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>Secretary / Assistant</td><td>Madrid</td><td>2026-11-08</td></tr>
+<tr><td>Tokio Marine HCC</td><td>Intern Tri Administrative Assistant</td><td>Barcelona</td><td>2026-11-08</td></tr>
+<tr><td>Worldtrips</td><td>Admin Centre Assistant (fluent In French, English And Spanish)</td><td>Barcelona</td><td>2026-11-08</td></tr>
+<tr><td>Tokio Marine HCC</td><td>Admin Centre Assistant (fluent In French, English And Spanish)</td><td>Barcelona</td><td>2026-11-08</td></tr>
 </table>
