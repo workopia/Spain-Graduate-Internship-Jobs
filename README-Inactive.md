@@ -3568,4 +3568,7 @@
 <tr><td>Tokio Marine HCC</td><td>Intern Tri Administrative Assistant</td><td>Barcelona</td><td>2026-11-08</td></tr>
 <tr><td>Worldtrips</td><td>Admin Centre Assistant (fluent In French, English And Spanish)</td><td>Barcelona</td><td>2026-11-08</td></tr>
 <tr><td>Tokio Marine HCC</td><td>Admin Centre Assistant (fluent In French, English And Spanish)</td><td>Barcelona</td><td>2026-11-08</td></tr>
+<tr><td>Boston Consulting Group</td><td>Forward Deployed Ai Engineer, Internship, Spain - Bcg X</td><td>Madrid</td><td>2026-11-09</td></tr>
+<tr><td>Eucalyptus</td><td>Prescriber (spanish Speaking)</td><td>Barcelona</td><td>2026-11-09</td></tr>
+<tr><td>Tnsi</td><td>Admin Assistant</td><td>Madrid</td><td>2026-11-09</td></tr>
 </table>

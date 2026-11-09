@@ -9,11 +9,11 @@
   "site_slug": "spain",
   "lang": "es",
   "site_live": false,
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 4595,
-  "generated_at": "2026-11-08T00:52:23.212Z"
+  "country_live_total": 4588,
+  "generated_at": "2026-11-09T01:00:19.150Z"
  },
  "categories": [
   {
@@ -2944,23 +2944,6 @@
    "date_posted": "2026-09-10T23:58:29.417Z",
    "active": true,
    "url": "https://workopia.io/jobs/c4b1b896fd8a118344c15ded864765c2",
-   "category": "data",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "7809e105f607bd3c9cb344545f31a723",
-   "source": "Workopia",
-   "company_name": "Boston Consulting Group",
-   "company_hi_slug": "boston-consulting-group",
-   "title": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
-   "location": "Madrid",
-   "skills": "software development p, large-scale data analy",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-09T07:55:50.263Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/7809e105f607bd3c9cb344545f31a723",
    "category": "data",
    "tier": "Intern"
   },
@@ -6247,23 +6230,6 @@
   },
   {
    "salary_display": null,
-   "id": "e8d564d10bc6cbd86a44fae446cfdd9b",
-   "source": "Workopia",
-   "company_name": "Eucalyptus",
-   "company_hi_slug": "eucalyptus",
-   "title": "Prescriber (spanish Speaking)",
-   "location": "Barcelona",
-   "skills": "Asynchronous text-base, Weight-loss medication",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-09T09:22:35.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/e8d564d10bc6cbd86a44fae446cfdd9b",
-   "category": "healthcare",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
    "id": "19e4246247c197e2790a3b5bfdf32cab",
    "source": "Workopia",
    "company_name": "Veolia Environnement SA",
@@ -9506,23 +9472,6 @@
    "date_posted": "2026-09-14T08:10:12.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/96acc0379a69b26af3928602f1cad0f1",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "cf23d40e60f35dd03aa5133f2ecdc4b0",
-   "source": "Workopia",
-   "company_name": "Tnsi",
-   "company_hi_slug": "tnsi",
-   "title": "Admin Assistant",
-   "location": "Madrid",
-   "skills": "office administration, customer and supplier ",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-09T16:43:44.652Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/cf23d40e60f35dd03aa5133f2ecdc4b0",
    "category": "admin",
    "tier": "Entry-level"
   }

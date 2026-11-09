@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-08",
- "count": 556,
+ "asOf": "2026-11-09",
+ "count": 553,
  "jobs": {
   "4a8d82c78c7682d2665c6ccaecf70d47": {
    "id": "4a8d82c78c7682d2665c6ccaecf70d47",
@@ -1015,12 +1015,6 @@
    "company": "TD SYNNEX Accessboard",
    "role": "Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)",
    "location": "Barcelona"
-  },
-  "7809e105f607bd3c9cb344545f31a723": {
-   "id": "7809e105f607bd3c9cb344545f31a723",
-   "company": "Boston Consulting Group",
-   "role": "Forward Deployed Ai Engineer, Internship, Spain - Bcg X",
-   "location": "Madrid"
   },
   "486375b3440a90b4e318f1011cd1ac48": {
    "id": "486375b3440a90b4e318f1011cd1ac48",
@@ -2180,12 +2174,6 @@
    "role": "Flebologia / Medicina General - Centro Privado, Barcelona",
    "location": "Barcelona"
   },
-  "e8d564d10bc6cbd86a44fae446cfdd9b": {
-   "id": "e8d564d10bc6cbd86a44fae446cfdd9b",
-   "company": "Eucalyptus",
-   "role": "Prescriber (spanish Speaking)",
-   "location": "Barcelona"
-  },
   "19e4246247c197e2790a3b5bfdf32cab": {
    "id": "19e4246247c197e2790a3b5bfdf32cab",
    "company": "Veolia Environnement SA",
@@ -3331,12 +3319,6 @@
    "company": "Temporing",
    "role": "Auxiliar Administrativo/a",
    "location": "Biar"
-  },
-  "cf23d40e60f35dd03aa5133f2ecdc4b0": {
-   "id": "cf23d40e60f35dd03aa5133f2ecdc4b0",
-   "company": "Tnsi",
-   "role": "Admin Assistant",
-   "location": "Madrid"
   }
  }
 }
