@@ -3571,4 +3571,23 @@
 <tr><td>Boston Consulting Group</td><td>Forward Deployed Ai Engineer, Internship, Spain - Bcg X</td><td>Madrid</td><td>2026-11-09</td></tr>
 <tr><td>Eucalyptus</td><td>Prescriber (spanish Speaking)</td><td>Barcelona</td><td>2026-11-09</td></tr>
 <tr><td>Tnsi</td><td>Admin Assistant</td><td>Madrid</td><td>2026-11-09</td></tr>
+<tr><td>FTI Consulting</td><td>Intern, Economic & Financial Consulting</td><td>Madrid</td><td>2026-11-10</td></tr>
+<tr><td>FTI Consulting</td><td>Intern, Construction Solutions, Forensic Litigation Consulting</td><td>Madrid</td><td>2026-11-10</td></tr>
+<tr><td>FTI Consulting</td><td>Intern, Cybersecurity, Forensic & Litigation Consulting</td><td>Madrid</td><td>2026-11-10</td></tr>
+<tr><td>FTI Consulting</td><td>Intern, Strategic Communications, Public Affairs</td><td>Madrid</td><td>2026-11-10</td></tr>
+<tr><td>FTI Consulting</td><td>Intern (mba), Business Transformation</td><td>Madrid</td><td>2026-11-10</td></tr>
+<tr><td>Schneider Electric</td><td>Prácticas En Smart Factory Y Ciberseguridad Stp27</td><td>Catalonia</td><td>2026-11-10</td></tr>
+<tr><td>Schneider Electric</td><td>Planning & Warehousing - Supply Chain Intern Stp27</td><td>Valencian Community</td><td>2026-11-10</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Veterinary - February/march 2027</td><td>Esplugues Llobregat</td><td>2026-11-10</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Operations - February/march 2027</td><td>Esplugues Llobregat</td><td>2026-11-10</td></tr>
+<tr><td>serveo</td><td>Beca Energía - Madrid Ii 1</td><td>Madrid</td><td>2026-11-10</td></tr>
+<tr><td>NetApp</td><td>Professional Services & End User Services Intern</td><td>Madrid</td><td>2026-11-10</td></tr>
+<tr><td>Criteo</td><td>Sales Strategy Analyst Intern</td><td>Barcelona</td><td>2026-11-10</td></tr>
+<tr><td>Halfspace ApS</td><td>Ai - Software Engineer</td><td>Madrid</td><td>2026-11-10</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)</td><td>Barcelona</td><td>2026-11-10</td></tr>
+<tr><td>Barclays</td><td>Banking Off Cycle Internship Programme 2027 Madrid</td><td>Madrid</td><td>2026-11-10</td></tr>
+<tr><td>EssilorLuxottica</td><td>Sales Analyst Trainee</td><td>Barcelona</td><td>2026-11-10</td></tr>
+<tr><td>EasySalud</td><td>Flebologia / Medicina General - Centro Privado, Barcelona</td><td>Barcelona</td><td>2026-11-10</td></tr>
+<tr><td>Schindler Group</td><td>Técnico/a De Mantenimiento - Barcelona</td><td>Barcelona</td><td>2026-11-10</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Barcelona</td><td>2026-11-10</td></tr>
 </table>
