@@ -1,7 +1,61 @@
 {
- "asOf": "2026-11-10",
- "count": 550,
+ "asOf": "2026-11-11",
+ "count": 551,
  "jobs": {
+  "4402942b12f21b74336b87a08a5ac866": {
+   "id": "4402942b12f21b74336b87a08a5ac866",
+   "company": "ENGIE España",
+   "role": "It & Digital Management Internship",
+   "location": "Madrid +1"
+  },
+  "1854d57d902106892d43371e4736bb41": {
+   "id": "1854d57d902106892d43371e4736bb41",
+   "company": "ENGIE España",
+   "role": "Stt Intern",
+   "location": "Madrid"
+  },
+  "95bee33bf34a6715039793270aebb18c": {
+   "id": "95bee33bf34a6715039793270aebb18c",
+   "company": "ENGIE España",
+   "role": "Compliance Intern",
+   "location": "Madrid"
+  },
+  "26190ae87f1a3fa0f89f407591bed9cc": {
+   "id": "26190ae87f1a3fa0f89f407591bed9cc",
+   "company": "ENGIE España",
+   "role": "Talent Acquisition Internship",
+   "location": "Madrid"
+  },
+  "a0762784ce8c915c1e431e74eb8cef3d": {
+   "id": "a0762784ce8c915c1e431e74eb8cef3d",
+   "company": "HP",
+   "role": "Ai & Automation Intern",
+   "location": "Barcelona +1"
+  },
+  "067e1387803896973b4612394bff48a2": {
+   "id": "067e1387803896973b4612394bff48a2",
+   "company": "Barcelo",
+   "role": "Prácticas Revenue Management - Clúster Madrid",
+   "location": "Madrid"
+  },
+  "bcc7cc42d2d2ee31bb05c945cf603dc5": {
+   "id": "bcc7cc42d2d2ee31bb05c945cf603dc5",
+   "company": "Johnson & Johnson UK",
+   "role": "Customer Service Intern",
+   "location": "Madrid"
+  },
+  "d9ee2c25f6ebbd326145705938529c92": {
+   "id": "d9ee2c25f6ebbd326145705938529c92",
+   "company": "Mandarin Oriental Hotel Group",
+   "role": "Practicas - People & Culture/ Hr Trainee- Internship. Starting February.",
+   "location": "Barcelona"
+  },
+  "4c4d03d86738dea5a4775fcf4e77bc12": {
+   "id": "4c4d03d86738dea5a4775fcf4e77bc12",
+   "company": "Bertrandt Group",
+   "role": "Requirements & Safety Documentation - Intern",
+   "location": "28906"
+  },
   "35ffb6fa3c65cec6fb390fa7f3b8ecb9": {
    "id": "35ffb6fa3c65cec6fb390fa7f3b8ecb9",
    "company": "Hydeparkbank",
@@ -62,6 +116,42 @@
    "role": "#discover I 2027-2028 Maintenance Programs (powerplant) Internship",
    "location": "Getafe Area"
   },
+  "caf892d3fcae85d28ab482c86dbcfe7d": {
+   "id": "caf892d3fcae85d28ab482c86dbcfe7d",
+   "company": "Sofitel Sydney Wentworth",
+   "role": "Kitchen Internship",
+   "location": "Barcelona"
+  },
+  "a08791149108d8bb1e1fcf46ed3298ca": {
+   "id": "a08791149108d8bb1e1fcf46ed3298ca",
+   "company": "Sofitel Sydney Wentworth",
+   "role": "Food & Beverage Internship",
+   "location": "Barcelona"
+  },
+  "942c1ccb049d5b805cde0478f12d6796": {
+   "id": "942c1ccb049d5b805cde0478f12d6796",
+   "company": "Sofitel Sydney Wentworth",
+   "role": "Finance Internship",
+   "location": "Barcelona"
+  },
+  "f956fb75a5afeedefabbff3c7566e112": {
+   "id": "f956fb75a5afeedefabbff3c7566e112",
+   "company": "Sofitel Sydney Wentworth",
+   "role": "Front Office Internship",
+   "location": "Barcelona +1"
+  },
+  "498585a4acc13d3814507443a9938147": {
+   "id": "498585a4acc13d3814507443a9938147",
+   "company": "Accor",
+   "role": "Front Office Internship",
+   "location": "Barcelona"
+  },
+  "e349f6bbb7440296090edb730800ae4f": {
+   "id": "e349f6bbb7440296090edb730800ae4f",
+   "company": "Sofitel Sydney Wentworth",
+   "role": "Reservation Internship",
+   "location": "Barcelona"
+  },
   "0c2b7227f625f9dfeda3243425d25193": {
    "id": "0c2b7227f625f9dfeda3243425d25193",
    "company": "SAP SE",
@@ -116,12 +206,6 @@
    "role": "Game Cinematic Artist Intern",
    "location": "Barcelona"
   },
-  "76004805e6e6b0a9c81bde8b5a34c231": {
-   "id": "76004805e6e6b0a9c81bde8b5a34c231",
-   "company": "Sofitel Sydney Wentworth",
-   "role": "Front Office Internship",
-   "location": "Barcelona"
-  },
   "f378a89345ffe112a14afcea8e456e73": {
    "id": "f378a89345ffe112a14afcea8e456e73",
    "company": "Testia",
@@ -139,6 +223,12 @@
    "company": "Jobsathpe",
    "role": "Ai And Data Intern",
    "location": "Madrid"
+  },
+  "0bc9778ddb587e737ac2ba8ce8bbb624": {
+   "id": "0bc9778ddb587e737ac2ba8ce8bbb624",
+   "company": "Allianz SE",
+   "role": "Risk Shield Intern",
+   "location": "Barcelona"
   },
   "5080cd27581a7995c9801247218743c8": {
    "id": "5080cd27581a7995c9801247218743c8",
@@ -392,96 +482,6 @@
    "role": "Becario/a De Calidad",
    "location": "Sede"
   },
-  "0b592468d48e8669860e17e060aa2e18": {
-   "id": "0b592468d48e8669860e17e060aa2e18",
-   "company": "Cushman & Wakefield",
-   "role": "Eic Intern",
-   "location": "Madrid"
-  },
-  "82de55369fbe6d5555d877372258caed": {
-   "id": "82de55369fbe6d5555d877372258caed",
-   "company": "Johnson & Johnson",
-   "role": "Local Medical Safety Internship",
-   "location": "Madrid"
-  },
-  "c0571b5bcf81b16ba96cf6ce007a00e4": {
-   "id": "c0571b5bcf81b16ba96cf6ce007a00e4",
-   "company": "Publicis Sapient",
-   "role": "Advanced Analytics Intern",
-   "location": "Partenon"
-  },
-  "7f4503a5957439ce1e4405dfdccb607e": {
-   "id": "7f4503a5957439ce1e4405dfdccb607e",
-   "company": "Ferrovial SE",
-   "role": "It Cost Control, Budget & Analytics Internship",
-   "location": "Madrid"
-  },
-  "0ad1e1714f26320705ecd076f643ce61": {
-   "id": "0ad1e1714f26320705ecd076f643ce61",
-   "company": "ferromallas.es",
-   "role": "Ai Engineer Internship",
-   "location": "Madrid"
-  },
-  "4c70e49aed17bd90916bbd59c4440c5e": {
-   "id": "4c70e49aed17bd90916bbd59c4440c5e",
-   "company": "Ferrovial SE",
-   "role": "Ai Program Internship",
-   "location": "Madrid"
-  },
-  "02cf9787b13e42fe46117b1fe39ea900": {
-   "id": "02cf9787b13e42fe46117b1fe39ea900",
-   "company": "DIA",
-   "role": "Becario/a De Consolidación Y Reporting",
-   "location": "Sede"
-  },
-  "d4771e262531ff2f1e3634e3ea031b12": {
-   "id": "d4771e262531ff2f1e3634e3ea031b12",
-   "company": "Ametller Origen",
-   "role": "Pràctiques Al Departament De Compres",
-   "location": "Olerdola"
-  },
-  "d4d761926096e1399b92e1b3f4d5a1ce": {
-   "id": "d4d761926096e1399b92e1b3f4d5a1ce",
-   "company": "Criteo",
-   "role": "Account Strategist France Intern",
-   "location": "Barcelona"
-  },
-  "b5bd60c6f8d75ffc8b6197ac9aff75ba": {
-   "id": "b5bd60c6f8d75ffc8b6197ac9aff75ba",
-   "company": "Nestle SA",
-   "role": "Spain Youth / Internship It - February/march 2027",
-   "location": "Esplugues Llobregat"
-  },
-  "f1bbcb44ff3b0e1cd0084edfbc1bac7c": {
-   "id": "f1bbcb44ff3b0e1cd0084edfbc1bac7c",
-   "company": "Nestle SA",
-   "role": "Spain Youth / Internship Kitchen - February/march 2027",
-   "location": "Esplugues Llobregat"
-  },
-  "b23ca046d43d055c6f12e5acce8e9cbb": {
-   "id": "b23ca046d43d055c6f12e5acce8e9cbb",
-   "company": "Schneider Electric",
-   "role": "Manufacturing Quality Assurance Intern Stp27",
-   "location": "Catalonia"
-  },
-  "decbde846110062aa23a4d7f4bed0ee1": {
-   "id": "decbde846110062aa23a4d7f4bed0ee1",
-   "company": "Apple",
-   "role": "Internship - Machine Learning Research (recurrent Models / Generative Models / Interpretability)",
-   "location": "Spain"
-  },
-  "bdc2ed3e4ae3846a251edc96271d8bae": {
-   "id": "bdc2ed3e4ae3846a251edc96271d8bae",
-   "company": "European Space Agency",
-   "role": "Intern In The Space Safety Programme - Clean Space Office",
-   "location": "Noordwijk +1"
-  },
-  "dd79a13d5e57488c9e19782fb30e0b53": {
-   "id": "dd79a13d5e57488c9e19782fb30e0b53",
-   "company": "Hilton Worldwide",
-   "role": "Hotel Management (operations) - Internship",
-   "location": "Barcelona"
-  },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
    "company": "Monolithic Power Systems",
@@ -492,6 +492,18 @@
    "id": "7257995e6171da55b3175d4463e91128",
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
+   "location": "Barcelona"
+  },
+  "467290e5f0b93725ba32b23f75554c16": {
+   "id": "467290e5f0b93725ba32b23f75554c16",
+   "company": "Roche Holding AG",
+   "role": "Medical Software Engineer - Complaint Handling",
+   "location": "Sant Cugat Del VallèS +1"
+  },
+  "2e57a0f001a161f27c41e4e58a00cb69": {
+   "id": "2e57a0f001a161f27c41e4e58a00cb69",
+   "company": "Puratos",
+   "role": "Sap Sd Support Analyst",
    "location": "Barcelona"
   },
   "183971acdeda143b6b6096c6d8d29949": {
@@ -654,6 +666,12 @@
    "id": "9582cf0c69b8c399b36d7b626698a131",
    "company": "Sanofi",
    "role": "Software Engineer Specialist - Data And Ai",
+   "location": "Barcelona"
+  },
+  "f8504be1cce6876f4ca989e23bfdd316": {
+   "id": "f8504be1cce6876f4ca989e23bfdd316",
+   "company": "Allianz SE",
+   "role": "Forward Deployed Engineer(m/f/d)",
    "location": "Barcelona"
   },
   "0d8d43be2a56ed8b5cf99d0b658a4b7f": {
@@ -956,24 +974,6 @@
    "role": "Software Engineer - Crypto",
    "location": "Spain"
   },
-  "562949978453440": {
-   "id": "562949978453440",
-   "company": "Bayer",
-   "role": "Clinical Project Support Specialist",
-   "location": "Barcelona"
-  },
-  "2e45d72a3e28c67f12abef599ca408ac": {
-   "id": "2e45d72a3e28c67f12abef599ca408ac",
-   "company": "Sanofi Consumer Healthcare",
-   "role": "Data And Ai Software Engineer Specialist",
-   "location": "Barcelona"
-  },
-  "363a4fd727a992f2509b7e2112ccdc38": {
-   "id": "363a4fd727a992f2509b7e2112ccdc38",
-   "company": "Larian Studios",
-   "role": "Junior Graphics Programmer",
-   "location": "Barcelona"
-  },
   "dc519a81216b405e2abd1d71cb1426d5": {
    "id": "dc519a81216b405e2abd1d71cb1426d5",
    "company": "Celonis",
@@ -998,6 +998,12 @@
    "role": "Internship - Data Analyst",
    "location": "Barcelona"
   },
+  "39faba34fe21e460a80947f3abd1e62d": {
+   "id": "39faba34fe21e460a80947f3abd1e62d",
+   "company": "Allianz Technology",
+   "role": "L&d Ai & Tech Intern (m/f/d)",
+   "location": "Barcelona"
+  },
   "a252bfd125a553751a31d607ad48a774": {
    "id": "a252bfd125a553751a31d607ad48a774",
    "company": "TD SYNNEX",
@@ -1020,6 +1026,18 @@
    "id": "55f3dcd0d7c38e0a644b149830c60153",
    "company": "Ericsson",
    "role": "Data Scientist (early Career Program)",
+   "location": "Madrid"
+  },
+  "42c366c4c9519a3f010477eef7ae4246": {
+   "id": "42c366c4c9519a3f010477eef7ae4246",
+   "company": "Veolia Environnement SA",
+   "role": "Ingeniero Informático Y Analista De Datos.",
+   "location": "Torremolinos +1"
+  },
+  "215077d1039ed8949834e72cc854a889": {
+   "id": "215077d1039ed8949834e72cc854a889",
+   "company": "Bertrandt Group",
+   "role": "Data Analyst",
    "location": "Madrid"
   },
   "a0f188088c56ae4ecfbfba4eea7009d2": {
@@ -1490,18 +1508,6 @@
    "role": "Beca Control De Gestión Y Data Analytics",
    "location": "Madrid"
   },
-  "09999fee2dcc55440f5a91da8dc7a2b3": {
-   "id": "09999fee2dcc55440f5a91da8dc7a2b3",
-   "company": "IOM",
-   "role": "Analista De Datos",
-   "location": "Madrid"
-  },
-  "4753343c958c38e7d55743630d3048bc": {
-   "id": "4753343c958c38e7d55743630d3048bc",
-   "company": "DWS Group",
-   "role": "Data Analyst, Associate",
-   "location": "Madrid"
-  },
   "ba1bd12781f1024b8caa3210b39763f4": {
    "id": "ba1bd12781f1024b8caa3210b39763f4",
    "company": "Alantra",
@@ -1664,6 +1670,12 @@
    "role": "Accountant Trainee",
    "location": "Barcelona"
   },
+  "10e6d85cf2823f556eb8674a7450b3d1": {
+   "id": "10e6d85cf2823f556eb8674a7450b3d1",
+   "company": "Techsyndicate Inc",
+   "role": "Consult Partner Banking & Insurance",
+   "location": "Madrid"
+  },
   "5569db1a2aa80a8e74611c5a15f3ae5c": {
    "id": "5569db1a2aa80a8e74611c5a15f3ae5c",
    "company": "Jobgether",
@@ -1753,6 +1765,12 @@
    "company": "MSX International Ltd",
    "role": "Consultor/a Junior Para Servicios De Movilidad",
    "location": "Madrid"
+  },
+  "64e6bfe17675ae36cb4197350e896d0f": {
+   "id": "64e6bfe17675ae36cb4197350e896d0f",
+   "company": "Verisure S.A.",
+   "role": "Product Analyst",
+   "location": "Pozuelo De AlarcóN +1"
   },
   "45807bfca0983dd82997d80d53279f6f": {
    "id": "45807bfca0983dd82997d80d53279f6f",
@@ -1856,6 +1874,12 @@
    "role": "Accountant",
    "location": "Barcelona"
   },
+  "cd4cc319da39939f944fecd2f636df96": {
+   "id": "cd4cc319da39939f944fecd2f636df96",
+   "company": "Allianz SE",
+   "role": "Analista Conectividad",
+   "location": "Madrid +1"
+  },
   "145f9ee5ac1c7f43cd952fa36307daa5": {
    "id": "145f9ee5ac1c7f43cd952fa36307daa5",
    "company": "689",
@@ -1933,6 +1957,12 @@
    "company": "SGS UK",
    "role": "Business Analyst",
    "location": "Madrid"
+  },
+  "d3aa4d679d136cd9b693adaa8daf15b0": {
+   "id": "d3aa4d679d136cd9b693adaa8daf15b0",
+   "company": "Verisure S.A.",
+   "role": "Consultor/a Customer Insights",
+   "location": "Pozuelo De AlarcóN +1"
   },
   "0fec44933aef63393f62e1fffd29a94d": {
    "id": "0fec44933aef63393f62e1fffd29a94d",
@@ -2120,34 +2150,34 @@
    "role": "Cloud Catalog And Product Analyst",
    "location": "Barcelona"
   },
-  "63778c875e8d2db156089c7f046f141c": {
-   "id": "63778c875e8d2db156089c7f046f141c",
-   "company": "Zurich Insurance UK",
-   "role": "Consultor/a Seguros Previsión Social Empresas",
-   "location": "Madrid"
-  },
-  "b1f286d14ef2604b5dce89a22afa1664": {
-   "id": "b1f286d14ef2604b5dce89a22afa1664",
-   "company": "Houseoftechcommunity",
-   "role": "Cloud Catalog And Product Analyst",
-   "location": "Barcelona"
-  },
-  "8a6160b573e2346f2b957062b4805f76": {
-   "id": "8a6160b573e2346f2b957062b4805f76",
-   "company": "Vetamc",
-   "role": "Beca En Análisis Y Planificación Financiera",
-   "location": "Madrid"
-  },
-  "81b08f709c0072aab47d094ac1b776c6": {
-   "id": "81b08f709c0072aab47d094ac1b776c6",
-   "company": "Sopra Steria UK",
-   "role": "Consultor/a Sap Bw Con Inglés Alto",
-   "location": "Madrid"
-  },
   "fe4facdc272599509ea02cd772036b40": {
    "id": "fe4facdc272599509ea02cd772036b40",
    "company": "EUROPREVEN",
    "role": "Médico/a De Vigilancia De La Salud",
+   "location": "Barcelona"
+  },
+  "02207f3d97e9e912be898a454ea2bbdc": {
+   "id": "02207f3d97e9e912be898a454ea2bbdc",
+   "company": "ENGIE España",
+   "role": "Técnico/a De Mantenimiento",
+   "location": "Barcelona"
+  },
+  "ef96b5776abb7d7ee118b7b853ebdf7f": {
+   "id": "ef96b5776abb7d7ee118b7b853ebdf7f",
+   "company": "ENGIE España",
+   "role": "Tecnico/a De Mantenimiento Polivalente",
+   "location": "Madrid"
+  },
+  "50f6a836751f98d897eb334d08690260": {
+   "id": "50f6a836751f98d897eb334d08690260",
+   "company": "ENGIE España",
+   "role": "Técnico/a De Mantenimiento Planta Industrial",
+   "location": "Zaragoza"
+  },
+  "f465c50501120aaf5b997dc99b4927d3": {
+   "id": "f465c50501120aaf5b997dc99b4927d3",
+   "company": "ENGIE España",
+   "role": "Tecnico/a De Mantenimiento De Planta Industrial (temporal)",
    "location": "Barcelona"
   },
   "2af9135907111c3628561efefe811171": {
@@ -2606,28 +2636,10 @@
    "role": "Junior Business Development Technician - Madrid",
    "location": "Madrid"
   },
-  "7dffcbd9b8bde648c3eb7fbe5a498014": {
-   "id": "7dffcbd9b8bde648c3eb7fbe5a498014",
-   "company": "Veolia Environnement SA",
-   "role": "Técnico/a De Mantenimiento De Pci (protección Contra Incendios)",
-   "location": "Malaga"
-  },
-  "3be7e2a0801b68a24e7ff0f9f2eb8175": {
-   "id": "3be7e2a0801b68a24e7ff0f9f2eb8175",
-   "company": "Indra group",
-   "role": "Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada",
-   "location": "Salamanca"
-  },
-  "a4121c5a22fc7bcb79fbf441f71f03e1": {
-   "id": "a4121c5a22fc7bcb79fbf441f71f03e1",
-   "company": "Grupo Hotusa",
-   "role": "Técnico/a De Mantenimiento Hotel 4* - Barcelona",
-   "location": "Barcelona"
-  },
-  "e567804edd6b55026b5cbc17f6237121": {
-   "id": "e567804edd6b55026b5cbc17f6237121",
-   "company": "Danfoss AS",
-   "role": "Service Engineer",
+  "e3fa4da5dfa23089494a884a482e0aa2": {
+   "id": "e3fa4da5dfa23089494a884a482e0aa2",
+   "company": "Capri",
+   "role": "Sales Associate – Concession (mañanas/findes Rotativos) / 24h / Barcelona",
    "location": "Barcelona"
   },
   "afb76eee9808716d2a7b3d9e5f171b1a": {
@@ -3103,12 +3115,6 @@
    "company": "Lidl & Kaufland Asia",
    "role": "Asistente De Almacén 40h Martorell",
    "location": "Barcelona"
-  },
-  "bf5e5364bd9eb2948d4ea36304cf1130": {
-   "id": "bf5e5364bd9eb2948d4ea36304cf1130",
-   "company": "Kiabi",
-   "role": "Vendedor/a Moda Kiabi Salamanca Parque Comercial Atalaya Del Tormes (indefinido)",
-   "location": "Salamanca"
   },
   "ca2f3e6ecd97552f41a3cd443e807235": {
    "id": "ca2f3e6ecd97552f41a3cd443e807235",

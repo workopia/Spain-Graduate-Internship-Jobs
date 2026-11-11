@@ -3590,4 +3590,34 @@
 <tr><td>EasySalud</td><td>Flebologia / Medicina General - Centro Privado, Barcelona</td><td>Barcelona</td><td>2026-11-10</td></tr>
 <tr><td>Schindler Group</td><td>Técnico/a De Mantenimiento - Barcelona</td><td>Barcelona</td><td>2026-11-10</td></tr>
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Barcelona</td><td>2026-11-10</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Front Office Internship</td><td>Barcelona</td><td>2026-11-11</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Eic Intern</td><td>Madrid</td><td>2026-11-11</td></tr>
+<tr><td>Johnson & Johnson</td><td>Local Medical Safety Internship</td><td>Madrid</td><td>2026-11-11</td></tr>
+<tr><td>Publicis Sapient</td><td>Advanced Analytics Intern</td><td>Partenon</td><td>2026-11-11</td></tr>
+<tr><td>Ferrovial SE</td><td>It Cost Control, Budget & Analytics Internship</td><td>Madrid</td><td>2026-11-11</td></tr>
+<tr><td>ferromallas.es</td><td>Ai Engineer Internship</td><td>Madrid</td><td>2026-11-11</td></tr>
+<tr><td>Ferrovial SE</td><td>Ai Program Internship</td><td>Madrid</td><td>2026-11-11</td></tr>
+<tr><td>DIA</td><td>Becario/a De Consolidación Y Reporting</td><td>Sede</td><td>2026-11-11</td></tr>
+<tr><td>Ametller Origen</td><td>Pràctiques Al Departament De Compres</td><td>Olerdola</td><td>2026-11-11</td></tr>
+<tr><td>Criteo</td><td>Account Strategist France Intern</td><td>Barcelona</td><td>2026-11-11</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship It - February/march 2027</td><td>Esplugues Llobregat</td><td>2026-11-11</td></tr>
+<tr><td>Nestle SA</td><td>Spain Youth / Internship Kitchen - February/march 2027</td><td>Esplugues Llobregat</td><td>2026-11-11</td></tr>
+<tr><td>Schneider Electric</td><td>Manufacturing Quality Assurance Intern Stp27</td><td>Catalonia</td><td>2026-11-11</td></tr>
+<tr><td>Apple</td><td>Internship - Machine Learning Research (recurrent Models / Generative Models / Interpretability)</td><td>Spain</td><td>2026-11-11</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Space Safety Programme - Clean Space Office</td><td>Noordwijk +1</td><td>2026-11-11</td></tr>
+<tr><td>Hilton Worldwide</td><td>Hotel Management (operations) - Internship</td><td>Barcelona</td><td>2026-11-11</td></tr>
+<tr><td>Bayer</td><td>Clinical Project Support Specialist</td><td>Barcelona</td><td>2026-11-11</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Data And Ai Software Engineer Specialist</td><td>Barcelona</td><td>2026-11-11</td></tr>
+<tr><td>Larian Studios</td><td>Junior Graphics Programmer</td><td>Barcelona</td><td>2026-11-11</td></tr>
+<tr><td>IOM</td><td>Analista De Datos</td><td>Madrid</td><td>2026-11-11</td></tr>
+<tr><td>DWS Group</td><td>Data Analyst, Associate</td><td>Madrid</td><td>2026-11-11</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Consultor/a Seguros Previsión Social Empresas</td><td>Madrid</td><td>2026-11-11</td></tr>
+<tr><td>Houseoftechcommunity</td><td>Cloud Catalog And Product Analyst</td><td>Barcelona</td><td>2026-11-11</td></tr>
+<tr><td>Vetamc</td><td>Beca En Análisis Y Planificación Financiera</td><td>Madrid</td><td>2026-11-11</td></tr>
+<tr><td>Sopra Steria UK</td><td>Consultor/a Sap Bw Con Inglés Alto</td><td>Madrid</td><td>2026-11-11</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Técnico/a De Mantenimiento De Pci (protección Contra Incendios)</td><td>Malaga</td><td>2026-11-11</td></tr>
+<tr><td>Indra group</td><td>Técnico/a De Mantenimiento Para Simuladores De Vuelo - Coslada</td><td>Salamanca</td><td>2026-11-11</td></tr>
+<tr><td>Grupo Hotusa</td><td>Técnico/a De Mantenimiento Hotel 4* - Barcelona</td><td>Barcelona</td><td>2026-11-11</td></tr>
+<tr><td>Danfoss AS</td><td>Service Engineer</td><td>Barcelona</td><td>2026-11-11</td></tr>
+<tr><td>Kiabi</td><td>Vendedor/a Moda Kiabi Salamanca Parque Comercial Atalaya Del Tormes (indefinido)</td><td>Salamanca</td><td>2026-11-11</td></tr>
 </table>
