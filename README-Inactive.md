@@ -3620,4 +3620,18 @@
 <tr><td>Grupo Hotusa</td><td>Técnico/a De Mantenimiento Hotel 4* - Barcelona</td><td>Barcelona</td><td>2026-11-11</td></tr>
 <tr><td>Danfoss AS</td><td>Service Engineer</td><td>Barcelona</td><td>2026-11-11</td></tr>
 <tr><td>Kiabi</td><td>Vendedor/a Moda Kiabi Salamanca Parque Comercial Atalaya Del Tormes (indefinido)</td><td>Salamanca</td><td>2026-11-11</td></tr>
+<tr><td>SAP SE</td><td>Diploma Student / Intern</td><td>Barcelona</td><td>2026-11-12</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#discover I 2027-2028 A400m Mro Manufacturing Engineering Processes Intern</td><td>Sevilla Area</td><td>2026-11-12</td></tr>
+<tr><td>Barcelo</td><td>Icex Internship Programme 2027 - Barceló Hotel Group</td><td>Mallorca</td><td>2026-11-12</td></tr>
+<tr><td>Schneider Electric</td><td>Ai Tools & Sales Operations Tracking Intern</td><td>Catalonia</td><td>2026-11-12</td></tr>
+<tr><td>Celonis</td><td>Intern Strategic Program Management</td><td>Madrid</td><td>2026-11-12</td></tr>
+<tr><td>DIA</td><td>Becario/a De Calidad</td><td>Sede</td><td>2026-11-12</td></tr>
+<tr><td>Glovo</td><td>Software Engineer I</td><td>Barcelona</td><td>2026-11-12</td></tr>
+<tr><td>ISGlobal</td><td>Software Engineer Epi-flare</td><td>Barcelona</td><td>2026-11-12</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Crypto</td><td>Spain</td><td>2026-11-12</td></tr>
+<tr><td>Thales Group</td><td>Financial Analyst Intern</td><td>Madrid</td><td>2026-11-12</td></tr>
+<tr><td>SGS UK</td><td>Business Analyst</td><td>Madrid</td><td>2026-11-12</td></tr>
+<tr><td>serveo</td><td>Junior Business Development Technician - Madrid</td><td>Madrid</td><td>2026-11-12</td></tr>
+<tr><td>Gianni Versace</td><td>Sales Associate – Plaza Cataluña / 30hs Acc</td><td>Barcelona</td><td>2026-11-12</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Asistente De Almacén 40h Martorell</td><td>Barcelona</td><td>2026-11-12</td></tr>
 </table>
