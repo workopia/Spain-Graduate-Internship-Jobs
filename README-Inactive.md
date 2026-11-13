@@ -3634,4 +3634,29 @@
 <tr><td>serveo</td><td>Junior Business Development Technician - Madrid</td><td>Madrid</td><td>2026-11-12</td></tr>
 <tr><td>Gianni Versace</td><td>Sales Associate – Plaza Cataluña / 30hs Acc</td><td>Barcelona</td><td>2026-11-12</td></tr>
 <tr><td>Lidl & Kaufland Asia</td><td>Asistente De Almacén 40h Martorell</td><td>Barcelona</td><td>2026-11-12</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Group Audit Operations Intern</td><td>Barcelona</td><td>2026-11-13</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Big Data Developer Intern</td><td>Barcelona</td><td>2026-11-13</td></tr>
+<tr><td>Barcelo</td><td>Prácticas Icex - Operaciones Regional Islas Baleares</td><td>Mallorca</td><td>2026-11-13</td></tr>
+<tr><td>Coty Inc</td><td>Data Analyst And Digitalization Intern</td><td>Barcelona</td><td>2026-11-13</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Big Data Developer Intern</td><td>Barcelona</td><td>2026-11-13</td></tr>
+<tr><td>ABB UK</td><td>Internship: R&d Design Role Based At The Madrid Headquarters Within Electrification, Smart Buildings, And Energy Distribution, Focusing On Low-voltage Electrical Protections Including Mcbs, Rcds/rccbs, Rcbos, And Auxiliaries (modular Din-rail Products).</td><td>Madrid</td><td>2026-11-13</td></tr>
+<tr><td>MAPFRE</td><td>Beca En Mapfre Economics</td><td>Madrid</td><td>2026-11-13</td></tr>
+<tr><td>Akamai Technologies</td><td>Legal Intern (part-time)</td><td>Madrid</td><td>2026-11-13</td></tr>
+<tr><td>OCA Global Corporate Services</td><td>Prácticas – Departamento De Formación Interna</td><td>Madrid</td><td>2026-11-13</td></tr>
+<tr><td>Airbus Defence and Space SAU</td><td>#xplorer 2027 Materiel Services Lta</td><td>Madrid</td><td>2026-11-13</td></tr>
+<tr><td>Schneider Electric</td><td>Prácticas En Subcontratación De Producción Stp27</td><td>Valencian Community</td><td>2026-11-13</td></tr>
+<tr><td>Ogilvy Health</td><td>Beca Departamento De Eventos</td><td>Madrid</td><td>2026-11-13</td></tr>
+<tr><td>Civitatis</td><td>Product Operations Intern - Api Integrations</td><td>Madrid</td><td>2026-11-13</td></tr>
+<tr><td>Otis</td><td>Hr Intern (h/m) Otis Spain</td><td>Golfo De SalóNica</td><td>2026-11-13</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Reporting Sostenibilidad (esg) Y Cumplimiento Regulatorio (csrd)</td><td>Buscar Por Ciudad</td><td>2026-11-13</td></tr>
+<tr><td>Hilton</td><td>Hotel Management (operations) - Internship</td><td>Barcelona</td><td>2026-11-13</td></tr>
+<tr><td>Atos SE</td><td>Analista Iam (identity & Access Management)</td><td>Madrid</td><td>2026-11-13</td></tr>
+<tr><td>New Relic Inc</td><td>Software Engineer Ii</td><td>Barcelona</td><td>2026-11-13</td></tr>
+<tr><td>AXA</td><td>Beca Analítica De Servicios Clientes</td><td>Madrid</td><td>2026-11-13</td></tr>
+<tr><td>Metdeniz</td><td>Ai Engineer / Full Stack Developer – Ai Reporting & Insights</td><td>Madrid</td><td>2026-11-13</td></tr>
+<tr><td>Acciona SA</td><td>Beca Control De Gestión Y Data Analytics</td><td>Madrid</td><td>2026-11-13</td></tr>
+<tr><td>Merkal Calzados S.L</td><td>Vendedor/a 15 Horas Semanales</td><td>Barcelona</td><td>2026-11-13</td></tr>
+<tr><td>Mango</td><td>Campaña Navidad Vendedor/a - Illa Wn</td><td>Barcelona</td><td>2026-11-13</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate</td><td>Barcelona</td><td>2026-11-13</td></tr>
+<tr><td>Temporing</td><td>Auxiliar Administrativo/a</td><td>Biar</td><td>2026-11-13</td></tr>
 </table>
