@@ -1,7 +1,19 @@
 {
- "asOf": "2026-11-13",
- "count": 553,
+ "asOf": "2026-11-14",
+ "count": 556,
  "jobs": {
+  "828583bab377202e563fc45336f03e44": {
+   "id": "828583bab377202e563fc45336f03e44",
+   "company": "Satair (an Airbus Services Company)",
+   "role": "#discover I 2027-2028 Generation And Management Of Ac Icds Using Ai Technology Intern",
+   "location": "Madrid"
+  },
+  "ec314b1c1af426c7f418826259d707d6": {
+   "id": "ec314b1c1af426c7f418826259d707d6",
+   "company": "Levata",
+   "role": "People Operations & Analytics Intern",
+   "location": "Madrid"
+  },
   "fbdac795af677ed8a0eb204f0d2779d7": {
    "id": "fbdac795af677ed8a0eb204f0d2779d7",
    "company": "Takeda UK",
@@ -469,18 +481,6 @@
    "company": "Telefonica",
    "role": "Beca Talentum - Departamento De Operaciones",
    "location": "Madrid"
-  },
-  "49fe1b18208d6f0d5edd9a44830189fe": {
-   "id": "49fe1b18208d6f0d5edd9a44830189fe",
-   "company": "Valeo Service",
-   "role": "Proyect Buyer Internship",
-   "location": "Jaen"
-  },
-  "2c599312a0add98a03ea55e48847a56e": {
-   "id": "2c599312a0add98a03ea55e48847a56e",
-   "company": "Valeo Service",
-   "role": "Project Manager Internship",
-   "location": "Jaen"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
@@ -1670,6 +1670,24 @@
    "role": "Accountant Trainee",
    "location": "Barcelona"
   },
+  "89d1ae60a888e5f84108d31be5325872": {
+   "id": "89d1ae60a888e5f84108d31be5325872",
+   "company": "Safeguard Global",
+   "role": "Global Benefits Analyst",
+   "location": "Spain"
+  },
+  "725a1fa962c83a3a01528897eeb6fd68": {
+   "id": "725a1fa962c83a3a01528897eeb6fd68",
+   "company": "MSX International Ltd",
+   "role": "Analyst Business Governance",
+   "location": "Madrid"
+  },
+  "53f6d4865f49c6f83bea1ea06eb5770e": {
+   "id": "53f6d4865f49c6f83bea1ea06eb5770e",
+   "company": "Temporing",
+   "role": "Comptable - Mitja Jornada - Barcelona",
+   "location": "Barcelona"
+  },
   "10e6d85cf2823f556eb8674a7450b3d1": {
    "id": "10e6d85cf2823f556eb8674a7450b3d1",
    "company": "Techsyndicate Inc",
@@ -2132,23 +2150,11 @@
    "role": "Gestión Del Cambio",
    "location": "Madrid"
   },
-  "893397218729": {
-   "id": "893397218729",
-   "company": "Softtek",
-   "role": "Consultor(a) Sap Successfactors Sênior",
-   "location": "Madrid"
-  },
-  "893397287369": {
-   "id": "893397287369",
-   "company": "Softtek",
-   "role": "Analista Técnico Funcional Comercio Exterior",
-   "location": "Madrid"
-  },
-  "0b00393e228e4374b54c21d2c226ee76": {
-   "id": "0b00393e228e4374b54c21d2c226ee76",
-   "company": "TD SYNNEX",
-   "role": "Cloud Catalog And Product Analyst",
-   "location": "Barcelona"
+  "097e0606019b7aaaf69ec5e8a8cb426c": {
+   "id": "097e0606019b7aaaf69ec5e8a8cb426c",
+   "company": "ICON plc",
+   "role": "Clinical Trial Associate",
+   "location": "Spain"
   },
   "fe4facdc272599509ea02cd772036b40": {
    "id": "fe4facdc272599509ea02cd772036b40",
@@ -2636,6 +2642,24 @@
    "role": "Field Service Engineer - Gerona - Core Labs",
    "location": "Madrid"
   },
+  "a7b0e824aad778ef0383766253b5b8f9": {
+   "id": "a7b0e824aad778ef0383766253b5b8f9",
+   "company": "Thales Group",
+   "role": "Operario/a De Almacén – Abastecimiento Interno",
+   "location": "Barcelona"
+  },
+  "eed4dd28da89d0e4ae404773a8fb864d": {
+   "id": "eed4dd28da89d0e4ae404773a8fb864d",
+   "company": "obramat.es",
+   "role": "Almacén Rivas_ Vendedor/a Retail 40h",
+   "location": "Madrid"
+  },
+  "57e9be196a4c8e119426c1e09d153682": {
+   "id": "57e9be196a4c8e119426c1e09d153682",
+   "company": "H&M",
+   "role": "Sales Advisor (24 Horas)- Contrato Temporal",
+   "location": "Barcelona"
+  },
   "2072b00f03f9513161e11c779fc2c25c": {
    "id": "2072b00f03f9513161e11c779fc2c25c",
    "company": "Tory Burch",
@@ -3098,29 +3122,35 @@
    "role": "Vendedor/a Salones/ (30 Hrs, 20 Hrs, 16 Hrs), Ikea Sabadell",
    "location": "Barcelona"
   },
-  "650ceb97a9c1aebf41ae7b978b99fdfb": {
-   "id": "650ceb97a9c1aebf41ae7b978b99fdfb",
-   "company": "IKEA",
-   "role": "Vendedor/a / 16 Hrs, Tardes, Ikea Toledo",
-   "location": "Madrid"
+  "d977d10fde2a3acfd4d761bad50589bd": {
+   "id": "d977d10fde2a3acfd4d761bad50589bd",
+   "company": "Tokio Marine HCC",
+   "role": "Administrative Assistant Claims",
+   "location": "Barcelona +1"
   },
-  "7bb003b54af745c6404d00c0e94afadb": {
-   "id": "7bb003b54af745c6404d00c0e94afadb",
-   "company": "Levis Media",
-   "role": "Sales Stylist 15h (fin De Semana) Levis Eci Pozuelo",
-   "location": "Madrid"
-  },
-  "c81fa4f0f651b39166b4e4378bddd1a0": {
-   "id": "c81fa4f0f651b39166b4e4378bddd1a0",
-   "company": "Levis",
-   "role": "Sales Stylist 25h Lfo La Roca",
-   "location": "Barcelona"
+  "f3e9af1bb786e8fe0c580e1fba8c3a23": {
+   "id": "f3e9af1bb786e8fe0c580e1fba8c3a23",
+   "company": "PIMEC Jobs",
+   "role": "Auxiliar Administrativo/a",
+   "location": "Baix Llobregat +1"
   },
   "eb4bb1768e227d4599e39fd14285d62c": {
    "id": "eb4bb1768e227d4599e39fd14285d62c",
    "company": "ABB UK",
    "role": "Administrative Support – Sales",
    "location": "Trapagaran"
+  },
+  "9becae5a7aa436a56100f86ea62dd672": {
+   "id": "9becae5a7aa436a56100f86ea62dd672",
+   "company": "Grupo El Castillo",
+   "role": "Auxiliar Administrativo/a",
+   "location": "Barx"
+  },
+  "8feb0a48e42b9129531a77c422a884db": {
+   "id": "8feb0a48e42b9129531a77c422a884db",
+   "company": "Europreven",
+   "role": "Auxiliar Administrativo/a",
+   "location": "Girona +2"
   },
   "284696c3fec758d3825728a84ce24fbf": {
    "id": "284696c3fec758d3825728a84ce24fbf",
@@ -3157,12 +3187,6 @@
    "company": "Just Eat Takeaway",
    "role": "Facilities Coordinator",
    "location": "Madrid"
-  },
-  "a43092d322310f61ca64bfce3abcc92b": {
-   "id": "a43092d322310f61ca64bfce3abcc92b",
-   "company": "Europreven",
-   "role": "Auxiliar Administrativo/a",
-   "location": "Barcelona"
   },
   "7001ad46d04f2e9605cc1efc6f227616": {
    "id": "7001ad46d04f2e9605cc1efc6f227616",
@@ -3313,12 +3337,6 @@
    "company": "AkzoNobel N.V.",
    "role": "Asistente Administrativo(a) Enviar Candidatura Ahora",
    "location": "Madrid"
-  },
-  "95438dbe2f2680810e438ac84acabec7": {
-   "id": "95438dbe2f2680810e438ac84acabec7",
-   "company": "ICON Clinical Research, LP",
-   "role": "Administrative Assistant",
-   "location": "Reading +2"
   }
  }
 }

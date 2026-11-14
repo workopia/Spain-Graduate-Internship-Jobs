@@ -3659,4 +3659,14 @@
 <tr><td>Mango</td><td>Campaña Navidad Vendedor/a - Illa Wn</td><td>Barcelona</td><td>2026-11-13</td></tr>
 <tr><td>Michael Kors</td><td>Sales Associate</td><td>Barcelona</td><td>2026-11-13</td></tr>
 <tr><td>Temporing</td><td>Auxiliar Administrativo/a</td><td>Biar</td><td>2026-11-13</td></tr>
+<tr><td>Valeo Service</td><td>Proyect Buyer Internship</td><td>Jaen</td><td>2026-11-14</td></tr>
+<tr><td>Valeo Service</td><td>Project Manager Internship</td><td>Jaen</td><td>2026-11-14</td></tr>
+<tr><td>Softtek</td><td>Consultor(a) Sap Successfactors Sênior</td><td>Madrid</td><td>2026-11-14</td></tr>
+<tr><td>Softtek</td><td>Analista Técnico Funcional Comercio Exterior</td><td>Madrid</td><td>2026-11-14</td></tr>
+<tr><td>TD SYNNEX</td><td>Cloud Catalog And Product Analyst</td><td>Barcelona</td><td>2026-11-14</td></tr>
+<tr><td>IKEA</td><td>Vendedor/a / 16 Hrs, Tardes, Ikea Toledo</td><td>Madrid</td><td>2026-11-14</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 15h (fin De Semana) Levis Eci Pozuelo</td><td>Madrid</td><td>2026-11-14</td></tr>
+<tr><td>Levis</td><td>Sales Stylist 25h Lfo La Roca</td><td>Barcelona</td><td>2026-11-14</td></tr>
+<tr><td>Europreven</td><td>Auxiliar Administrativo/a</td><td>Barcelona</td><td>2026-11-14</td></tr>
+<tr><td>ICON Clinical Research, LP</td><td>Administrative Assistant</td><td>Reading +2</td><td>2026-11-14</td></tr>
 </table>
