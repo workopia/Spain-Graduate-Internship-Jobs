@@ -3669,4 +3669,7 @@
 <tr><td>Levis</td><td>Sales Stylist 25h Lfo La Roca</td><td>Barcelona</td><td>2026-11-14</td></tr>
 <tr><td>Europreven</td><td>Auxiliar Administrativo/a</td><td>Barcelona</td><td>2026-11-14</td></tr>
 <tr><td>ICON Clinical Research, LP</td><td>Administrative Assistant</td><td>Reading +2</td><td>2026-11-14</td></tr>
+<tr><td>Telefonica</td><td>Beca Talentum - Departamento De Operaciones</td><td>Madrid</td><td>2026-11-15</td></tr>
+<tr><td>IKEA</td><td>Vendedor/a Salones/ (30 Hrs, 20 Hrs, 16 Hrs), Ikea Sabadell</td><td>Barcelona</td><td>2026-11-15</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Asistente Administrativo(a) Enviar Candidatura Ahora</td><td>Madrid</td><td>2026-11-15</td></tr>
 </table>

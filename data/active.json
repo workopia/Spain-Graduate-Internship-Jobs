@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-14",
+ "asOf": "2026-11-15",
  "count": 556,
  "jobs": {
   "828583bab377202e563fc45336f03e44": {
@@ -12,6 +12,12 @@
    "id": "ec314b1c1af426c7f418826259d707d6",
    "company": "Levata",
    "role": "People Operations & Analytics Intern",
+   "location": "Madrid"
+  },
+  "6465ca164c1b57de660c1e68b5c8b405": {
+   "id": "6465ca164c1b57de660c1e68b5c8b405",
+   "company": "Zoomo",
+   "role": "Operations Intern",
    "location": "Madrid"
   },
   "fbdac795af677ed8a0eb204f0d2779d7": {
@@ -474,12 +480,6 @@
    "id": "876f57e510df4cc97d655bd115ac722b",
    "company": "ACCIONA Energia",
    "role": "Beca De Innovacion",
-   "location": "Madrid"
-  },
-  "6a5baee4cdcee16b41bfff784716392d": {
-   "id": "6a5baee4cdcee16b41bfff784716392d",
-   "company": "Telefonica",
-   "role": "Beca Talentum - Departamento De Operaciones",
    "location": "Madrid"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
@@ -1507,6 +1507,12 @@
    "company": "Innovamat Education",
    "role": "Ai Engineer - Marketing Systems",
    "location": "Barcelona"
+  },
+  "8b9de962876cc3c69b2387c98d55b332": {
+   "id": "8b9de962876cc3c69b2387c98d55b332",
+   "company": "AbbVie",
+   "role": "Intern Financiero",
+   "location": "Madrid"
   },
   "959811f5cf6d07cad11f1f90d1f1857d": {
    "id": "959811f5cf6d07cad11f1f90d1f1857d",
@@ -2648,6 +2654,12 @@
    "role": "Operario/a De Almacén – Abastecimiento Interno",
    "location": "Barcelona"
   },
+  "ea5f884fcfed724822eab84e1158f961": {
+   "id": "ea5f884fcfed724822eab84e1158f961",
+   "company": "JYSK",
+   "role": "Vendedor/a - 40h - El Masnou",
+   "location": "Barcelona"
+  },
   "eed4dd28da89d0e4ae404773a8fb864d": {
    "id": "eed4dd28da89d0e4ae404773a8fb864d",
    "company": "obramat.es",
@@ -3116,12 +3128,6 @@
    "role": "Vendedor/a Oportunidades (circular Hub), 12 Hrs Mañanas / Ikea Sabadell",
    "location": "Barcelona"
   },
-  "fc263826fc8635247313c058d64faf2c": {
-   "id": "fc263826fc8635247313c058d64faf2c",
-   "company": "IKEA",
-   "role": "Vendedor/a Salones/ (30 Hrs, 20 Hrs, 16 Hrs), Ikea Sabadell",
-   "location": "Barcelona"
-  },
   "d977d10fde2a3acfd4d761bad50589bd": {
    "id": "d977d10fde2a3acfd4d761bad50589bd",
    "company": "Tokio Marine HCC",
@@ -3331,12 +3337,6 @@
    "company": "Essity AB",
    "role": "Administrative Specialist",
    "location": "Canary Islands"
-  },
-  "302f17eb56976621b0e0d56aa34cafe3": {
-   "id": "302f17eb56976621b0e0d56aa34cafe3",
-   "company": "AkzoNobel N.V.",
-   "role": "Asistente Administrativo(a) Enviar Candidatura Ahora",
-   "location": "Madrid"
   }
  }
 }
