@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-15",
- "count": 556,
+ "asOf": "2026-11-16",
+ "count": 555,
  "jobs": {
   "828583bab377202e563fc45336f03e44": {
    "id": "828583bab377202e563fc45336f03e44",
@@ -824,16 +824,16 @@
    "role": "Ingeniero/a Front Vue.js Intermediate / Ciberdefensa / Barcelona (híbrido)",
    "location": "Barcelona"
   },
-  "4a567c3a4286554105fc10eba5315fb7": {
-   "id": "4a567c3a4286554105fc10eba5315fb7",
-   "company": "Indra group",
-   "role": "Ingeniero/a De Software Aviónico Y Estándares",
-   "location": "Madrid"
-  },
   "82e3002c06775f856c75cc205e45ce12": {
    "id": "82e3002c06775f856c75cc205e45ce12",
    "company": "Indra group",
    "role": "Ingeniero/a De Software C/c++ Para Desarrollo, Integración Y Bancos De Pruebas",
+   "location": "Madrid"
+  },
+  "4a567c3a4286554105fc10eba5315fb7": {
+   "id": "4a567c3a4286554105fc10eba5315fb7",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Software Aviónico Y Estándares",
    "location": "Madrid"
   },
   "b18846ab379e1625ad0af00af23530e8": {
@@ -3331,12 +3331,6 @@
    "company": "Ball",
    "role": "Manufacturing Excellence Specialist",
    "location": "Llinars Del VallèS"
-  },
-  "985429a1534f289342bfcc8a157f2918": {
-   "id": "985429a1534f289342bfcc8a157f2918",
-   "company": "Essity AB",
-   "role": "Administrative Specialist",
-   "location": "Canary Islands"
   }
  }
 }
