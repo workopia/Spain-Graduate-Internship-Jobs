@@ -1,7 +1,13 @@
 {
- "asOf": "2026-11-16",
- "count": 555,
+ "asOf": "2026-11-17",
+ "count": 553,
  "jobs": {
+  "e028b8438e69cd8f9282ec78ff5caea8": {
+   "id": "e028b8438e69cd8f9282ec78ff5caea8",
+   "company": "workwide.es",
+   "role": "Business Operations Intern - (french Speaker)",
+   "location": "Lisbon"
+  },
   "828583bab377202e563fc45336f03e44": {
    "id": "828583bab377202e563fc45336f03e44",
    "company": "Satair (an Airbus Services Company)",
@@ -474,12 +480,6 @@
    "id": "5b9513c9f305b23b76150cffeece0557",
    "company": "Celonis",
    "role": "Intern Cco Enablement & Programs",
-   "location": "Madrid"
-  },
-  "876f57e510df4cc97d655bd115ac722b": {
-   "id": "876f57e510df4cc97d655bd115ac722b",
-   "company": "ACCIONA Energia",
-   "role": "Beca De Innovacion",
    "location": "Madrid"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
@@ -1496,17 +1496,11 @@
    "role": "Ai Builder, Emerging Talent - Italian Market",
    "location": "Madrid"
   },
-  "0066f24ce6deb0b7235f25b72dbb9592": {
-   "id": "0066f24ce6deb0b7235f25b72dbb9592",
-   "company": "Jobgether",
-   "role": "Mid Data Scientist",
-   "location": "Spain"
-  },
-  "e050596724b14b27856a2db45ee8dcf5": {
-   "id": "e050596724b14b27856a2db45ee8dcf5",
-   "company": "Innovamat Education",
-   "role": "Ai Engineer - Marketing Systems",
-   "location": "Barcelona"
+  "17604ff8bcbbf94b5013ecf41d4e122f": {
+   "id": "17604ff8bcbbf94b5013ecf41d4e122f",
+   "company": "Alignerr",
+   "role": "Spanish Workspace Evaluator – Gmail & Google AI Reviewer",
+   "location": "Madrid"
   },
   "8b9de962876cc3c69b2387c98d55b332": {
    "id": "8b9de962876cc3c69b2387c98d55b332",
@@ -3325,12 +3319,6 @@
    "company": "GE Healthcare",
    "role": "Customer Service Coordinator",
    "location": "Madrid"
-  },
-  "4b992c2d266123282eb7eb7b61f208b5": {
-   "id": "4b992c2d266123282eb7eb7b61f208b5",
-   "company": "Ball",
-   "role": "Manufacturing Excellence Specialist",
-   "location": "Llinars Del VallèS"
   }
  }
 }

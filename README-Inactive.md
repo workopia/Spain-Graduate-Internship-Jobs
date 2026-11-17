@@ -3673,4 +3673,8 @@
 <tr><td>IKEA</td><td>Vendedor/a Salones/ (30 Hrs, 20 Hrs, 16 Hrs), Ikea Sabadell</td><td>Barcelona</td><td>2026-11-15</td></tr>
 <tr><td>AkzoNobel N.V.</td><td>Asistente Administrativo(a) Enviar Candidatura Ahora</td><td>Madrid</td><td>2026-11-15</td></tr>
 <tr><td>Essity AB</td><td>Administrative Specialist</td><td>Canary Islands</td><td>2026-11-16</td></tr>
+<tr><td>ACCIONA Energia</td><td>Beca De Innovacion</td><td>Madrid</td><td>2026-11-17</td></tr>
+<tr><td>Jobgether</td><td>Mid Data Scientist</td><td>Spain</td><td>2026-11-17</td></tr>
+<tr><td>Innovamat Education</td><td>Ai Engineer - Marketing Systems</td><td>Barcelona</td><td>2026-11-17</td></tr>
+<tr><td>Ball</td><td>Manufacturing Excellence Specialist</td><td>Llinars Del VallèS</td><td>2026-11-17</td></tr>
 </table>
