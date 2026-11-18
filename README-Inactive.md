@@ -3677,4 +3677,10 @@
 <tr><td>Jobgether</td><td>Mid Data Scientist</td><td>Spain</td><td>2026-11-17</td></tr>
 <tr><td>Innovamat Education</td><td>Ai Engineer - Marketing Systems</td><td>Barcelona</td><td>2026-11-17</td></tr>
 <tr><td>Ball</td><td>Manufacturing Excellence Specialist</td><td>Llinars Del VallèS</td><td>2026-11-17</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Prácticas Remuneradas / Departamento De Calidad</td><td>Salamanca</td><td>2026-11-18</td></tr>
+<tr><td>Celonis</td><td>Intern Cco Enablement & Programs</td><td>Madrid</td><td>2026-11-18</td></tr>
+<tr><td>Minsait</td><td>Ingeniero/a De Software Embebido C++ Y Ada</td><td>Madrid</td><td>2026-11-18</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Python And K8s</td><td>Spain</td><td>2026-11-18</td></tr>
+<tr><td>Abbott</td><td>Field Service Engineer - Gerona - Core Labs</td><td>Madrid</td><td>2026-11-18</td></tr>
+<tr><td>IKEA</td><td>Vendedor/a Oportunidades (circular Hub), 12 Hrs Mañanas / Ikea Sabadell</td><td>Barcelona</td><td>2026-11-18</td></tr>
 </table>

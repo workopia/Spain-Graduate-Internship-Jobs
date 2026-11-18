@@ -1,12 +1,24 @@
 {
- "asOf": "2026-11-17",
- "count": 553,
+ "asOf": "2026-11-18",
+ "count": 555,
  "jobs": {
+  "324cac426997d030d412c6272d3c602a": {
+   "id": "324cac426997d030d412c6272d3c602a",
+   "company": "Keysight Technologies",
+   "role": "Customer Service Intern",
+   "location": "Keysight"
+  },
   "e028b8438e69cd8f9282ec78ff5caea8": {
    "id": "e028b8438e69cd8f9282ec78ff5caea8",
    "company": "workwide.es",
    "role": "Business Operations Intern - (french Speaker)",
    "location": "Lisbon"
+  },
+  "d5fd1af32e2ef35284d7bb24eb0f416c": {
+   "id": "d5fd1af32e2ef35284d7bb24eb0f416c",
+   "company": "Verisure S.A.",
+   "role": "Verisure Internship Programme",
+   "location": "Madrid"
   },
   "828583bab377202e563fc45336f03e44": {
    "id": "828583bab377202e563fc45336f03e44",
@@ -470,17 +482,11 @@
    "role": "Data Analyst And Digitalization Intern",
    "location": "Barcelona"
   },
-  "364b34f46c738b32279d14abb57de51a": {
-   "id": "364b34f46c738b32279d14abb57de51a",
-   "company": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
-   "role": "Prácticas Remuneradas / Departamento De Calidad",
-   "location": "Salamanca"
-  },
-  "5b9513c9f305b23b76150cffeece0557": {
-   "id": "5b9513c9f305b23b76150cffeece0557",
-   "company": "Celonis",
-   "role": "Intern Cco Enablement & Programs",
-   "location": "Madrid"
+  "8b6343c11042290029cb7e77ce1474c4": {
+   "id": "8b6343c11042290029cb7e77ce1474c4",
+   "company": "Jobgether",
+   "role": "Graduate Software Engineer, Open Source And Linux, Canonical Ubuntu",
+   "location": "Spain"
   },
   "a8ff18e435c6937ccc575cb39a76efd2": {
    "id": "a8ff18e435c6937ccc575cb39a76efd2",
@@ -492,6 +498,18 @@
    "id": "7257995e6171da55b3175d4463e91128",
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
+   "location": "Barcelona"
+  },
+  "d5aa276035e4176b7f9ea9a05e57e530": {
+   "id": "d5aa276035e4176b7f9ea9a05e57e530",
+   "company": "Softtek",
+   "role": "7653 - Software Engineer Aws & Big Data",
+   "location": "Madrid +1"
+  },
+  "cad0eb9d035d1f4a7d835353ff3c735e": {
+   "id": "cad0eb9d035d1f4a7d835353ff3c735e",
+   "company": "Delivery Hero",
+   "role": "Junior Backend Engineer (they/she/he)",
    "location": "Barcelona"
   },
   "75ab2f6f9a958841f900e92625fa736a": {
@@ -961,18 +979,6 @@
    "company": "Minsait",
    "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
    "location": "Madrid"
-  },
-  "4f7cf864491004b12208e12093984d12": {
-   "id": "4f7cf864491004b12208e12093984d12",
-   "company": "Minsait",
-   "role": "Ingeniero/a De Software Embebido C++ Y Ada",
-   "location": "Madrid"
-  },
-  "9dd9dfced6c2add4382a834c7e82944b": {
-   "id": "9dd9dfced6c2add4382a834c7e82944b",
-   "company": "Jobgether",
-   "role": "Software Engineer - Python And K8s",
-   "location": "Spain"
   },
   "dc519a81216b405e2abd1d71cb1426d5": {
    "id": "dc519a81216b405e2abd1d71cb1426d5",
@@ -2150,6 +2156,12 @@
    "role": "Gestión Del Cambio",
    "location": "Madrid"
   },
+  "bb247d5d802c92ddb912ff6f34242412": {
+   "id": "bb247d5d802c92ddb912ff6f34242412",
+   "company": "TFS HealthScience",
+   "role": "Clinical Trial Associate",
+   "location": "Madrid +1"
+  },
   "097e0606019b7aaaf69ec5e8a8cb426c": {
    "id": "097e0606019b7aaaf69ec5e8a8cb426c",
    "company": "ICON plc",
@@ -2161,6 +2173,12 @@
    "company": "EUROPREVEN",
    "role": "Médico/a De Vigilancia De La Salud",
    "location": "Barcelona"
+  },
+  "48fb619158cd6668f30ddd9bf5695d97": {
+   "id": "48fb619158cd6668f30ddd9bf5695d97",
+   "company": "Hilton Worldwide",
+   "role": "Técnico/a De Mantenimiento",
+   "location": "Madrid"
   },
   "43c7a6510d61655508f2f590f802b1d1": {
    "id": "43c7a6510d61655508f2f590f802b1d1",
@@ -2636,11 +2654,11 @@
    "role": "Técnico/a Mantenimiento De Instalaciones Automatizadas",
    "location": "Madrid"
   },
-  "9c7ad90f8e1f5646a519e4a5218c6fd5": {
-   "id": "9c7ad90f8e1f5646a519e4a5218c6fd5",
-   "company": "Abbott",
-   "role": "Field Service Engineer - Gerona - Core Labs",
-   "location": "Madrid"
+  "79b441cf71d7e9ad244175177e1a0b9a": {
+   "id": "79b441cf71d7e9ad244175177e1a0b9a",
+   "company": "Under Armour",
+   "role": "Sales Associate, Pt (16hours) - Viladecans The Style Outlets",
+   "location": "Barcelona"
   },
   "a7b0e824aad778ef0383766253b5b8f9": {
    "id": "a7b0e824aad778ef0383766253b5b8f9",
@@ -3115,12 +3133,6 @@
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Ventas 12h (findes) - Mediamarkt Islazul",
    "location": "Madrid"
-  },
-  "173308c4f39dade699c6404b4f67cea2": {
-   "id": "173308c4f39dade699c6404b4f67cea2",
-   "company": "IKEA",
-   "role": "Vendedor/a Oportunidades (circular Hub), 12 Hrs Mañanas / Ikea Sabadell",
-   "location": "Barcelona"
   },
   "d977d10fde2a3acfd4d761bad50589bd": {
    "id": "d977d10fde2a3acfd4d761bad50589bd",
