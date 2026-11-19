@@ -3683,4 +3683,45 @@
 <tr><td>Jobgether</td><td>Software Engineer - Python And K8s</td><td>Spain</td><td>2026-11-18</td></tr>
 <tr><td>Abbott</td><td>Field Service Engineer - Gerona - Core Labs</td><td>Madrid</td><td>2026-11-18</td></tr>
 <tr><td>IKEA</td><td>Vendedor/a Oportunidades (circular Hub), 12 Hrs Mañanas / Ikea Sabadell</td><td>Barcelona</td><td>2026-11-18</td></tr>
+<tr><td>ABB UK</td><td>Internship: Commercial Support For Mohp Drives</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Roche Holding AG</td><td>Business Process Partner Intern</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>Eurofins Scientific</td><td>Website And Content Migration Internship</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Gameloft Brisbane</td><td>Game Cinematic Artist Intern</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>Testia</td><td>Practicas Montaje Estructuras</td><td>Albacete</td><td>2026-11-19</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern Account Management Integrations Global</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>Jobsathpe</td><td>Ai And Data Intern</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Allianz SE</td><td>Risk Shield Intern</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Intern</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>ServiZurich</td><td>Group Audit Operations Intern</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>Novanta</td><td>Hardware Developer Intern</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>Allianz Technology SE</td><td>Risk Shield Intern</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>Indra group</td><td>Foro Universidad Europea De Madrid</td><td>Madrid +1</td><td>2026-11-19</td></tr>
+<tr><td>Wood</td><td>Instrumentation & Control Engineer - Internship</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Wood</td><td>Inspection Department - Internship</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Wood</td><td>H.o. Construction Engineer - Internship</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Wood</td><td>Procurement Department - Internship</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Wood</td><td>Subcontract Engineer - Internship</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Marsh</td><td>Beca Placement</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Smart Communications Inc</td><td>Intern Finance & Controlling (f/m/d)</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Service Scout Inc</td><td>Billing Operations Intern</td><td>EspañA</td><td>2026-11-19</td></tr>
+<tr><td>createyourowncareer</td><td>Prácticas - Realización Digital</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>Coty</td><td>Data Analyst And Digitalization Intern</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>Jobgether</td><td>Python Engineer</td><td>Spain</td><td>2026-11-19</td></tr>
+<tr><td>Jobgether</td><td>Linux Kernel Engineer</td><td>Spain</td><td>2026-11-19</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer: Backend</td><td>Spain</td><td>2026-11-19</td></tr>
+<tr><td>Minsait</td><td>Desarrollador/a C++ Para Simulación De Drones Y Entornos Virtuales</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Minsait</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Sap Customer Support Ai Automation Engineer</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>NERA Economic Consulting</td><td>Revenue Accountant With English And Spanish</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>DXC Technology</td><td>Analista Funcional Seguros De Vida</td><td>Any City</td><td>2026-11-19</td></tr>
+<tr><td>Fever</td><td>Product Specialist Analyst (german Speaker)</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>ACCIONA Energía</td><td>Técnico/a De Consolidación Y Reporting Acciona Energía</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Softtek</td><td>Gestión Del Cambio</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Hayward Holdings, Inc.</td><td>Aftersales Technician</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>Alstom</td><td>Operario/a De Mantenimiento Pinto Temporal</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Telefonica</td><td>Mantenimiento Tv Barcelona</td><td>Barcelona</td><td>2026-11-19</td></tr>
+<tr><td>ConfiARTE</td><td>Técnico/a De Mantenimiento Data Center (especialista En Electricidad Y Climatización) / Getafe (madrid)</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Ahorramas, S.A</td><td>Técnico/a Mantenimiento De Instalaciones Automatizadas</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Ventas 12h (findes) - Mediamarkt Islazul</td><td>Madrid</td><td>2026-11-19</td></tr>
 </table>
