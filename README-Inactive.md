@@ -3724,4 +3724,29 @@
 <tr><td>Ahorramas, S.A</td><td>Técnico/a Mantenimiento De Instalaciones Automatizadas</td><td>Madrid</td><td>2026-11-19</td></tr>
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Madrid</td><td>2026-11-19</td></tr>
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Ventas 12h (findes) - Mediamarkt Islazul</td><td>Madrid</td><td>2026-11-19</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Food & Beverage Internship</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Finance Internship</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Front Office Internship</td><td>Barcelona +1</td><td>2026-11-20</td></tr>
+<tr><td>Accor</td><td>Front Office Internship</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Reservation Internship</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>IHG</td><td>Revenue & Reservations Internship</td><td>Spain</td><td>2026-11-20</td></tr>
+<tr><td>Grupo Hotusa</td><td>Becario/a Comercial</td><td>Madrid</td><td>2026-11-20</td></tr>
+<tr><td>Swiss Re</td><td>Cres Spain Intern (m/f/x/d)</td><td>Madrid</td><td>2026-11-20</td></tr>
+<tr><td>ABB UK</td><td>Internship: Trainee Motion Service (drives, Machines And Generators)</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>Softtek</td><td>Desarrollador/a Frontend Cells</td><td>Madrid</td><td>2026-11-20</td></tr>
+<tr><td>Powens</td><td>Software Engineer - Aggregation And Data Enrichment</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>Lighthouse</td><td>Backend Engineer – Data Acquisition</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>Vodafone</td><td>Network And Software Engineer</td><td>Madrid</td><td>2026-11-20</td></tr>
+<tr><td>TD SYNNEX</td><td>Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>Salesforce</td><td>Ai Builder, Emerging Talent - Italian Market</td><td>Madrid</td><td>2026-11-20</td></tr>
+<tr><td>Amazon</td><td>Financial Analyst Intern 2027</td><td>Madrid</td><td>2026-11-20</td></tr>
+<tr><td>Jobgether</td><td>Transformation And Change Management Practitioner</td><td>Spain</td><td>2026-11-20</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Técnico/a De Mantenimiento Polivalente (clima Y Electricidad)</td><td>Madrid</td><td>2026-11-20</td></tr>
+<tr><td>Orona S.Coop</td><td>Reparador/a De Ascensores (barcelona) 1 1</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>Orona S.Coop</td><td>Profesional Conservación Coordinador De Reparaciones (pccoorrep) 1</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>Orona S.Coop</td><td>Técnico/a De Mantenimiento De Puertas Automáticas (madrid)</td><td>Madrid</td><td>2026-11-20</td></tr>
+<tr><td>Orona S.Coop</td><td>Técnico/a De Mantenimiento De Ascensores (huesca)</td><td>Zaragoza</td><td>2026-11-20</td></tr>
+<tr><td>Mango</td><td>Vendedor/a 14 H Fines De Semana Mango Home Plaza Norte 2 S.s De Los Reyes</td><td>Madrid</td><td>2026-11-20</td></tr>
+<tr><td>Legocareersvirginia</td><td>Temporary Sales Associate</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate</td><td>Barcelona</td><td>2026-11-20</td></tr>
 </table>

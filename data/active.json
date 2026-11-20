@@ -1,7 +1,49 @@
 {
- "asOf": "2026-11-19",
- "count": 555,
+ "asOf": "2026-11-20",
+ "count": 552,
  "jobs": {
+  "f63dac79077c13f9c1d5ffbf3c781c00": {
+   "id": "f63dac79077c13f9c1d5ffbf3c781c00",
+   "company": "Novanta Inc.",
+   "role": "Supply Chain Intern",
+   "location": "Barcelona"
+  },
+  "9b2049eab93b6f01ce813b07d74464a9": {
+   "id": "9b2049eab93b6f01ce813b07d74464a9",
+   "company": "Power Solutions",
+   "role": "Intern Service - Refill",
+   "location": "Madrid"
+  },
+  "bcaab8a4892365def925460245aff5ca": {
+   "id": "bcaab8a4892365def925460245aff5ca",
+   "company": "Johnson & Johnson",
+   "role": "Market Access Intern",
+   "location": "Madrid +1"
+  },
+  "6b3a122b494b91649d3aeb88e67374f2": {
+   "id": "6b3a122b494b91649d3aeb88e67374f2",
+   "company": "Testia",
+   "role": "#discover I 2027-2028 Quality Support & Improvement Getafe Internship",
+   "location": "Getafe Area"
+  },
+  "0a26a309fa95e42a53a8c116701366e3": {
+   "id": "0a26a309fa95e42a53a8c116701366e3",
+   "company": "Testia",
+   "role": "#discover I 2027-2028 Operational Quality Horizontal Tail Plane Intern",
+   "location": "Madrid"
+  },
+  "827b22cdb9c42247ca344db04832a7ab": {
+   "id": "827b22cdb9c42247ca344db04832a7ab",
+   "company": "Testia",
+   "role": "#discover I 2027/2028 Quality Team (cádiz)- Support To Transformation Project Internship",
+   "location": "CáDiz Area"
+  },
+  "d56eef18159f192280e2b177d27133a0": {
+   "id": "d56eef18159f192280e2b177d27133a0",
+   "company": "Mondelez",
+   "role": "Pasante De Calidad",
+   "location": "Valencia +1"
+  },
   "e6f961d35c60ee19befe1da03aea555f": {
    "id": "e6f961d35c60ee19befe1da03aea555f",
    "company": "EDP - ENERGIAS DE PORTUGAL S.A",
@@ -25,6 +67,12 @@
    "company": "Nordex SE",
    "role": "P&c Nacelles Intern (m/f/d)",
    "location": "Barasoain"
+  },
+  "0b9267564b74530307b2ce785c5b71bf": {
+   "id": "0b9267564b74530307b2ce785c5b71bf",
+   "company": "Red Bull",
+   "role": "Internship - Trade Marketing Pos (off Premise)",
+   "location": "Madrid"
   },
   "3892ada7af49c20b0d79867337902f44": {
    "id": "3892ada7af49c20b0d79867337902f44",
@@ -145,6 +193,12 @@
    "company": "Delivery Hero (foodpanda)",
    "role": "Category Management Intern Groceries Spain",
    "location": "Madrid"
+  },
+  "f5abed52f472464e492f83e061821cd0": {
+   "id": "f5abed52f472464e492f83e061821cd0",
+   "company": "Verisure S.A.",
+   "role": "Platform Services & Solutions Intern",
+   "location": "Pozuelo De AlarcóN +1"
   },
   "e028b8438e69cd8f9282ec78ff5caea8": {
    "id": "e028b8438e69cd8f9282ec78ff5caea8",
@@ -428,60 +482,6 @@
    "role": "Kitchen Internship",
    "location": "Barcelona"
   },
-  "a08791149108d8bb1e1fcf46ed3298ca": {
-   "id": "a08791149108d8bb1e1fcf46ed3298ca",
-   "company": "Sofitel Sydney Wentworth",
-   "role": "Food & Beverage Internship",
-   "location": "Barcelona"
-  },
-  "942c1ccb049d5b805cde0478f12d6796": {
-   "id": "942c1ccb049d5b805cde0478f12d6796",
-   "company": "Sofitel Sydney Wentworth",
-   "role": "Finance Internship",
-   "location": "Barcelona"
-  },
-  "f956fb75a5afeedefabbff3c7566e112": {
-   "id": "f956fb75a5afeedefabbff3c7566e112",
-   "company": "Sofitel Sydney Wentworth",
-   "role": "Front Office Internship",
-   "location": "Barcelona +1"
-  },
-  "498585a4acc13d3814507443a9938147": {
-   "id": "498585a4acc13d3814507443a9938147",
-   "company": "Accor",
-   "role": "Front Office Internship",
-   "location": "Barcelona"
-  },
-  "e349f6bbb7440296090edb730800ae4f": {
-   "id": "e349f6bbb7440296090edb730800ae4f",
-   "company": "Sofitel Sydney Wentworth",
-   "role": "Reservation Internship",
-   "location": "Barcelona"
-  },
-  "1e5b8899d161d2dd3a9716d13a6de453": {
-   "id": "1e5b8899d161d2dd3a9716d13a6de453",
-   "company": "IHG",
-   "role": "Revenue & Reservations Internship",
-   "location": "Spain"
-  },
-  "4a8d82c78c7682d2665c6ccaecf70d47": {
-   "id": "4a8d82c78c7682d2665c6ccaecf70d47",
-   "company": "Grupo Hotusa",
-   "role": "Becario/a Comercial",
-   "location": "Madrid"
-  },
-  "d6fcb866ffee1bb5b0f3bfa5561b5301": {
-   "id": "d6fcb866ffee1bb5b0f3bfa5561b5301",
-   "company": "Swiss Re",
-   "role": "Cres Spain Intern (m/f/x/d)",
-   "location": "Madrid"
-  },
-  "1059e8e48166a20a61e5f89fa2d4eee2": {
-   "id": "1059e8e48166a20a61e5f89fa2d4eee2",
-   "company": "ABB UK",
-   "role": "Internship: Trainee Motion Service (drives, Machines And Generators)",
-   "location": "Barcelona"
-  },
   "8b6343c11042290029cb7e77ce1474c4": {
    "id": "8b6343c11042290029cb7e77ce1474c4",
    "company": "Jobgether",
@@ -500,6 +500,18 @@
    "role": "Software Engineer, New Grad - Frontend",
    "location": "Barcelona"
   },
+  "a6adb04cff331cf05d7e63d9c5663766": {
+   "id": "a6adb04cff331cf05d7e63d9c5663766",
+   "company": "Valmont Industries, Inc",
+   "role": "Frontend Engineer",
+   "location": "Madrid"
+  },
+  "e753b8e546426676fb729bfd3060ee16": {
+   "id": "e753b8e546426676fb729bfd3060ee16",
+   "company": "Hudl",
+   "role": "Support Specialist, Capture & Scouting",
+   "location": "Barcelona"
+  },
   "ff6ed648b0b4bad6eea233ead9941c54": {
    "id": "ff6ed648b0b4bad6eea233ead9941c54",
    "company": "Backbase",
@@ -516,6 +528,18 @@
    "id": "58254e1f085dbf7f66f47daba4d5f333",
    "company": "CGI",
    "role": "Ingeniero De Infraestructuras",
+   "location": "Madrid"
+  },
+  "60b05600e5654ef13b605785210c20b5": {
+   "id": "60b05600e5654ef13b605785210c20b5",
+   "company": "Zoomo",
+   "role": "Software Engineer (full Stack)",
+   "location": "Madrid"
+  },
+  "3f021bfc62b598bfdaf6453ae57cf5c9": {
+   "id": "3f021bfc62b598bfdaf6453ae57cf5c9",
+   "company": "Indra group",
+   "role": "Software Engineer Ada/c++ Madrid / Híbrido",
    "location": "Madrid"
   },
   "ca8d7c5a0fde7f30da1cc3d30544a294": {
@@ -956,30 +980,6 @@
    "role": "Software Engineer For Sciencepaks Project",
    "location": "Barcelona"
   },
-  "893397835214": {
-   "id": "893397835214",
-   "company": "Softtek",
-   "role": "Desarrollador/a Frontend Cells",
-   "location": "Madrid"
-  },
-  "b5a542630605c0cbd64285c91c563ec7": {
-   "id": "b5a542630605c0cbd64285c91c563ec7",
-   "company": "Powens",
-   "role": "Software Engineer - Aggregation And Data Enrichment",
-   "location": "Barcelona"
-  },
-  "f1553e924b56ecc731733381c5c0804c": {
-   "id": "f1553e924b56ecc731733381c5c0804c",
-   "company": "Lighthouse",
-   "role": "Backend Engineer – Data Acquisition",
-   "location": "Barcelona"
-  },
-  "563018696124851": {
-   "id": "563018696124851",
-   "company": "Vodafone",
-   "role": "Network And Software Engineer",
-   "location": "Madrid"
-  },
   "dc519a81216b405e2abd1d71cb1426d5": {
    "id": "dc519a81216b405e2abd1d71cb1426d5",
    "company": "Celonis",
@@ -1008,12 +1008,6 @@
    "id": "39faba34fe21e460a80947f3abd1e62d",
    "company": "Allianz Technology",
    "role": "L&d Ai & Tech Intern (m/f/d)",
-   "location": "Barcelona"
-  },
-  "a252bfd125a553751a31d607ad48a774": {
-   "id": "a252bfd125a553751a31d607ad48a774",
-   "company": "TD SYNNEX",
-   "role": "Prácticas En Bi - Data Analytics / E-commerce (jornada Completa)",
    "location": "Barcelona"
   },
   "486375b3440a90b4e318f1011cd1ac48": {
@@ -1496,12 +1490,6 @@
    "role": "Ai Native Product Engineer & Orchestrator",
    "location": "Madrid"
   },
-  "0379e7b7b1db4179fc9419ca83788732": {
-   "id": "0379e7b7b1db4179fc9419ca83788732",
-   "company": "Salesforce",
-   "role": "Ai Builder, Emerging Talent - Italian Market",
-   "location": "Madrid"
-  },
   "17604ff8bcbbf94b5013ecf41d4e122f": {
    "id": "17604ff8bcbbf94b5013ecf41d4e122f",
    "company": "Alignerr",
@@ -1640,12 +1628,6 @@
    "role": "Mizuho / Greenhill - 2027 M&a Internship - Madrid",
    "location": "Madrid"
   },
-  "86001e5eb81d18cbba9aa892dbad709e": {
-   "id": "86001e5eb81d18cbba9aa892dbad709e",
-   "company": "Amazon",
-   "role": "Financial Analyst Intern 2027",
-   "location": "Madrid"
-  },
   "b396576cb4041ef7a74199e5a6fa4f6a": {
    "id": "b396576cb4041ef7a74199e5a6fa4f6a",
    "company": "Amazon Commercial Services Pty Ltd - F47",
@@ -1675,6 +1657,12 @@
    "company": "Ubisoft",
    "role": "Accountant Trainee",
    "location": "Barcelona"
+  },
+  "82214ba2d5d0fbd712c0dc7a07637ec7": {
+   "id": "82214ba2d5d0fbd712c0dc7a07637ec7",
+   "company": "Serveo",
+   "role": "Treasury Accounting Technician - Madrid",
+   "location": "Madrid"
   },
   "076976ce2143ca16a6ee7706839624f1": {
    "id": "076976ce2143ca16a6ee7706839624f1",
@@ -2150,12 +2138,6 @@
    "role": "Powerpoint Contributor - Consulting And Strategy",
    "location": "Spain"
   },
-  "6900228e8d4fe2b196501c0357700541": {
-   "id": "6900228e8d4fe2b196501c0357700541",
-   "company": "Jobgether",
-   "role": "Transformation And Change Management Practitioner",
-   "location": "Spain"
-  },
   "bb247d5d802c92ddb912ff6f34242412": {
    "id": "bb247d5d802c92ddb912ff6f34242412",
    "company": "TFS HealthScience",
@@ -2174,6 +2156,30 @@
    "role": "Médico/a De Vigilancia De La Salud",
    "location": "Barcelona"
   },
+  "0ac1d3fd8a69d71a0d6e689124e56f04": {
+   "id": "0ac1d3fd8a69d71a0d6e689124e56f04",
+   "company": "B. Braun Group",
+   "role": "Customer Service Technician",
+   "location": "Barcelona"
+  },
+  "d4ce6213737d134664dc38c64ef0e109": {
+   "id": "d4ce6213737d134664dc38c64ef0e109",
+   "company": "Melia",
+   "role": "Tecnico/a De Mantenimiento - Me Barcelona",
+   "location": "Barcelona"
+  },
+  "f7442dad349ccb543fcefe64e92d0fed": {
+   "id": "f7442dad349ccb543fcefe64e92d0fed",
+   "company": "Veolia Environnement SA",
+   "role": "Técnico/a De Mantenimiento Polivalente (clima Y Electricidad)",
+   "location": "Salamanca"
+  },
+  "5c7a8e0ac8ac1144f51b20b310d3e3bc": {
+   "id": "5c7a8e0ac8ac1144f51b20b310d3e3bc",
+   "company": "Eulen S.A",
+   "role": "Técnicos/as Mantenimiento Zona La Roca Del Vallés",
+   "location": "Barcelona"
+  },
   "75719af228b184bb82c37f6ebadf5e66": {
    "id": "75719af228b184bb82c37f6ebadf5e66",
    "company": "Tetra Pak",
@@ -2184,6 +2190,12 @@
    "id": "21bde8883fbd70ab6666993afe7d2ae1",
    "company": "Alstom",
    "role": "Operario(a) De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
+   "location": "Madrid"
+  },
+  "b29855d88ee2746350acc8882a677306": {
+   "id": "b29855d88ee2746350acc8882a677306",
+   "company": "Amazon",
+   "role": "Tecnico/a de Ingenieria de Mantenimiento",
    "location": "Madrid"
   },
   "4e8d63d6a533e0d480e459038eebecd5": {
@@ -2245,12 +2257,6 @@
    "company": "Temporing",
    "role": "Oficial De 1ª De Mantenimiento Industrial",
    "location": "Zaragoza"
-  },
-  "19e4246247c197e2790a3b5bfdf32cab": {
-   "id": "19e4246247c197e2790a3b5bfdf32cab",
-   "company": "Veolia Environnement SA",
-   "role": "Técnico/a De Mantenimiento Polivalente (clima Y Electricidad)",
-   "location": "Madrid"
   },
   "8d6d4ba3e978ab1e0655b85b429ce9be": {
    "id": "8d6d4ba3e978ab1e0655b85b429ce9be",
@@ -2630,29 +2636,17 @@
    "role": "Técnico/a De Mantenimiento (electricista)",
    "location": "Barcelona"
   },
-  "80f07a061a1e75b08cbe11fd7f5b68f5": {
-   "id": "80f07a061a1e75b08cbe11fd7f5b68f5",
-   "company": "Orona S.Coop",
-   "role": "Reparador/a De Ascensores (barcelona) 1 1",
+  "28c6dd38fba8d992039401ae99003545": {
+   "id": "28c6dd38fba8d992039401ae99003545",
+   "company": "Mango",
+   "role": "Mozo/a De Almacen - Lliça D'amunt",
    "location": "Barcelona"
   },
-  "12fedb81fadbb411952bdb1b5f007d11": {
-   "id": "12fedb81fadbb411952bdb1b5f007d11",
-   "company": "Orona S.Coop",
-   "role": "Profesional Conservación Coordinador De Reparaciones (pccoorrep) 1",
+  "269a53f7a7b9dd6ca67c15c2bd15d9d1": {
+   "id": "269a53f7a7b9dd6ca67c15c2bd15d9d1",
+   "company": "Temporing",
+   "role": "Carretillero/a Preparador/a De Pedidos",
    "location": "Barcelona"
-  },
-  "a1b3f3f6f54edec37c6d7bef0ed2c5c0": {
-   "id": "a1b3f3f6f54edec37c6d7bef0ed2c5c0",
-   "company": "Orona S.Coop",
-   "role": "Técnico/a De Mantenimiento De Puertas Automáticas (madrid)",
-   "location": "Madrid"
-  },
-  "6a8fea6a1aa6a945b7f6ab1a7d5da72c": {
-   "id": "6a8fea6a1aa6a945b7f6ab1a7d5da72c",
-   "company": "Orona S.Coop",
-   "role": "Técnico/a De Mantenimiento De Ascensores (huesca)",
-   "location": "Zaragoza"
   },
   "9dec597ff2d941fb3a56bc4e55c3e2a2": {
    "id": "9dec597ff2d941fb3a56bc4e55c3e2a2",
@@ -3068,6 +3062,12 @@
    "role": "da Vinci Clinical Sales Associate",
    "location": "Madrid"
   },
+  "af656694fd38abf650f681972a396cf4": {
+   "id": "af656694fd38abf650f681972a396cf4",
+   "company": "HUGO BOSS AG",
+   "role": "Sales Associate Store Paseo De Gracia 36h (m/f/x)",
+   "location": "Barcelona"
+  },
   "6a353d29e3aac040683a276e0b7dc787": {
    "id": "6a353d29e3aac040683a276e0b7dc787",
    "company": "PIMEC Jobs",
@@ -3114,24 +3114,6 @@
    "id": "0551897643ca5cfb220d055a8687808f",
    "company": "SIXT",
    "role": "Rental Sales Agent (m/f/d) - Barcelona Fira Hospitalet",
-   "location": "Barcelona"
-  },
-  "23566509bffe61602fbd5f3d60a72b26": {
-   "id": "23566509bffe61602fbd5f3d60a72b26",
-   "company": "Mango",
-   "role": "Vendedor/a 14 H Fines De Semana Mango Home Plaza Norte 2 S.s De Los Reyes",
-   "location": "Madrid"
-  },
-  "ea388faee1cf8a86f1ed52e939ce30a3": {
-   "id": "ea388faee1cf8a86f1ed52e939ce30a3",
-   "company": "Legocareersvirginia",
-   "role": "Temporary Sales Associate",
-   "location": "Barcelona"
-  },
-  "9cf3f7fa896eeb547207d5f73b9eb8b5": {
-   "id": "9cf3f7fa896eeb547207d5f73b9eb8b5",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Temporary Sales Associate",
    "location": "Barcelona"
   },
   "d977d10fde2a3acfd4d761bad50589bd": {
