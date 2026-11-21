@@ -1,7 +1,37 @@
 {
- "asOf": "2026-11-20",
- "count": 552,
+ "asOf": "2026-11-21",
+ "count": 554,
  "jobs": {
+  "588631767e90ec880e779b05571d9aa2": {
+   "id": "588631767e90ec880e779b05571d9aa2",
+   "company": "Papernest",
+   "role": "Business Developer New Projects Trust/ Edl - Intern",
+   "location": "Barcelona"
+  },
+  "f2ac1e231ab415c3272d9e865076a5b9": {
+   "id": "f2ac1e231ab415c3272d9e865076a5b9",
+   "company": "COTY Inc",
+   "role": "Hr Internship",
+   "location": "Madrid"
+  },
+  "13cd24ec31c85f553662101dcbfa07ec": {
+   "id": "13cd24ec31c85f553662101dcbfa07ec",
+   "company": "Testia",
+   "role": "#discover I 2027-2028 A330 Mrtt Industrial Performance Improvement Internship",
+   "location": "Madrid"
+  },
+  "a91d74187daf557ec88548f48885a732": {
+   "id": "a91d74187daf557ec88548f48885a732",
+   "company": "Securitize",
+   "role": "Product Intern",
+   "location": "Madrid +1"
+  },
+  "462b6c1055473b97ea443411aaa5d1d8": {
+   "id": "462b6c1055473b97ea443411aaa5d1d8",
+   "company": "Microsoft",
+   "role": "Data Center Technician - Intern",
+   "location": "Madrid"
+  },
   "f63dac79077c13f9c1d5ffbf3c781c00": {
    "id": "f63dac79077c13f9c1d5ffbf3c781c00",
    "company": "Novanta Inc.",
@@ -452,36 +482,6 @@
    "role": "Talent Acquisition Specialist Intern",
    "location": "Barcelona +1"
   },
-  "de926d6a8adc8f15950216235fa08b59": {
-   "id": "de926d6a8adc8f15950216235fa08b59",
-   "company": "Testia",
-   "role": "#discover I 2027-2028 Commodity Manager Detail Parts Composites Intern",
-   "location": "Sevilla Area"
-  },
-  "12b14ebe7e8ae47645ef3a928f560b98": {
-   "id": "12b14ebe7e8ae47645ef3a928f560b98",
-   "company": "Testia",
-   "role": "#discover I 2027-2028 Human Resources Business Partner Internship",
-   "location": "Getafe Area"
-  },
-  "756be298bad90f20f40b6a338fe621e4": {
-   "id": "756be298bad90f20f40b6a338fe621e4",
-   "company": "Testia",
-   "role": "#xplorer 2027 Finance Controlling Airbus Cádiz Intern",
-   "location": "El Puerto Sta Maria +1"
-  },
-  "616f80614f684307a439a2304c2e7fb9": {
-   "id": "616f80614f684307a439a2304c2e7fb9",
-   "company": "Testia",
-   "role": "#discover I 2027-2028 Maintenance Programs (powerplant) Internship",
-   "location": "Getafe Area"
-  },
-  "caf892d3fcae85d28ab482c86dbcfe7d": {
-   "id": "caf892d3fcae85d28ab482c86dbcfe7d",
-   "company": "Sofitel Sydney Wentworth",
-   "role": "Kitchen Internship",
-   "location": "Barcelona"
-  },
   "8b6343c11042290029cb7e77ce1474c4": {
    "id": "8b6343c11042290029cb7e77ce1474c4",
    "company": "Jobgether",
@@ -499,6 +499,18 @@
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
    "location": "Barcelona"
+  },
+  "56e6a18243dd994b549d56601e7fcd3a": {
+   "id": "56e6a18243dd994b549d56601e7fcd3a",
+   "company": "Siemens Digital Industries Software",
+   "role": "Cfd Software Engineer",
+   "location": "Athens +7"
+  },
+  "3d4ce3e4209f435362992d89b599ce9b": {
+   "id": "3d4ce3e4209f435362992d89b599ce9b",
+   "company": "BBVA",
+   "role": "Responsable De La Factoría De Software Agéntica",
+   "location": "28050"
   },
   "a6adb04cff331cf05d7e63d9c5663766": {
    "id": "a6adb04cff331cf05d7e63d9c5663766",
@@ -896,16 +908,16 @@
    "role": "Ingeniero/a Front Vue.js Intermediate / Ciberdefensa / Barcelona (híbrido)",
    "location": "Barcelona"
   },
-  "82e3002c06775f856c75cc205e45ce12": {
-   "id": "82e3002c06775f856c75cc205e45ce12",
-   "company": "Indra group",
-   "role": "Ingeniero/a De Software C/c++ Para Desarrollo, Integración Y Bancos De Pruebas",
-   "location": "Madrid"
-  },
   "4a567c3a4286554105fc10eba5315fb7": {
    "id": "4a567c3a4286554105fc10eba5315fb7",
    "company": "Indra group",
    "role": "Ingeniero/a De Software Aviónico Y Estándares",
+   "location": "Madrid"
+  },
+  "82e3002c06775f856c75cc205e45ce12": {
+   "id": "82e3002c06775f856c75cc205e45ce12",
+   "company": "Indra group",
+   "role": "Ingeniero/a De Software C/c++ Para Desarrollo, Integración Y Bancos De Pruebas",
    "location": "Madrid"
   },
   "b18846ab379e1625ad0af00af23530e8": {
@@ -968,18 +980,6 @@
    "role": "Distributed Critical Software Engineer (ada/c++) / Hybrid Madrid",
    "location": "Madrid"
   },
-  "b476f2f2c5b85c59bdd199673beb8926": {
-   "id": "b476f2f2c5b85c59bdd199673beb8926",
-   "company": "Indra group",
-   "role": "Distributed Critical Software Engineer (ada/c++) / Hybrid Madrid",
-   "location": "Madrid"
-  },
-  "d52b512fbe3f865a05c62b59f2f07ee1": {
-   "id": "d52b512fbe3f865a05c62b59f2f07ee1",
-   "company": "ISGlobal",
-   "role": "Software Engineer For Sciencepaks Project",
-   "location": "Barcelona"
-  },
   "dc519a81216b405e2abd1d71cb1426d5": {
    "id": "dc519a81216b405e2abd1d71cb1426d5",
    "company": "Celonis",
@@ -1021,6 +1021,30 @@
    "company": "Ericsson",
    "role": "Data Scientist (early Career Program)",
    "location": "Madrid"
+  },
+  "f04f6ec8871343ecf48cecaa4ef72299": {
+   "id": "f04f6ec8871343ecf48cecaa4ef72299",
+   "company": "SIX",
+   "role": "Las Rozas De Madrid Data Scientist Llm & Ai Extraction",
+   "location": "Madrid"
+  },
+  "c2d49945e4c0b14f25118427d8050ea4": {
+   "id": "c2d49945e4c0b14f25118427d8050ea4",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman – Ai Engineer (m/f/d) – Digital And Analytics – Madrid",
+   "location": "Madrid"
+  },
+  "0411520b38f9e261b002271aa2ceb56b": {
+   "id": "0411520b38f9e261b002271aa2ceb56b",
+   "company": "Ayvens Group",
+   "role": "Asset Risk Data Analytics Analyst",
+   "location": "Madrid"
+  },
+  "1cb010f4942d186cb225e66bdb17df00": {
+   "id": "1cb010f4942d186cb225e66bdb17df00",
+   "company": "Gameloft Brisbane",
+   "role": "Data Scientist",
+   "location": "Barcelona +1"
   },
   "ca6b8b3ca58264231d4958fa324f461f": {
    "id": "ca6b8b3ca58264231d4958fa324f461f",
@@ -1067,12 +1091,6 @@
   "22a065fd2e3598609d59f8e9cdd7a450": {
    "id": "22a065fd2e3598609d59f8e9cdd7a450",
    "company": "Aristocrat Technologies",
-   "role": "Data Scientist",
-   "location": "Barcelona"
-  },
-  "e914ea5de9c8931d2df2e465e2d23575": {
-   "id": "e914ea5de9c8931d2df2e465e2d23575",
-   "company": "Gameloft Brisbane",
    "role": "Data Scientist",
    "location": "Barcelona"
   },
@@ -1478,22 +1496,22 @@
    "role": "Beca Proeduca - Data Analytics",
    "location": "Madrid"
   },
-  "e12e387cf6d351296ef89e66c5b8af1f": {
-   "id": "e12e387cf6d351296ef89e66c5b8af1f",
-   "company": "MSX International Ltd",
-   "role": "Data Analyst",
-   "location": "Madrid"
-  },
-  "33c2bf11fa9ac70f7c3bb3c35fbb7f22": {
-   "id": "33c2bf11fa9ac70f7c3bb3c35fbb7f22",
-   "company": "Accenture Technology",
-   "role": "Ai Native Product Engineer & Orchestrator",
-   "location": "Madrid"
-  },
   "17604ff8bcbbf94b5013ecf41d4e122f": {
    "id": "17604ff8bcbbf94b5013ecf41d4e122f",
    "company": "Alignerr",
    "role": "Spanish Workspace Evaluator – Gmail & Google AI Reviewer",
+   "location": "Madrid"
+  },
+  "bc9e1915e91c14b7f71107e632df33cb": {
+   "id": "bc9e1915e91c14b7f71107e632df33cb",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman -2027 Off-cycle Intern Consultant (m/f/d) - Spanish Or Portuguese Speaker – Iberia",
+   "location": "Madrid +1"
+  },
+  "d39b749257e2c98821a035ebee8f0519": {
+   "id": "d39b749257e2c98821a035ebee8f0519",
+   "company": "Oliver Wyman",
+   "role": "2027 Oliver Wyman – Intern Consultant - Spanish Speaker (m/f/d) – Madrid",
    "location": "Madrid"
   },
   "8b9de962876cc3c69b2387c98d55b332": {
@@ -1586,22 +1604,10 @@
    "role": "Business Analyst Intern (6 months) - 2027",
    "location": "Barcelona"
   },
-  "88b1be528122d802bf0b61a4dbac0ec5": {
-   "id": "88b1be528122d802bf0b61a4dbac0ec5",
-   "company": "Oliver Wyman",
-   "role": "Oliver Wyman -2027 Off-cycle Intern Consultant (m/f/d) - Spanish Or Portuguese Speaker – Iberia",
-   "location": "Madrid"
-  },
   "d942a05487966826b9de0dc903c9c3d6": {
    "id": "d942a05487966826b9de0dc903c9c3d6",
    "company": "Oliver Wyman",
    "role": "2027 Oliver Wyman – Intern Consultant - Portuguese Speaker (m/f/d) – Madrid",
-   "location": "Madrid"
-  },
-  "f40bb55f88847c5531a38bd4d903b059": {
-   "id": "f40bb55f88847c5531a38bd4d903b059",
-   "company": "Oliver Wyman",
-   "role": "2027 Oliver Wyman – Intern Consultant - Spanish Speaker (m/f/d) – Madrid",
    "location": "Madrid"
   },
   "859038089917": {
@@ -1657,6 +1663,12 @@
    "company": "Ubisoft",
    "role": "Accountant Trainee",
    "location": "Barcelona"
+  },
+  "5f9dd0ecbf8c05846b9b467ab568885a": {
+   "id": "5f9dd0ecbf8c05846b9b467ab568885a",
+   "company": "MSX International Ltd",
+   "role": "Analista Funcional Y Uat",
+   "location": "Madrid +1"
   },
   "82214ba2d5d0fbd712c0dc7a07637ec7": {
    "id": "82214ba2d5d0fbd712c0dc7a07637ec7",
@@ -2132,12 +2144,6 @@
    "role": "Consultor/a Madrid - Temporal",
    "location": "Madrid"
   },
-  "10e801082eb48a8e37d438d0a3a663ae": {
-   "id": "10e801082eb48a8e37d438d0a3a663ae",
-   "company": "Jobgether",
-   "role": "Powerpoint Contributor - Consulting And Strategy",
-   "location": "Spain"
-  },
   "bb247d5d802c92ddb912ff6f34242412": {
    "id": "bb247d5d802c92ddb912ff6f34242412",
    "company": "TFS HealthScience",
@@ -2150,11 +2156,41 @@
    "role": "Clinical Trial Associate",
    "location": "Spain"
   },
+  "8d9f435aa30fe7925b189d6ae4052252": {
+   "id": "8d9f435aa30fe7925b189d6ae4052252",
+   "company": "Thermo Fisher Scientific",
+   "role": "Assistant CRA",
+   "location": "Barcelona +1"
+  },
   "fe4facdc272599509ea02cd772036b40": {
    "id": "fe4facdc272599509ea02cd772036b40",
    "company": "EUROPREVEN",
    "role": "Médico/a De Vigilancia De La Salud",
    "location": "Barcelona"
+  },
+  "db883b1c7757b4aa988cfe58601bcd86": {
+   "id": "db883b1c7757b4aa988cfe58601bcd86",
+   "company": "Vaillant Group",
+   "role": "Técnico De Mantenimiento Zaragoza (h/m/x)",
+   "location": "Zaragoza"
+  },
+  "148ff841e30008ae754127ab782f09c9": {
+   "id": "148ff841e30008ae754127ab782f09c9",
+   "company": "Tetra Pak",
+   "role": "Job Title: Maintenance Engineer Barcelona",
+   "location": "Barcelona"
+  },
+  "86b8d6cd594ea717ac9e06d0faa21a71": {
+   "id": "86b8d6cd594ea717ac9e06d0faa21a71",
+   "company": "Chubb Ltd.",
+   "role": "Consumer Operations Technician",
+   "location": "Madrid"
+  },
+  "77de931d5ae7b9ea2192402ec767c9ea": {
+   "id": "77de931d5ae7b9ea2192402ec767c9ea",
+   "company": "Chubb Limited",
+   "role": "Consumer Operations Technician",
+   "location": "Madrid"
   },
   "0ac1d3fd8a69d71a0d6e689124e56f04": {
    "id": "0ac1d3fd8a69d71a0d6e689124e56f04",
@@ -2167,6 +2203,12 @@
    "company": "Melia",
    "role": "Tecnico/a De Mantenimiento - Me Barcelona",
    "location": "Barcelona"
+  },
+  "5ff90fb1e2655dc1295b84f33d0b6ef9": {
+   "id": "5ff90fb1e2655dc1295b84f33d0b6ef9",
+   "company": "Veolia Environnement SA",
+   "role": "Técnico/a De Mantenimiento Polivalente - Sat (electricista, Climatización)",
+   "location": "Madrid"
   },
   "f7442dad349ccb543fcefe64e92d0fed": {
    "id": "f7442dad349ccb543fcefe64e92d0fed",
@@ -2606,41 +2648,17 @@
    "role": "Industrial Maintenance Technician (temp Agency)",
    "location": "Madrid"
   },
-  "363284631fc4767a5ee26112f030fe00": {
-   "id": "363284631fc4767a5ee26112f030fe00",
-   "company": "Airbus SE",
-   "role": "Machines Maintenance Operator",
-   "location": "Madrid"
-  },
-  "8e1f6a050b135426ef2a031acbd82cd2": {
-   "id": "8e1f6a050b135426ef2a031acbd82cd2",
-   "company": "KONE Bahrain",
-   "role": "Técnico/a De Mantenimiento De Ascensores",
-   "location": "Malaga"
-  },
-  "268ae0a679406c7ff83793d607121dd6": {
-   "id": "268ae0a679406c7ff83793d607121dd6",
-   "company": "KONE Bahrain",
-   "role": "Técnico/a De Mantenimiento De Ascensorees",
-   "location": "Zaragoza"
-  },
-  "6289ae28815ff4fc296b4dca78bcdd7b": {
-   "id": "6289ae28815ff4fc296b4dca78bcdd7b",
-   "company": "Vithas",
-   "role": "Tecnico/a Mantenimiento Aravaca",
-   "location": "Madrid"
-  },
-  "e245320cc0fe9cbd98ad9887de8fd305": {
-   "id": "e245320cc0fe9cbd98ad9887de8fd305",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Técnico/a De Mantenimiento (electricista)",
-   "location": "Barcelona"
-  },
   "28c6dd38fba8d992039401ae99003545": {
    "id": "28c6dd38fba8d992039401ae99003545",
    "company": "Mango",
    "role": "Mozo/a De Almacen - Lliça D'amunt",
    "location": "Barcelona"
+  },
+  "b9f79d67564bb1ed175f67f06a08834d": {
+   "id": "b9f79d67564bb1ed175f67f06a08834d",
+   "company": "JYSK",
+   "role": "Vendedor/a - 30h - Madrid City (bravo Murillo)",
+   "location": "Madrid"
   },
   "269a53f7a7b9dd6ca67c15c2bd15d9d1": {
    "id": "269a53f7a7b9dd6ca67c15c2bd15d9d1",
@@ -3108,12 +3126,6 @@
    "id": "dac66b7c48e8f3f75fcb97c20ef5a1b3",
    "company": "Dentsply Sirona",
    "role": "Mozo/a De Almacén - Barcelona. Spain",
-   "location": "Barcelona"
-  },
-  "0551897643ca5cfb220d055a8687808f": {
-   "id": "0551897643ca5cfb220d055a8687808f",
-   "company": "SIXT",
-   "role": "Rental Sales Agent (m/f/d) - Barcelona Fira Hospitalet",
    "location": "Barcelona"
   },
   "d977d10fde2a3acfd4d761bad50589bd": {

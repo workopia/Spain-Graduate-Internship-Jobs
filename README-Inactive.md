@@ -3749,4 +3749,23 @@
 <tr><td>Mango</td><td>Vendedor/a 14 H Fines De Semana Mango Home Plaza Norte 2 S.s De Los Reyes</td><td>Madrid</td><td>2026-11-20</td></tr>
 <tr><td>Legocareersvirginia</td><td>Temporary Sales Associate</td><td>Barcelona</td><td>2026-11-20</td></tr>
 <tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate</td><td>Barcelona</td><td>2026-11-20</td></tr>
+<tr><td>Testia</td><td>#discover I 2027-2028 Commodity Manager Detail Parts Composites Intern</td><td>Sevilla Area</td><td>2026-11-21</td></tr>
+<tr><td>Testia</td><td>#discover I 2027-2028 Human Resources Business Partner Internship</td><td>Getafe Area</td><td>2026-11-21</td></tr>
+<tr><td>Testia</td><td>#xplorer 2027 Finance Controlling Airbus Cádiz Intern</td><td>El Puerto Sta Maria +1</td><td>2026-11-21</td></tr>
+<tr><td>Testia</td><td>#discover I 2027-2028 Maintenance Programs (powerplant) Internship</td><td>Getafe Area</td><td>2026-11-21</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Kitchen Internship</td><td>Barcelona</td><td>2026-11-21</td></tr>
+<tr><td>Indra group</td><td>Distributed Critical Software Engineer (ada/c++) / Hybrid Madrid</td><td>Madrid</td><td>2026-11-21</td></tr>
+<tr><td>ISGlobal</td><td>Software Engineer For Sciencepaks Project</td><td>Barcelona</td><td>2026-11-21</td></tr>
+<tr><td>Gameloft Brisbane</td><td>Data Scientist</td><td>Barcelona</td><td>2026-11-21</td></tr>
+<tr><td>MSX International Ltd</td><td>Data Analyst</td><td>Madrid</td><td>2026-11-21</td></tr>
+<tr><td>Accenture Technology</td><td>Ai Native Product Engineer & Orchestrator</td><td>Madrid</td><td>2026-11-21</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman -2027 Off-cycle Intern Consultant (m/f/d) - Spanish Or Portuguese Speaker – Iberia</td><td>Madrid</td><td>2026-11-21</td></tr>
+<tr><td>Oliver Wyman</td><td>2027 Oliver Wyman – Intern Consultant - Spanish Speaker (m/f/d) – Madrid</td><td>Madrid</td><td>2026-11-21</td></tr>
+<tr><td>Jobgether</td><td>Powerpoint Contributor - Consulting And Strategy</td><td>Spain</td><td>2026-11-21</td></tr>
+<tr><td>Airbus SE</td><td>Machines Maintenance Operator</td><td>Madrid</td><td>2026-11-21</td></tr>
+<tr><td>KONE Bahrain</td><td>Técnico/a De Mantenimiento De Ascensores</td><td>Malaga</td><td>2026-11-21</td></tr>
+<tr><td>KONE Bahrain</td><td>Técnico/a De Mantenimiento De Ascensorees</td><td>Zaragoza</td><td>2026-11-21</td></tr>
+<tr><td>Vithas</td><td>Tecnico/a Mantenimiento Aravaca</td><td>Madrid</td><td>2026-11-21</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Técnico/a De Mantenimiento (electricista)</td><td>Barcelona</td><td>2026-11-21</td></tr>
+<tr><td>SIXT</td><td>Rental Sales Agent (m/f/d) - Barcelona Fira Hospitalet</td><td>Barcelona</td><td>2026-11-21</td></tr>
 </table>
