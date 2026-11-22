@@ -3768,4 +3768,18 @@
 <tr><td>Vithas</td><td>Tecnico/a Mantenimiento Aravaca</td><td>Madrid</td><td>2026-11-21</td></tr>
 <tr><td>ALSTOM TRANSPORT SA</td><td>Técnico/a De Mantenimiento (electricista)</td><td>Barcelona</td><td>2026-11-21</td></tr>
 <tr><td>SIXT</td><td>Rental Sales Agent (m/f/d) - Barcelona Fira Hospitalet</td><td>Barcelona</td><td>2026-11-21</td></tr>
+<tr><td>Papernest</td><td>Digital Marketing Seo - Intern - Barcelona</td><td>Barcelona</td><td>2026-11-22</td></tr>
+<tr><td>Papernest</td><td>Office Wellbeing - Intern - Barcelona</td><td>Barcelona</td><td>2026-11-22</td></tr>
+<tr><td>Papernest</td><td>Business Analyst & Partnerships Intern</td><td>Barcelona</td><td>2026-11-22</td></tr>
+<tr><td>Papernest</td><td>Business Developer Intern</td><td>Barcelona +1</td><td>2026-11-22</td></tr>
+<tr><td>Papernest</td><td>Talent Acquisition Specialist Intern</td><td>Barcelona +1</td><td>2026-11-22</td></tr>
+<tr><td>NN Group</td><td>Frontend Engineer</td><td>Madrid</td><td>2026-11-22</td></tr>
+<tr><td>minsait</td><td>Distributed Critical Software Engineer (ada/c++) / Hybrid Madrid</td><td>Madrid</td><td>2026-11-22</td></tr>
+<tr><td>Allianz Technology</td><td>L&d Ai & Tech Intern (m/f/d)</td><td>Barcelona</td><td>2026-11-22</td></tr>
+<tr><td>Qualentum</td><td>Beca Proeduca - Data Analytics</td><td>Madrid</td><td>2026-11-22</td></tr>
+<tr><td>Oliver Wyman</td><td>2027 Oliver Wyman – Intern Consultant - Portuguese Speaker (m/f/d) – Madrid</td><td>Madrid</td><td>2026-11-22</td></tr>
+<tr><td>Mizuho / Greenhill</td><td>Mizuho / Greenhill - 2027 M&a Internship - Madrid</td><td>Madrid</td><td>2026-11-22</td></tr>
+<tr><td>Sopra Steria UK</td><td>Consultor/a Funcional Con Francés - Sector Bancario</td><td>Madrid</td><td>2026-11-22</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Consultor/a Madrid - Temporal</td><td>Madrid</td><td>2026-11-22</td></tr>
+<tr><td>GE Healthcare</td><td>Customer Service Coordinator</td><td>Madrid</td><td>2026-11-22</td></tr>
 </table>

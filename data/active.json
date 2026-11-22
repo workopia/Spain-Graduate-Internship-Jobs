@@ -1,7 +1,25 @@
 {
- "asOf": "2026-11-21",
- "count": 554,
+ "asOf": "2026-11-22",
+ "count": 551,
  "jobs": {
+  "ba9518542145a8769855066af1d52de7": {
+   "id": "ba9518542145a8769855066af1d52de7",
+   "company": "BARCELO CORPORACION EMPRESARIAL SA",
+   "role": "Prácticas Barceló Pro Rewards",
+   "location": "Gremi Fusters"
+  },
+  "e3258057112c587535c77a50fa86c387": {
+   "id": "e3258057112c587535c77a50fa86c387",
+   "company": "Testia",
+   "role": "#discover I 2027-2028 Digital Customer Services Internship",
+   "location": "Getafe +1"
+  },
+  "20a40d3a0575765236328ea48cd51605": {
+   "id": "20a40d3a0575765236328ea48cd51605",
+   "company": "Glovo",
+   "role": "Intern Regions Spain",
+   "location": "Las Palmas De Gran Canarias"
+  },
   "588631767e90ec880e779b05571d9aa2": {
    "id": "588631767e90ec880e779b05571d9aa2",
    "company": "Papernest",
@@ -18,6 +36,18 @@
    "id": "13cd24ec31c85f553662101dcbfa07ec",
    "company": "Testia",
    "role": "#discover I 2027-2028 A330 Mrtt Industrial Performance Improvement Internship",
+   "location": "Madrid"
+  },
+  "ede2c5cf972a239486e7ff34dfe7fdbf": {
+   "id": "ede2c5cf972a239486e7ff34dfe7fdbf",
+   "company": "Verisure S.A.",
+   "role": "Esg & Compliance Intern",
+   "location": "Pozuelo De AlarcóN +1"
+  },
+  "f04ace0244b325e5024a54fe41435086": {
+   "id": "f04ace0244b325e5024a54fe41435086",
+   "company": "Verisure S.A.",
+   "role": "Group Customer Intelligence Intern",
    "location": "Madrid"
   },
   "a91d74187daf557ec88548f48885a732": {
@@ -452,36 +482,6 @@
    "role": "Ai & Automation Intern",
    "location": "Barcelona"
   },
-  "52dbba175bc7ad2ec730b1dad8b5e571": {
-   "id": "52dbba175bc7ad2ec730b1dad8b5e571",
-   "company": "Papernest",
-   "role": "Digital Marketing Seo - Intern - Barcelona",
-   "location": "Barcelona"
-  },
-  "775acc17a85dbd10a34e80642978b0e3": {
-   "id": "775acc17a85dbd10a34e80642978b0e3",
-   "company": "Papernest",
-   "role": "Office Wellbeing - Intern - Barcelona",
-   "location": "Barcelona"
-  },
-  "33d438410b74da79d39c46b271be71d8": {
-   "id": "33d438410b74da79d39c46b271be71d8",
-   "company": "Papernest",
-   "role": "Business Analyst & Partnerships Intern",
-   "location": "Barcelona"
-  },
-  "cd07331d94651a018780b2c678e1a0f2": {
-   "id": "cd07331d94651a018780b2c678e1a0f2",
-   "company": "Papernest",
-   "role": "Business Developer Intern",
-   "location": "Barcelona +1"
-  },
-  "fed92ba4b02afb7485ed6ed3344695b8": {
-   "id": "fed92ba4b02afb7485ed6ed3344695b8",
-   "company": "Papernest",
-   "role": "Talent Acquisition Specialist Intern",
-   "location": "Barcelona +1"
-  },
   "8b6343c11042290029cb7e77ce1474c4": {
    "id": "8b6343c11042290029cb7e77ce1474c4",
    "company": "Jobgether",
@@ -499,6 +499,18 @@
    "company": "Stripe Payments",
    "role": "Software Engineer, New Grad - Frontend",
    "location": "Barcelona"
+  },
+  "4718a6102994dfe5e1f6a9ac8147da8b": {
+   "id": "4718a6102994dfe5e1f6a9ac8147da8b",
+   "company": "SANTANDER CONSUMER BANK S.p.A",
+   "role": "Backend Software Engineer (java/ Kotlin)",
+   "location": "Madrid"
+  },
+  "6044977a9d49c72829775934ab209ce9": {
+   "id": "6044977a9d49c72829775934ab209ce9",
+   "company": "SANTANDER CONSUMER BANK S.p.A",
+   "role": "Front End Software Engineer (react/ Typescript)",
+   "location": "Madrid"
   },
   "56e6a18243dd994b549d56601e7fcd3a": {
    "id": "56e6a18243dd994b549d56601e7fcd3a",
@@ -968,18 +980,6 @@
    "role": "Software Engineer/c Developer-pgd",
    "location": "Spain"
   },
-  "8e84a63908857354ab45c4ac1e346a85": {
-   "id": "8e84a63908857354ab45c4ac1e346a85",
-   "company": "NN Group",
-   "role": "Frontend Engineer",
-   "location": "Madrid"
-  },
-  "8b1a50072f59253148cba56fa61a2d52": {
-   "id": "8b1a50072f59253148cba56fa61a2d52",
-   "company": "minsait",
-   "role": "Distributed Critical Software Engineer (ada/c++) / Hybrid Madrid",
-   "location": "Madrid"
-  },
   "dc519a81216b405e2abd1d71cb1426d5": {
    "id": "dc519a81216b405e2abd1d71cb1426d5",
    "company": "Celonis",
@@ -1004,12 +1004,6 @@
    "role": "Internship - Data Analyst",
    "location": "Barcelona"
   },
-  "39faba34fe21e460a80947f3abd1e62d": {
-   "id": "39faba34fe21e460a80947f3abd1e62d",
-   "company": "Allianz Technology",
-   "role": "L&d Ai & Tech Intern (m/f/d)",
-   "location": "Barcelona"
-  },
   "486375b3440a90b4e318f1011cd1ac48": {
    "id": "486375b3440a90b4e318f1011cd1ac48",
    "company": "IQVIA UK",
@@ -1020,6 +1014,12 @@
    "id": "55f3dcd0d7c38e0a644b149830c60153",
    "company": "Ericsson",
    "role": "Data Scientist (early Career Program)",
+   "location": "Madrid"
+  },
+  "dbd4b5baf461f24f8f4d9ba5750ddd25": {
+   "id": "dbd4b5baf461f24f8f4d9ba5750ddd25",
+   "company": "Roche",
+   "role": "Ai Engineer (genai & Agentic Solutions)",
    "location": "Madrid"
   },
   "f04f6ec8871343ecf48cecaa4ef72299": {
@@ -1490,17 +1490,17 @@
    "role": "Applied Ai Engineer, Codex",
    "location": "Madrid"
   },
-  "108b7e847f02d80f04d063d66a335a36": {
-   "id": "108b7e847f02d80f04d063d66a335a36",
-   "company": "Qualentum",
-   "role": "Beca Proeduca - Data Analytics",
-   "location": "Madrid"
-  },
   "17604ff8bcbbf94b5013ecf41d4e122f": {
    "id": "17604ff8bcbbf94b5013ecf41d4e122f",
    "company": "Alignerr",
    "role": "Spanish Workspace Evaluator – Gmail & Google AI Reviewer",
    "location": "Madrid"
+  },
+  "dadb57f0f2ec9ec0a234611c6074de59": {
+   "id": "dadb57f0f2ec9ec0a234611c6074de59",
+   "company": "Oliver Wyman",
+   "role": "2027 Oliver Wyman – Intern Consultant - Portuguese Speaker (m/f/d) – Madrid",
+   "location": "Madrid +1"
   },
   "bc9e1915e91c14b7f71107e632df33cb": {
    "id": "bc9e1915e91c14b7f71107e632df33cb",
@@ -1604,12 +1604,6 @@
    "role": "Business Analyst Intern (6 months) - 2027",
    "location": "Barcelona"
   },
-  "d942a05487966826b9de0dc903c9c3d6": {
-   "id": "d942a05487966826b9de0dc903c9c3d6",
-   "company": "Oliver Wyman",
-   "role": "2027 Oliver Wyman – Intern Consultant - Portuguese Speaker (m/f/d) – Madrid",
-   "location": "Madrid"
-  },
   "859038089917": {
    "id": "859038089917",
    "company": "Citi",
@@ -1626,12 +1620,6 @@
    "id": "19fcb8e80e4ed2ecac27077e5d242b21",
    "company": "Citi Handlowy",
    "role": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
-   "location": "Madrid"
-  },
-  "d604c30365be22c2e7466899299a1215": {
-   "id": "d604c30365be22c2e7466899299a1215",
-   "company": "Mizuho / Greenhill",
-   "role": "Mizuho / Greenhill - 2027 M&a Internship - Madrid",
    "location": "Madrid"
   },
   "b396576cb4041ef7a74199e5a6fa4f6a": {
@@ -1662,6 +1650,18 @@
    "id": "5c6f3e306b61459536abab82adb5fcaf",
    "company": "Ubisoft",
    "role": "Accountant Trainee",
+   "location": "Barcelona"
+  },
+  "7a118717a70371838d969c942db7105e": {
+   "id": "7a118717a70371838d969c942db7105e",
+   "company": "GFT Technologies Canada Inc",
+   "role": "Business Analyst - Credit Risk Reporting / Boadilla Del Monte",
+   "location": "Alicobendas +2"
+  },
+  "26600e8042de0682dce7514f9adcc694": {
+   "id": "26600e8042de0682dce7514f9adcc694",
+   "company": "TVH",
+   "role": "Accountant",
    "location": "Barcelona"
   },
   "5f9dd0ecbf8c05846b9b467ab568885a": {
@@ -2130,18 +2130,6 @@
    "id": "3a98c3dc9c2a8e05bd72d3a762b4ae0e",
    "company": "Retirement World",
    "role": "Analyst, Investment Banking (madrid)",
-   "location": "Madrid"
-  },
-  "b9686ca89ed6ff773a2e3dc3ffed7262": {
-   "id": "b9686ca89ed6ff773a2e3dc3ffed7262",
-   "company": "Sopra Steria UK",
-   "role": "Consultor/a Funcional Con Francés - Sector Bancario",
-   "location": "Madrid"
-  },
-  "5a3dafc4da34982eaf6c1b234c3e9365": {
-   "id": "5a3dafc4da34982eaf6c1b234c3e9365",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Consultor/a Madrid - Temporal",
    "location": "Madrid"
   },
   "bb247d5d802c92ddb912ff6f34242412": {
@@ -3319,12 +3307,6 @@
    "company": "FERROVIAL CONSTRUCCIÓN, S.A.",
    "role": "Administrativo/a De Producción",
    "location": "Zamora"
-  },
-  "05df866e37be59c48f537adbd4186733": {
-   "id": "05df866e37be59c48f537adbd4186733",
-   "company": "GE Healthcare",
-   "role": "Customer Service Coordinator",
-   "location": "Madrid"
   }
  }
 }
