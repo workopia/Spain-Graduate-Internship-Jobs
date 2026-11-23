@@ -9,11 +9,11 @@
   "site_slug": "spain",
   "lang": "es",
   "site_live": false,
-  "as_of": "2026-11-22",
+  "as_of": "2026-11-23",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 3425,
-  "generated_at": "2026-11-22T00:50:30.117Z"
+  "country_live_total": 3423,
+  "generated_at": "2026-11-23T00:58:05.094Z"
  },
  "categories": [
   {
@@ -4257,40 +4257,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": null,
-   "id": "ce9aa2228016bae310e45f63e7b472a6",
-   "source": "Workopia",
-   "company_name": "Glovo",
-   "company_hi_slug": "glovo",
-   "title": "Data Analyst I Courier Rto Global Hq",
-   "location": "Barcelona",
-   "skills": "Advanced SQL (window f, Structured, sceptical ",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-23T08:57:29.867Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/ce9aa2228016bae310e45f63e7b472a6",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "c40d4b85d5c7bc33dd9224f2b86681a0",
-   "source": "Workopia",
-   "company_name": "OpenAI",
-   "company_hi_slug": "openai",
-   "title": "Applied Ai Engineer, Codex",
-   "location": "Madrid",
-   "skills": "design and implement A, build advanced AI codi",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-23T08:53:15.399Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/c40d4b85d5c7bc33dd9224f2b86681a0",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "$15–35/hr",
    "id": "17604ff8bcbbf94b5013ecf41d4e122f",
    "source": "Workopia",
@@ -6179,6 +6145,23 @@
   },
   {
    "salary_display": null,
+   "id": "86b8d6cd594ea717ac9e06d0faa21a71",
+   "source": "Workopia",
+   "company_name": "Chubb European Group SE Spanish Branch",
+   "company_hi_slug": null,
+   "title": "Consumer Operations Technician",
+   "location": "Madrid",
+   "skills": "Customer support, Data analysis",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-22T06:12:04.152Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/86b8d6cd594ea717ac9e06d0faa21a71",
+   "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "db883b1c7757b4aa988cfe58601bcd86",
    "source": "Workopia",
    "company_name": "Vaillant Group",
@@ -6208,23 +6191,6 @@
    "date_posted": "2026-11-20T00:15:03.819Z",
    "active": true,
    "url": "https://workopia.io/jobs/148ff841e30008ae754127ab782f09c9",
-   "category": "trades",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "86b8d6cd594ea717ac9e06d0faa21a71",
-   "source": "Workopia",
-   "company_name": "Chubb Ltd.",
-   "company_hi_slug": "chubb",
-   "title": "Consumer Operations Technician",
-   "location": "Madrid",
-   "skills": "Customer service, Data analysis",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-11-20T00:00:00.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/86b8d6cd594ea717ac9e06d0faa21a71",
    "category": "trades",
    "tier": "Entry-level"
   },

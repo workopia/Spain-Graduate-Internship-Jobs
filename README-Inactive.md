@@ -3782,4 +3782,6 @@
 <tr><td>Sopra Steria UK</td><td>Consultor/a Funcional Con Francés - Sector Bancario</td><td>Madrid</td><td>2026-11-22</td></tr>
 <tr><td>Zurich Insurance Company Ltd</td><td>Consultor/a Madrid - Temporal</td><td>Madrid</td><td>2026-11-22</td></tr>
 <tr><td>GE Healthcare</td><td>Customer Service Coordinator</td><td>Madrid</td><td>2026-11-22</td></tr>
+<tr><td>Glovo</td><td>Data Analyst I Courier Rto Global Hq</td><td>Barcelona</td><td>2026-11-23</td></tr>
+<tr><td>OpenAI</td><td>Applied Ai Engineer, Codex</td><td>Madrid</td><td>2026-11-23</td></tr>
 </table>

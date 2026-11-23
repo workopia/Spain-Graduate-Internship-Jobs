@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-22",
- "count": 551,
+ "asOf": "2026-11-23",
+ "count": 549,
  "jobs": {
   "ba9518542145a8769855066af1d52de7": {
    "id": "ba9518542145a8769855066af1d52de7",
@@ -1478,18 +1478,6 @@
    "role": "Data Scientist - Analytics Business Consulting",
    "location": "Barcelona"
   },
-  "ce9aa2228016bae310e45f63e7b472a6": {
-   "id": "ce9aa2228016bae310e45f63e7b472a6",
-   "company": "Glovo",
-   "role": "Data Analyst I Courier Rto Global Hq",
-   "location": "Barcelona"
-  },
-  "c40d4b85d5c7bc33dd9224f2b86681a0": {
-   "id": "c40d4b85d5c7bc33dd9224f2b86681a0",
-   "company": "OpenAI",
-   "role": "Applied Ai Engineer, Codex",
-   "location": "Madrid"
-  },
   "17604ff8bcbbf94b5013ecf41d4e122f": {
    "id": "17604ff8bcbbf94b5013ecf41d4e122f",
    "company": "Alignerr",
@@ -2156,6 +2144,12 @@
    "role": "Médico/a De Vigilancia De La Salud",
    "location": "Barcelona"
   },
+  "86b8d6cd594ea717ac9e06d0faa21a71": {
+   "id": "86b8d6cd594ea717ac9e06d0faa21a71",
+   "company": "Chubb European Group SE Spanish Branch",
+   "role": "Consumer Operations Technician",
+   "location": "Madrid"
+  },
   "db883b1c7757b4aa988cfe58601bcd86": {
    "id": "db883b1c7757b4aa988cfe58601bcd86",
    "company": "Vaillant Group",
@@ -2167,12 +2161,6 @@
    "company": "Tetra Pak",
    "role": "Job Title: Maintenance Engineer Barcelona",
    "location": "Barcelona"
-  },
-  "86b8d6cd594ea717ac9e06d0faa21a71": {
-   "id": "86b8d6cd594ea717ac9e06d0faa21a71",
-   "company": "Chubb Ltd.",
-   "role": "Consumer Operations Technician",
-   "location": "Madrid"
   },
   "77de931d5ae7b9ea2192402ec767c9ea": {
    "id": "77de931d5ae7b9ea2192402ec767c9ea",
