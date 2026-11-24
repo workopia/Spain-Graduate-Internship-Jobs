@@ -3784,4 +3784,9 @@
 <tr><td>GE Healthcare</td><td>Customer Service Coordinator</td><td>Madrid</td><td>2026-11-22</td></tr>
 <tr><td>Glovo</td><td>Data Analyst I Courier Rto Global Hq</td><td>Barcelona</td><td>2026-11-23</td></tr>
 <tr><td>OpenAI</td><td>Applied Ai Engineer, Codex</td><td>Madrid</td><td>2026-11-23</td></tr>
+<tr><td>Hydeparkbank</td><td>Ai & Automation Intern</td><td>Barcelona</td><td>2026-11-24</td></tr>
+<tr><td>Veeva</td><td>Data Scientist - Analytics Business Consulting</td><td>Barcelona</td><td>2026-11-24</td></tr>
+<tr><td>Citi Handlowy</td><td>Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027</td><td>Madrid</td><td>2026-11-24</td></tr>
+<tr><td>Dentsply Sirona</td><td>Mozo/a De Almacén - Barcelona. Spain</td><td>Barcelona</td><td>2026-11-24</td></tr>
+<tr><td>FERROVIAL CONSTRUCCIÓN, S.A.</td><td>Administrativo/a De Producción</td><td>Zamora</td><td>2026-11-24</td></tr>
 </table>

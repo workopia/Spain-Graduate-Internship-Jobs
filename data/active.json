@@ -1,7 +1,13 @@
 {
- "asOf": "2026-11-23",
- "count": 549,
+ "asOf": "2026-11-24",
+ "count": 548,
  "jobs": {
+  "652626dc69e4ffab9d7d483c3dc8a2ed": {
+   "id": "652626dc69e4ffab9d7d483c3dc8a2ed",
+   "company": "Zynga",
+   "role": "Product Manager Intern - Socialpoint",
+   "location": "Barcelona"
+  },
   "ba9518542145a8769855066af1d52de7": {
    "id": "ba9518542145a8769855066af1d52de7",
    "company": "BARCELO CORPORACION EMPRESARIAL SA",
@@ -475,12 +481,6 @@
    "company": "Bertrandt Group",
    "role": "Requirements & Safety Documentation - Intern",
    "location": "28906"
-  },
-  "35ffb6fa3c65cec6fb390fa7f3b8ecb9": {
-   "id": "35ffb6fa3c65cec6fb390fa7f3b8ecb9",
-   "company": "Hydeparkbank",
-   "role": "Ai & Automation Intern",
-   "location": "Barcelona"
   },
   "8b6343c11042290029cb7e77ce1474c4": {
    "id": "8b6343c11042290029cb7e77ce1474c4",
@@ -1016,6 +1016,18 @@
    "role": "Data Scientist (early Career Program)",
    "location": "Madrid"
   },
+  "e1e3fe04179921a7820e8846f1eacddf": {
+   "id": "e1e3fe04179921a7820e8846f1eacddf",
+   "company": "Smadex",
+   "role": "Data Scientist For Machine Learning Team",
+   "location": "Barcelona"
+  },
+  "361f758f0ee24f7c25f032b2900eca11": {
+   "id": "361f758f0ee24f7c25f032b2900eca11",
+   "company": "Tripledot Studios",
+   "role": "Ai Game Creator (r&d)",
+   "location": "Barcelona"
+  },
   "dbd4b5baf461f24f8f4d9ba5750ddd25": {
    "id": "dbd4b5baf461f24f8f4d9ba5750ddd25",
    "company": "Roche",
@@ -1472,12 +1484,6 @@
    "role": "It Ai & Voice Agent Enginee",
    "location": "Madrid"
   },
-  "a8a64a7dc0ee444c0ac1a4f7c12ed9f4": {
-   "id": "a8a64a7dc0ee444c0ac1a4f7c12ed9f4",
-   "company": "Veeva",
-   "role": "Data Scientist - Analytics Business Consulting",
-   "location": "Barcelona"
-  },
   "17604ff8bcbbf94b5013ecf41d4e122f": {
    "id": "17604ff8bcbbf94b5013ecf41d4e122f",
    "company": "Alignerr",
@@ -1603,12 +1609,6 @@
    "company": "Zurich Insurance Company Ltd",
    "role": "Business Analyst Intern",
    "location": "Barcelona"
-  },
-  "19fcb8e80e4ed2ecac27077e5d242b21": {
-   "id": "19fcb8e80e4ed2ecac27077e5d242b21",
-   "company": "Citi Handlowy",
-   "role": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
-   "location": "Madrid"
   },
   "b396576cb4041ef7a74199e5a6fa4f6a": {
    "id": "b396576cb4041ef7a74199e5a6fa4f6a",
@@ -2624,6 +2624,12 @@
    "role": "Industrial Maintenance Technician (temp Agency)",
    "location": "Madrid"
   },
+  "7de19a53472046979fa8ff5fd94a803a": {
+   "id": "7de19a53472046979fa8ff5fd94a803a",
+   "company": "Kiabi",
+   "role": "Vendedor/a Moda Kiabi 1075h Indefinido",
+   "location": "Barcelona"
+  },
   "28c6dd38fba8d992039401ae99003545": {
    "id": "28c6dd38fba8d992039401ae99003545",
    "company": "Mango",
@@ -3098,12 +3104,6 @@
    "role": "Vendedor/a / 20 Hrs, Tardes, Indefinido, Ikea San Sebastian De Los Reyes",
    "location": "Madrid"
   },
-  "dac66b7c48e8f3f75fcb97c20ef5a1b3": {
-   "id": "dac66b7c48e8f3f75fcb97c20ef5a1b3",
-   "company": "Dentsply Sirona",
-   "role": "Mozo/a De Almacén - Barcelona. Spain",
-   "location": "Barcelona"
-  },
   "d977d10fde2a3acfd4d761bad50589bd": {
    "id": "d977d10fde2a3acfd4d761bad50589bd",
    "company": "Tokio Marine HCC",
@@ -3289,12 +3289,6 @@
    "company": "Minsait",
    "role": "Technical Administrative Support",
    "location": "Madrid"
-  },
-  "bb7a781d25a6cbdb272a16328506b1be": {
-   "id": "bb7a781d25a6cbdb272a16328506b1be",
-   "company": "FERROVIAL CONSTRUCCIÓN, S.A.",
-   "role": "Administrativo/a De Producción",
-   "location": "Zamora"
   }
  }
 }
