@@ -3789,4 +3789,25 @@
 <tr><td>Citi Handlowy</td><td>Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027</td><td>Madrid</td><td>2026-11-24</td></tr>
 <tr><td>Dentsply Sirona</td><td>Mozo/a De Almacén - Barcelona. Spain</td><td>Barcelona</td><td>2026-11-24</td></tr>
 <tr><td>FERROVIAL CONSTRUCCIÓN, S.A.</td><td>Administrativo/a De Producción</td><td>Zamora</td><td>2026-11-24</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Data Intern</td><td>Barcelona</td><td>2026-11-25</td></tr>
+<tr><td>Schneider Electric</td><td>Digital Mergers & Acquisitions Intern Stp27</td><td>Catalonia</td><td>2026-11-25</td></tr>
+<tr><td>Schneider Electric</td><td>Digital Pricing Operating Model Intern Stp27</td><td>Catalonia</td><td>2026-11-25</td></tr>
+<tr><td>Johnson & Johnson UK</td><td>Customer Service Intern</td><td>Madrid</td><td>2026-11-25</td></tr>
+<tr><td>Mandarin Oriental Hotel Group</td><td>Practicas - People & Culture/ Hr Trainee- Internship. Starting February.</td><td>Barcelona</td><td>2026-11-25</td></tr>
+<tr><td>Bertrandt Group</td><td>Requirements & Safety Documentation - Intern</td><td>28906</td><td>2026-11-25</td></tr>
+<tr><td>Stripe Payments</td><td>Software Engineer, New Grad - Frontend</td><td>Barcelona</td><td>2026-11-25</td></tr>
+<tr><td>Delivery Hero</td><td>Junior Backend Engineer (they/she/he)</td><td>Barcelona</td><td>2026-11-25</td></tr>
+<tr><td>Intrum Justitia AB</td><td>It Ai & Voice Agent Enginee</td><td>Madrid</td><td>2026-11-25</td></tr>
+<tr><td>MSX International Ltd</td><td>Consultor/a Para Servicios De Movilidad</td><td>Madrid</td><td>2026-11-25</td></tr>
+<tr><td>Retirement World</td><td>Analyst, Investment Banking (madrid)</td><td>Madrid</td><td>2026-11-25</td></tr>
+<tr><td>EUROPREVEN</td><td>Médico/a De Vigilancia De La Salud</td><td>Barcelona</td><td>2026-11-25</td></tr>
+<tr><td>Dematic Corp</td><td>Tecnico Electromecanico (sede Fuenlabrada)</td><td>Madrid</td><td>2026-11-25</td></tr>
+<tr><td>Melia</td><td>Técnico De Mantenimiento - Torre Melina A Gran Melia</td><td>Barcelona</td><td>2026-11-25</td></tr>
+<tr><td>Meliá</td><td>Técnico De Mantenimiento - Meliá Castilla</td><td>Madrid</td><td>2026-11-25</td></tr>
+<tr><td>Dematic</td><td>Tecnico Electromecanico (sede Fuenlabrada)</td><td>Madrid</td><td>2026-11-25</td></tr>
+<tr><td>Hitachi Rail Espana S.L.</td><td>Overhaul Technician</td><td>Madrid</td><td>2026-11-25</td></tr>
+<tr><td>Hitachi Rail GTS Spain S.A.U.</td><td>Técnico/a De Mantenimiento Ferroviario Multidisciplinar</td><td>Barcelona</td><td>2026-11-25</td></tr>
+<tr><td>Airbus Operations SL</td><td>Industrial Maintenance Technician (temp Agency)</td><td>Madrid</td><td>2026-11-25</td></tr>
+<tr><td>Mango</td><td>Campaña Navidad Vendedor- 10361 La Roca</td><td>Barcelona</td><td>2026-11-25</td></tr>
+<tr><td>IKEA</td><td>Vendedor/a / 20 Hrs, Tardes, Indefinido, Ikea San Sebastian De Los Reyes</td><td>Madrid</td><td>2026-11-25</td></tr>
 </table>
