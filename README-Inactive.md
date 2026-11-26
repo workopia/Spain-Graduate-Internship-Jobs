@@ -3810,4 +3810,26 @@
 <tr><td>Airbus Operations SL</td><td>Industrial Maintenance Technician (temp Agency)</td><td>Madrid</td><td>2026-11-25</td></tr>
 <tr><td>Mango</td><td>Campaña Navidad Vendedor- 10361 La Roca</td><td>Barcelona</td><td>2026-11-25</td></tr>
 <tr><td>IKEA</td><td>Vendedor/a / 20 Hrs, Tardes, Indefinido, Ikea San Sebastian De Los Reyes</td><td>Madrid</td><td>2026-11-25</td></tr>
+<tr><td>SAP SE</td><td>Diploma Student / Intern</td><td>Barcelona +1</td><td>2026-11-26</td></tr>
+<tr><td>NetApp</td><td>Intern</td><td>Madrid</td><td>2026-11-26</td></tr>
+<tr><td>ENGIE España</td><td>It & Digital Management Internship</td><td>Madrid +1</td><td>2026-11-26</td></tr>
+<tr><td>ENGIE España</td><td>Stt Intern</td><td>Madrid</td><td>2026-11-26</td></tr>
+<tr><td>ENGIE España</td><td>Compliance Intern</td><td>Madrid</td><td>2026-11-26</td></tr>
+<tr><td>ENGIE España</td><td>Talent Acquisition Internship</td><td>Madrid</td><td>2026-11-26</td></tr>
+<tr><td>HP</td><td>Ai & Automation Intern</td><td>Barcelona +1</td><td>2026-11-26</td></tr>
+<tr><td>Barcelo</td><td>Prácticas Revenue Management - Clúster Madrid</td><td>Madrid</td><td>2026-11-26</td></tr>
+<tr><td>Gameloft Brisbane</td><td>Marketing Activations Intern</td><td>Barcelona</td><td>2026-11-26</td></tr>
+<tr><td>Monolithic Power Systems</td><td>Software Engineer - New Grad</td><td>Barcelona</td><td>2026-11-26</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist</td><td>Spain</td><td>2026-11-26</td></tr>
+<tr><td>Minsait</td><td>Data Scientist/data Engineer Junior</td><td>Spain</td><td>2026-11-26</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Data Analyst / Data Engineer (commercial Insurance)</td><td>Barcelona</td><td>2026-11-26</td></tr>
+<tr><td>Citi</td><td>Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027</td><td>Madrid</td><td>2026-11-26</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Business Analyst Intern</td><td>Barcelona</td><td>2026-11-26</td></tr>
+<tr><td>Tokio Marine HCC</td><td>Business Analyst - Tme</td><td>Barcelona</td><td>2026-11-26</td></tr>
+<tr><td>PIMEC Jobs</td><td>Técnico/a Contable Fiscal</td><td>Barcelona</td><td>2026-11-26</td></tr>
+<tr><td>Alstom</td><td>Operario(a) De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa</td><td>Madrid</td><td>2026-11-26</td></tr>
+<tr><td>Westinghouse Air Brake Technologies</td><td>Field Services Operator</td><td>Madrid</td><td>2026-11-26</td></tr>
+<tr><td>Wabtec Corporation</td><td>Field Services Operator</td><td>Madrid</td><td>2026-11-26</td></tr>
+<tr><td>beonit</td><td>Estudiante Universitario Con Habilidades Comerciales (12h/s) - Campo De Las Naciones</td><td>Madrid</td><td>2026-11-26</td></tr>
+<tr><td>Minsait</td><td>Technical Administrative Support</td><td>Madrid</td><td>2026-11-26</td></tr>
 </table>

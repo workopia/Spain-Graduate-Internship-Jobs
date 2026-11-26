@@ -1,7 +1,61 @@
 {
- "asOf": "2026-11-25",
- "count": 548,
+ "asOf": "2026-11-26",
+ "count": 543,
  "jobs": {
+  "1274a0393db1956c7fd00fdfd98e651c": {
+   "id": "1274a0393db1956c7fd00fdfd98e651c",
+   "company": "Mango",
+   "role": "Intern Project Management Comunicación",
+   "location": "Palau"
+  },
+  "7a4c46daa0f88c30d47a0e75de500f32": {
+   "id": "7a4c46daa0f88c30d47a0e75de500f32",
+   "company": "VIE-INDIA",
+   "role": "#discover I 2027-2028 Ariane 6 Production Support Intern",
+   "location": "Getafe +1"
+  },
+  "9147bd649f6c10397ea19b126e434362": {
+   "id": "9147bd649f6c10397ea19b126e434362",
+   "company": "VIE-INDIA",
+   "role": "#discover I 2027-2028 Technical Areas Production Support Intern",
+   "location": "Getafe +1"
+  },
+  "512feaea62f1b351bb8424bd41ea782f": {
+   "id": "512feaea62f1b351bb8424bd41ea782f",
+   "company": "VIE-INDIA",
+   "role": "Discover I 2027-2028 Structural Dynamics And Aeroelasticity Intern",
+   "location": "Getafe Area"
+  },
+  "611c1a7fcbdabec81b98b18f02d48ec0": {
+   "id": "611c1a7fcbdabec81b98b18f02d48ec0",
+   "company": "VIE-INDIA",
+   "role": "Discover I 2027-2028 / Applying The V-model In A Real-world Space Mission Development Internship",
+   "location": "Getafe Area"
+  },
+  "cc4e03c42f03b500a65a41cf81cc4931": {
+   "id": "cc4e03c42f03b500a65a41cf81cc4931",
+   "company": "VIE-INDIA",
+   "role": "#discover I 2026-2027 New Technologies Development And Implementation In Future Industrial Systems Intern",
+   "location": "Getafe +1"
+  },
+  "7f25acd49349c25a727ea43d333bbed1": {
+   "id": "7f25acd49349c25a727ea43d333bbed1",
+   "company": "VIE-INDIA",
+   "role": "#discover I 2027-2028 Manufacturing Engineering S19 Internship",
+   "location": "Getafe +1"
+  },
+  "584636671e6f4aa160339b33e240ed8a": {
+   "id": "584636671e6f4aa160339b33e240ed8a",
+   "company": "ALS Limited",
+   "role": "Ipa Infrastructure Intern",
+   "location": "Madrid"
+  },
+  "d90f55c0ea1dd5044450b1a1550137b7": {
+   "id": "d90f55c0ea1dd5044450b1a1550137b7",
+   "company": "Verisure S.A.",
+   "role": "Legal & Eu Regulatory Affairs Intern",
+   "location": "Pozuelo De AlarcóN +1"
+  },
   "97c5af3c3e93f9ab2eba61c81882d092": {
    "id": "97c5af3c3e93f9ab2eba61c81882d092",
    "company": "IDOM - INDEPENDENT PROFESSIONAL SERVICES COMPANY",
@@ -428,71 +482,11 @@
    "role": "Account Manager Intern Groceries Spain",
    "location": "Madrid"
   },
-  "da6fb799ce497d65775909e7f82da897": {
-   "id": "da6fb799ce497d65775909e7f82da897",
-   "company": "SAP SE",
-   "role": "Diploma Student / Intern",
-   "location": "Barcelona +1"
-  },
-  "85bf42b3c7f2da879c0853e1738f9913": {
-   "id": "85bf42b3c7f2da879c0853e1738f9913",
-   "company": "NetApp",
-   "role": "Intern",
-   "location": "Madrid"
-  },
-  "4402942b12f21b74336b87a08a5ac866": {
-   "id": "4402942b12f21b74336b87a08a5ac866",
-   "company": "ENGIE España",
-   "role": "It & Digital Management Internship",
-   "location": "Madrid +1"
-  },
-  "1854d57d902106892d43371e4736bb41": {
-   "id": "1854d57d902106892d43371e4736bb41",
-   "company": "ENGIE España",
-   "role": "Stt Intern",
-   "location": "Madrid"
-  },
-  "95bee33bf34a6715039793270aebb18c": {
-   "id": "95bee33bf34a6715039793270aebb18c",
-   "company": "ENGIE España",
-   "role": "Compliance Intern",
-   "location": "Madrid"
-  },
-  "26190ae87f1a3fa0f89f407591bed9cc": {
-   "id": "26190ae87f1a3fa0f89f407591bed9cc",
-   "company": "ENGIE España",
-   "role": "Talent Acquisition Internship",
-   "location": "Madrid"
-  },
-  "a0762784ce8c915c1e431e74eb8cef3d": {
-   "id": "a0762784ce8c915c1e431e74eb8cef3d",
-   "company": "HP",
-   "role": "Ai & Automation Intern",
-   "location": "Barcelona +1"
-  },
-  "067e1387803896973b4612394bff48a2": {
-   "id": "067e1387803896973b4612394bff48a2",
-   "company": "Barcelo",
-   "role": "Prácticas Revenue Management - Clúster Madrid",
-   "location": "Madrid"
-  },
-  "fb3326d553e69c64b61a4be62489dda7": {
-   "id": "fb3326d553e69c64b61a4be62489dda7",
-   "company": "Gameloft Brisbane",
-   "role": "Marketing Activations Intern",
-   "location": "Barcelona"
-  },
   "8b6343c11042290029cb7e77ce1474c4": {
    "id": "8b6343c11042290029cb7e77ce1474c4",
    "company": "Jobgether",
    "role": "Graduate Software Engineer, Open Source And Linux, Canonical Ubuntu",
    "location": "Spain"
-  },
-  "a8ff18e435c6937ccc575cb39a76efd2": {
-   "id": "a8ff18e435c6937ccc575cb39a76efd2",
-   "company": "Monolithic Power Systems",
-   "role": "Software Engineer - New Grad",
-   "location": "Barcelona"
   },
   "ecadf12f7138b29a1435269dce8eb464": {
    "id": "ecadf12f7138b29a1435269dce8eb464",
@@ -1016,6 +1010,12 @@
    "role": "Data Scientist (early Career Program)",
    "location": "Madrid"
   },
+  "9da48471e2fe7181241b208b8587f880": {
+   "id": "9da48471e2fe7181241b208b8587f880",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Ai &amp; Technology Enablement Specialist",
+   "location": "Barcelona"
+  },
   "78516a669e9ded46f4f27b4642e149c0": {
    "id": "78516a669e9ded46f4f27b4642e149c0",
    "company": "IQVIA",
@@ -1466,28 +1466,16 @@
    "role": "Data Analyst",
    "location": "Barcelona"
   },
-  "68fa2660a3a6f8c740d0cb85329920e6": {
-   "id": "68fa2660a3a6f8c740d0cb85329920e6",
-   "company": "Jobgether",
-   "role": "Data Scientist",
-   "location": "Spain"
-  },
-  "e366b0aa9641e9c095682f61556cd25b": {
-   "id": "e366b0aa9641e9c095682f61556cd25b",
-   "company": "Minsait",
-   "role": "Data Scientist/data Engineer Junior",
-   "location": "Spain"
-  },
-  "9afebdf140d10c3c7f35bcc02f836c7d": {
-   "id": "9afebdf140d10c3c7f35bcc02f836c7d",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Data Analyst / Data Engineer (commercial Insurance)",
-   "location": "Barcelona"
-  },
   "17604ff8bcbbf94b5013ecf41d4e122f": {
    "id": "17604ff8bcbbf94b5013ecf41d4e122f",
    "company": "Alignerr",
    "role": "Spanish Workspace Evaluator – Gmail & Google AI Reviewer",
+   "location": "Madrid"
+  },
+  "9fd47fbbcfa539cd9d9a0a61d1239c6e": {
+   "id": "9fd47fbbcfa539cd9d9a0a61d1239c6e",
+   "company": "SIX",
+   "role": "Las Rozas De Madrid Regulatory & Business Analyst Internship",
    "location": "Madrid"
   },
   "dadb57f0f2ec9ec0a234611c6074de59": {
@@ -1598,18 +1586,6 @@
    "role": "Business Analyst Intern (6 months) - 2027",
    "location": "Barcelona"
   },
-  "859038089917": {
-   "id": "859038089917",
-   "company": "Citi",
-   "role": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
-   "location": "Madrid"
-  },
-  "5084aeedb7cff32a071e0dfecd3a04c6": {
-   "id": "5084aeedb7cff32a071e0dfecd3a04c6",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Business Analyst Intern",
-   "location": "Barcelona"
-  },
   "b396576cb4041ef7a74199e5a6fa4f6a": {
    "id": "b396576cb4041ef7a74199e5a6fa4f6a",
    "company": "Amazon Commercial Services Pty Ltd - F47",
@@ -1639,6 +1615,18 @@
    "company": "Ubisoft",
    "role": "Accountant Trainee",
    "location": "Barcelona"
+  },
+  "61fd116490fc8b44141f55568ed8422d": {
+   "id": "61fd116490fc8b44141f55568ed8422d",
+   "company": "BASF",
+   "role": "Knowledge Management Specialist (m/f/d)",
+   "location": "Madrid"
+  },
+  "f948b6aec0c0cb206fc9a896e1c6deed": {
+   "id": "f948b6aec0c0cb206fc9a896e1c6deed",
+   "company": "EY",
+   "role": "Junior Business Analyst With English - Financial Services - Ey Gds Spain",
+   "location": "Malaga +1"
   },
   "a69868e1599632f3d80d89d47b374879": {
    "id": "a69868e1599632f3d80d89d47b374879",
@@ -2108,18 +2096,6 @@
    "role": "Consultor/a Change Management & It Service Continuity Management",
    "location": "Any City"
   },
-  "0a9f808e6918c638b48c464a92fc2116": {
-   "id": "0a9f808e6918c638b48c464a92fc2116",
-   "company": "Tokio Marine HCC",
-   "role": "Business Analyst - Tme",
-   "location": "Barcelona"
-  },
-  "3a1727b627bb60d38c0064c43c8614d7": {
-   "id": "3a1727b627bb60d38c0064c43c8614d7",
-   "company": "PIMEC Jobs",
-   "role": "Técnico/a Contable Fiscal",
-   "location": "Barcelona"
-  },
   "bb247d5d802c92ddb912ff6f34242412": {
    "id": "bb247d5d802c92ddb912ff6f34242412",
    "company": "TFS HealthScience",
@@ -2137,6 +2113,24 @@
    "company": "Thermo Fisher Scientific",
    "role": "Assistant CRA",
    "location": "Barcelona +1"
+  },
+  "5cc5b4d6dd5eb37a57127ebab96d1ff5": {
+   "id": "5cc5b4d6dd5eb37a57127ebab96d1ff5",
+   "company": "HARTMANN",
+   "role": "Técnico Eléctrico De Turno (fines De Semana)",
+   "location": "Barcelona"
+  },
+  "1588c9355cefacf748665e7953535cf4": {
+   "id": "1588c9355cefacf748665e7953535cf4",
+   "company": "Alstom",
+   "role": "Operario(a) De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
+   "location": "Madrid"
+  },
+  "1069c102cebd004d3065edf01460aa18": {
+   "id": "1069c102cebd004d3065edf01460aa18",
+   "company": "Buscar javascript",
+   "role": "Técnico/a De Mantenimiento - Md Anderson Cancer Center Madrid - Hospiten",
+   "location": "Madrid"
   },
   "39fb3adff5187236328f6b1c24c38147": {
    "id": "39fb3adff5187236328f6b1c24c38147",
@@ -2239,12 +2233,6 @@
    "company": "Tetra Pak",
    "role": "Maintenance Engineer Barcelona",
    "location": "Barcelona"
-  },
-  "21bde8883fbd70ab6666993afe7d2ae1": {
-   "id": "21bde8883fbd70ab6666993afe7d2ae1",
-   "company": "Alstom",
-   "role": "Operario(a) De Mantenimiento Ferroviario / Preventive-corrective Worker - Ateinsa",
-   "location": "Madrid"
   },
   "b29855d88ee2746350acc8882a677306": {
    "id": "b29855d88ee2746350acc8882a677306",
@@ -2606,16 +2594,10 @@
    "role": "Es Sat Technician",
    "location": "Madrid"
   },
-  "b7b2205d095d0e9dfc68620c027e75f4": {
-   "id": "b7b2205d095d0e9dfc68620c027e75f4",
-   "company": "Westinghouse Air Brake Technologies",
-   "role": "Field Services Operator",
-   "location": "Madrid"
-  },
-  "fbbca3f725c1952c440c29e7f08a63d5": {
-   "id": "fbbca3f725c1952c440c29e7f08a63d5",
-   "company": "Wabtec Corporation",
-   "role": "Field Services Operator",
+  "9096c33ce6a4b4a7e068b80ece9d30d5": {
+   "id": "9096c33ce6a4b4a7e068b80ece9d30d5",
+   "company": "JYSK",
+   "role": "Vendedor/a - 30h - Leganés",
    "location": "Madrid"
   },
   "277e7ac755e4fb58239d9c897d6d3fb0": {
@@ -3092,12 +3074,6 @@
    "role": "Mozo/a De Almacén - Barcelona. Spain",
    "location": "Barcelona"
   },
-  "71c75c4e3bac2bf0812df3efa4c5c541": {
-   "id": "71c75c4e3bac2bf0812df3efa4c5c541",
-   "company": "beonit",
-   "role": "Estudiante Universitario Con Habilidades Comerciales (12h/s) - Campo De Las Naciones",
-   "location": "Madrid"
-  },
   "ea29a406dc0f2c71272fe88f249b7147": {
    "id": "ea29a406dc0f2c71272fe88f249b7147",
    "company": "PPD (Thermo Fisher) UK",
@@ -3283,12 +3259,6 @@
    "company": "Temporing",
    "role": "Administrativo/a Contable - Gavà",
    "location": "Barcelona"
-  },
-  "8a74c5e6a81badf719691153ecca29ea": {
-   "id": "8a74c5e6a81badf719691153ecca29ea",
-   "company": "Minsait",
-   "role": "Technical Administrative Support",
-   "location": "Madrid"
   }
  }
 }
