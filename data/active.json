@@ -1,12 +1,42 @@
 {
- "asOf": "2026-11-26",
- "count": 543,
+ "asOf": "2026-11-27",
+ "count": 547,
  "jobs": {
+  "2d3928812b8482485c42f527049d9226": {
+   "id": "2d3928812b8482485c42f527049d9226",
+   "company": "Mango",
+   "role": "Intern Diseño - Teen",
+   "location": "Palau"
+  },
+  "ad596a9ce6146e2a0ecf90f1b8bcb2c5": {
+   "id": "ad596a9ce6146e2a0ecf90f1b8bcb2c5",
+   "company": "VIE-INDIA",
+   "role": "#discover I 2027-2028 Procurement And Site Support Internship",
+   "location": "Getafe Area"
+  },
+  "3a84982ff2b96c8005184dfdb437606e": {
+   "id": "3a84982ff2b96c8005184dfdb437606e",
+   "company": "Ericsson",
+   "role": "Ai Adoption Developer Internship",
+   "location": "Madrid +1"
+  },
   "1274a0393db1956c7fd00fdfd98e651c": {
    "id": "1274a0393db1956c7fd00fdfd98e651c",
    "company": "Mango",
    "role": "Intern Project Management Comunicación",
    "location": "Palau"
+  },
+  "35eb15287c0aa542b5fcf6c86926902b": {
+   "id": "35eb15287c0aa542b5fcf6c86926902b",
+   "company": "Apple",
+   "role": "Internship - Agentic Data Generation For High-fidelity Personal Data, Global Siri",
+   "location": "Spain"
+  },
+  "e027de4b0b3b5950ca211d38f2a7aafb": {
+   "id": "e027de4b0b3b5950ca211d38f2a7aafb",
+   "company": "Apple",
+   "role": "Internship - Multilingual & Multimodal Understanding And Generation, Global Siri",
+   "location": "Spain"
   },
   "7a4c46daa0f88c30d47a0e75de500f32": {
    "id": "7a4c46daa0f88c30d47a0e75de500f32",
@@ -452,41 +482,17 @@
    "role": "#discover I 2027-2028 Supply Officer Services - Intern",
    "location": "Madrid"
   },
-  "c9e6a4ac55e5d0dedbe05858136d1793": {
-   "id": "c9e6a4ac55e5d0dedbe05858136d1793",
-   "company": "Jet Aviation",
-   "role": "Internship - Mechanical Engineering - 6 Months In Madrid",
-   "location": "Madrid"
-  },
-  "b2ee4759fe44176ef5f41899cc589dea": {
-   "id": "b2ee4759fe44176ef5f41899cc589dea",
-   "company": "ENGIE ENERGIE SERVICES",
-   "role": "Cybersecurity Internship",
-   "location": "Madrid"
-  },
-  "18cbe0919b3cdd7a19fecceb571122b1": {
-   "id": "18cbe0919b3cdd7a19fecceb571122b1",
-   "company": "General Mills Inc.",
-   "role": "Category Intern",
-   "location": "Madrid +1"
-  },
-  "c8f3549b1ae7ce59acebe9647273a7f4": {
-   "id": "c8f3549b1ae7ce59acebe9647273a7f4",
-   "company": "Mango",
-   "role": "Intern Loyalty (fidelización)",
-   "location": "Palau"
-  },
-  "db203df141f9d9231771db1209859c07": {
-   "id": "db203df141f9d9231771db1209859c07",
-   "company": "Delivery Hero (foodpanda)",
-   "role": "Account Manager Intern Groceries Spain",
-   "location": "Madrid"
-  },
   "8b6343c11042290029cb7e77ce1474c4": {
    "id": "8b6343c11042290029cb7e77ce1474c4",
    "company": "Jobgether",
    "role": "Graduate Software Engineer, Open Source And Linux, Canonical Ubuntu",
    "location": "Spain"
+  },
+  "c5a031749d611128815f523a4d349f56": {
+   "id": "c5a031749d611128815f523a4d349f56",
+   "company": "Roche",
+   "role": "Medical Software Engineer - Complaint Handling",
+   "location": "Sant Cugat Del VallèS +1"
   },
   "ecadf12f7138b29a1435269dce8eb464": {
    "id": "ecadf12f7138b29a1435269dce8eb464",
@@ -962,12 +968,6 @@
    "role": "Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa",
    "location": "Madrid"
   },
-  "41e7e288ca17dec15aa0b6998ee8bcc4": {
-   "id": "41e7e288ca17dec15aa0b6998ee8bcc4",
-   "company": "Jobgether",
-   "role": "Software Engineer/c Developer-pgd",
-   "location": "Spain"
-  },
   "050cc0d809f1e2e6e73752b4e6d0edc9": {
    "id": "050cc0d809f1e2e6e73752b4e6d0edc9",
    "company": "Socialpoint",
@@ -998,6 +998,12 @@
    "role": "Internship - Data Analyst",
    "location": "Barcelona"
   },
+  "868830eddc5bee4fdd508d639cfe45cb": {
+   "id": "868830eddc5bee4fdd508d639cfe45cb",
+   "company": "Galderma",
+   "role": "Senior Data Scientist – Finance Catalyst Program (leadership Development Rotational Program)",
+   "location": "Barcelona +1"
+  },
   "486375b3440a90b4e318f1011cd1ac48": {
    "id": "486375b3440a90b4e318f1011cd1ac48",
    "company": "IQVIA UK",
@@ -1010,11 +1016,23 @@
    "role": "Data Scientist (early Career Program)",
    "location": "Madrid"
   },
+  "d019b9f60d6fd5a218cc534d847fb56a": {
+   "id": "d019b9f60d6fd5a218cc534d847fb56a",
+   "company": "Atos SE",
+   "role": "Responsable De Ia Generativa Para Entornos Industriales",
+   "location": "Madrid"
+  },
   "9da48471e2fe7181241b208b8587f880": {
    "id": "9da48471e2fe7181241b208b8587f880",
    "company": "Zurich Insurance Company Ltd",
    "role": "Ai &amp; Technology Enablement Specialist",
    "location": "Barcelona"
+  },
+  "45a74286acdd1aadfc68c45de5427ae7": {
+   "id": "45a74286acdd1aadfc68c45de5427ae7",
+   "company": "Amazon",
+   "role": "Automation Engineer",
+   "location": "Madrid"
   },
   "78516a669e9ded46f4f27b4642e149c0": {
    "id": "78516a669e9ded46f4f27b4642e149c0",
@@ -1616,6 +1634,18 @@
    "role": "Accountant Trainee",
    "location": "Barcelona"
   },
+  "b4244be55e3135b0b3971af331283f68": {
+   "id": "b4244be55e3135b0b3971af331283f68",
+   "company": "Kyndryl",
+   "role": "Modernization Strategy & Consulting",
+   "location": "Madrid +1"
+  },
+  "7e6adda07ea24740e0c86f4c349e5099": {
+   "id": "7e6adda07ea24740e0c86f4c349e5099",
+   "company": "Softtek",
+   "role": "Gestión Del Cambio",
+   "location": "Madrid"
+  },
   "61fd116490fc8b44141f55568ed8422d": {
    "id": "61fd116490fc8b44141f55568ed8422d",
    "company": "BASF",
@@ -2084,18 +2114,6 @@
    "role": "Transforma El Mundo Con Accenture",
    "location": "Madrid"
   },
-  "3e52b67413de79ffcdcc0f5b6d471766": {
-   "id": "3e52b67413de79ffcdcc0f5b6d471766",
-   "company": "Munich Re",
-   "role": "Technical Accountant",
-   "location": "Madrid"
-  },
-  "60495accfa85f74f55a12b3ef0eaa4b4": {
-   "id": "60495accfa85f74f55a12b3ef0eaa4b4",
-   "company": "DXC Technology",
-   "role": "Consultor/a Change Management & It Service Continuity Management",
-   "location": "Any City"
-  },
   "bb247d5d802c92ddb912ff6f34242412": {
    "id": "bb247d5d802c92ddb912ff6f34242412",
    "company": "TFS HealthScience",
@@ -2113,6 +2131,24 @@
    "company": "Thermo Fisher Scientific",
    "role": "Assistant CRA",
    "location": "Barcelona +1"
+  },
+  "bf77488931b5bbdaa9821d6223667d11": {
+   "id": "bf77488931b5bbdaa9821d6223667d11",
+   "company": "Alstom",
+   "role": "Operario/a De Mantenimiento Pinto - Temporal",
+   "location": "Madrid"
+  },
+  "541a3b9281b0e075b5a31bfcfb6e7a18": {
+   "id": "541a3b9281b0e075b5a31bfcfb6e7a18",
+   "company": "Veolia Environnement SA",
+   "role": "Técnico/a De Mantenimiento Polivalente (electricidad Y Climatización) Temporal",
+   "location": "Madrid"
+  },
+  "36ee4e90d3c18dd3689a7952d121ae2f": {
+   "id": "36ee4e90d3c18dd3689a7952d121ae2f",
+   "company": "ENGIE España",
+   "role": "Técnico/a De Mantenimiento",
+   "location": "Madrid"
   },
   "5cc5b4d6dd5eb37a57127ebab96d1ff5": {
    "id": "5cc5b4d6dd5eb37a57127ebab96d1ff5",
@@ -2137,12 +2173,6 @@
    "company": "Veolia Environnement SA",
    "role": "Técnica/o De Mantenimiento Instalaciones De Producción De Calor Zaragoza",
    "location": "Zaragoza"
-  },
-  "7e37b56171a1cbc14c2d1b0a32050c37": {
-   "id": "7e37b56171a1cbc14c2d1b0a32050c37",
-   "company": "Alstom",
-   "role": "Operario/a De Mantenimiento Pinto (temporal)",
-   "location": "Madrid"
   },
   "46b08099f77b6b96e71979e1e10bbe49": {
    "id": "46b08099f77b6b96e71979e1e10bbe49",
@@ -2269,12 +2299,6 @@
    "company": "SANDVIK",
    "role": "Técnico/a De Servicio De Campo – Maquinaria De Construcción Equipos De Minería",
    "location": "Madrid"
-  },
-  "02207f3d97e9e912be898a454ea2bbdc": {
-   "id": "02207f3d97e9e912be898a454ea2bbdc",
-   "company": "ENGIE España",
-   "role": "Técnico/a De Mantenimiento",
-   "location": "Barcelona"
   },
   "ef96b5776abb7d7ee118b7b853ebdf7f": {
    "id": "ef96b5776abb7d7ee118b7b853ebdf7f",
@@ -2588,11 +2612,11 @@
    "role": "Mantenimiento Hoteles - Barcelona",
    "location": "Barcelona"
   },
-  "629a9f23667d802ea18ae547a7cadd43": {
-   "id": "629a9f23667d802ea18ae547a7cadd43",
-   "company": "Henry Schein",
-   "role": "Es Sat Technician",
-   "location": "Madrid"
+  "204adeacc8b63bd77794a7b3fcb88067": {
+   "id": "204adeacc8b63bd77794a7b3fcb88067",
+   "company": "Lidl & Kaufland Asia",
+   "role": "Asistente De Tienda 40h Terrassa",
+   "location": "Barcelona"
   },
   "9096c33ce6a4b4a7e068b80ece9d30d5": {
    "id": "9096c33ce6a4b4a7e068b80ece9d30d5",
@@ -3068,11 +3092,11 @@
    "role": "Vendedor/a Experto/a Electricidad_almacén Terrassa",
    "location": "Barcelona"
   },
-  "a079e8075aa40d2419bfb535d63610ca": {
-   "id": "a079e8075aa40d2419bfb535d63610ca",
-   "company": "Dentaply Sirona Contact US",
-   "role": "Mozo/a De Almacén - Barcelona. Spain",
-   "location": "Barcelona"
+  "94fabd42eca545f3e8f3c61d813385b7": {
+   "id": "94fabd42eca545f3e8f3c61d813385b7",
+   "company": "Nike Digital",
+   "role": "Administrative Assistant",
+   "location": "Barcelona +1"
   },
   "ea29a406dc0f2c71272fe88f249b7147": {
    "id": "ea29a406dc0f2c71272fe88f249b7147",

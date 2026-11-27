@@ -3832,4 +3832,16 @@
 <tr><td>Wabtec Corporation</td><td>Field Services Operator</td><td>Madrid</td><td>2026-11-26</td></tr>
 <tr><td>beonit</td><td>Estudiante Universitario Con Habilidades Comerciales (12h/s) - Campo De Las Naciones</td><td>Madrid</td><td>2026-11-26</td></tr>
 <tr><td>Minsait</td><td>Technical Administrative Support</td><td>Madrid</td><td>2026-11-26</td></tr>
+<tr><td>Jet Aviation</td><td>Internship - Mechanical Engineering - 6 Months In Madrid</td><td>Madrid</td><td>2026-11-27</td></tr>
+<tr><td>ENGIE ENERGIE SERVICES</td><td>Cybersecurity Internship</td><td>Madrid</td><td>2026-11-27</td></tr>
+<tr><td>General Mills Inc.</td><td>Category Intern</td><td>Madrid +1</td><td>2026-11-27</td></tr>
+<tr><td>Mango</td><td>Intern Loyalty (fidelización)</td><td>Palau</td><td>2026-11-27</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Account Manager Intern Groceries Spain</td><td>Madrid</td><td>2026-11-27</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer/c Developer-pgd</td><td>Spain</td><td>2026-11-27</td></tr>
+<tr><td>Munich Re</td><td>Technical Accountant</td><td>Madrid</td><td>2026-11-27</td></tr>
+<tr><td>DXC Technology</td><td>Consultor/a Change Management & It Service Continuity Management</td><td>Any City</td><td>2026-11-27</td></tr>
+<tr><td>Alstom</td><td>Operario/a De Mantenimiento Pinto (temporal)</td><td>Madrid</td><td>2026-11-27</td></tr>
+<tr><td>ENGIE España</td><td>Técnico/a De Mantenimiento</td><td>Barcelona</td><td>2026-11-27</td></tr>
+<tr><td>Henry Schein</td><td>Es Sat Technician</td><td>Madrid</td><td>2026-11-27</td></tr>
+<tr><td>Dentaply Sirona Contact US</td><td>Mozo/a De Almacén - Barcelona. Spain</td><td>Barcelona</td><td>2026-11-27</td></tr>
 </table>
