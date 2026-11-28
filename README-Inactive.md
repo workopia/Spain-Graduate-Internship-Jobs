@@ -3844,4 +3844,21 @@
 <tr><td>ENGIE España</td><td>Técnico/a De Mantenimiento</td><td>Barcelona</td><td>2026-11-27</td></tr>
 <tr><td>Henry Schein</td><td>Es Sat Technician</td><td>Madrid</td><td>2026-11-27</td></tr>
 <tr><td>Dentaply Sirona Contact US</td><td>Mozo/a De Almacén - Barcelona. Spain</td><td>Barcelona</td><td>2026-11-27</td></tr>
+<tr><td>Airbus Secure Land Communications, S.A.</td><td>Internship Procurement</td><td>Madrid</td><td>2026-11-28</td></tr>
+<tr><td>Testia</td><td>#discover I 2027-2028 Real Estate Intern</td><td>Getafe Area</td><td>2026-11-28</td></tr>
+<tr><td>Testia</td><td>Discover I 2027-2028 Manufacturing Engineering A400m Intern</td><td>Madrid</td><td>2026-11-28</td></tr>
+<tr><td>Airbus</td><td>#discover I 2027-2028 Supply Officer Services - Intern</td><td>Madrid</td><td>2026-11-28</td></tr>
+<tr><td>Indra</td><td>Ingeniero/a De Software 5g / 5g Ntn (gnodeb & Ue) - Sector Defensa</td><td>Madrid</td><td>2026-11-28</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Internship - Data Analyst</td><td>Barcelona</td><td>2026-11-28</td></tr>
+<tr><td>Tripledot Studios</td><td>Data Analyst</td><td>Barcelona</td><td>2026-11-28</td></tr>
+<tr><td>Amazon</td><td>Business Analyst Intern (6 months) - 2027</td><td>Barcelona</td><td>2026-11-28</td></tr>
+<tr><td>Linde Material Handling GmbH</td><td>Workshop Service Engineer</td><td>Barcelona</td><td>2026-11-28</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Field Service Engineer</td><td>Madrid</td><td>2026-11-28</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Workshop Service Engineer</td><td>Barcelona</td><td>2026-11-28</td></tr>
+<tr><td>Philips</td><td>Field Service Engineer</td><td>Madrid</td><td>2026-11-28</td></tr>
+<tr><td>Temporing</td><td>Mantenimiento Hoteles - Barcelona</td><td>Barcelona</td><td>2026-11-28</td></tr>
+<tr><td>Intuitive Surgical, Inc.</td><td>da Vinci Clinical Sales Associate</td><td>Madrid</td><td>2026-11-28</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate Store Paseo De Gracia 36h (m/f/x)</td><td>Barcelona</td><td>2026-11-28</td></tr>
+<tr><td>PIMEC Jobs</td><td>Vendedor/a Tienda Gourmet</td><td>Barcelona</td><td>2026-11-28</td></tr>
+<tr><td>obramat.es</td><td>Vendedor/a Experto/a Electricidad_almacén Terrassa</td><td>Barcelona</td><td>2026-11-28</td></tr>
 </table>
